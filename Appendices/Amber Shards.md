@@ -1,5 +1,13 @@
 Au cours de l’aventure, les joueurs auront l’occasion d’obtenir un ou plusieurs *<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a>* : des fragments des sarcophages d’ambre qui emprisonnent les vestiges du Temple de l’Ambre.
 
+<a id="de-exception-elisabeth"></a>
+> [!info]+ **La clé d’Elisabeth : un objet distinct**
+> L’[éclat d’Elisabeth Durst](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth), dans *Le Feu et les Brumes*, porte la signature d’un pacte personnel déjà conclu. Les règles de tentation et les trois stades ci-dessous **ne s’appliquent pas à cette clé** : elle n’accorde aux personnages ni don sombre, ni guérison, ni communication avec un vestige.
+>
+> Cette distinction vaut dans toute la campagne : les réactions de Godfrey, le guidage et les esprits du Temple de l’Ambre, ainsi que la Résonance hurlante de Rahadin, concernent les éclats liés aux vestiges. La clé locale, active ou inerte, n’y participe pas ; elle ne donne ni mot de passe, ni marque de corruption, ni moyen de tromper ces réactions.
+>
+> Un seul exemplaire matériel se trouve dans le double fond du coffret à bijoux, sur la coiffeuse de la suite parentale. Il ouvre définitivement la nurserie, sans être consommé, et devient inerte lorsque **la nurserie est ouverte et Elisabeth morte**, quel que soit l’ordre. Si Elisabeth est vaincue avant l’ouverture, la clé demeure utilisable. Les autres ambres, y compris une relique personnelle, ne remplacent pas sa signature ; elle-même n’ouvre aucun autre sceau. Sa définition complète et les interactions magiques sont celles de l’arc A.
+
 Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> conserve un lien psychique avec le sarcophage dont il provient. Par ce lien, un vestige peut murmurer à l’oreille du porteur de l’éclat, lui promettant du pouvoir en échange de sa descente dans la corruption.
 
 > [!info]+ **Trouver des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a>**
@@ -163,7 +171,7 @@ Si le personnage refuse l’offre de la voix, il peut de nouveau communier avec 
 ***Altération.*** Une fourrure noire et huileuse recouvre votre visage et votre corps. Vous avez un désavantage aux tests effectués pour vous libérer lorsque vous êtes agrippé.
 <a id="en-norganas-the-finger-of-oblivion" data-traduction="ancre"></a>
 ## Norganas, le Doigt de l’oubli
-*Emplacement de l’éclat : Maison de la Mort*
+*Provenance historique du pacte d’Elisabeth ; aucun éclat tentateur de Norganas n’est distribué dans l’arc A.* La [clé locale d’Elisabeth](#de-exception-elisabeth) ne donne pas accès aux pouvoirs ci-dessous. Ceux-ci décrivent le vestige et un éventuel éclat ordinaire choisi à la création, selon les règles de cette annexe.
 
 ***Sort.*** _Malédiction (au niveau 5)._
 

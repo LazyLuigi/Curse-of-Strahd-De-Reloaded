@@ -1,4 +1,4 @@
-Dans cet acte, qui commence le matin suivant la première pleine lune que les PJ ont passée à Vallaki, les PJ reçoivent deux invitations.
+Cet acte commence le matin suivant la pleine lune du rituel de Stella, le 9 Neyavr dans le calendrier de référence, même si les PJ sont arrivés trop tard pour ce rituel. Ils reçoivent deux invitations selon les déclencheurs et les conditions décrits ci-dessous.
 
 La première, un appel à l’aide d’<a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin Martikov</a>, leur demande de se rendre au domaine viticole du Magicien des Vins, à l’ouest, pour enquêter sur une mystérieuse pénurie de vin dans [l’arc J — La gemme volée](Arc%20J%20-%20The%20Stolen%20Gem.md).
 
@@ -37,7 +37,7 @@ Les PJ commencent cet acte au niveau 5 et devraient le terminer au niveau 8. Ils
 * allumer le phare d’Argynvostholt (3,000 PX)
 <a id="en-timeline" data-traduction="ancre"></a>
 # Chronologie
-Les quêtes de l’acte III deviennent disponibles et se résolvent selon le tableau ci-dessous. (🟢 indique un jour où la quête reste disponible, 🔶 un jour où un événement important se produit, 🟥 la date limite d’une quête et ❌ un jour où la quête est indisponible.)
+Les dates du tableau et des parcours d’exemple suivent le [calendrier installé](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md#de-calendrier-installe) : pleine lune le 8 Neyavr, dîner le 14 et nouvelle lune le 15 dans la référence. Un autre calendrier préparé en amont conserve les intervalles lunaires ; un retard en cours de partie ne déplace ni une lune, ni une invitation déjà reçue, ni un fait passé connu. Les quêtes deviennent disponibles et se résolvent selon leurs événements réellement survenus. (🟢 indique un jour où la quête reste disponible, 🔶 un jour où un événement important se produit, 🟥 la date limite d’une quête et ❌ un jour où la quête est indisponible.)
 
 | Arc \ Jour de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neyavr">Neyavr</a>      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |

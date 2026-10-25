@@ -1,5 +1,24 @@
 Les entrées des 24 et 25 octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-feu-brumes-2026-10-25"></a>
+# 25 octobre 2026 — Le Feu et les Brumes : nouvelle ouverture
+
+Cette réécriture de **LazyLuigi** remplace l’ancienne ouverture de Reloaded. Ses choix sont expliqués dans les cartouches « Motivation de la réécriture » des chapitres concernés.
+
+- Ajout de l’[arc 0 — Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : les personnages servent Loïc de Hauterive à Valcroix, enquêtent sur quatre plaintes, rencontrent des brigands indépendants et découvrent l’hospitalité sincère de Stanimir. Le passage des Brumes tient compte d’une nuit au camp ou d’un départ nocturne, des personnes présentes et des repos réellement pris.
+- Réécriture de l’[arc A — S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) : arrivée près de Baroville, meute dangereuse et refuge fixe. La victoire contre les loups, la fuite et le passage direct au village restent possibles, avec une progression adaptée.
+- Recentrage du manoir sur ses étages : enquête sur la famille Durst, première rencontre des enfants au grenier, cache unique dans le coffret d’Elisabeth et nurserie scellée. Retrait du donjon souterrain, du culte sacrificiel et du boss Walter du parcours actuel.
+- Elisabeth est responsable de ses crimes et possède deux formes natives, **Noble corrompue** puis **Nothic**. Ses modales réunissent les phases, les règles communes, l’adaptation au groupe et le bénéfice de la mélodie de Klara. Walter, Klara, Rose et Thorn sont les victimes à inhumer ; Gustav repose déjà au jardin.
+- Séparation de la clé d’Elisabeth et des autres éclats d’ambre : cette clé n’accorde aucun don sombre et devient inerte seulement lorsque la nurserie est ouverte **et** Elisabeth morte. Les funérailles apaisent les victimes localement, sans faire sortir leurs âmes de Barovie.
+- Harmonisation des accroches, résumés, calendriers, connaissances de Strahd, retrouvailles vistani et raccords tardifs. Dalvan reste une découverte facultative à la frontière ; ses apparitions et son unique boussole suivent les événements réellement joués.
+- Mise à jour des notices, du bestiaire, des index, des apparitions, du sommaire et du canevas de l’acte I. Ajout des documents de jeu et d’un [gabarit français du hall](../Appendices/Supports%20visuels.md#de-supports-feu-brumes). Les profils standard de l’ouverture sont expressément fixés à 2014 ; le réglage général 2024 reste disponible ailleurs et ne convertit pas le boss maison.
+- Épreuve des chemins de traverse : fuite suivie d’un retour, incendie local, Elisabeth assommée plutôt que tuée, repos interrompus, arrivées avant ou après le siège. Les états du manoir et les récompenses suivent les actes réellement accomplis ; le jalon du village distingue la défense (200 PX) du soutien aux habitants et du départ (200 PX).
+- Adoption d’une horloge commune pour le siège, Vallaki, les fêtes et les lunes. Les retards consomment le temps disponible ; le convoi de Stanimir attend la levée du blocus et les scènes tiennent compte des personnes réellement arrivées.
+- Correction des effets tardifs de l’ambre : la clé locale d’Elisabeth ne provoque ni soupçon de corruption chez Godfrey, ni appel des sarcophages, ni résonance de Rahadin. Burebis peut reconnaître l’origine de la relique liée à un vestige promise par l’accroche Connaissance.
+- Complément des accès directs aux fiches depuis les annexes et de la navigation Walter → sceau → clé. Ajout de l’onglet **Après le combat** à Elisabeth ; retrait des associations erronées de Walter White et Gustav Herrenghast avec les Durst.
+- Relecture croisée de l’ouverture et de ses raccords dans tout le guide selon cinq axes : choix imprévus des joueurs, règles et ressources, temps et géographie, continuité du lore, navigation du lecteur. Les corrections ont été revérifiées ; les contrôles du lecteur couvrent les deux éditions, les sources des profils, les apparitions, la recherche et l’affichage mobile.
+- Les anciens noms et notes de conception sont conservés comme repères historiques, distincts des règles de cette ouverture. Les profils maison disposent de repères de difficulté ; leur équilibrage devra encore être éprouvé en partie.
+
 <a id="de-reloaded-2026-10-25"></a>
 # 25 octobre 2026 — De-Reloaded : lecteur, navigation et aides de jeu
 
@@ -66,6 +85,10 @@ Travaux de **LazyLuigi** pour **Curse of Strahd De-Reloaded**, la version maison
 
 <a id="historique-reloaded-dragnacarta"></a>
 # Historique de Reloaded — DragnaCarta
+
+<a id="de-ancienne-ouverture"></a>
+> [!info]+ **Lire les anciennes notes de l’ouverture**
+> Les entrées ci-dessous conservent l’historique de Reloaded sous ses dates d’origine. Leurs mentions de Walter en tant que boss, de la Maison voyageuse, du sous-sol ou de l’ancienne accroche concernent cette version antérieure. Pour jouer De-Reloaded, suivre l’[arc 0 — Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) puis l’[arc A réécrit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md). Les profils retirés ne s’appliquent plus.
 
 Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas les ajouts propres à De-Reloaded.
 

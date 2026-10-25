@@ -1,10 +1,62 @@
 <a id="en-companions" data-traduction="ancre"></a>
 # Compagnons
 
+<a id="de-valcroix"></a>
+# Le Feu et les Brumes
+
+<a id="de-loic-de-hauterive"></a>
+### Loïc de Hauterive
+**Rôle.** Seigneur de Valcroix, domaine créé pour De-Reloaded sur la Côte des Épées, et employeur des personnages. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Son mandat exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
+
+**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les gardes choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de Strahd ni le passage à venir.
+
+**À la table.** Voir le [mandat et les réponses de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
+
+<a id="de-stanimir"></a>
+### Stanimir
+**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool). Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les gardes.
+
+**Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend le mandat, accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
+
+**Connaissances et relation.** En N1, il traverse avec le camp et peut témoigner de sa propre surprise. En N2, s’il est resté au camp, il est demeuré hors de Barovie et ne connaît le passage des gardes que par leur récit ultérieur ; il rejoint ensuite Eva par sa route habituelle. Si la caravane faisait partie du convoi nocturne ou d’un groupe fractionné effectivement transporté, Stanimir a traversé lui aussi : conserver ce témoignage et cette présence. Noter un souvenir réellement partagé avec chaque personnage, les services reçus et les torts subis ; ses retrouvailles en dépendent. Sa liberté de passage ne permet pas de faire sortir clandestinement les personnages.
+
+**Pendant le siège.** Si son convoi a traversé avec les gardes, il attend au village derrière les barricades avant de rejoindre Tser, comme décrit dans [Le convoi de Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). Il ne bénéficie pas d’un passage gratuit à travers la horde et n’est pas présent à deux endroits à la fois.
+
 <a id="en-death-house" data-traduction="ancre"></a>
 # Maison de la Mort
+
+<a id="de-elisabeth-durst"></a>
+### Elisabeth Durst
+**Rôle.** Responsable du drame des Durst et boss de la Maison. Sa jalousie et son besoin de posséder les siens l’ont conduite à un pacte volontaire, aux meurtres de Klara, de Walter et de Gustav, puis à l’abandon de ses enfants enfermés. Sa mort n’a pas effacé sa volonté : la hantise lui rend une incarnation physique corrompue.
+
+**Interprétation.** Elle revendique la maîtrise de son foyer et traite les personnes comme des secrets à conserver. Sa forme noble puis son corps de nothic sont deux aspects de la même Elisabeth, avec la même mémoire et la même culpabilité. Aucun parasite ne la remplace. Elle n’est pas une recruteuse de Strahd.
+
+**Profil natif.** [Phase 1 — Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble) · [Phase 2 — Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
+
+**Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth) est une clé personnelle de la nurserie ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
+
+<a id="de-gustav-durst"></a>
+### Gustav Durst
+**Rôle.** Époux d’Elisabeth, père de Rose, de Thorn et de Walter, qu’il a eu avec Klara. Les souvenirs et documents du manoir révèlent une famille aisée, ses fautes et sa destruction ; ils ne font pas de lui un adversaire à vaincre.
+
+**Sort.** Après les meurtres de Klara et Walter et le scellement de la nurserie, Gustav découvre les crimes. Elisabeth le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+
+<a id="de-klara"></a>
+### Klara
+**Rôle.** Nourrice de Rose et Thorn, mère de Walter. Sa présence dans les étages cherche à faire reconnaître son enfant et leur sort. Elle n’impose ni combat ni possession et n’accorde aucun allié combattant contre Elisabeth.
+
+**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; Walter repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+
+<a id="de-walter-durst"></a>
+### Walter Durst
+**Rôle.** Nourrisson, fils de Klara et Gustav, victime d’Elisabeth. Dans cette continuité, il n’a jamais été transformé en monstre. Il n’a donc ni phase de combat, ni profil de vampirien, de nothic ou d’amas de chair.
+
+**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie). Il reste récupérable après la mort d’Elisabeth. Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
+
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst
+**Continuité De-Reloaded.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de Thorn. Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Les enfants n’appellent pas les voyageurs depuis la route, ne commandent pas les loups et ne possèdent pas les personnages. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
+
 **Conseils d’interprétation**
 ***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les personnages.
 
@@ -22,6 +74,8 @@
 ***Relations.*** Rose est la sœur aînée de Thorn Durst, la demi-sœur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter Durst</a> et l’aînée des enfants d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> et de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav Durst</a>.
 <a id="en-thornboldt-thorn-durst" data-traduction="ancre"></a>
 ### Thornboldt « Thorn » Durst
+**Continuité De-Reloaded.** Thorn apparaît au grenier avec Rose. Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine. Aucun pouvoir de possession ni renfort de combat n’est ajouté.
+
 **Conseils d’interprétation**
 ***Résonance.*** Thorn doit susciter la compassion par sa timidité et sa peur, et l’affection par sa joie enfantine.
 
@@ -46,7 +100,7 @@
 
 ***Émotions.*** Ismark se sent le plus souvent soucieux, coupable, amical, mélancolique, défiant, plein d’espoir, désespéré ou reconnaissant.
 
-***Motivations.*** Ismark veut protéger son village et Ireena, faire vivre la mémoire de son père et se montrer un jour digne de l’héritage de son ancêtre.
+***Motivations.*** Ismark veut protéger son village et Ireena, se montrer digne de son père encore vivant, puis honorer sa mémoire après son décès, et être un jour à la hauteur de l’héritage de son ancêtre.
 
 ***Inspirations.*** Pour interpréter Ismark, inspirez-vous de Jon Snow (*Game of Thrones*), de Faramir (*Le Seigneur des anneaux*) et de Trevor Belmont (*Castlevania*).
 
@@ -63,7 +117,7 @@
 
 ***Émotions.*** Ireena se sent le plus souvent curieuse, pensive, mélancolique, coupable, obstinée, joyeuse, déterminée, défiante ou anxieuse.
 
-***Motivations.*** Ireena veut protéger ses compatriotes <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a> et Ismark, honorer la mémoire de ses parents, découvrir de nouvelles histoires et explorer un jour des contrées lointaines.
+***Motivations.*** Ireena veut protéger ses compatriotes <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a> et Ismark, honorer l’héritage familial, soutenir Kolyan de son vivant puis honorer sa mémoire après son décès, découvrir de nouvelles histoires et explorer un jour des contrées lointaines.
 
 ***Inspirations.*** Pour interpréter Ireena, inspirez-vous de Belle (La Belle et la Bête), d’Elizabeth Swann (Pirates des Caraïbes), d’Éowyn (Le Seigneur des anneaux), d’Hermione Granger (Harry Potter) et de Katniss Everdeen (Hunger Games).
 
@@ -116,7 +170,7 @@
 
 ***Motivations.*** Le père Donavich veut libérer son fils de l’emprise de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, à n’importe quel prix.
 
-***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
+***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de Walter White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, le père Donavich est un père endeuillé, mais fervent. Avec les personnes en qui il a confiance, Donavich se révèle être un homme brisé qui va à la dérive, perdu et désorienté faute de guide ou de but.

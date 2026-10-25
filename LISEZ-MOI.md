@@ -33,6 +33,7 @@ Ce dossier constitue **Curse of Strahd De-Reloaded**, par **LazyLuigi** : une ve
 ### Acte I — Dans les Brumes
 
 - [Résumé de l’acte I](Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md)
+- [Arc 0 — Le Feu et les Brumes](Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md)
 - [Arc A — S’échapper de la Maison de la Mort](Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md)
 - [Arc B — Bienvenue en Barovie](Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md)
 - [Arc C — Au cœur de la vallée](Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)

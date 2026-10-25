@@ -1,3 +1,8 @@
+> [!info]+ **Une équipe avant les Brumes**
+> Présentez l’ouverture de [l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : des gardes de niveau 1 reçoivent un ordre d’expulsion visant une caravane. L’injustice, les préjugés et le devoir de protection seront joués sans dicter la réponse morale des personnages. Le passage en Barovie est la prémisse annoncée de la campagne ; le refus d’un repas ou d’une tente n’est pas puni par un sommeil forcé.
+>
+> La Maison reste tragique : maltraitance, mort d’enfants, dépouilles et transformation corporelle d’Elisabeth. La refonte retire son donjon souterrain, pas l’horreur du moulin, de l’Abbaye ou de Ravenloft. Réglez les limites et le degré de description avant de jouer, puis conservez les outils de sécurité ci-dessous.
+
 <a id="en-setting-expectations" data-traduction="ancre"></a>
 # Définir les attentes
  Avant de commencer la campagne, définissez les attentes suivantes avec vos joueurs :
