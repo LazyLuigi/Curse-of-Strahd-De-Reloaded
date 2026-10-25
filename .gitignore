@@ -1,0 +1,10 @@
+# Fichiers et dossiers de travail locaux
+/logs/
+/lecteur/
+/traduction/
+/AGENT.md
+/docs/
+
+# Lecteur local et planification : seul le contenu du guide est versionné
+/index.html
+/TODO.md
