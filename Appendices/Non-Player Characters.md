@@ -6,7 +6,7 @@
 
 <a id="de-loic-de-hauterive"></a>
 ### Loïc de Hauterive
-**Rôle.** Seigneur de Valcroix, domaine créé pour De-Reloaded sur la Côte des Épées, et employeur des personnages. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Son mandat exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
+**Rôle.** Seigneur de Valcroix, domaine créé pour De-Reloaded sur la Côte des Épées, et employeur des personnages. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son mandat exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
 
 **Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les gardes choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de Strahd ni le passage à venir.
 
@@ -14,7 +14,7 @@
 
 <a id="de-stanimir"></a>
 ### Stanimir
-**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool). Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les gardes.
+**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool). Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les personnages.
 
 **Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend le mandat, accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
 

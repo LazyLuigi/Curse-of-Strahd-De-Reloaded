@@ -1,6 +1,6 @@
 <a id="de-gardes-de-valcroix"></a>
 # Les gardes de Valcroix
-Dans De-Reloaded, les personnages commencent au **niveau 1, avec 0 PX**, au service de **Loïc de Hauterive**, seigneur de **Valcroix**. Ce domaine de la Côte des Épées est une création de cette adaptation. Toutes les classes ont leur place dans cette petite garde : éclaireurs, soigneurs, négociateurs et spécialistes complètent les combattants. Utilisez l’équipement normal de départ ; l’insigne et le mandat attestent une fonction, pas un grade donnant une armée ou des pouvoirs supplémentaires.
+L’aventure commence à **Valcroix**, un petit domaine de la Côte des Épées créé pour cette adaptation. Les personnages servent ensemble dans la garde de son seigneur, **Loïc de Hauterive**. Ils débutent au **niveau 1, avec 0 PX**. Toutes les classes ont leur place dans cette petite garde : éclaireurs, soigneurs, négociateurs et spécialistes complètent les combattants. Utilisez l’équipement normal de départ ; l’insigne et le mandat attestent une fonction, pas un grade donnant une armée ou des pouvoirs supplémentaires.
 
 Demandez à chaque joueur de choisir un service rendu à la communauté, modeste et crédible au niveau 1, et un lien avec un autre garde. Ils ont une raison de travailler ensemble et de protéger les habitants, même s’ils ne partagent pas tous les préjugés de leur seigneur. Le mandat, ses limites et les premières scènes sont dans [l’arc 0 — Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md).
 
@@ -181,7 +181,7 @@ Vos joueurs peuvent choisir un ou plusieurs liens dans le tableau ci-dessous pou
 | Secret | J’ai un jour promis à quelqu’un de garder ses secrets. Je compte tenir parole, quel qu’en soit le prix. |
 <a id="en-motivations" data-traduction="ancre"></a>
 # Motivations
-Les **reliques baroviennes** peuvent compléter l’histoire personnelle d’un ou plusieurs gardes. Elles ne constituent pas une seconde accroche à jouer en parallèle : leur porteur reçoit le même mandat et traverse les Brumes avec le groupe. Demandez aux joueurs intéressés de choisir une motivation dans le tableau suivant ; préservez ensuite les développements associés aux reliques réellement possédées.
+Les **reliques baroviennes** peuvent compléter l’histoire personnelle d’un ou plusieurs gardes. Dans Reloaded, ces reliques pouvaient attirer leurs porteurs vers la Maison de la Mort. Contrairement à Reloaded, elles ne constituent plus une seconde accroche à jouer en parallèle : leur porteur reçoit le même mandat et traverse les Brumes avec le groupe. Cette ouverture commune soude les personnages avant que leurs histoires personnelles prennent davantage de place en Barovie. Demandez aux joueurs intéressés de choisir une motivation dans le tableau suivant ; préservez ensuite les développements associés aux reliques réellement possédées. Au camp, les Vistani peuvent s’intéresser aux objets que les personnages portent à vue et les questionner sur leur histoire, comme proposé dans [l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-repas).
 
 |d12|Motivation|Relique|
 |:---:|:---|:---|

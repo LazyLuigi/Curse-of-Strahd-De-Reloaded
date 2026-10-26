@@ -1,6 +1,6 @@
 *Une aventure de niveau 2, après [l’arc 0 — Le Feu et les Brumes](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md), pour trois à six personnages.*
 
-Les gardes de Valcroix ont traversé les Brumes. Au matin, les maisons de Baroville apparaissent à quelques centaines de mètres de leur abri. Une meute les surprend dans un quartier abandonné ; le seuil ouvert d’un vieux manoir leur offre un refuge immédiat. À peine entrés, ils entendent le verrou se rabattre.
+Après une mission au service du seigneur de Valcroix, les personnages ont traversé les Brumes. Au matin, un village fortifié apparaît à quelques centaines de mètres de leur abri : Baroville. Une meute les surprend dans un quartier abandonné ; le seuil ouvert d’un vieux manoir leur offre un refuge immédiat. À peine entrés, ils entendent le verrou se rabattre.
 
 Derrière les tentures et les portraits des Durst, une famille attend depuis des siècles que quelqu’un reconnaisse ce qui lui est arrivé. Les enfants gardent le souvenir d’une cache, une nourrice veille sur une porte scellée, et la maîtresse de maison refuse que ses victimes la quittent. L’enquête conduit au grenier, à l’unique éclat d’ambre d’Elisabeth, puis à la nurserie. Lorsqu’ils commencent à rouvrir l’entrée, les personnages rencontrent enfin leur hôtesse.
 
@@ -12,11 +12,28 @@ Derrière les tentures et les portraits des Durst, une famille attend depuis des
 > **Conséquences en jeu.** La maison est fixe, à la périphérie de Baroville. L’exploration prépare un combat en deux phases dans le hall, puis des funérailles. Les choix de fuite et les découvertes anticipées sont pris en compte. La violence reste présente, particulièrement lors de la transformation d’Elisabeth ; cette réduction de l’accumulation horrifique concerne l’introduction.
 
 > [!info]+ **Préparer cette aventure**
-> Lire l’[état de sortie du prologue](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md), puis relever le dernier repos, les personnes présentes et la relation avec Stanimir. Les personnages sont de niveau 2, avec un total de 300 PX ; leurs ressources dépensées n’ont pas été rétablies par ce gain de niveau.
+> Lire l’[état de sortie du prologue](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-etat-sortie), puis relever le dernier repos, les personnes présentes et la relation avec Stanimir. Les personnages sont de niveau 2, avec un total de 300 PX ; leurs ressources dépensées n’ont pas été rétablies par ce gain de niveau.
 >
 > Les profils des **[loups](https://www.aidedd.org/dnd/monstres.php?vf=loup)** et du **[loup sanguinaire](https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire)** de cette rencontre sont expressément ceux de **2014**. Les deux formes d’Elisabeth sont des profils maison fondés sur ce cadre ; elles restent identiques avec le réglage de consultation 2024. Aucun FP officiel ni résultat de partie test n’est attribué à ce boss.
 >
-> Les descriptions ci-dessous suffisent à mener la maison supérieure. Les numéros de salles indiquent les correspondances avec l’annexe B du livre original ; les accès et règles de cette version prévalent. Le module Foundry de Reloaded et ses anciens plans souterrains ne représentent pas cette refonte.
+> Les descriptions ci-dessous suffisent à mener les quatre niveaux du manoir. Les numéros de salles indiquent les correspondances avec l’annexe B du livre original ; les accès et règles de cette version prévalent. Le module Foundry de Reloaded et ses anciens plans souterrains ne représentent pas cette refonte. L’escalier ordinaire dessert tous les étages, jusqu’au grenier. Les portes intérieures s’ouvrent librement, à l’exception de la nurserie scellée.
+>
+> Les objets familiers et les reflets racontent l’histoire de la famille. Les trophées, armures, jouets et ustensiles restent des objets ; les souvenirs d’Elisabeth dans les miroirs ne sont pas des apparitions combattantes. Klara, Rose et Thorn peuvent communiquer comme indiqué dans leurs scènes, mais ne possèdent personne, ne lancent pas de sorts et ne participent pas au combat. Les manifestations d’ambiance décrites n’infligent ni dégâts ni états. Elisabeth elle-même se manifeste lorsque le seuil principal est rouvert.
+
+<a id="ce-que-le-mj-sait"></a>
+<a id="de-histoire-durst"></a>
+## L’histoire de la famille Durst
+
+Lisez cette histoire avant de mener l’exploration. Les indices du manoir en livrent des fragments ; les personnages pourront les découvrir dans l’ordre de leur choix. Chaque témoin ne connaît que ce qu’il a vécu.
+
+1. Gustav et Elisabeth possèdent un moulin et une demeure prospère. Rose et Thorn grandissent sous les soins de Klara. Gustav et la nourrice deviennent amants ; Walter est leur enfant.
+2. Elisabeth admire Strahd et rassemble autour d’elle un petit cercle de dévots. Un éclat trouvé dans une livraison de grain lui promet les secrets qu’elle désire. Elle choisit le pacte de Norganas. Avant leur enfermement, les enfants l’ont vue cacher sa pierre dans le double fond du coffret de sa coiffeuse.
+3. Après la naissance de Walter, Elisabeth tue le nourrisson puis Klara. Elle laisse Walter dans son couffin, cache Klara dans un coffre du grenier, puis ferme la nurserie avec un sceau portant la signature de l’éclat. Walter n’a jamais été transformé en monstre.
+4. Gustav découvre la disparition de Klara et cherche à comprendre. Elisabeth le tue à son tour, fait passer sa mort pour une maladie et charge les derniers domestiques de l’enterrer au jardin. La tombe précède la catastrophe finale.
+5. Les derniers domestiques quittent la demeure après les obsèques de Gustav. Elisabeth enferme alors Rose et Thorn dans leur chambre ; les enfants meurent de faim, sans secours. Aujourd’hui, leur porte est entrouverte : les ferrures ont cédé avec le temps.
+6. Strahd rejette les suppliques d’Elisabeth. Elle meurt seule, consumée par le pacte qu’elle a choisi d’entretenir. Sa volonté reste attachée à la maison et s’y reconstitue sous une apparence physique. La noble et la créature à l’œil unique sont **la même Elisabeth**, responsable de ses actes.
+
+Strahd a provoqué le passage initial par les Brumes. Elisabeth, les voyageurs et les loups sont étrangers à cette capture ; le manoir est un bâtiment fixe du quartier. La pierre d’Elisabeth sert de clé à la nurserie. Elle n’offre aucun don à son porteur et se distingue des [autres éclats d’ambre](../Appendices/Amber%20Shards.md) de la campagne.
 
 <a id="de-arrivee"></a>
 # A1. Aux portes de Baroville
@@ -27,33 +44,33 @@ L’arrivée se situe dans les faubourgs orientaux du **village de Barovie, appe
 
 <div class="description">
 <p>Le jour monte sans lever de soleil. Sous un ciel de cendre, les toits d’un village se serrent derrière une ligne de pieux et de planches. Une fumée maigre s’élève de quelques cheminées. Plus haut, presque perdu dans les nuages, un château domine la vallée.</p>
-<p>Tout près, une borne couchée porte un nom qu’aucun de vous ne reconnaît : BAROVIE.</p>
+<p>Tout près, une borne couchée émerge des herbes. Sous la mousse, vous distinguez un nom gravé dans la pierre : BAROVIE.</p>
 </div>
 
-Le point d’arrivée de l’arc 0 est à environ **300 m de la palissade**, près d’une remise de cantonnier à la toiture intacte. Elle contient du bois sec, une couche de paille et une barre intérieure solide ; elle a permis à ceux de la route de s’abriter avant le jour. Les hurlements restent lointains tant que les personnages s’y reposent. Rien ne leur accorde les bénéfices d’un repos qu’ils n’ont pas pris.
+Le point d’arrivée de l’arc 0 est à environ **300 m de la palissade**, près d’une remise de cantonnier à la toiture intacte. Elle contient du bois sec, une couche de paille et une barre intérieure solide ; ceux qui sont arrivés par la route ont pu s’y abriter avant le jour. Les hurlements restent lointains tant que les personnages s’y reposent. Reprenez les ressources et le dernier repos notés à la fin du prologue.
 
 | Nuit réellement jouée | Personnes et ressources à l’arrivée | Raccord vers la route |
 |---|---|---|
 | **N1 — au camp** | Le camp et ses occupants présents ont traversé vers 5 h 30. Un repos commencé à 22 h peut s’achever à 6 h, si ses conditions ont été respectées. | Stanimir reconnaît le pays et répond avant de mettre les familles à l’abri. |
-| **N2 — sur la route** | Les personnes, animaux et bagages effectivement avec les gardes ont traversé vers 22 h 30. La remise permet huit heures réelles de repos jusqu’à 6 h 30. | Aucun camp vistani ne surgit autour d’eux. S’ils ont quitté la caravane, Stanimir demeure absent. |
+| **N2 — sur la route** | Les personnes, animaux et bagages effectivement avec les gardes ont traversé vers 22 h 30. La remise permet huit heures réelles de repos jusqu’à 6 h 30. | Stanimir est présent seulement si la caravane les accompagnait lors du passage. |
 
-**Vers 9 h, dans les deux branches**, une piste praticable mène aux premières maisons. C’est un horaire de préparation : si les joueurs dorment plus tard, déplacent leur camp ou s’aventurent avant l’aube, suivez l’heure réelle, adaptez la lumière et conservez leurs ressources. Un groupe ayant refusé de dormir peut encore revenir à la remise avant de s’engager ; les loups ne l’attaquent pas rétroactivement pendant sa halte.
+**Vers 9 h, dans les deux branches**, une piste praticable mène aux premières maisons. C’est un horaire de préparation : si les joueurs dorment plus tard, déplacent leur camp ou s’aventurent avant l’aube, suivez l’heure réelle, adaptez la lumière et conservez leurs ressources. Un groupe ayant refusé de dormir peut encore revenir à la remise avant de s’engager. Laissez-le achever cette halte avant de reprendre son approche du village.
 
 ### Stanimir, s’il est présent
 
 [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) se tient près des chevaux, les manches retroussées. Sa voix demeure posée, mais il vérifie plusieurs fois que tous les siens sont là.
 
-« Je connais ce pays. Ce n’est pas celui où nous étions hier. Nous n’avons pas pris la route pour vous y conduire. »
+« Je vais conduire les roulottes jusqu’aux murs. Les petits ont assez dormi dehors. Vous venez ? »
 
-Il peut nommer Barovie, la vallée de Strahd, et expliquer que les Brumes ne laissent pas les étrangers repartir par une simple marche inverse. Il ignore pourquoi les gardes ont été pris. Il n’attribue pas les loups à Elisabeth et ne connaît pas les secrets du manoir. Il accepte les questions et les reproches ; son attitude reprend la confiance ou les violences du prologue.
+Si les personnages ne l’ont pas encore interrogé depuis le passage, reprenez [ses premières explications](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-n1) avant de partir. Il peut nommer la Barovie, la vallée de Strahd, et expliquer que les Brumes ne laissent pas les étrangers repartir par une simple marche inverse. Il ignore pourquoi les personnages ont été pris et ne connaît pas les secrets du manoir. Ses réponses prolongent les échanges déjà joués ; son attitude reprend la confiance ou les violences du prologue.
 
-Les familles ont besoin d’eau, de soins et de sécurité. Stanimir rejoint l’entrée principale par la chaussée praticable aux roulottes et prévient les guetteurs. Il met son convoi à l’abri dans le village : la route occidentale est bloquée par le siège, et les familles attendent sa levée avant de gagner l’étang de Tser. Voir [Le convoi de Stanimir](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). La patrouille locale indique aux gardes à pied un raccourci entre les maisons abandonnées. **Ils peuvent suivre les roulottes** : ne leur inventez pas un refus d’embarquer destiné à les jeter sous les crocs. Si ce choix les conduit directement dans le village, utilisez [Sans entrer dans la Maison](#de-sans-maison).
+Les familles ont besoin d’eau, de soins et de sécurité. Stanimir rejoint l’entrée principale par la chaussée praticable aux roulottes et prévient les guetteurs. Il met son convoi à l’abri dans le village : la route occidentale est bloquée par le siège, et les familles attendent sa levée avant de gagner l’étang de Tser. Voir [Le convoi de Stanimir](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). La patrouille locale indique aux gardes à pied un raccourci entre les maisons abandonnées. **Les personnages peuvent suivre les roulottes** plutôt que prendre ce raccourci. S’ils gagnent ainsi le village, poursuivez avec [S’ils gagnent directement le village](#de-sans-maison).
 
 Un prisonnier, un compagnon ou un animal resté avec les gardes conserve sa place dans la scène. Les proches non combattants cherchent un abri dès les premiers signes de danger. Ils n’augmentent pas N dans la composition de la meute et ne deviennent pas des alliés combattants du boss. La remise et le poste villageois permettent de les mettre en sécurité avant de poursuivre.
 
-### La route que les gardes n’ont pas parcourue
-
-Dalvan Olensky et sa boussole se trouvent toujours près de la frontière orientale. Leur rencontre est un [détour facultatif de l’arc B](Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b3-svalich-woods). Ne placez aucun second cadavre, lettre ou boussole sur ce chemin. Les personnages qui vont directement au village n’ont encore rien appris de Dalvan.
+<a id="la-route-que-les-gardes-nont-pas-parcourue"></a>
+> [!info]+ **Le chemin de la frontière orientale**
+> Dalvan Olensky et sa boussole se trouvent près de la frontière orientale, loin de ce quartier. Leur rencontre reste un [détour facultatif de l’arc B](Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b3-svalich-woods) ; elle se joue uniquement si les personnages empruntent cette route.
 
 <a id="de-meute"></a>
 ## A1a. La meute
@@ -100,9 +117,9 @@ Une corde déjà préparée, un obstacle renversé ou un sort peut aider. Décri
 >
 > Le calcul tient compte du multiplicateur diminué pour six PJ. Ce repère ne garantit pas la survie et n’est pas une récompense de PX. Tactique de groupe et mise à terre rendent un combat prolongé particulièrement dangereux.
 
-**Comportement.** Les loups encerclent une proie isolée, mordent ce qui se présente et hésitent devant une résistance organisée. Ils ne servent pas Elisabeth : ils redoutent son seuil et s’arrêtent avant de le franchir, même si la porte reste ouverte. Ils ne tirent personne par une force invisible. Un loup sérieusement blessé recule ; si le sanguinaire tombe ou si la moitié de la meute est hors combat, les survivants décrochent quand ils peuvent le faire. Ils peuvent attaquer un défenseur encore dangereux, mais ne consacrent pas leurs tours à achever un inconscient pendant que des adversaires armés les menacent.
+**Comportement.** Les loups encerclent une proie isolée, mordent ce qui se présente et hésitent devant une résistance organisée. Ils redoutent le seuil d’Elisabeth et s’arrêtent avant de le franchir, même si la porte reste ouverte. Leur attaque est celle d’animaux en chasse, indépendants du manoir. Un loup sérieusement blessé recule ; si le sanguinaire tombe ou si la moitié de la meute est hors combat, les survivants décrochent quand ils peuvent le faire. Ils peuvent attaquer un défenseur encore dangereux, mais ne consacrent pas leurs tours à achever un inconscient pendant que des adversaires armés les menacent.
 
-**Autres issues.** Une victoire est une victoire. Un groupe qui rejoint la palissade, suit les roulottes ou trouve un autre abri n’est pas rattrapé par une seconde meute. Les guetteurs l’accueillent dès qu’il atteint une entrée défendue ; utilisez [la branche sans Maison](#de-sans-maison). Les loups ne deviennent pas invulnérables et le manoir ne change pas de place.
+**Autres issues.** Les personnages peuvent vaincre les loups, les distancer ou trouver un autre abri. À une entrée défendue de la palissade, les guetteurs leur ouvrent le passage : poursuivez avec [la branche du village](#de-sans-maison). La rencontre s’achève lorsqu’ils sont à l’abri ; une seconde meute ne vient pas les poursuivre.
 
 **Si le combat tourne mal.** Le seuil reste ouvert, y compris pour un porteur et sa charge. Faites rappeler les distances et les possibilités de repli par la description du terrain. Les personnages peuvent perdre de l’équipement ou abandonner le chemin pour sauver un compagnon ; notez ce qui est laissé. N’annoncez pas un sauvetage certain : une mort peut résulter des règles et des choix de cette rencontre dangereuse.
 
@@ -131,7 +148,7 @@ Quand elle se ferme, lisez :
 <p>Criez, si vous voulez.<br>Nous aussi, on croyait que quelqu’un viendrait.</p>
 </div>
 
-C’est un écho du désespoir de Rose et Thorn. Aucun enfant ne se manifeste ici ; leur première apparition se produit au grenier. Le message n’est ni une instruction de sacrifice ni un aveu de complicité. Il reste lisible et ne se répète pas à chaque test du verrou.
+Ces mots sont un écho du désespoir de Rose et Thorn, morts sans que personne vienne les secourir. Ils restent lisibles sur le bois. Les enfants eux-mêmes se manifesteront dans leur chambre, au grenier.
 
 ### La porte et les autres sorties
 
@@ -155,20 +172,6 @@ Un repos long reste possible si les personnages choisissent de s’enfermer asse
 
 Dehors, les loups flairent le porche puis se dispersent, attirés par d’autres pistes. Après une heure sans proie accessible, les survivants ont quitté cette rue. Si les personnages ressortent plus tôt, utilisez leurs positions et blessures restantes ; la meute ne se réinitialise pas. Ils peuvent observer la rue avant les funérailles.
 
-<a id="de-histoire-durst"></a>
-## Ce que le MJ sait
-
-Cette chronologie est la vérité de la variante. Les indices en livrent des fragments ; aucun PNJ ne raconte spontanément toute l’histoire.
-
-1. Gustav et Elisabeth possèdent un moulin et une demeure prospère. Rose et Thorn grandissent sous les soins de Klara. Gustav et la nourrice deviennent amants ; Walter est leur enfant.
-2. Elisabeth admire Strahd et rassemble autour d’elle un petit cercle de dévots. Un éclat trouvé dans une livraison de grain lui promet les secrets qu’elle désire. Elle choisit le pacte de Norganas. Avant leur enfermement, les enfants l’ont vue cacher sa pierre dans le double fond du coffret de sa coiffeuse.
-3. Après la naissance de Walter, Elisabeth tue le nourrisson puis Klara. Elle laisse Walter dans son couffin, cache Klara dans un coffre du grenier, puis ferme la nurserie avec un sceau portant la signature de l’éclat. Walter n’a jamais été transformé en monstre.
-4. Gustav découvre la disparition de Klara et cherche à comprendre. Elisabeth le tue à son tour, fait passer sa mort pour une maladie et charge les derniers domestiques de l’enterrer au jardin. La tombe précède la catastrophe finale.
-5. Les derniers domestiques quittent la demeure après les obsèques de Gustav. Elisabeth enferme alors Rose et Thorn dans leur chambre ; les enfants meurent de faim, sans secours. Aujourd’hui, leur porte est entrouverte : les ferrures ont cédé avec le temps.
-6. Strahd rejette les suppliques d’Elisabeth. Elle meurt seule, consumée par le pacte qu’elle a choisi d’entretenir. Sa volonté reste attachée à la maison et s’y reconstitue sous une apparence physique. La noble et la créature à l’œil unique sont **la même Elisabeth**, responsable de ses actes.
-
-Elisabeth n’a amené ni les Vistani, ni les gardes, ni les loups. Strahd a provoqué le passage initial par les Brumes indépendamment d’elle. Le manoir ne voyage pas. La clé locale n’offre aucun don à celui qui la ramasse ; les [autres éclats d’ambre](../Appendices/Amber%20Shards.md) ont leurs propres règles.
-
 <a id="en-main-hall" data-traduction="ancre"></a>
 ## Le hall et la circulation
 
@@ -180,9 +183,9 @@ Elisabeth n’a amené ni les Vistani, ni les gardes, ni les loups. Strahd a pro
 ![[The Durst Family.webp]]
 <span class="credit">« La famille Durst », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon</a>.</span>
 
-L’horloge est un meuble ; elle n’annonce aucune échéance. Les reflets sont des traces de l’obsession d’Elisabeth pour ce qui se cache. Ses souvenirs peuvent apparaître brièvement dans un miroir ou une scène musicale ; son corps combattant ne se manifeste qu’à la réouverture du seuil.
+L’œil entrevu dans le verre annonce l’obsession d’Elisabeth pour ce qui se cache et la forme que son pacte lui a donnée. Les aiguilles restent arrêtées : cette horloge ne mesure aucun délai.
 
-Le hall dessert le vestiaire, le salon de chasse, la cuisine et la salle à manger. L’escalier ordinaire rejoint le deuxième niveau, puis le troisième et le grenier. **Aucune clé et aucune traversée de la nurserie ne sont nécessaires pour monter.** Les portes intérieures usuelles s’ouvrent ; les descriptions indiquent le seul sceau particulier.
+Le hall dessert le vestiaire, le salon de chasse, la cuisine et la salle à manger. L’escalier ordinaire mène au premier étage, au deuxième puis au grenier. Les personnages peuvent circuler librement entre ces niveaux ; le sceau de la nurserie ferme cette seule chambre.
 
 ### Gabarit du hall pour la table
 
@@ -210,8 +213,13 @@ Le banc et l’horloge, plaqués contre les murs, n’occupent pas une case enti
 
 <a id="en-cloakroom" data-traduction="ancre"></a>
 ### Vestiaire
+*Zone 2.*
 
-*Zone 2.* Des manteaux ternis pendent à des crochets. Dans une poche dépasse une invitation ancienne à dame Lovina Wachter. Elle présente les Durst comme les propriétaires respectables d’un moulin et situe leur maison dans le village de Barovie.
+<div class="description">
+<p>Des manteaux ternis pendent à des crochets. Un papier jauni dépasse de l’une de leurs poches.</p>
+</div>
+
+Le papier est une invitation ancienne adressée à dame Lovina Wachter. Les personnages qui la déplient peuvent lire :
 
 > Vous êtes cordialement invités à rejoindre M. Gustav et Mme Elisabeth Durst pour célébrer le premier anniversaire du moulin Durst.
 >
@@ -219,7 +227,7 @@ Le banc et l’horloge, plaqués contre les murs, n’occupent pas une case enti
 >
 > Un dîner et des rafraîchissements seront servis.
 
-L’invitation est antérieure au drame. Elle ne constitue ni un titre de propriété ni la preuve d’une complicité de la famille Wachter dans les crimes. Le nom du moulin pourra être reconnu plus tard sans pousser les gardes à en revendiquer la possession.
+L’invitation est antérieure au drame. Elle présente les Durst comme les propriétaires respectables d’un moulin et situe leur maison dans le village de Barovie. Les personnages pourront reconnaître ce nom plus tard. L’invitation ne leur donne aucun droit de propriété sur le moulin et n’implique pas les Wachter dans les crimes d’Elisabeth.
 
 ![[Durst Invitation.jpg]]
 [Transcription française](../Appendices/Supports%20visuels.md#support-durst).
@@ -227,68 +235,111 @@ L’invitation est antérieure au drame. Elle ne constitue ni un titre de propri
 
 <a id="en-den-of-wolves" data-traduction="ancre"></a>
 ### Salon de chasse
+*Zone 3.*
 
-*Zone 3.* Trois loups empaillés font face à des fauteuils de cuir. Leurs yeux de verre restent immobiles quand on les touche. Sous une chaise gisent deux petits animaux en peluche, recousus maladroitement, avec les noms **ROSE** et **THORN** brodés sur le ventre.
+<div class="description">
+<p>Trois loups empaillés font face à des fauteuils de cuir. Des armes rouillées sont accrochées au mur. Sous une chaise, deux petits animaux en peluche gisent côte à côte.</p>
+</div>
 
-Une armoire contient une broderie représentant deux enfants tenant la main d’une jeune femme : **POUR MADEMOISELLE KLARA**. Le visage de la femme a été lacéré. Les armes accrochées sont de vieux trophées rouillés ; elles n’ajoutent pas un arsenal magique à l’équipement du groupe. Dans un tiroir se trouvent vingt carreaux d’arbalète ordinaires secs, utilisables et à noter s’ils sont emportés.
+Les peluches ont été recousues maladroitement. Les noms **ROSE** et **THORN** sont brodés sur leur ventre. Une armoire contient une broderie représentant deux enfants tenant la main d’une jeune femme, avec ces mots : **POUR MADEMOISELLE KLARA**. Le visage de la femme a été lacéré.
 
-Quand les personnages se retournent, les animaux empaillés ont changé d’orientation : deux se serrent l’un contre l’autre, le troisième leur fait face. Ils ne s’animent pas au combat. C’est un reflet du foyer, pas la preuve que la meute extérieure obéit à la maison.
+Les armes sont de vieux trophées rouillés. Un tiroir contient toutefois **vingt carreaux d’arbalète ordinaires**, secs et utilisables ; notez-les s’ils sont emportés.
+
+Lorsque les personnages détournent les yeux des loups puis les regardent de nouveau, lisez :
+
+<div class="description">
+<p>Deux des loups se serrent maintenant l’un contre l’autre. Le troisième leur fait face. Leurs yeux de verre vous renvoient la lumière, immobiles.</p>
+</div>
+
+Ce changement évoque la famille prisonnière du manoir ; il est sans lien avec la meute extérieure. Les animaux restent des trophées inertes lorsqu’on les touche.
 
 <a id="en-dining-room" data-traduction="ancre"></a>
 ### Salle à manger
+*Zone 5.* Avant que les personnages ouvrent la porte, faites entendre brièvement un rire d’enfant et le tintement des couverts. À leur entrée, lisez :
 
-*Zone 5.* Une longue table est dressée pour huit personnes. Avant l’ouverture de la porte, on entend brièvement un rire d’enfant et le tintement des couverts ; une fois entré, on ne trouve que le silence et une poussière intacte.
+<div class="description">
+<p>Une longue table est dressée pour huit personnes. Une poussière intacte couvre les assiettes, ornées d’un moulin. Une chaise d’enfant a été écartée de la table. Les rires se sont tus.</p>
+</div>
 
-Des assiettes portent l’emblème d’un moulin. Une chaise d’enfant a été écartée de la table ; un linge marqué d’un **W** est caché derrière son dossier. Celui qui déplie le linge perçoit un battement chaud contre sa paume, puis le tissu redevient froid. Aucun jet ni effet mécanique ne s’ensuit.
+Un linge marqué d’un **W** est caché derrière le dossier de la petite chaise. Celui qui le déplie perçoit un battement chaud contre sa paume, puis le tissu redevient froid. Cette sensation ne demande aucun jet.
 
-La table offre un endroit pour examiner les documents ou prendre un repos. Les provisions apportées par les personnages restent leur nourriture réelle ; le décor ne leur impose ni empoisonnement ni repas surnaturel.
+La table offre un endroit pour examiner les documents, manger les provisions apportées ou prendre un repos. Aucun repas surnaturel ou empoisonnement n’est associé à la pièce.
 
 <a id="en-kitchen-and-pantry" data-traduction="ancre"></a>
 ### Cuisine et garde-manger
+*Zone 4.*
 
-*Zone 4.* Une cuisine de pierre conserve ses casseroles, son four et un monte-plats hors d’usage. Les étagères du garde-manger portent des sacs vides et des pots brisés. Dans une marmite, un morceau de dentelle marqué **K** enveloppe des fleurs sèches et un billet :
+<div class="description">
+<p>Des casseroles pendent aux murs de pierre, près d’un four froid. Un monte-plats hors d’usage occupe un renfoncement. Dans le garde-manger, les étagères ne portent plus que des sacs vides et des pots brisés.</p>
+</div>
+
+Dans une marmite, un morceau de dentelle marqué **K** enveloppe des fleurs sèches et un billet :
 
 > Pour la lumière de ma vie. — G.
 
-Ce souvenir rapproche Gustav de Klara, sans révéler encore toute leur histoire. Une petite armoire contient une pelle de jardin, une bêche, des sacs de toile et de la ficelle. Ils serviront au transport et aux funérailles. La porte de service donne sur le jardin ; elle est retenue par la hantise comme une fenêtre ordinaire et devient libre à la mort d’Elisabeth. Elle ne constitue pas un second seuil de déclenchement du boss.
+Ce souvenir rapproche Gustav de Klara, sans révéler encore toute leur histoire. Une petite armoire contient une pelle de jardin, une bêche, des sacs de toile et de la ficelle. Ce matériel peut servir à transporter les victimes et à préparer leurs funérailles.
+
+**La porte de service** donne sur le jardin. Retenue par la hantise comme une fenêtre ordinaire, elle peut être forcée selon les mêmes règles et devient libre à la mort d’Elisabeth. Son ouverture ne déclenche pas l’apparition d’Elisabeth, liée au seuil principal.
 
 <a id="en-a2c-the-second-floor" data-traduction="ancre"></a>
 ## A2c. Le premier étage
 
 <a id="en-upper-hall" data-traduction="ancre"></a>
 ### Palier supérieur
+*Zone 6.*
 
-*Zone 6.* Des armures vides encadrent des portes sculptées de danseurs. Elles sont inertes. L’escalier se poursuit vers le niveau supérieur ; sous la poussière, de petites traces s’arrêtent au bas des marches suivantes. Aucune barrière ne bloque la montée.
+<div class="description">
+<p>Des armures vides encadrent des portes sculptées de danseurs. L’escalier se poursuit vers le niveau supérieur. Sous la poussière, de petites traces s’arrêtent au bas des marches suivantes.</p>
+</div>
+
+Les personnages peuvent poursuivre leur ascension ou explorer cet étage. Les armures restent inertes.
 
 <a id="en-servants-room" data-traduction="ancre"></a>
 ### Chambre des domestiques
+*Zone 7.*
 
-*Zone 7.* Deux lits étroits, des coffres vides et des vêtements de travail rappellent que d’autres personnes vivaient ici. Un registre laissé sur une paillasse contient deux dernières mentions, de la même main :
+<div class="description">
+<p>Deux lits étroits occupent la chambre. Des vêtements de travail pendent près de coffres ouverts et vides. Sur une paillasse repose un registre.</p>
+</div>
+
+Les deux dernières mentions du registre sont de la même main :
 
 > Monsieur a été porté au jardin. Madame nous a fait garder le cercueil fermé ; elle dit que la maladie pourrait prendre les enfants.
 >
 > Nos gages sont réglés. Nous quittons la maison demain. Les petits sont encore à l’étage. Madame assure que leur nourrice s’en occupe.
 
-Ce témoin croyait le mensonge d’Elisabeth. Il établit que les obsèques de Gustav ont précédé le départ des domestiques, tandis que la dernière phrase révèle l’abandon organisé des enfants. Les personnages n’ont pas à fouiller la tombe pour obtenir cette information.
+Le domestique qui a écrit ces lignes croyait le mensonge d’Elisabeth. Son récit établit que les obsèques de Gustav ont précédé le départ des derniers serviteurs, tandis que la dernière phrase révèle l’abandon organisé des enfants. Il suffit à connaître cet ordre des événements, même si les personnages laissent la tombe intacte.
 
 <a id="en-conservatory" data-traduction="ancre"></a>
 ### Salon de musique
 
-*Zone 10.* Un clavecin et une harpe se font face. Sur le pupitre, une partition porte le titre **Valse pour Klara**. Elle peut être fredonnée ou jouée sans test pour en retenir le motif. Un personnage qui ne lit pas la musique entend la même mélodie résonner doucement dès qu’il touche le papier.
+*Zone 10.*
+
+<div class="description">
+<p>Un clavecin et une harpe se font face. Une partition est restée sur le pupitre : <em>Valse pour Klara</em>.</p>
+</div>
+
+La mélodie peut être fredonnée ou jouée sans test pour en retenir le motif. Un personnage qui ne lit pas la musique l’entend résonner doucement dès qu’il touche le papier. Lorsque les premières notes retentissent, lisez :
 
 <div class="description">
 <p>Quelques notes se répondent dans la pièce. Dans la vitre sombre, des couples tournent au rythme de la valse. Vous reconnaissez l’homme du portrait : Gustav danse avec une jeune femme en robe simple. Elle rit, et cette joie fugitive rend la maison presque habitable.</p>
 <p>Au bord du reflet, Elisabeth ferme la main sur une lueur ambrée à son cou. Son regard ne quitte pas le couple. La vitre se fend d’un trait mince ; les danseurs ont disparu.</p>
 </div>
 
-La lueur est un **souvenir**, sans pendentif matériel à décrocher. La scène révèle l’affection de Gustav et Klara et la jalousie d’Elisabeth. Lorsque la valse reprend, le reflet d’Elisabeth recule comme s’il lui était difficile de la regarder en face. Les joueurs peuvent en déduire qu’évoquer Klara lui résiste ; indiquez-le sans exiger un jet.
+Le reflet montre un souvenir : l’affection de Gustav et Klara, et la jalousie d’Elisabeth. La pierre entrevue appartient à cette image ; l’unique éclat matériel est dans le coffret de la suite des maîtres. Si la valse reprend, le reflet d’Elisabeth recule comme s’il lui était difficile de la regarder en face. Les joueurs peuvent en déduire qu’évoquer Klara lui résiste ; indiquez-le sans exiger un jet.
 
-La partition et le fredonnement permettent le [bénéfice facultatif de l’enquête](#de-melodie) pendant le boss. Aucun instrument ne doit être transporté dans le hall. La valse ne déverrouille pas d’autre pièce.
+La partition et le fredonnement permettent le [bénéfice facultatif de l’enquête](#de-melodie) pendant le combat. Retenir la mélodie suffit : les personnages peuvent laisser les instruments ici. La valse agit sur Elisabeth, sans ouvrir de pièce.
 
 <a id="en-library" data-traduction="ancre"></a>
 ### Bibliothèque
 
-*Zone 8.* Des livres de comptes, des généalogies et des romans s’alignent derrière un bureau d’acajou. Une lettre de Klara, posée parmi les factures, demande un congé pour sa grossesse :
+*Zone 8.*
+
+<div class="description">
+<p>Des livres de comptes, des généalogies et des romans s’alignent derrière un bureau d’acajou. Des factures et une lettre couvrent son plateau.</p>
+</div>
+
+La lettre est de Klara. Elle demande un congé pour sa grossesse :
 
 > Monsieur, Madame,
 >
@@ -296,14 +347,18 @@ La partition et le fredonnement permettent le [bénéfice facultatif de l’enqu
 >
 > Klara
 
-Une rayure en arc de cercle se distingue au pied d’un rayonnage. Le livre **L’Art de tenir sa maison** dépasse et ne peut pas être retiré : le tirer actionne un levier. L’étagère pivote et donne directement accès à la pièce secrète. Toute personne qui examine le rayonnage trouve le mécanisme ; une fouille générale de dix minutes le révèle aussi, sans jet indispensable. **Il n’y a ni niche, ni serrure d’ambre, ni second panneau scellé.**
+Une rayure en arc de cercle se distingue au pied d’un rayonnage. Le livre **L’Art de tenir sa maison** dépasse et ne peut pas être retiré : le tirer actionne un levier. L’étagère pivote et donne directement accès à la pièce secrète. Toute personne qui examine le rayonnage trouve le mécanisme ; une fouille générale de dix minutes le révèle aussi, sans jet indispensable.
 
 <a id="en-secret-room" data-traduction="ancre"></a>
 ### Pièce secrète
 
-*Zone 9.* Un réduit sans autre issue contient les comptes privés d’Elisabeth, un coffret de correspondance et un miroir enveloppé d’un drap. Les objets sont inertes ; ouvrir le coffret ne déclenche pas de piège.
+*Zone 9.*
 
-Trois documents peuvent être remis aux joueurs :
+<div class="description">
+<p>Le rayonnage s’ouvre sur un réduit sans autre issue. Des liasses de comptes sont empilées près d’un coffret. Contre le mur, un drap enveloppe un miroir.</p>
+</div>
+
+Ce sont les comptes privés d’Elisabeth. Le coffret s’ouvre sans danger et contient trois documents à remettre aux joueurs qui l’examinent :
 
 > **Billet de Gustav.** Klara ne quitte jamais Walter ainsi. Tu me dis qu’ils sont partis ; leurs affaires sont encore là. Ce soir, tu m’ouvriras cette porte.
 
@@ -311,26 +366,41 @@ Trois documents peuvent être remis aux joueurs :
 
 > **Note d’Elisabeth.** Voir ce que l’on me cache. Garder ce qui m’appartient. La pierre a entendu ma demande. Il faudra bien qu’ils cessent de me mentir.
 
-Le billet de Gustav précède sa mort. La réponse de Strahd rejette Elisabeth ; elle ne leur donne aucune mission, ne réclame aucun paiement et ne fait pas d’eux ses serviteurs. Les personnages connaissent peut-être déjà son nom par Stanimir : adaptez leur reconnaissance à la soirée réellement jouée.
+Le billet de Gustav précède sa mort. La réponse de Strahd est adressée à Elisabeth : il refuse d’intervenir en sa faveur. Les personnages peuvent reconnaître un nom entendu dans le conte de Stanimir.
 
-Le miroir reflète brièvement le visage d’Elisabeth avec un œil large et central, puis redevient ordinaire. Il prépare sa forme finale, sans abriter une autre créature. La pièce complète l’enquête mais n’est nécessaire ni pour trouver l’éclat, ni pour rencontrer les enfants, ni pour vaincre le boss.
+Si le drap du miroir est soulevé, lisez :
+
+<div class="description">
+<p>Le visage d’Elisabeth vous regarde depuis le verre. Un seul œil, large et central, occupe son visage. Puis l’image s’efface et le miroir vous rend votre reflet.</p>
+</div>
+
+L’apparition annonce sa forme finale. Cette pièce complète l’enquête ; les autres indices restent suffisants pour trouver l’éclat, rencontrer les enfants et affronter Elisabeth.
 
 <a id="en-a2d-the-third-floor" data-traduction="ancre"></a>
 ## A2d. Le deuxième étage
 
 <a id="en-balcony" data-traduction="ancre"></a>
 ### Palier et escalier du grenier
+*Zone 11.*
 
-*Zone 11.* La balustrade ouvre sur la cage d’escalier. Un harnois poussiéreux monte la garde contre le mur ; il ne bouge pas. Plus loin, l’escalier se poursuit par une volée de bois visible vers le grenier. Cette continuité remplace tout ancien passage secret nécessaire à la montée.
+<div class="description">
+<p>La balustrade domine la cage d’escalier. Un harnois poussiéreux monte la garde contre le mur. Plus loin, une volée de bois se poursuit vers le grenier. Deux petites lettres ont été gravées dans la rampe : R et T.</p>
+</div>
 
-Sur le bois de la rampe, deux petites mains ont gravé **R** et **T**. Si les personnages hésitent sur la direction, un bruit de jouet roulant vient du grenier. Aucun esprit d’enfant n’apparaît sur ce palier.
+L’armure reste immobile. Si les personnages hésitent sur la direction, un bruit de jouet roulant leur parvient du grenier. Les enfants se manifesteront dans leur chambre.
 
 <a id="en-master-suite" data-traduction="ancre"></a>
 ### Suite des maîtres
 
-*Zone 12.* Derrière des portes ornées de moulins se trouve un lit à baldaquin, deux armoires et une coiffeuse d’argent terni. Une seule moitié du lit est encore faite. Sur l’autre, un linge sombre porte la marque d’un sang ancien ; le récit de la mort de Gustav est dans les documents du premier étage.
+*Zone 12.*
 
-La coiffeuse porte un coffret à bijoux. Il contient des parures sans valeur et possède un **double fond**, dont un petit bord dépasse près de la charnière. Les enfants peuvent indiquer exactement où appuyer. Toute fouille ciblée du coffret le découvre sans jet ; une fouille complète de la pièce pendant dix minutes le trouve également. Une découverte avant la rencontre des enfants reste valable : la pierre n’est pas déplacée.
+<div class="description">
+<p>Derrière les portes ornées de moulins se trouvent un lit à baldaquin, deux armoires et une coiffeuse d’argent terni. Une seule moitié du lit est encore faite. Sur l’autre, un linge sombre porte la marque d’un sang ancien.</p>
+</div>
+
+Les documents du premier étage permettent de comprendre la mort de Gustav.
+
+La coiffeuse porte un coffret à bijoux. Il contient des parures sans valeur et possède un **double fond**, dont un petit bord dépasse près de la charnière. Les enfants peuvent indiquer exactement où appuyer. Toute fouille ciblée du coffret le découvre sans jet ; une fouille complète de la pièce pendant dix minutes le trouve également. Le coffret peut être fouillé dès cette première visite, avant toute rencontre avec les enfants.
 
 <a id="de-eclat-elisabeth"></a>
 #### La clé de la nurserie
@@ -350,34 +420,45 @@ Un feuillet coincé sous le velours contient cette note de la main d’Elisabeth
 
 > La chambre ne répond qu’à ma pierre. À elle seule. Une fois ouverte, elle ne se refermera plus pour moi.
 
-Le balcon extérieur de la suite est accessible par les portes-fenêtres, avec les règles de [sortie non standard](#en-entrance). On voit de là le jardin, une tombe ancienne et les palissades au-delà des maisons. La vue confirme que le manoir est un bâtiment fixe du quartier.
+Le balcon extérieur de la suite est accessible par les portes-fenêtres, avec les règles de [sortie non standard](#en-entrance). On voit de là le jardin, une tombe ancienne et les palissades au-delà des maisons. Le jardin est accessible depuis l’allée latérale qui longe le manoir.
 
 <a id="en-bathroom" data-traduction="ancre"></a>
 ### Salle de bains
+*Zone 13.*
 
-*Zone 13.* Une baignoire froide, des serviettes et un poêle éteint occupent la pièce. Un peigne porte les initiales **E. D.** Quand on le pose devant le miroir, son reflet reste un instant serré dans une main de femme ; il ne fait aucun mal. Cette pièce peut être traversée ou ignorée.
+<div class="description">
+<p>Une baignoire froide, des serviettes et un poêle éteint occupent la pièce. Un peigne gravé des initiales E. D. repose près du miroir.</p>
+</div>
+
+Si un personnage pose le peigne devant le miroir, son reflet reste un instant serré dans une main de femme, puis la main disparaît. La pièce ne contient aucun indice indispensable.
 
 <a id="en-storage-room" data-traduction="ancre"></a>
 ### Lingerie
+*Zone 14.*
 
-*Zone 14.* Des draps, des couvertures et un vieux balai sont rangés contre le mur. Ils restent inertes. Les linges offrent de quoi envelopper les restes et les porter dignement. Les sacs de toile de la cuisine permettent à un petit groupe de transporter les quatre dépouilles en plusieurs voyages, ou en répartissant les paquets.
+<div class="description">
+<p>Des draps et des couvertures sont empilés contre le mur. Un vieux balai est rangé à côté.</p>
+</div>
+
+Les linges offrent de quoi envelopper les victimes et les porter dignement. Avec les sacs de toile de la cuisine, un petit groupe peut transporter les quatre dépouilles en plusieurs voyages ou en répartissant les paquets.
 
 <a id="en-nursemaids-suite" data-traduction="ancre"></a>
 ### Suite de Klara
 
-*Zone 15.* Une chambre simple ouvre sur la nurserie. Sur un lit étroit, un tablier soigneusement replié côtoie une petite brassière marquée **WALTER**. Une porte donne sur le balcon ; une autre, cerclée d’un tracé ambré, demeure close.
+*Zone 15.*
 
 <div class="description">
+<p>Un tablier soigneusement replié et une petite brassière marquée WALTER reposent sur un lit étroit. Une porte donne sur le balcon ; une autre, cerclée d’un tracé ambré, demeure close.</p>
 <p>Dans le miroir au-dessus de la commode, une jeune femme est assise au bord du lit. Ses mains se crispent sur un linge invisible. Une marque sombre barre sa gorge.</p>
 <p>Elle lève les yeux vers vous, puis vers la porte cerclée de signes. Ses lèvres forment un prénom sans produire de son.</p>
 </div>
 
-**[Klara](../Appendices/Non-Player%20Characters.md#de-klara)** est la nourrice de Rose et Thorn et la mère de Walter. Son apparition est consciente, bienveillante et incapable de parler au-delà du miroir. Un fredonnement ténu accompagne sa présence : les premières mesures de la *Valse pour Klara*, que les personnages peuvent retenir en les reprenant doucement. Elle répond par gestes et peut tracer lentement des mots dans la buée du verre. Elle ne combat pas, ne possède personne et ne donne aucun pouvoir.
+**[Klara](../Appendices/Non-Player%20Characters.md#de-klara)** est la nourrice de Rose et Thorn et la mère de Walter. Son apparition est consciente, bienveillante et incapable de parler au-delà du miroir. Un fredonnement ténu accompagne sa présence : les premières mesures de la *Valse pour Klara*, que les personnages peuvent retenir en les reprenant doucement. Elle répond par gestes et peut tracer lentement des mots dans la buée du verre.
 
 - Au nom de **Walter**, elle hoche la tête, désigne la brassière puis la nurserie. Elle écrit : **MON FILS**.
 - Au nom de **Gustav**, elle ferme les yeux avec chagrin. Elle peut désigner l’anneau peint au portrait du hall si on demande qui est le père.
-- Au nom d’**Elisabeth**, elle porte une main à sa gorge et recule. Elle n’invente pas d’explication cosmologique au pacte.
-- Si on cherche comment ouvrir, elle dessine un petit éclat et montre l’étage supérieur : les enfants ont vu ce qu’elle-même ignorait. Le dessin décrit la **signature à trouver**, pas une seconde cache.
+- Au nom d’**Elisabeth**, elle porte une main à sa gorge et recule.
+- Si on cherche comment ouvrir, elle dessine un petit éclat et montre l’étage supérieur : les enfants ont vu ce qu’elle-même ignorait. Son dessin permet de reconnaître la **signature de l’éclat**.
 - Si on demande comment l’aider, elle dessine un coffre, pointe vers le grenier puis vers le jardin. Son tablier porte le même monogramme que le linge autour de ses restes.
 
 Si le groupe refuse tout contact, la brassière identifie Walter, le glyphe révèle sa signature particulière et les documents des enfants restent disponibles. Rien ne dépend d’un test de persuasion adressé à Klara.
@@ -392,9 +473,9 @@ La porte est marquée d’un glyphe ambré à six traits entourant un œil. En l
 >
 > Tant que l’éclat n’a pas été présenté au glyphe, le volume de la nurserie reste fermé : porte, fenêtre, mur, plafond et plancher opposent la même barrière. Casser la façade, contourner par le balcon ou tenter une téléportation à travers cette limite ne procure aucun accès. La résistance est perceptible avant de dépenser une ressource ; annoncez cette particularité lorsque le joueur envisage son action.
 >
-> **Détection et analyse.** *Détection de la magie* révèle une abjuration mêlée à la hantise. Un test d’Intelligence (Arcanes) DD 12 explique que le sceau attend une signature d’objet précise, sans mot de passe ; un échec laisse visible le motif de l’éclat. Le toucher et les indices suffisent à comprendre qu’une clé existe.
+> **Détection et analyse.** *[Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)* révèle une abjuration mêlée à la hantise. Un test d’Intelligence (Arcanes) DD 12 explique que le sceau attend une signature d’objet précise, sans mot de passe ; un échec laisse visible le motif de l’éclat. Le toucher et les indices suffisent à comprendre qu’une clé existe.
 >
-> **Sorts d’ouverture.** Ce n’est ni un verrou mécanique ni un sort maintenu : les outils, *Déblocage* et *Dissipation de la magie* ne le lèvent pas. Expliquez ce constat à l’examen du sceau, avant que les joueurs dépensent un sort pour un effet qui n’existe pas. Cette exception ne s’étend à aucun autre obstacle du guide.
+> **Sorts d’ouverture.** Ce n’est ni un verrou mécanique ni un sort maintenu : les outils, *[Déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)* et *[Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)* ne le lèvent pas. Expliquez ce constat à l’examen du sceau, avant que les joueurs dépensent un sort pour un effet qui n’existe pas. Cette exception ne s’étend à aucun autre obstacle du guide. Les références de ces sorts et de *Détection de la magie* conservent le cadre 2014 de l’ouverture.
 >
 > **Ouverture.** L’[éclat local](#de-eclat-elisabeth) au contact du glyphe retire définitivement le sceau, sur toutes les parois. Ni maintien en place ni consommation. La mort d’Elisabeth ne détruit pas cet ouvrage achevé : si elle meurt d’abord, la pierre reste active et la chambre demeure ouvrable ensuite.
 
@@ -414,15 +495,25 @@ Si Klara a été rencontrée, son reflet apparaît une dernière fois dans le ve
 
 <a id="en-attic-hall" data-traduction="ancre"></a>
 ### Couloir du grenier
+*Zone 16.*
 
-*Zone 16.* L’escalier ordinaire débouche sur un couloir étroit. Des objets sous des draps encombrent les côtés ; le passage central est libre. La porte de la chambre des enfants est entrouverte, son ancien moraillon arraché par la rouille. Les autres portes s’ouvrent normalement.
+<div class="description">
+<p>L’escalier de bois débouche sur un couloir étroit. Des objets couverts de draps encombrent ses côtés. Au bout du passage dégagé, une porte est entrouverte ; son ancien moraillon, rongé de rouille, a été arraché.</p>
+</div>
+
+Cette porte est celle de la chambre des enfants. Les autres portes du grenier s’ouvrent normalement.
 
 <a id="en-spare-bedroom" data-traduction="ancre"></a>
 ### Petite chambre inoccupée
+*Zone 17.*
 
-*Zone 17.* Une poupée en robe jaune est assise sur un fauteuil à bascule, auprès d’une boîte à musique. C’est celle du portrait familial. La boîte joue les premières mesures de la **Valse pour Klara**, assez clairement pour qu’on puisse les retenir en les fredonnant. Elle ne contient ni clé ni plan caché.
+<div class="description">
+<p>Une poupée en robe jaune est assise sur un fauteuil à bascule. À côté d’elle repose une boîte à musique. La robe est celle de la poupée peinte dans le portrait du hall.</p>
+</div>
 
-Rendre la poupée à Thorn le rassure ; cela ne conditionne aucune information. Si les personnages l’emportent, notez-le comme un objet ordinaire, sans bonus de combat.
+La boîte joue les premières mesures de la **Valse pour Klara**, assez clairement pour qu’on puisse les retenir en les fredonnant. Elle ne contient ni clé ni plan caché.
+
+Rendre la poupée à Thorn le rassure ; cela ne conditionne aucune information. Si les personnages l’emportent, notez-la comme un objet ordinaire.
 
 <a id="en-childrens-room" data-traduction="ancre"></a>
 ### Rose et Thorn
@@ -435,7 +526,10 @@ Rendre la poupée à Thorn le rassure ; cela ne conditionne aucune information. 
 <p>« Vous avez entendu ? demande-t-elle. Quelqu’un est enfin venu. »</p>
 </div>
 
-**[Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst)** protège Thorn et cherche à comprendre si les visiteurs vont les abandonner. **[Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst)** se cache d’abord derrière elle, mais remarque les objets familiers et les petits gestes de gentillesse. Ils connaissent la maison telle qu’ils l’ont vécue. Ils ont compris qu’ils sont morts et que leurs corps sont restés là ; ils ne connaissent pas l’histoire du Temple d’Ambre et ne disposent d’aucune vision du reste de la campagne.
+![[Rose and Thorn.webp]]
+<span class="credit">« Rose et Thorn », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon</a>.</span>
+
+**[Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst)** protège Thorn et cherche à comprendre si les visiteurs vont les abandonner. **[Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst)** se cache d’abord derrière elle, mais remarque les objets familiers et les petits gestes de gentillesse. Ils connaissent la maison telle qu’ils l’ont vécue. Ils ont compris qu’ils sont morts et que leurs corps sont restés là. Leurs réponses se limitent à leurs souvenirs et à ce qu’ils voient autour d’eux.
 
 > [!profile]+ **Jouer les enfants**
 > Rose parle comme une aînée qui essaie de se montrer raisonnable : « Thorn ne voulait pas pleurer. Il avait juste très faim. » Elle peut se fâcher si on traite son frère comme un objet de curiosité, puis revenir aux faits si on l’écoute.
@@ -456,28 +550,42 @@ Les enfants livrent les informations indispensables sans jet social. Choisissez 
 
 **S’ils refusent de parler aux esprits.** Le journal de Rose repose ouvert sur son lit, à côté d’un dessin de Thorn. On y voit la coiffeuse, le coffret et son double fond, avec une pierre orangée ; une phrase indique : **Maman cache la pierre sous les bijoux. Appuyer près de la charnière.** La dernière page du carnet demande : **Si quelqu’un nous trouve, emmenez-nous au jardin.** Aucun de ces indices ne demande le même test social ou une fouille cachée.
 
-**S’ils ont déjà la pierre.** Thorn la reconnaît et confirme que c’est la bonne. Ne prétendez pas qu’ils doivent la reposer pour rejouer la découverte. Les enfants peuvent encore aider à identifier les victimes et à comprendre la porte.
+**S’ils ont déjà la pierre et la lui montrent.** Thorn la reconnaît et confirme que c’est la bonne. Les enfants peuvent alors les aider à identifier les victimes et à comprendre la porte.
 
-**La maison de poupée** reproduit uniquement les quatre niveaux supérieurs. Ses pièces montrent un escalier ordinaire et une toute petite porte ambrée à la nurserie. Il n’existe ni compartiment souterrain ni escalier caché dans la maquette. Les figurines sont de simples jouets ; elles ne révèlent pas les positions de toutes les créatures.
+**La maison de poupée** reproduit les quatre niveaux du manoir. Ses pièces montrent l’escalier ordinaire et une toute petite porte ambrée à la nurserie. Les personnages peuvent s’en servir comme d’un plan ; les figurines sont de simples jouets, sans lien avec les positions des habitants.
 
-Les esprits peuvent accompagner leurs propres restes dans la maison et se manifester brièvement près du paquet porté. Ils ne possèdent personne, ne lancent pas de sorts et ne rejoignent pas l’initiative du boss. Une agression les fait se retirer auprès de leurs corps ; elle ne détruit pas la piste écrite.
+Les esprits peuvent accompagner leurs propres restes dans la maison et se manifester brièvement près du paquet porté. Une agression les fait se retirer auprès de leurs corps ; le journal et le dessin restent accessibles.
 
 <a id="en-storage-room-2" data-traduction="ancre"></a>
 ### Le coffre de Klara
+*Zone 18.*
 
-*Zone 18.* Des meubles couverts et un vieux poêle entourent une grande malle. Son couvercle n’est pas verrouillé. À l’intérieur, un corps desséché est enveloppé dans un tablier portant les initiales **K** et une fleur identique à celles du linge de Walter. La blessure ancienne à la gorge correspond à la marque du reflet de Klara.
+<div class="description">
+<p>Des meubles couverts et un vieux poêle entourent une grande malle.</p>
+</div>
 
-Une inspection suffit à identifier les restes en recoupant ces éléments. Un test de Sagesse (Médecine) DD 12 confirme une mort violente ; il n’est pas nécessaire pour savoir qu’il faut prendre soin d’elle. Des draps de la lingerie permettent d’envelopper le corps. Il n’y a pas de second spectre hostile dans le coffre.
+Son couvercle n’est pas verrouillé. Lorsqu’il est soulevé, lisez :
+
+<div class="description">
+<p>Un corps desséché est enveloppé dans un tablier. Sur le tissu, la lettre K accompagne une fleur brodée. Une blessure ancienne barre la gorge de la morte.</p>
+</div>
+
+Si les personnages ont rencontré Klara, ils reconnaissent la marque à la gorge de son reflet. S’ils ont vu le linge de Walter, ils retrouvent ici les mêmes fleurs brodées. Une inspection suffit à identifier les restes en recoupant ces éléments avec le monogramme et les indices déjà recueillis. Un test de Sagesse (Médecine) **DD 12** confirme une mort violente ; l’identification et les soins apportés à la dépouille restent possibles sans ce jet. Des draps de la lingerie permettent d’envelopper le corps.
 
 <a id="en-guest-bedroom" data-traduction="ancre"></a>
 ### Chambre d’amis
+*Zone 19.*
 
-*Zone 19.* Un lit, une table et des rideaux fermés composent une chambre sans indice indispensable. Elle offre du calme pour un repos ou pour préparer les linges. Laisser un personnage ici ne l’enferme pas dans une scène hors champ.
+<div class="description">
+<p>Les rideaux fermés assombrissent une chambre meublée d’un lit et d’une table.</p>
+</div>
+
+La pièce offre du calme pour un repos ou pour préparer les linges. Elle ne contient aucun indice indispensable ; les personnages peuvent y rester ou la quitter librement.
 
 <a id="de-depouilles"></a>
 ## Les quatre victimes
 
-Le transport est un acte de soin, pas une comptabilité des os. Les restes sont anciens et peuvent être enveloppés ; le couffin de Walter est portable. Les linges, sacs et outils de la maison sont suffisants. Un groupe de trois peut descendre les paquets en plusieurs voyages et les déposer dans le hall. Les enfants ne demandent pas que chaque fragment soit inventorié et les dépouilles ne sont pas des objectifs destructibles.
+Les linges, sacs et outils de la maison permettent d’envelopper les restes et de les transporter avec soin. Le couffin de Walter est portable. Un groupe de trois peut descendre les paquets en plusieurs voyages et les déposer dans le hall. Suivez chaque victime, sans demander l’inventaire de chaque os ; les dépouilles ne sont pas des objectifs destructibles.
 
 | Victime | Où la trouver | Identification et transport | Funérailles |
 |---|---|---|---|
@@ -494,17 +602,17 @@ Gustav possède déjà sa [tombe au jardin](#de-funerailles). L’enquête peut 
 
 ### Lorsque le verrou cède
 
-**Au moins une dépouille prise en charge au seuil** suffit. Dès qu’elle approche de la porte, le métal tremble, une petite empreinte apparaît dans la buée du bois et le pêne se soulève. Si les enfants ont été ignorés, l’empreinte et le mouvement du verrou montrent le lien sans demander aux joueurs de deviner un état caché.
+**Lorsqu’au moins une dépouille approche du seuil**, le métal tremble, une petite empreinte apparaît dans la buée du bois et le pêne se soulève. Décrivez ce mouvement même si les personnages n’ont pas parlé aux enfants : il leur permet de comprendre le lien entre les victimes et la porte.
 
-Cette détente n’appelle pas encore Elisabeth. Les personnages peuvent rassembler les autres restes, déposer leurs charges sur le banc et se préparer. **C’est le début réel de la réouverture** qui fait descendre Elisabeth, y compris lorsqu’une ouverture a été obtenue par forçage plus tôt. Il n’est pas nécessaire d’avoir réuni les quatre victimes, ouvert la nurserie ou visité la bibliothèque.
+Les personnages peuvent encore rassembler les autres restes, déposer leurs charges sur le banc et se préparer. **Elisabeth descend dès que les personnages commencent à rouvrir l’entrée**, que le verrou ait cédé avec l’aide des victimes ou que la porte soit forcée. Ce déclencheur vaut à tout moment de l’exploration, même avant la découverte de la nurserie ou des enfants.
+
+**De nuit**, remplacez le trait de jour par l’obscurité de la rue ou la lumière réellement présente ; le reste de la scène est inchangé.
 
 <div class="description">
 <p>Le battant s’écarte. Un trait de jour gris apparaît sur le parquet.</p>
 <p>Au-dessus de vous, une marche gémit. Une femme descend l’escalier, une main légère posée sur la rampe. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; à cette distance, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</p>
 <p>« On ne quitte pas ma maison en emportant ce qui m’appartient. »</p>
 </div>
-
-**De nuit**, remplacez le trait de jour par l’obscurité de la rue ou la lumière réellement présente ; le reste de la scène est inchangé.
 
 **Si Walter est présent**, elle regarde le couffin ou le linge qui le contient et ajoute exactement :
 
@@ -523,13 +631,17 @@ Les porteurs qui ont eu le temps de se préparer peuvent poser les victimes avan
 <a id="de-combat-elisabeth"></a>
 ### Jouer Elisabeth
 
-[Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) veut rétablir son autorité, humilier les intrus et garder ses crimes enfermés. Elle parle avec une précision glaciale : « Tu n’as pas à regarder cela », « Tenez-vous droits », « Ils avaient tout, ici ». Elle peut mentir sur sa culpabilité, mais le MJ connaît la vérité. Les traits révèlent très vite une incarnation aberrante, même sous son apparence humaine.
+[Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) veut rétablir son autorité, humilier les intrus et garder ses crimes enfermés. Elle parle avec une précision glaciale : « Tu n’as pas à regarder cela », « Tenez-vous droits », « Ils avaient tout, ici ». Elle ment sur sa culpabilité et parle des siens comme de biens qu’on lui vole. Les traits de sa forme humaine révèlent pourtant très vite une incarnation aberrante.
 
-Le combat prévu se résout par sa mort. Elle ne devient pas une innocente à délivrer en chassant un parasite. Une ruse des personnages peut leur donner une position, une diversion ou une fuite cohérente ; elle ne remplace pas automatiquement les deux formes par une persuasion obligatoire.
+La mort d’Elisabeth met fin à son emprise. Les deux formes sont celles de la même femme, qui a choisi et entretenu son pacte. Une ruse des personnages peut leur donner une position, une diversion ou une fuite cohérente ; il n’existe pas de persuasion prescrite qui remplace l’affrontement.
+
+**La noble corrompue.** Accompagnez ses attaques d’ordres brefs. Sa Poigne impérieuse retient celui qu’elle veut remettre à sa place ; ses Éclats du foyer frappent les autres intrus. Contre une victime qu’elle agrippe déjà, elle peut employer le Drap mortuaire à la place de ses attaques habituelles. Faites voir le tissu qui se tend pour que les compagnons comprennent comment lui porter secours. Elle peut aussi chercher à rabattre les personnages à terre avec **À genoux**, selon l’occasion et son usage restant.
+
+**La nothic.** Sa voix reste la même, mais les ordres font place à des accusations. Au contact, ses griffes s’abattent sur ceux qui la menacent ; plus loin, son Regard de corruption lui permet de les atteindre. Après ce regard ou une Lecture de secret, décrivez son œil largement exposé : les personnages doivent pouvoir saisir l’ouverture. Ces intentions aident à choisir ses actions ; elles n’imposent pas une succession de tours.
 
 **Fuite et retour.** Une sortie réellement gagnée reste ouverte. Si les personnages rompent le combat, relevez la forme d’Elisabeth, ses PV, ses usages déjà dépensés, les états qui l’affectent, sa position et l’état des portes. Elle défend volontairement le hall et le bas de l’escalier ; elle peut attaquer une cible visible à portée par une ouverture, mais ne mène pas de chasse hors du manoir. Si un effet ou les personnages la déplacent ailleurs, elle doit revenir par ses déplacements ordinaires, sans téléportation ni immunité nouvelle. Une halte n’est sûre que si les PJ se sont réellement soustraits à ses attaques ; leurs blessures et leurs repos restent à suivre.
 
-Après leur retrait, elle attend dans le hall et conserve sa forme : une nothic ne redevient pas noble, la porte ne se reconstitue pas et sa descente initiale n’est pas rejouée. Les états expirent selon leur durée normale. Elle n’a ni régénération ni réserve de dés de vie prévue pour cette rencontre : dix minutes ou un repos court ne rendent pas de PV. Un repos long effectivement obtenu lui rend les PV de **sa forme actuelle** uniquement, sous les conditions et la fréquence ordinaires ; il ne restaure pas une phase vaincue ni un usage limité « une fois dans cette phase ». Une nouvelle attaque du groupe déclenche une initiative normale depuis les positions réelles. La visite ne donne aucun second jalon d’ouverture.
+Après leur retrait, elle attend dans le hall et conserve sa forme : une nothic ne redevient pas noble, la porte ne se reconstitue pas et sa descente initiale n’est pas rejouée. Les états expirent selon leur durée normale. Elle n’a ni régénération ni réserve de dés de vie prévue pour cette rencontre : dix minutes ou un repos court ne rendent pas de PV. Un repos long effectivement obtenu lui rend les PV de **sa forme actuelle** uniquement, sous les conditions et la fréquence ordinaires ; il ne restaure pas une phase vaincue ni un usage limité « une fois dans cette phase ». Une nouvelle attaque du groupe déclenche une initiative normale depuis les positions présentes. La progression reste régie par le [jalon de l’arc](#de-funerailles), attribué une seule fois.
 
 **Terrain.** Utilisez le [gabarit du hall](#en-main-hall), avec les positions prises pendant la préparation. Elisabeth débute normalement en B6 ; elle n’apparaît pas au milieu des PJ et ne barre pas toutes les portes à la fois. Les personnages peuvent se servir des murs, du mobilier et des marches. Une autre position gagnée avant l’initiative est conservée.
 
@@ -644,14 +756,16 @@ La rue est celle par laquelle les personnages sont arrivés. Le jardin occupe l�
 
 Les outils de la cuisine et la terre meuble permettent aux personnages de creuser des tombes convenables en **deux heures de travail partagé**. Ils peuvent réunir Rose et Thorn ou Klara et Walter dans une même fosse, en reconnaissant chaque personne. Ni prêtre, ni sort, ni formule particulière n’est requis. Un nom prononcé, un geste choisi par les joueurs ou un moment de silence suffit à donner du sens à l’acte.
 
+Lorsque **Rose, Thorn, Klara et Walter sont tous enterrés et Elisabeth morte**, lisez la conclusion suivante. De nuit, remplacez la lumière grise par celle des lampes ou par les ténèbres présentes.
+
 <div class="description">
 <p>La dernière poignée de terre retombe doucement. Le vent passe dans le pommier. Près du mur, une fillette tient la main d’un petit garçon ; un peu plus loin, une femme berce un enfant contre elle.</p>
 <p>Ils ne vous demandent plus rien. Leurs silhouettes pâlissent à mesure que la lumière grise gagne le jardin. Quand vous regardez de nouveau la maison, ses fenêtres sont simplement des fenêtres.</p>
 </div>
 
-Ne lisez cette conclusion complète que si **Rose, Thorn, Klara et Walter sont tous enterrés et Elisabeth morte**. Si la cérémonie a lieu de nuit, adaptez la lumière du jardin aux lampes ou aux ténèbres présentes ; les funérailles ne font pas lever le jour. Avant sa mort, décrivez seulement les silhouettes des victimes effectivement enterrées, sans la dernière phrase sur les fenêtres. Pour des funérailles partielles, ne décrivez que les personnes effectivement enterrées. Les autres manifestations demeurent attachées à leurs restes, accessibles si le groupe revient. La mort d’Elisabeth n’a pas enterré Walter à la place des joueurs.
+**Pour des funérailles partielles**, décrivez seulement les victimes enterrées. Les autres esprits demeurent attachés à leurs restes et pourront être retrouvés lors d’une prochaine visite. Si Elisabeth vit encore, omettez la dernière phrase sur les fenêtres : son emprise persiste.
 
-**Ce qui est apaisé.** Après la mort d’Elisabeth, les quatre funérailles mettent fin à la hantise locale. Si les personnages ont emporté les corps par une autre sortie et les enterrent **avant** de vaincre Elisabeth, les victimes ensevelies trouvent le repos, mais l’emprise propre d’Elisabeth sur le manoir subsiste jusqu’à sa mort. La maison ne devient pas sûre par cette seule cérémonie et le boss ne se manifeste pas au jardin. Les funérailles ne défont pas les Brumes et ne promettent pas que ces âmes ont quitté le domaine de Barovie. Aucun pouvoir divin ou nouvelle règle de réincarnation n’est attribué à ce rite simple.
+**Ce qui est apaisé.** Après la mort d’Elisabeth, les quatre funérailles mettent fin à la hantise locale. Si les personnages ont emporté les corps par une autre sortie et les enterrent **avant** de vaincre Elisabeth, les victimes ensevelies trouvent le repos, mais l’emprise propre d’Elisabeth sur le manoir subsiste jusqu’à sa mort. La maison ne devient pas sûre par cette seule cérémonie et le boss ne se manifeste pas au jardin. Cet apaisement concerne la hantise des victimes ; le sort de leurs âmes dans le domaine de Barovie reste soumis aux règles générales des Brumes.
 
 **Jalon.** Lorsque le groupe a brisé l’emprise d’Elisabeth et résolu son intervention dans la maison — en accomplissant les funérailles, ou en choisissant explicitement de partir après avoir établi le sort des victimes restantes — portez chaque personnage au **niveau 3, total 900 PX**. Cela correspond à 600 PX de jalon après le prologue. Les funérailles complètes donnent la résolution humaine et surnaturelle entière ; le niveau n’oblige pas à simuler une action que les joueurs refusent. Notez séparément les victimes non enterrées pour leurs conséquences. Un groupe ayant déjà gagné ce jalon par la [branche du village](#de-sans-maison) ne le reçoit pas une seconde fois.
 
@@ -662,29 +776,29 @@ Au calendrier de référence, la Maison et les funérailles occupent le **27 Oct
 
 Réservez une fenêtre allant d’environ **22 h jusqu’à 8 h le lendemain**, avec une période de repos valide d’au moins huit heures et suffisamment de temps depuis le précédent repos long. En 2014, les bénéfices de deux repos longs doivent être séparés d’au moins vingt-quatre heures. Ainsi, après la fin de repos N2 à 6 h 30 J1, aucun second bénéfice n’est accordé avant 6 h 30 J2. Si la table utilise effectivement les règles de repos 2024, attendez aussi les seize heures requises avant de commencer le suivant. Déplacez l’heure de fin si un incident ou une veille trop longue l’exige.
 
-L’accueil initial peut être bref : les guetteurs reconnaissent des vivants, offrent de l’eau et une couche sous garde, puis annoncent qu’Ismark voudra leur parler **au matin**. N’annoncez pas encore un assaut imminent dont le compte à rebours serait ensuite suspendu pour les laisser dormir. Les défenses du village sont tenues pendant cette nuit ; les gardes nouvellement arrivés n’ont pas à reprendre une scène entière de siège avant leur récupération.
+À leur arrivée au village, les guetteurs leur offrent de l’eau et une couche sous garde. Ismark, le fils du bourgmestre qui organise la défense, voudra leur parler **au matin**. Les sentinelles tiennent leurs postes pendant cette nuit ; les personnages disposent de ce temps pour se reposer. Annoncez le prochain assaut d’après l’horloge commune et le temps effectivement restant.
 
-Le **28 Octyavr (J2)**, commencez directement [B5. Le village de Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b5-the-village-of-barovia) avec des personnages de niveau 3 et leur repos réellement obtenu. Les événements de cette journée, l’état de Kolyan et la menace du soir sont décrits dans l’arc B. Si l’enquête a duré davantage, utilisez le [routage de B](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-routage-village) à la date réelle. L’[horloge installée](Act%20I%20Summary.md#de-calendrier-installe) ne se décale pas pour attendre le groupe : les événements survenus gardent leurs conséquences, Kolyan ne revient pas à la vie et l’état d’Ireena ne se réinitialise pas.
+Le **28 Octyavr (J2)**, commencez directement [B5. Le village de Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b5-the-village-of-barovia) avec des personnages de niveau 3 et leur repos réellement obtenu. Les événements de cette journée, l’état de Kolyan et la menace du soir sont décrits dans l’arc B. Si l’enquête a duré davantage, utilisez le [routage de B](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-routage-village) à la date réelle. L’[horloge installée](Act%20I%20Summary.md#de-calendrier-installe) continue de courir ; l’accueil dépend alors de l’issue de l’assaut et du sort de Kolyan et d’Ireena.
 
 <a id="de-sans-maison"></a>
 ## S’ils gagnent directement le village
 
-La fuite vers la palissade, l’escorte des roulottes et une victoire contre les loups peuvent conduire au village sans visite du manoir. Les guetteurs les laissent passer et leur proposent un travail urgent mais limité. **Ils ne leur racontent pas une délivrance des Durst qui n’a pas eu lieu.**
+La fuite vers la palissade, l’escorte des roulottes ou une victoire contre les loups peuvent conduire les personnages au village. Les guetteurs leur ouvrent le passage. Une famille est encore bloquée de l’autre côté de la barricade : ils demandent aux nouveaux venus de l’aider à rentrer.
 
 ### La charrette de la dernière maison
 
 Une famille quitte une maison située à **30 m de la barricade**, dans une cour visible depuis les guetteurs. Sa charrette chargée de vivres a perdu une roue dans une ornière ; une vieille femme incapable de marcher longtemps attend sous l’auvent. Les gardes villageois doivent maintenir le passage ouvert et ne peuvent pas tous abandonner leurs postes. Ils demandent aux nouveaux venus de ramener les personnes et les provisions pendant qu’ils couvrent le chemin.
+
+Si le groupe arrive de nuit, remplacez « avant la nuit » par « avant que leur lumière attire les morts ». Après la fin du siège, le guetteur parle de mettre la famille à l’abri et de récupérer ses réserves, sans prétendre qu’un assaut déjà passé menace encore.
 
 <div class="description">
 <p>De l’autre côté de la barricade, un homme essaie seul de soulever un essieu. À chaque effort, la roue retombe dans la boue. Sous l’auvent, une femme âgée serre une couverture sur ses genoux.</p>
 <p>Le guetteur ne quitte pas les bois des yeux. « Nous pouvons les couvrir d’ici. Si vous nous aidez à les ramener maintenant, cette maison sera vide avant la nuit. »</p>
 </div>
 
-Si le groupe arrive de nuit, remplacez « avant la nuit » par « avant que leur lumière attire les morts ». Après la fin du siège, le guetteur parle de mettre la famille à l’abri et de récupérer ses réserves, sans prétendre qu’un assaut déjà passé menace encore.
+Les personnages peuvent réparer, décharger puis pousser, transporter les vivres dans des sacs, improviser une civière ou organiser des allers-retours. Un test de Force (Athlétisme) **DD 10**, des outils adaptés ou une idée suffisante permettent une réparation ou un dégagement rapide ; un échec coûte dix minutes et révèle qu’il vaut mieux alléger la charge. Le matériel et l’aide de plusieurs personnes donnent une solution sans jet bloquant. Une heure suffit à un effort organisé, sous la protection des guetteurs restés à leurs postes.
 
-Les personnages peuvent réparer, décharger puis pousser, transporter les vivres dans des sacs, improviser une civière ou organiser des allers-retours. Un test de Force (Athlétisme) **DD 10**, des outils adaptés ou une idée suffisante permettent une réparation ou un dégagement rapide ; un échec coûte dix minutes et révèle qu’il vaut mieux alléger la charge. Le matériel et l’aide de plusieurs personnes donnent une solution sans jet bloquant. Une heure suffit à un effort organisé ; les guetteurs couvrent la cour sans rejoindre une autre aventure.
-
-Faites jouer la décision : tout emporter d’abord, mettre la vieille femme à l’abri, récupérer les réserves nécessaires ou demander de l’aide. Les personnages peuvent aussi convaincre la famille d’abandonner des objets encombrants ; la nourriture nécessaire et les personnes sont les priorités. Aucun ennemi caché ni nouveau donjon ne sanctionne le choix d’éviter le manoir.
+Faites jouer la décision : tout emporter d’abord, mettre la vieille femme à l’abri, récupérer les réserves nécessaires ou demander de l’aide. Les personnages peuvent aussi convaincre la famille d’abandonner des objets encombrants ; la nourriture nécessaire et les personnes sont les priorités. La scène s’achève avec la mise à l’abri ; aucune attaque n’y est prévue.
 
 **Jalon alternatif.** Quand les personnes sont en sécurité et que les gardes ont organisé une solution praticable pour les vivres, portez les PJ au **niveau 3, total 900 PX**, à la place du jalon de la Maison. Une autre aide de protection équivalente réellement jouée peut remplir cette fonction si les circonstances ont déplacé la famille. S’ils refusent toute intervention, donnez-leur l’occasion de choisir un service concret à la barricade avant de commencer la journée de niveau 3 ; ne prétendez pas qu’ils ont aidé hors champ.
 
@@ -712,4 +826,4 @@ La maison apprend aux gardes à protéger sans mandat, à distinguer une apparit
 
 L’horreur corporelle culmine dans sa transformation. Les autres manifestations racontent la famille et orientent l’enquête ; elles n’ajoutent pas une série de dégâts imprévus. Si un indice est manqué, l’enfant, le dessin, le document et le lieu restent des accès distincts à la même vérité.
 
-Les premières rencontres directes avec Strahd et madame Eva conservent leur place dans [l’arc C — Dans la vallée](Arc%20C%20-%20Into%20the%20Valley.md). Ni un cadeau signé par Strahd devant le manoir, ni un récit omniscient des funérailles ne s’ajoute automatiquement à la sortie. Les actes des personnages deviennent connus parce que quelqu’un les a vus ou entendus.
+Les premières rencontres directes avec Strahd et madame Eva ont lieu dans [l’arc C — Dans la vallée](Arc%20C%20-%20Into%20the%20Valley.md). D’ici là, les actes des personnages deviennent connus par les témoins et par ce qu’ils choisissent de raconter. La sortie du manoir ne comporte aucun cadeau de Strahd.

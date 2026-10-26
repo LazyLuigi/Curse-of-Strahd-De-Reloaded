@@ -1,5 +1,7 @@
 > [!info]+ **Une équipe avant les Brumes**
-> Présentez l’ouverture de [l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : des gardes de niveau 1 reçoivent un ordre d’expulsion visant une caravane. L’injustice, les préjugés et le devoir de protection seront joués sans dicter la réponse morale des personnages. Le passage en Barovie est la prémisse annoncée de la campagne ; le refus d’un repas ou d’une tente n’est pas puni par un sommeil forcé.
+> Présentez l’ouverture de [l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : à Valcroix, sur la Côte des Épées, les personnages de niveau 1 servent ensemble dans la garde du seigneur Loïc de Hauterive. Des habitants se plaignent de voyageurs de passage ; Loïc charge les personnages de retrouver leur caravane et de la faire partir. L’injustice, les préjugés et le devoir de protection seront joués sans dicter la réponse morale des personnages. Le passage en Barovie est la prémisse annoncée de la campagne ; le refus d’un repas ou d’une tente n’est pas puni par un sommeil forcé.
+>
+> Contrairement à Reloaded, les [reliques baroviennes](Character%20Creation.md#en-motivations) ne constituent plus une seconde accroche à jouer en parallèle. Elles enrichissent l’histoire personnelle des personnages au sein de cette ouverture commune.
 >
 > La Maison reste tragique : maltraitance, mort d’enfants, dépouilles et transformation corporelle d’Elisabeth. La refonte retire son donjon souterrain, pas l’horreur du moulin, de l’Abbaye ou de Ravenloft. Réglez les limites et le degré de description avant de jouer, puis conservez les outils de sécurité ci-dessous.
 

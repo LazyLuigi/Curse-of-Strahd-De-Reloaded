@@ -1136,15 +1136,13 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 
 ## Repères historiques de l’ancienne ouverture
 
-Ces noms et anciennes aptitudes restent identifiables dans le journal daté de Reloaded. Ils ne désignent pas des rencontres ou des règles de l’ouverture actuelle ; Walter possède une [notice de victime](Non-Player%20Characters.md#de-walter-durst) distincte.
+<a id="ref-nom-daggerford"></a>
+<a id="ref-nom-drasha"></a>
+<a id="ref-nom-lancelot"></a>
+<a id="ref-campagne-heavy-sleeper"></a>
+<a id="ref-campagne-highharvesttide"></a>
+<a id="ref-campagne-flesh-mound"></a>
+<a id="ref-campagne-graveborn"></a>
+<a id="ref-campagne-nightmares-bridle"></a>
 
-| Français | Anglais | Statut |
-|---|---|---|
-| <a id="ref-nom-daggerford"></a>Gué de la Dague | Daggerford | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-nom-drasha"></a>Drasha | Drasha | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-nom-lancelot"></a>Lancelot | Lancelot | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-campagne-heavy-sleeper"></a>Sommeil profond | Heavy Sleeper | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-campagne-highharvesttide"></a>Grande Récolte | Highharvesttide | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-campagne-flesh-mound"></a>Amas de chair | Flesh Mound | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-campagne-graveborn"></a>Né-du-tombeau | Graveborn | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
-| <a id="ref-campagne-nightmares-bridle"></a>Bride du Cauchemar | Nightmare’s Bridle | [Repère historique — ancienne ouverture](../Introduction/Changelog.md#de-ancienne-ouverture) |
+Les anciennes entrées renvoient désormais aux [archives de l’ouverture de Reloaded](../Introduction/Changelog.md#de-ancienne-ouverture). Les personnages et les règles de la version actuelle sont recensés dans les sections précédentes.

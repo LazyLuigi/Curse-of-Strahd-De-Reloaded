@@ -1,4 +1,19 @@
-Les entrées des 24 et 25 octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
+Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
+
+<a id="de-pillards-caravane-2026-10-26"></a>
+# 26 octobre 2026 — Les pillards et la caravane
+
+- Introduction resserrée autour de l’enquête et des échanges avec les habitants. Leurs témoignages mettent en cause des étrangers qu’ils confondent avec la caravane ; le trajet jusqu’au camp ne comporte ni attaque ni piège.
+- Remplacement du faux péage par une attaque de la caravane au crépuscule. Les pillards suivent les voyageurs et usurpent leur identité vistani pour détourner les soupçons. Les personnages viennent défendre les familles que leur mission devait faire partir.
+- L’invitation de Stanimir au repas remercie désormais les personnages pour leur aide. La soirée, le conte et le passage des Brumes prolongent cette rencontre.
+- Ajout de deux jeux facultatifs pendant les chants, entre le repas et les questions sur les reliques : le grelot discret (Dextérité) et le couplet impossible (Charisme), avant le conte de Stanimir.
+- Les reliques visibles peuvent susciter des questions des Vistani au repas. La Session 0 et la création des personnages précisent leur nouveau rôle par rapport à Reloaded : des liens personnels intégrés à l’ouverture commune, plutôt qu’une accroche supplémentaire.
+- Réécriture du résumé de l’acte I dans un style narratif, avec le contexte présenté avant les noms et les fonctions des personnages. Harmonisation des autres présentations, des notices et du canevas avec cette nouvelle séquence.
+- Harmonisation des arcs 0 et A avec l’écriture de l’arc B : présentation chronologique, descriptions à lire aux joueurs, dialogues et indications pratiques distincts. Les pièces du manoir séparent ce qui se voit en entrant de ce qui se découvre en explorant ; les profils d’Elisabeth sont conservés.
+- Deux passes de relecture croisée sur les parcours, le lore, la forme et la conduite du jeu. Correction des départs anticipés, des connaissances supposées dans les descriptions et des répétitions entre le prologue et l’arrivée à Baroville.
+- Contrôle des fiches, des annexes et des références des arcs 0 et A : accès direct aux sorts du sceau et à la trousse de soins, avec leurs règles 2014 ; renvoi précis au relevé de continuité ; apparitions de Thorn complétées.
+- Retrait de huit entrées obsolètes de l’index courant, conservées uniquement dans les archives de Reloaded avec leurs anciens renvois. Retrait du plan du sous-sol et de l’illustration du grick devenus sans usage ; retour de l’illustration de Rose et Thorn auprès de leur scène.
+- À l’étang de Tser, accueil, contes, mises, votes et petit-déjeuner tiennent compte de la présence effective de Stanimir et de ses compagnons.
 
 <a id="de-feu-brumes-2026-10-25"></a>
 # 25 octobre 2026 — Le Feu et les Brumes : nouvelle ouverture
@@ -89,6 +104,19 @@ Travaux de **LazyLuigi** pour **Curse of Strahd De-Reloaded**, la version maison
 <a id="de-ancienne-ouverture"></a>
 > [!info]+ **Lire les anciennes notes de l’ouverture**
 > Les entrées ci-dessous conservent l’historique de Reloaded sous ses dates d’origine. Leurs mentions de Walter en tant que boss, de la Maison voyageuse, du sous-sol ou de l’ancienne accroche concernent cette version antérieure. Pour jouer De-Reloaded, suivre l’[arc 0 — Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) puis l’[arc A réécrit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md). Les profils retirés ne s’appliquent plus.
+>
+> Les noms ci-dessous appartiennent uniquement à cette ancienne ouverture ; leurs entrées ont été retirées de l’index courant.
+>
+> | Français | Anglais |
+> |---|---|
+> | Gué de la Dague | Daggerford |
+> | Drasha | Drasha |
+> | Lancelot | Lancelot |
+> | Sommeil profond | Heavy Sleeper |
+> | Grande Récolte | Highharvesttide |
+> | Amas de chair | Flesh Mound |
+> | Né-du-tombeau | Graveborn |
+> | Bride du Cauchemar | Nightmare’s Bridle |
 
 Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas les ajouts propres à De-Reloaded.
 

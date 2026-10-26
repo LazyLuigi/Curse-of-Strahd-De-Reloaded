@@ -3,7 +3,7 @@
     {
       "id": "mandat",
       "type": "text",
-      "text": "ARC 0 · Niveau 1\nGardes de Loïc à Valcroix : mandat d’expulsion, délai demain midi.",
+      "text": "ARC 0 · Niveau 1\nÀ Valcroix, Loïc charge les personnages de faire partir une caravane avant demain midi.",
       "x": 0,
       "y": 0,
       "width": 320,
@@ -12,8 +12,17 @@
     {
       "id": "recherche",
       "type": "text",
-      "text": "Enquêter sur les plaintes ; deux pistes vers le camp. Brigands indépendants : résolution sociale, reddition ou combat.",
+      "text": "Quelques témoignages\nDes habitants accusent des étrangers de vols. Les pistes conduisent au camp de Stanimir ; échange sur le mandat.",
       "x": 400,
+      "y": 0,
+      "width": 320,
+      "height": 190
+    },
+    {
+      "id": "attaque",
+      "type": "text",
+      "text": "Au camp · Crépuscule, vers 17 h\nLes pillards qui suivent la caravane attaquent. Ils se faisaient passer pour des Vistani. Protéger les familles : combat, dissuasion ou reddition.",
+      "x": 800,
       "y": 0,
       "width": 320,
       "height": 190
@@ -21,8 +30,8 @@
     {
       "id": "camp",
       "type": "text",
-      "text": "Hospitalité de Stanimir, départ convenu, conte au vin dans le feu. Mission résolue → niveau 2 (total 300 PX).",
-      "x": 800,
+      "text": "Après la protection\nStanimir invite les personnages au repas ; conte au coin du feu. Caravane protégée et ordre de départ réglé → niveau 2 (total 300 PX).",
+      "x": 1200,
       "y": 0,
       "width": 320,
       "height": 190
@@ -31,7 +40,7 @@
       "id": "n1",
       "type": "text",
       "text": "N1 · Rester au camp\nCamp réellement présent transporté. Veille respectée, repos réel 22 h–06 h.",
-      "x": 1200,
+      "x": 1600,
       "y": -150,
       "width": 320,
       "height": 190
@@ -40,7 +49,7 @@
       "id": "n2",
       "type": "text",
       "text": "N2 · Repartir de nuit\nGroupe réellement présent transporté ; caravane absente sauf convoi escorté ou groupe fractionné au camp. Remise canton­nale : repos réel 22 h 30–06 h 30.",
-      "x": 1200,
+      "x": 1600,
       "y": 150,
       "width": 320,
       "height": 190
@@ -49,7 +58,7 @@
       "id": "meute",
       "type": "text",
       "text": "ARC A · Approche de Baroville\nManoir fixe à 12 m ; palissade à 120 m. N loups + 1 sanguinaire, fuite ou victoire réelle.",
-      "x": 1600,
+      "x": 2000,
       "y": 0,
       "width": 320,
       "height": 190
@@ -58,7 +67,7 @@
       "id": "hall",
       "type": "text",
       "text": "Refuge puis fermeture n° 1\nMessage des enfants ; aucun enfant dehors. Toucher la poignée ne déclenche pas Elisabeth.",
-      "x": 2000,
+      "x": 2400,
       "y": -150,
       "width": 320,
       "height": 190
@@ -67,7 +76,7 @@
       "id": "sans",
       "type": "text",
       "text": "Maison évitée\nAide de protection au quartier oriental ; jalon alternatif niveau 3, aucun exploit Durst supposé.",
-      "x": 2000,
+      "x": 2400,
       "y": 700,
       "width": 320,
       "height": 190
@@ -76,7 +85,7 @@
       "id": "bibliotheque",
       "type": "text",
       "text": "Bibliothèque facultative\nMécanisme sans ambre ; documents de la famille et sort de Gustav.",
-      "x": 2400,
+      "x": 2800,
       "y": -450,
       "width": 320,
       "height": 190
@@ -85,7 +94,7 @@
       "id": "grenier",
       "type": "text",
       "text": "Grenier librement accessible\nPremière rencontre Rose/Thorn ; carnet ou dessin si esprits refusés. Restes des enfants et coffre de Klara.",
-      "x": 2400,
+      "x": 2800,
       "y": -150,
       "width": 320,
       "height": 190
@@ -94,7 +103,7 @@
       "id": "cache",
       "type": "text",
       "text": "Cache unique\nDouble fond du coffret à bijoux, coiffeuse parentale. Découverte précoce valable.",
-      "x": 2800,
+      "x": 3200,
       "y": -150,
       "width": 320,
       "height": 190
@@ -103,7 +112,7 @@
       "id": "nursery",
       "type": "text",
       "text": "Nurserie scellée entièrement\nSeul l’éclat l’ouvre, définitivement et sans consommation. Walter dans son couffin.",
-      "x": 3200,
+      "x": 3600,
       "y": -150,
       "width": 320,
       "height": 190
@@ -112,7 +121,7 @@
       "id": "seuil",
       "type": "text",
       "text": "Une dépouille au seuil desserre le verrou\nOU forçage réellement réussi. Réouverture → Elisabeth descend l’escalier ; fermeture n° 2.",
-      "x": 3600,
+      "x": 4000,
       "y": 100,
       "width": 320,
       "height": 190
@@ -121,7 +130,7 @@
       "id": "p1",
       "type": "text",
       "text": "Phase 1 · Noble corrompue\nCombat dans le hall ; pas de surprise ni attaque gratuite. Walter présent : réplique du couffin.",
-      "x": 4000,
+      "x": 4400,
       "y": 100,
       "width": 320,
       "height": 190
@@ -130,7 +139,7 @@
       "id": "p2",
       "type": "text",
       "text": "Phase 2 · Nothic Elisabeth\nMême Elisabeth, même initiative ; effets subis maintenus, aucune recharge gratuite de réaction. Coup de mêlée final non létal : assommée et vivante, emprise encore active.",
-      "x": 4400,
+      "x": 4800,
       "y": 100,
       "width": 320,
       "height": 190
@@ -139,7 +148,7 @@
       "id": "suite",
       "type": "text",
       "text": "Mort d’Elisabeth\nEntrée libre, maison visitable, victimes oubliées récupérables. Éclat actif si nurserie encore fermée.",
-      "x": 4800,
+      "x": 5200,
       "y": 100,
       "width": 320,
       "height": 190
@@ -148,7 +157,7 @@
       "id": "ambre",
       "type": "text",
       "text": "Condition d’inertie\nNurserie ouverte ET Elisabeth morte. Un seul éclat, aucun don sombre aux personnages.",
-      "x": 4800,
+      "x": 5200,
       "y": -200,
       "width": 320,
       "height": 190
@@ -157,7 +166,7 @@
       "id": "funerailles",
       "type": "text",
       "text": "Quatre funérailles au jardin\nRose, Thorn, Klara, Walter ; Gustav déjà enterré. Apaisement local, pas de sortie cosmologique.",
-      "x": 5200,
+      "x": 5600,
       "y": 100,
       "width": 320,
       "height": 190
@@ -166,7 +175,7 @@
       "id": "repos",
       "type": "text",
       "text": "Résolution → niveau 3 (total 900 PX)\nOu jalon alternatif déjà obtenu. Repos réel ≥ 8 h, bénéfices espacés de 24 h. Le calendrier du village continue de courir.",
-      "x": 5600,
+      "x": 6000,
       "y": 350,
       "width": 320,
       "height": 190
@@ -175,7 +184,7 @@
       "id": "village",
       "type": "text",
       "text": "ARC B · État réel du village\nAvant l’assaut : Kolyan vivant, Ireena non mordue. Après l’assaut : accueil endeuillé, horde retirée ; scènes et récompenses adaptées.",
-      "x": 6000,
+      "x": 6400,
       "y": 350,
       "width": 320,
       "height": 190
@@ -184,7 +193,7 @@
       "id": "vallee",
       "type": "text",
       "text": "ARC C · Strahd puis Eva\nConnaissances réelles, responsabilités des Brumes ; retrouvailles Stanimir selon N1/N2. Dalvan facultatif, boussole unique.",
-      "x": 6400,
+      "x": 6800,
       "y": 350,
       "width": 320,
       "height": 190
@@ -201,6 +210,13 @@
     {
       "id": "feu-01",
       "fromNode": "recherche",
+      "fromSide": "right",
+      "toNode": "attaque",
+      "toSide": "left"
+    },
+    {
+      "id": "feu-01b",
+      "fromNode": "attaque",
       "fromSide": "right",
       "toNode": "camp",
       "toSide": "left"
