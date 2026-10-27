@@ -3,7 +3,7 @@
     {
       "id": "mandat",
       "type": "text",
-      "text": "ARC 0 · Niveau 1\nÀ Valcroix, Loïc charge les personnages de faire partir une caravane avant demain midi.",
+      "text": "ARC 0 · Niveau 1\nÀ Valcroix, Loïc charge ses hommes de main, les personnages, de faire partir une caravane avant demain midi.",
       "x": 0,
       "y": 0,
       "width": 320,
@@ -12,7 +12,7 @@
     {
       "id": "recherche",
       "type": "text",
-      "text": "Quelques témoignages\nDes habitants accusent des étrangers de vols. Les pistes conduisent au camp de Stanimir ; échange sur le mandat.",
+      "text": "Quelques témoignages\nDes habitants accusent des étrangers de vols. Les pistes conduisent au camp de Stanimir ; échange sur l’ordre de Loïc.",
       "x": 400,
       "y": 0,
       "width": 320,
@@ -39,7 +39,7 @@
     {
       "id": "n1",
       "type": "text",
-      "text": "N1 · Rester au camp\nCamp réellement présent transporté. Veille respectée, repos réel 22 h–06 h.",
+      "text": "N1 · Rester au camp\nVers 5 h 30, les Brumes prennent les seuls personnages ; tente vide. Repos réel 22 h–06 h.",
       "x": 1600,
       "y": -150,
       "width": 320,
@@ -48,7 +48,7 @@
     {
       "id": "n2",
       "type": "text",
-      "text": "N2 · Repartir de nuit\nGroupe réellement présent transporté ; caravane absente sauf convoi escorté ou groupe fractionné au camp. Remise canton­nale : repos réel 22 h 30–06 h 30.",
+      "text": "N2 · Repartir faire le rapport\nVers 22 h 30, les Brumes prennent les seuls personnages sur la route. Remise de cantonnier : repos réel 22 h 30–06 h 30.",
       "x": 1600,
       "y": 150,
       "width": 320,
@@ -183,7 +183,7 @@
     {
       "id": "village",
       "type": "text",
-      "text": "ARC B · État réel du village\nAvant l’assaut : Kolyan vivant, Ireena non mordue. Après l’assaut : accueil endeuillé, horde retirée ; scènes et récompenses adaptées.",
+      "text": "ARC B · État réel du village\nAvant l’assaut : Kolyan vivant, Ireena non mordue. Après l’assaut : accueil endeuillé, horde retirée ; scènes et récompenses adaptées. Convoi de Stanimir sur la place jusqu’à la levée du siège.",
       "x": 6400,
       "y": 350,
       "width": 320,
@@ -192,7 +192,7 @@
     {
       "id": "vallee",
       "type": "text",
-      "text": "ARC C · Strahd puis Eva\nConnaissances réelles, responsabilités des Brumes ; retrouvailles Stanimir selon N1/N2. Dalvan facultatif, boussole unique.",
+      "text": "ARC C · Strahd puis Eva\nConnaissances réelles, responsabilités des Brumes ; retrouvailles Stanimir au village ou à Tser. Dalvan facultatif, boussole unique.",
       "x": 6800,
       "y": 350,
       "width": 320,
@@ -235,7 +235,7 @@
       "fromSide": "right",
       "toNode": "n2",
       "toSide": "left",
-      "label": "départ nocturne"
+      "label": "retour pour le rapport"
     },
     {
       "id": "feu-04",

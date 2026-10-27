@@ -1,18 +1,18 @@
 *Une aventure de niveau 2, après [l’arc 0 — Le Feu et les Brumes](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md), pour trois à six personnages.*
 
-Après une mission au service du seigneur de Valcroix, les personnages ont traversé les Brumes. Au matin, un village fortifié apparaît à quelques centaines de mètres de leur abri : Baroville. Une meute les surprend dans un quartier abandonné ; le seuil ouvert d’un vieux manoir leur offre un refuge immédiat. À peine entrés, ils entendent le verrou se rabattre.
+Après une soirée chez les Vistani qu’ils devaient chasser de Valcroix, les personnages ont été emportés seuls par les Brumes. Au matin, un village fortifié apparaît à quelques centaines de mètres de leur abri : Baroville. Une meute les surprend dans un quartier abandonné ; le seuil ouvert d’un vieux manoir leur offre un refuge immédiat. À peine entrés, ils entendent le verrou se rabattre.
 
 Derrière les tentures et les portraits des Durst, une famille attend depuis des siècles que quelqu’un reconnaisse ce qui lui est arrivé. Les enfants gardent le souvenir d’une cache, une nourrice veille sur une porte scellée, et la maîtresse de maison refuse que ses victimes la quittent. L’enquête conduit au grenier, à l’unique éclat d’ambre d’Elisabeth, puis à la nurserie. Lorsqu’ils commencent à rouvrir l’entrée, les personnages rencontrent enfin leur hôtesse.
 
 > [!design]+ **La Maison de la Mort - Motivation de réécriture**
 > **Constat.** L’ouverture accumulait une longue exploration souterraine, plusieurs combats et une surenchère macabre avant que la campagne ait installé ses personnages et ses enjeux.
 >
-> **Intention.** Cette adaptation de LazyLuigi concentre l’aventure sur les étages du manoir : enquêter, écouter les victimes et affronter Elisabeth, responsable de leurs souffrances. Les gardes passent de l’hospitalité sincère de Stanimir à un foyer qui retient les siens.
+> **Intention.** Cette adaptation de LazyLuigi concentre l’aventure sur les étages du manoir : enquêter, écouter les victimes et affronter Elisabeth, responsable de leurs souffrances. Les personnages passent de l’hospitalité sincère de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) à un foyer qui retient les siens.
 >
 > **Conséquences en jeu.** La maison est fixe, à la périphérie de Baroville. L’exploration prépare un combat en deux phases dans le hall, puis des funérailles. Les choix de fuite et les découvertes anticipées sont pris en compte. La violence reste présente, particulièrement lors de la transformation d’Elisabeth ; cette réduction de l’accumulation horrifique concerne l’introduction.
 
 > [!info]+ **Préparer cette aventure**
-> Lire l’[état de sortie du prologue](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-etat-sortie), puis relever le dernier repos, les personnes présentes et la relation avec Stanimir. Les personnages sont de niveau 2, avec un total de 300 PX ; leurs ressources dépensées n’ont pas été rétablies par ce gain de niveau.
+> Lire l’[état de sortie du prologue](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-etat-sortie), puis relever le dernier repos et la relation avec Stanimir. Les personnages sont de niveau 2, avec un total de 300 PX ; leurs ressources dépensées n’ont pas été rétablies par ce gain de niveau.
 >
 > Les profils des **[loups](https://www.aidedd.org/dnd/monstres.php?vf=loup)** et du **[loup sanguinaire](https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire)** de cette rencontre sont expressément ceux de **2014**. Les deux formes d’Elisabeth sont des profils maison fondés sur ce cadre ; elles restent identiques avec le réglage de consultation 2024. Aucun FP officiel ni résultat de partie test n’est attribué à ce boss.
 >
@@ -33,7 +33,7 @@ Lisez cette histoire avant de mener l’exploration. Les indices du manoir en li
 5. Les derniers domestiques quittent la demeure après les obsèques de Gustav. Elisabeth enferme alors Rose et Thorn dans leur chambre ; les enfants meurent de faim, sans secours. Aujourd’hui, leur porte est entrouverte : les ferrures ont cédé avec le temps.
 6. Strahd rejette les suppliques d’Elisabeth. Elle meurt seule, consumée par le pacte qu’elle a choisi d’entretenir. Sa volonté reste attachée à la maison et s’y reconstitue sous une apparence physique. La noble et la créature à l’œil unique sont **la même Elisabeth**, responsable de ses actes.
 
-Strahd a provoqué le passage initial par les Brumes. Elisabeth, les voyageurs et les loups sont étrangers à cette capture ; le manoir est un bâtiment fixe du quartier. La pierre d’Elisabeth sert de clé à la nurserie. Elle n’offre aucun don à son porteur et se distingue des [autres éclats d’ambre](../Appendices/Amber%20Shards.md) de la campagne.
+Intrigué par les personnages, Strahd a provoqué leur passage par les Brumes. Elisabeth, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et les loups sont étrangers à cette capture ; le manoir est un bâtiment fixe du quartier. La pierre d’Elisabeth sert de clé à la nurserie. Elle n’offre aucun don à son porteur et se distingue des [autres éclats d’ambre](../Appendices/Amber%20Shards.md) de la campagne.
 
 <a id="de-arrivee"></a>
 # A1. Aux portes de Baroville
@@ -42,31 +42,16 @@ Strahd a provoqué le passage initial par les Brumes. Elisabeth, les voyageurs e
 
 L’arrivée se situe dans les faubourgs orientaux du **village de Barovie, appelé ici Baroville**. La palissade protège désormais un périmètre réduit. Le manoir Durst, son jardin clos et plusieurs maisons désertées se trouvent à l’extérieur de cette enceinte. Les grandes Portes de Barovie, à la frontière du domaine, sont beaucoup plus loin vers l’est.
 
+Les personnages sont seuls, près d’une [remise de cantonnier](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-abri-route) à la toiture intacte, à environ **300 m de la palissade** : ils y sont arrivés vers 22 h 30 la veille (N2) ou vers 5 h 30 (N1). Les hurlements des loups restent lointains tant qu’ils s’y reposent. Reprenez les ressources et le dernier repos notés à la fin du prologue.
+
+Au lever du jour, lisez :
+
 <div class="description">
 <p>Le jour monte sans lever de soleil. Sous un ciel de cendre, les toits d’un village se serrent derrière une ligne de pieux et de planches. Une fumée maigre s’élève de quelques cheminées. Plus haut, presque perdu dans les nuages, un château domine la vallée.</p>
 <p>Tout près, une borne couchée émerge des herbes. Sous la mousse, vous distinguez un nom gravé dans la pierre : BAROVIE.</p>
 </div>
 
-Le point d’arrivée de l’arc 0 est à environ **300 m de la palissade**, près d’une remise de cantonnier à la toiture intacte. Elle contient du bois sec, une couche de paille et une barre intérieure solide ; ceux qui sont arrivés par la route ont pu s’y abriter avant le jour. Les hurlements restent lointains tant que les personnages s’y reposent. Reprenez les ressources et le dernier repos notés à la fin du prologue.
-
-| Nuit réellement jouée | Personnes et ressources à l’arrivée | Raccord vers la route |
-|---|---|---|
-| **N1 — au camp** | Le camp et ses occupants présents ont traversé vers 5 h 30. Un repos commencé à 22 h peut s’achever à 6 h, si ses conditions ont été respectées. | Stanimir reconnaît le pays et répond avant de mettre les familles à l’abri. |
-| **N2 — sur la route** | Les personnes, animaux et bagages effectivement avec les gardes ont traversé vers 22 h 30. La remise permet huit heures réelles de repos jusqu’à 6 h 30. | Stanimir est présent seulement si la caravane les accompagnait lors du passage. |
-
-**Vers 9 h, dans les deux branches**, une piste praticable mène aux premières maisons. C’est un horaire de préparation : si les joueurs dorment plus tard, déplacent leur camp ou s’aventurent avant l’aube, suivez l’heure réelle, adaptez la lumière et conservez leurs ressources. Un groupe ayant refusé de dormir peut encore revenir à la remise avant de s’engager. Laissez-le achever cette halte avant de reprendre son approche du village.
-
-### Stanimir, s’il est présent
-
-[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) se tient près des chevaux, les manches retroussées. Sa voix demeure posée, mais il vérifie plusieurs fois que tous les siens sont là.
-
-« Je vais conduire les roulottes jusqu’aux murs. Les petits ont assez dormi dehors. Vous venez ? »
-
-Si les personnages ne l’ont pas encore interrogé depuis le passage, reprenez [ses premières explications](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-n1) avant de partir. Il peut nommer la Barovie, la vallée de Strahd, et expliquer que les Brumes ne laissent pas les étrangers repartir par une simple marche inverse. Il ignore pourquoi les personnages ont été pris et ne connaît pas les secrets du manoir. Ses réponses prolongent les échanges déjà joués ; son attitude reprend la confiance ou les violences du prologue.
-
-Les familles ont besoin d’eau, de soins et de sécurité. Stanimir rejoint l’entrée principale par la chaussée praticable aux roulottes et prévient les guetteurs. Il met son convoi à l’abri dans le village : la route occidentale est bloquée par le siège, et les familles attendent sa levée avant de gagner l’étang de Tser. Voir [Le convoi de Stanimir](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). La patrouille locale indique aux gardes à pied un raccourci entre les maisons abandonnées. **Les personnages peuvent suivre les roulottes** plutôt que prendre ce raccourci. S’ils gagnent ainsi le village, poursuivez avec [S’ils gagnent directement le village](#de-sans-maison).
-
-Un prisonnier, un compagnon ou un animal resté avec les gardes conserve sa place dans la scène. Les proches non combattants cherchent un abri dès les premiers signes de danger. Ils n’augmentent pas N dans la composition de la meute et ne deviennent pas des alliés combattants du boss. La remise et le poste villageois permettent de les mettre en sécurité avant de poursuivre.
+**Vers 9 h**, une piste mène de la remise aux premières maisons. C’est le chemin le plus court vers la palissade : il traverse le quartier abandonné où rôde la meute. Cet horaire est un repère : si les joueurs se mettent en route plus tôt, même de nuit, ou plus tard, suivez l’heure réelle, adaptez la lumière et conservez leurs ressources.
 
 <a id="la-route-que-les-gardes-nont-pas-parcourue"></a>
 > [!info]+ **Le chemin de la frontière orientale**
@@ -85,14 +70,14 @@ Un prisonnier, un compagnon ou un animal resté avec les gardes conserve sa plac
 
 ### Positions et déplacements
 
-Utilisez ce terrain de scène, en mètres. Il s’agit d’une implantation de De-Reloaded, pas d’un relevé du plan officiel du village.
+Utilisez ce terrain de scène, en mètres. Il est propre à cette rencontre et ne reprend pas le plan du village.
 
 | Élément | Position utile |
 |---|---|
 | Groupe | Sur une rue pavée de 6 m de large ; chaque personnage indique sa place. Le seuil est à **12 m du personnage le plus éloigné** si le groupe avance normalement ensemble. |
 | Manoir | Porche et double porte ouverts sur le côté de la rue ; passage de 3 m de large. La grille est fixée ouverte contre le mur. Le trajet jusqu’au seuil est dégagé. |
 | Accès gardé de la palissade | À **120 m** dans la direction opposée au point d’arrivée ; les guetteurs peuvent ouvrir le passage aux vivants. Un virage et des maisons les empêchent de tirer sur la portion de rue où commence la rencontre. |
-| Loups | **18 à 24 m des personnages les plus proches**, derrière le groupe et sur le talus latéral. Aucun n’occupe le passage entre les gardes et le manoir. |
+| Loups | **18 à 24 m des personnages les plus proches**, derrière le groupe et sur le talus latéral. Aucun n’occupe le passage entre les personnages et le manoir. |
 | Couvert | Une auge de pierre et un muret de jardin offrent un abri partiel ; des rues latérales permettent d’autres retraites, à décrire avant le choix des joueurs. |
 
 Les loups sont visibles et entendus : **aucune surprise automatique**. Lancez l’initiative si le groupe reste à portée d’un engagement. N’accordez ni tour supplémentaire aux prédateurs, ni entrée gratuite au manoir après qu’ils ont atteint les personnages.
@@ -189,7 +174,7 @@ Le hall dessert le vestiaire, le salon de chasse, la cuisine et la salle à mang
 
 ### Gabarit du hall pour la table
 
-Ce gabarit est l’adaptation de De-Reloaded pour le hall et le bas de l’escalier. Il permet de jouer sans plan supérieur fourni. Si vous utilisez une carte de la maison originale, appliquez ces passages dégagés et ces accès ; ne remplacez pas le hall par la salle à manger pour agrandir le combat.
+Ce gabarit couvre le hall et le bas de l’escalier. Il permet de jouer sans plan supérieur fourni. Si vous utilisez une carte de la maison originale, appliquez ces passages dégagés et ces accès ; ne remplacez pas le hall par la salle à manger pour agrandir le combat.
 
 Dessinez un rectangle de **6 m d’est en ouest sur 12 m du sud au nord**, soit **4 × 8 cases de 1,50 m**. Les colonnes sont A à D d’ouest en est, les rangées 1 à 8 du seuil vers l’escalier. Ce rectangle comprend le corridor d’entrée et le dégagement au pied de l’escalier ; les pièces voisines restent hors de l’arène.
 
@@ -366,7 +351,7 @@ Ce sont les comptes privés d’Elisabeth. Le coffret s’ouvre sans danger et c
 
 > **Note d’Elisabeth.** Voir ce que l’on me cache. Garder ce qui m’appartient. La pierre a entendu ma demande. Il faudra bien qu’ils cessent de me mentir.
 
-Le billet de Gustav précède sa mort. La réponse de Strahd est adressée à Elisabeth : il refuse d’intervenir en sa faveur. Les personnages peuvent reconnaître un nom entendu dans le conte de Stanimir.
+Le billet de Gustav précède sa mort. La réponse de Strahd est adressée à Elisabeth : il refuse d’intervenir en sa faveur. Les personnages peuvent reconnaître un nom entendu dans le conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir).
 
 Si le drap du miroir est soulevé, lisez :
 
@@ -776,14 +761,14 @@ Au calendrier de référence, la Maison et les funérailles occupent le **27 Oct
 
 Réservez une fenêtre allant d’environ **22 h jusqu’à 8 h le lendemain**, avec une période de repos valide d’au moins huit heures et suffisamment de temps depuis le précédent repos long. En 2014, les bénéfices de deux repos longs doivent être séparés d’au moins vingt-quatre heures. Ainsi, après la fin de repos N2 à 6 h 30 J1, aucun second bénéfice n’est accordé avant 6 h 30 J2. Si la table utilise effectivement les règles de repos 2024, attendez aussi les seize heures requises avant de commencer le suivant. Déplacez l’heure de fin si un incident ou une veille trop longue l’exige.
 
-À leur arrivée au village, les guetteurs leur offrent de l’eau et une couche sous garde. Ismark, le fils du bourgmestre qui organise la défense, voudra leur parler **au matin**. Les sentinelles tiennent leurs postes pendant cette nuit ; les personnages disposent de ce temps pour se reposer. Annoncez le prochain assaut d’après l’horloge commune et le temps effectivement restant.
+À leur arrivée au village, les guetteurs leur offrent de l’eau et une couche sous garde. Ismark, le fils du bourgmestre qui organise la défense, voudra leur parler **au matin**. Les sentinelles tiennent leurs postes pendant cette nuit ; les personnages disposent de ce temps pour se reposer. Annoncez le prochain assaut d’après l’horloge commune et le temps effectivement restant. La caravane de Stanimir attend au village depuis l’après-midi du 27 : voir [Le convoi de Stanimir](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir).
 
 Le **28 Octyavr (J2)**, commencez directement [B5. Le village de Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b5-the-village-of-barovia) avec des personnages de niveau 3 et leur repos réellement obtenu. Les événements de cette journée, l’état de Kolyan et la menace du soir sont décrits dans l’arc B. Si l’enquête a duré davantage, utilisez le [routage de B](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-routage-village) à la date réelle. L’[horloge installée](Act%20I%20Summary.md#de-calendrier-installe) continue de courir ; l’accueil dépend alors de l’issue de l’assaut et du sort de Kolyan et d’Ireena.
 
 <a id="de-sans-maison"></a>
 ## S’ils gagnent directement le village
 
-La fuite vers la palissade, l’escorte des roulottes ou une victoire contre les loups peuvent conduire les personnages au village. Les guetteurs leur ouvrent le passage. Une famille est encore bloquée de l’autre côté de la barricade : ils demandent aux nouveaux venus de l’aider à rentrer.
+La fuite vers la palissade ou une victoire contre les loups peuvent conduire les personnages au village. Les guetteurs leur ouvrent le passage. Une famille est encore bloquée de l’autre côté de la barricade : ils demandent aux nouveaux venus de l’aider à rentrer.
 
 ### La charrette de la dernière maison
 
@@ -800,7 +785,7 @@ Les personnages peuvent réparer, décharger puis pousser, transporter les vivre
 
 Faites jouer la décision : tout emporter d’abord, mettre la vieille femme à l’abri, récupérer les réserves nécessaires ou demander de l’aide. Les personnages peuvent aussi convaincre la famille d’abandonner des objets encombrants ; la nourriture nécessaire et les personnes sont les priorités. La scène s’achève avec la mise à l’abri ; aucune attaque n’y est prévue.
 
-**Jalon alternatif.** Quand les personnes sont en sécurité et que les gardes ont organisé une solution praticable pour les vivres, portez les PJ au **niveau 3, total 900 PX**, à la place du jalon de la Maison. Une autre aide de protection équivalente réellement jouée peut remplir cette fonction si les circonstances ont déplacé la famille. S’ils refusent toute intervention, donnez-leur l’occasion de choisir un service concret à la barricade avant de commencer la journée de niveau 3 ; ne prétendez pas qu’ils ont aidé hors champ.
+**Jalon alternatif.** Quand les personnes sont en sécurité et que les personnages ont organisé une solution praticable pour les vivres, portez les PJ au **niveau 3, total 900 PX**, à la place du jalon de la Maison. Une autre aide de protection équivalente réellement jouée peut remplir cette fonction si les circonstances ont déplacé la famille. S’ils refusent toute intervention, donnez-leur l’occasion de choisir un service concret à la barricade avant de commencer la journée de niveau 3 ; ne prétendez pas qu’ils ont aidé hors champ.
 
 Ils disposent ensuite du [même repos avant l’arc B](#de-repos-village). La Maison reste hantée, Elisabeth vivante, les quatre victimes non enterrées et l’éclat dans sa cache, sauf si leurs actes ont réellement changé certains de ces états. Une visite ultérieure peut résoudre cette histoire, mais ne donne pas un deuxième niveau pour le même jalon d’ouverture.
 
@@ -808,7 +793,7 @@ Ils disposent ensuite du [même repos avant l’arc B](#de-repos-village). La Ma
 
 | Élément | À noter dans la partie |
 |---|---|
-| Prologue et nuit | N1 ou N2 ; personnes, animaux, prisonniers et objets effectivement arrivés ; état de Stanimir et de sa caravane. |
+| Prologue et nuit | N1 ou N2 ; relation avec Stanimir, affaires laissées au camp. |
 | Ressources | Heure du dernier repos long, repos courts accomplis, blessures et consommables restants. |
 | Meute | Nombre initial N + 1 ; pertes, fuite, victoire ou rencontre évitée ; équipement laissé dans la rue. |
 | Maison | Visitée ou non ; enfants rencontrés ; renseignements effectivement compris. |
@@ -822,7 +807,7 @@ Ils disposent ensuite du [même repos avant l’arc B](#de-repos-village). La Ma
 <a id="en-design-notes-death-house" data-traduction="ancre"></a>
 # Notes de mise en scène
 
-La maison apprend aux gardes à protéger sans mandat, à distinguer une apparition d’un ennemi et à agir avec une connaissance incomplète. Préservez les gestes ordinaires : rendre une poupée, envelopper un corps, fredonner une musique, écrire un nom sur une tombe. Les réponses d’Elisabeth donnent à ces gestes leur opposition dramatique.
+La maison apprend aux personnages à protéger sans en avoir reçu l’ordre, à distinguer une apparition d’un ennemi et à agir avec une connaissance incomplète. Préservez les gestes ordinaires : rendre une poupée, envelopper un corps, fredonner une musique, écrire un nom sur une tombe. Les réponses d’Elisabeth donnent à ces gestes leur opposition dramatique.
 
 L’horreur corporelle culmine dans sa transformation. Les autres manifestations racontent la famille et orientent l’enquête ; elles n’ajoutent pas une série de dégâts imprévus. Si un indice est manqué, l’enfant, le dessin, le document et le lieu restent des accès distincts à la même vérité.
 

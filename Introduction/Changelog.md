@@ -1,5 +1,15 @@
 Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-hommes-de-main-2026-10-27"></a>
+# 27 octobre 2026 — Les hommes de main de Loïc
+
+- Les personnages deviennent les hommes de main de Loïc de Hauterive, qui leur confie ce qu’il ne règle pas par sa garde. Un billet privé remplace le mandat ; l’insigne et le serment disparaissent.
+- Eliza, l’espionne de Strahd, voyage avec la caravane : par les yeux de son rat albinos, Strahd remarque les personnages, puis les fait venir lui-même par les Brumes, voir [sa notice](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#de-strahd-brumes). Les Brumes ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport. Ses [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) deviennent des espions que le MJ peut faire paraître.
+- Retrait des comparaisons avec Reloaded ajoutées dans le texte de jeu ; liens vers Loïc, Stanimir et Eliza complétés.
+- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent [retrouver Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-retrouver-stanimir) avant son départ pour l’étang de Tser.
+- Le terme fixé par l’Abbé à Anna tombe au crépuscule du 16 Neyavr, trois semaines après leur pacte. Les arcs K et Q donnent la même date, et Anna confie l’échéance aux personnages.
+- La [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) fait une exception pour Valcroix et le service auprès de Loïc. Le reste du passé des personnages n’est pas exploré, et ils ne deviennent étrangers à leur cadre qu’après le prologue.
+
 <a id="de-pillards-caravane-2026-10-26"></a>
 # 26 octobre 2026 — Les pillards et la caravane
 

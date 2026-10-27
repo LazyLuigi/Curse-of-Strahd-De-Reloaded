@@ -6,21 +6,21 @@
 
 <a id="de-loic-de-hauterive"></a>
 ### Loïc de Hauterive
-**Rôle.** Seigneur de Valcroix, domaine créé pour De-Reloaded sur la Côte des Épées, et employeur des personnages. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son mandat exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
+**Rôle.** Seigneur de Valcroix, domaine de la Côte des Épées. Les personnages sont ses hommes de main : il leur confie ce qu’il ne règle pas par sa garde. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son ordre exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
 
-**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les gardes choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de Strahd ni le passage à venir.
+**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les personnages choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de Strahd ni le passage à venir.
 
-**À la table.** Voir le [mandat et les réponses de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
+**À la table.** Voir [l’ordre et les réponses de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
 
 <a id="de-stanimir"></a>
 ### Stanimir
-**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool). Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les personnages.
+**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les personnages.
 
-**Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend le mandat, accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
+**Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend l’ordre de [Loïc](Non-Player%20Characters.md#de-loic-de-hauterive), accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
 
-**Connaissances et relation.** En N1, il traverse avec le camp et peut témoigner de sa propre surprise. En N2, s’il est resté au camp, il est demeuré hors de Barovie et ne connaît le passage des gardes que par leur récit ultérieur ; il rejoint ensuite Eva par sa route habituelle. Si la caravane faisait partie du convoi nocturne ou d’un groupe fractionné effectivement transporté, Stanimir a traversé lui aussi : conserver ce témoignage et cette présence. Noter un souvenir réellement partagé avec chaque personnage, les services reçus et les torts subis ; ses retrouvailles en dépendent. Sa liberté de passage ne permet pas de faire sortir clandestinement les personnages.
+**Connaissances et relation.** Les Brumes n’ont pris que les personnages. S’ils dormaient au camp, il a trouvé leur tente vide et reconnu la brume de la Barovie ; s’ils étaient repartis, il les croit rentrés chez eux jusqu’à leurs retrouvailles. Noter un souvenir réellement partagé avec chaque personnage, les services reçus et les torts subis ; ses retrouvailles en dépendent. Sa liberté de passage ne permet pas de faire sortir clandestinement les personnages.
 
-**Pendant le siège.** Si son convoi a traversé avec les gardes, il attend au village derrière les barricades avant de rejoindre Tser, comme décrit dans [Le convoi de Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). Il ne bénéficie pas d’un passage gratuit à travers la horde et n’est pas présent à deux endroits à la fois.
+**Pendant le siège.** Sa caravane quitte Valcroix à l’aube du 27 et atteint le village le jour même ; elle y attend la levée du siège avant de rejoindre Tser, comme décrit dans [Le convoi de Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). Il ne bénéficie pas d’un passage gratuit à travers la horde.
 
 <a id="en-death-house" data-traduction="ancre"></a>
 # Maison de la Mort
@@ -55,7 +55,7 @@
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst
-**Continuité De-Reloaded.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de Thorn. Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Les enfants n’appellent pas les voyageurs depuis la route, ne commandent pas les loups et ne possèdent pas les personnages. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
+**Dans l’arc A.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de Thorn. Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Les enfants n’appellent pas les voyageurs depuis la route, ne commandent pas les loups et ne possèdent pas les personnages. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
 
 **Conseils d’interprétation**
 ***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les personnages.
@@ -74,7 +74,7 @@
 ***Relations.*** Rose est la sœur aînée de Thorn Durst, la demi-sœur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter Durst</a> et l’aînée des enfants d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> et de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav Durst</a>.
 <a id="en-thornboldt-thorn-durst" data-traduction="ancre"></a>
 ### Thornboldt « Thorn » Durst
-**Continuité De-Reloaded.** Thorn apparaît au grenier avec Rose. Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine. Aucun pouvoir de possession ni renfort de combat n’est ajouté.
+**Dans l’arc A.** Thorn apparaît au grenier avec Rose. Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine. Aucun pouvoir de possession ni renfort de combat n’est ajouté.
 
 **Conseils d’interprétation**
 ***Résonance.*** Thorn doit susciter la compassion par sa timidité et sa peur, et l’affection par sa joie enfantine.

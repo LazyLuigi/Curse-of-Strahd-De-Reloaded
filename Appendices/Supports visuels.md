@@ -7,18 +7,18 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 
 Les documents de cette ouverture sont rédigés directement en français. Leurs textes de référence restent dans les scènes où les personnages peuvent les obtenir :
 
-- [Mandat scellé de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
+- [Billet de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
 - [Le papier de la meunière](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-recu), reçu présenté pendant son témoignage.
 - [Plaintes et preuves](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-plaintes), aide du MJ : ne remettre aux joueurs que les renseignements acquis.
 - [Registre des domestiques](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-servants-room), témoignage sur l’inhumation de Gustav.
 - [Correspondance de la bibliothèque](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-secret-room), trois pièces distinctes à découvrir.
 - [Carnet de Rose et dessin de Thorn](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room), indices vers la cache, même sans dialogue avec les esprits.
 
-Le plan suivant est un **gabarit propre à De-Reloaded**, destiné au MJ. Il représente seulement le hall et le bas de l’escalier, avec les positions de préparation de la rencontre. Une case mesure 1,50 m ; les [règles du terrain](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-main-hall) en précisent l’usage.
+Le plan suivant est un **gabarit destiné au MJ**. Il représente seulement le hall et le bas de l’escalier, avec les positions de préparation de la rencontre. Une case mesure 1,50 m ; les [règles du terrain](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-main-hall) en précisent l’usage.
 
 ![Hall Durst — plan du MJ](../images/De-Reloaded%20-%20Hall%20Durst.svg)
 
-*Cartographie De-Reloaded — LazyLuigi.* Les anciens plans du sous-sol de Reloaded ne font pas partie des aides de cette ouverture. L’invitation historique ci-dessous reste compatible avec le passé du moulin.
+*Cartographie De-Reloaded — LazyLuigi.*
 
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup

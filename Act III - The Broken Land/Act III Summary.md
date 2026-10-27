@@ -42,7 +42,7 @@ Les dates du tableau et des parcours d’exemple suivent le [calendrier install�
 | Arc \ Jour de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neyavr">Neyavr</a>      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J : La gemme volée        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K : L’abbaye déchue      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K : L’abbaye déchue      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  |
 | L : L’antre des <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>     | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | M : Le manoir du dragon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | N : Récits de Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |

@@ -792,6 +792,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-dnd-peryton-monstre"></a>Péryton | Peryton | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r4c-the-monument) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=peryton) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=peryton) |
 | <a id="ref-dnd-quasit-monstre"></a>Quasit | Quasit | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-dining-hall) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=quasit) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=quasit) |
 | <a id="ref-dnd-rat-monstre"></a>Rat | Rat | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-morning-at-the-mansion) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rat) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=rat) |
+| <a id="ref-dnd-giant-rat-monstre"></a>Rat géant | Giant Rat | [Mention dans le guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rat-geant) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=giant-rat) |
 | <a id="ref-dnd-revenant-monstre"></a>Revenant | Revenant | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=revenant) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=revenant) |
 | <a id="ref-dnd-rhinoceros-monstre"></a>Rhinocéros | Rhinoceros | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t3h-goat-pen) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rhinoceros) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=rhinoceros) |
 | <a id="ref-dnd-roc-monstre"></a>Roc | Roc | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4b-madam-evas-tent) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=roc) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=roc) |
@@ -1130,9 +1131,10 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | Nom | Nature | Définition locale |
 |---|---|---|
 | <a id="ref-nom-loic-de-hauterive"></a>Loïc de Hauterive | Seigneur de Valcroix | [Fiche de l’annexe](Non-Player%20Characters.md#de-loic-de-hauterive) |
-| <a id="ref-nom-valcroix"></a>Valcroix | Domaine fictif de la Côte des Épées | [Mandat et départ](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) |
+| <a id="ref-nom-valcroix"></a>Valcroix | Domaine fictif de la Côte des Épées | [Ordre et départ](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) |
 | <a id="de-cle-elisabeth"></a>Éclat d’Elisabeth | Clé personnelle de la nurserie | [Définition locale](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth) |
 | <a id="de-sceau-nurserie"></a>Sceau de la nurserie | Hantise particulière | [Fonctionnement](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie) |
+| <a id="de-rats-albinos"></a>Rats albinos | Espions de Strahd | [Définition locale](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) |
 
 ## Repères historiques de l’ancienne ouverture
 
