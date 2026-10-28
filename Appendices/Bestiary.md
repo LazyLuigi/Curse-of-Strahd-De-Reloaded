@@ -6,8 +6,8 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <div class="native-profile-reference">
 <p><strong>Boss de campagne en deux phases.</strong> Les deux formes sont la même <a href="Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a>. Utilisez ses profils natifs, avec leurs règles de transition et leur échelle de points de vie ; le nothic standard ne les remplace pas.</p>
 <ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble">Voir la fiche</a> : Noble corrompue</li>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic">Voir la fiche</a> : Nothic <a href="Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a></li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-noble">Voir la fiche</a> : Noble corrompue</li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-nothic">Voir la fiche</a> : Nothic <a href="Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a></li>
 </ul>
 </div>
 

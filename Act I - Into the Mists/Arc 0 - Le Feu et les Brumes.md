@@ -6,7 +6,7 @@ Les personnages sont les hommes de main de **[Loïc de Hauterive](../Appendices/
 
 Quelques témoignages les conduisent au camp de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Au soir, des pillards attaquent les roulottes : ce sont eux qui suivent les voyageurs depuis plusieurs étapes et commettent leurs vols sous leur nom. En défendant les étrangers, les personnages découvrent le pacifisme et l’hospitalité de ceux qu’ils étaient venus chasser. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur offre alors de partager le repas et le feu.
 
-Après cette soirée, les Brumes les emportent seuls en Barovie. Le prologue s’achève auprès des portes de Barovie, où une meute de loups poussera les PJ vers le refuge des Durst dans [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md#de-arrivee).
+Après cette soirée, les Brumes les emportent seuls en Barovie. Le prologue s’achève auprès des portes de Barovie, où une meute de loups poussera les PJ vers le refuge des Durst dans [l’arc A](act-A-rejected.md#de-arrivee).
 
 > [!design]+ **Note de conception : Le Feu et les Brumes**
 > **Constat.** Les accroches prévues dans Reloaded sont alambiquées et brutales, et l’arc A original trop gore : il ne préfigure pas la campagne à venir. Donner au groupe un passé, une mission et un a priori sur les étrangers, finalement démenti, donne plus de texture au récit.
@@ -305,7 +305,7 @@ Lorsque le feu baisse, vers 22 h, lisez :
 Les joueurs peuvent dormir au camp, **N1**, ou repartir ce soir rendre compte de leur mission, **N2**. S’ils passent la nuit ailleurs, jouez N1 pour une halte et N2 pour une marche. Dans tous les cas, les Brumes prennent les personnages pendant la nuit, eux seuls, avec leurs familiers et leurs compagnons animaux ; la caravane reste à son camp et repart à l’aube.
 
 <a id="de-regroupement"></a>
-**Si le groupe se partage.** Les Brumes prennent chaque personnage là où il se trouve, à l’heure de sa branche, et les déposent tous près de la même remise barovienne. Ceux qui y attendent encore voient les autres sortir du brouillard ; sinon, jouez les deux groupes en alternance. Composez [la meute](Arc%20A%20-%20Escape%20From%20Death%20House.md#de-meute) d’après les personnages présents et ne la jouez qu’une fois.
+**Si le groupe se partage.** Les Brumes prennent chaque personnage là où il se trouve, à l’heure de sa branche, et les déposent tous près de la même remise barovienne. Ceux qui y attendent encore voient les autres sortir du brouillard ; sinon, jouez les deux groupes en alternance. Composez [la meute](act-A-rejected.md#de-meute) d’après les personnages présents et ne la jouez qu’une fois.
 
 <a id="de-n1"></a>
 ## 0.8. N1 : La nuit au camp
@@ -359,7 +359,7 @@ Les deux branches aboutissent au même endroit : une remise de cantonnier abando
 
 La remise mesure environ 9 m sur 6 m. Le toit est intact et la barre ferme la porte de l’intérieur. En N2, la nuit peut s’y passer au calme : cette nuit encore, les morts assaillent le village, mais de la remise on n’en perçoit que des cris et des chocs lointains. Un repos commencé vers 22 h 30 s’achève au plus tôt à **6 h 30, J1**, selon les [règles de repos](#installer-un-vrai-repos).
 
-Qu’ils partent de nuit vers les lumières ou attendent le jour, la piste du village traverse le quartier abandonné où rôde la meute : reprenez [l’arrivée de l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md#de-arrivee) à l’heure réelle, vers **9 h** dans l’horaire de référence.
+Qu’ils partent de nuit vers les lumières ou attendent le jour, la piste du village traverse le quartier abandonné où rôde la meute : reprenez [l’arrivée de l’arc A](act-A-rejected.md#de-arrivee) à l’heure réelle, vers **9 h** dans l’horaire de référence.
 
 <a id="de-etat-sortie"></a>
 ### Après le passage

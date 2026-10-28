@@ -2,7 +2,7 @@ Au cours de l’aventure, les joueurs auront l’occasion d’obtenir un ou plus
 
 <a id="de-exception-elisabeth"></a>
 > [!info]+ **La clé d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) : un objet distinct**
-> L’[éclat d’Elisabeth Durst](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth), dans *Le Feu et les Brumes*, porte la signature d’un pacte personnel déjà conclu. Les règles de tentation et les trois stades ci-dessous **ne s’appliquent pas à cette clé** : elle n’accorde aux personnages ni don sombre, ni guérison, ni communication avec un vestige.
+> L’[éclat d’Elisabeth Durst](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-eclat-elisabeth), dans *Le Feu et les Brumes*, porte la signature d’un pacte personnel déjà conclu. Les règles de tentation et les trois stades ci-dessous **ne s’appliquent pas à cette clé** : elle n’accorde aux personnages ni don sombre, ni guérison, ni communication avec un vestige.
 >
 > Cette distinction vaut dans toute la campagne : les réactions de [Godfrey](Non-Player%20Characters.md#en-sir-godfrey-gwilym), le guidage et les esprits du Temple de l’Ambre, ainsi que la Résonance hurlante de [Rahadin](Non-Player%20Characters.md#en-rahadin), concernent les éclats liés aux vestiges. La clé locale, active ou inerte, n’y participe pas ; elle ne donne ni mot de passe, ni marque de corruption, ni moyen de tromper ces réactions.
 >

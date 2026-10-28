@@ -31,27 +31,27 @@
 
 **Interprétation.** Elle revendique la maîtrise de son foyer et traite les personnes comme des secrets à conserver. Sa forme noble puis son corps de nothic sont deux aspects de la même Elisabeth, avec la même mémoire et la même culpabilité.
 
-**Profil natif.** [Phase 1 : Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble) · [Phase 2 : Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
+**Profil natif.** [Phase 1 : Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-noble) · [Phase 2 : Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
 
-**Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth) est une clé personnelle de la nurserie ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
+**Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-eclat-elisabeth) est une clé personnelle de la nurserie ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
 
 <a id="de-gustav-durst"></a>
 ### Gustav Durst
 **Rôle.** Époux d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst), père de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst), de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst) et de [Walter](Non-Player%20Characters.md#de-walter-durst), qu’il a eu avec [Klara](Non-Player%20Characters.md#de-klara). Les souvenirs et documents du manoir révèlent une famille aisée, ses fautes et sa destruction.
 
-**Sort.** Après les meurtres de [Klara](Non-Player%20Characters.md#de-klara) et [Walter](Non-Player%20Characters.md#de-walter-durst) et le scellement de la nurserie, Gustav découvre les crimes. [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+**Sort.** Après les meurtres de [Klara](Non-Player%20Characters.md#de-klara) et [Walter](Non-Player%20Characters.md#de-walter-durst) et le scellement de la nurserie, Gustav découvre les crimes. [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-funerailles).
 
 <a id="de-klara"></a>
 ### Klara
 **Rôle.** Nourrice de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst), mère de [Walter](Non-Player%20Characters.md#de-walter-durst). Sa présence dans les étages cherche à faire reconnaître son enfant et leur sort.
 
-**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; [Walter](Non-Player%20Characters.md#de-walter-durst) repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; [Walter](Non-Player%20Characters.md#de-walter-durst) repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-funerailles).
 
 <a id="de-walter-durst"></a>
 ### Walter Durst
 **Rôle.** Nourrisson, fils de [Klara](Non-Player%20Characters.md#de-klara) et [Gustav](Non-Player%20Characters.md#de-gustav-durst), victime d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst).
 
-**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie). Il reste récupérable après la mort d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst). Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
+**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-sceau-nurserie). Il reste récupérable après la mort d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst). Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst

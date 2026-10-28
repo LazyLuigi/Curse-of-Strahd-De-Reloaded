@@ -33,7 +33,7 @@ Les joueurs peuvent bien entendu toujours sortir du parcours prévu et tracer le
 
 Les **reliques baroviennes** de [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#en-motivations) sont des liens personnels facultatifs avec les lieux et les figures de la campagne. Au camp, leur présence peut éveiller la curiosité des Vistani et amener les personnages à raconter leur histoire.
 
-Les deux premiers jalons fixent la progression : fin du prologue, **total 300 PX et niveau 2** ; puis résolution de la Maison de la Mort **ou** de [l’aide de protection sans elle](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sans-maison), **total 900 PX et niveau 3**. Seules ces deux façons d’obtenir le second jalon sont exclusives. Les combats ne procurent pas de PX supplémentaires. Une visite ultérieure du manoir ne donne pas une seconde fois son jalon. Les récompenses suivantes sont celles des arcs B et C.
+Les deux premiers jalons fixent la progression : fin du prologue, **total 300 PX et niveau 2** ; puis résolution de la Maison de la Mort **ou** de [l’aide de protection sans elle](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-sans-maison), **total 900 PX et niveau 3**. Seules ces deux façons d’obtenir le second jalon sont exclusives. Les combats ne procurent pas de PX supplémentaires. Une visite ultérieure du manoir ne donne pas une seconde fois son jalon. Les récompenses suivantes sont celles des arcs B et C.
 
 <a id="en-strahds-spies" data-traduction="ancre"></a>
 # Les espions de Strahd

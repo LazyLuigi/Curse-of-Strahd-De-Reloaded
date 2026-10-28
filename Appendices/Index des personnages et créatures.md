@@ -1132,8 +1132,8 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 |---|---|---|
 | <a id="ref-nom-loic-de-hauterive"></a>Loïc de Hauterive | Seigneur de Valcroix | [Fiche de l’annexe](Non-Player%20Characters.md#de-loic-de-hauterive) |
 | <a id="ref-nom-valcroix"></a>Valcroix | Domaine fictif de la Côte des Épées | [Ordre et départ](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) |
-| <a id="de-cle-elisabeth"></a>Éclat d’Elisabeth | Clé personnelle de la nurserie | [Définition locale](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth) |
-| <a id="de-sceau-nurserie"></a>Sceau de la nurserie | Hantise particulière | [Fonctionnement](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie) |
+| <a id="de-cle-elisabeth"></a>Éclat d’Elisabeth | Clé personnelle de la nurserie | [Définition locale](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-eclat-elisabeth) |
+| <a id="de-sceau-nurserie"></a>Sceau de la nurserie | Hantise particulière | [Fonctionnement](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-sceau-nurserie) |
 | <a id="de-rats-albinos"></a>Rats albinos | Espions de Strahd | [Définition locale](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) |
 
 <a id="ref-nom-daggerford"></a>
