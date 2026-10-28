@@ -1,6 +1,6 @@
-# La Malédiction de Strahd : Reloaded — édition française
+# La Malédiction de Strahd : Reloaded, édition française
 
-[Ouvrir le lecteur HTML](index.html) — ouverture directe dans un navigateur. [Mode d’emploi](lecteur/LISEZ-MOI.md).
+[Ouvrir le lecteur HTML](index.html) : ouverture directe dans un navigateur. [Mode d’emploi](lecteur/LISEZ-MOI.md).
 
 Ce dossier constitue **Curse of Strahd De-Reloaded**, par **LazyLuigi** : une version maison, augmentée, autonome et en français du guide **Curse of Strahd: Reloaded** de **DragnaCarta**. Les références à l’aventure originale, les sources et les crédits sont conservés.
 
@@ -30,43 +30,43 @@ Ce dossier constitue **Curse of Strahd De-Reloaded**, par **LazyLuigi** : une ve
 - [Résumé de l’aventure](Chapter%203%20-%20Running%20the%20Game/Adventure%20Summary.md)
 - [Mener l’aventure](Chapter%203%20-%20Running%20the%20Game/Running%20the%20Adventure.md)
 
-### Acte I — Dans les Brumes
+### Acte I : Dans les Brumes
 
 - [Résumé de l’acte I](Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md)
-- [Arc 0 — Le Feu et les Brumes](Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md)
-- [Arc A — S’échapper de la Maison de la Mort](Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md)
-- [Arc B — Bienvenue en Barovie](Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md)
-- [Arc C — Au cœur de la vallée](Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)
+- [Arc 0 : Le Feu et les Brumes](Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md)
+- [Arc A : S’échapper de la Maison de la Mort](Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md)
+- [Arc B : Bienvenue en Barovie](Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md)
+- [Arc C : Au cœur de la vallée](Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)
 
-### Acte II — La ville dans l’ombre
+### Acte II : La ville dans l’ombre
 
 - [Résumé de l’acte II](Act%20II%20-%20The%20Shadowed%20Town/Act%20II%20Summary.md)
-- [Arc D — La fête de saint Andral](Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md)
-- [Arc E — La Vistana disparue](Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md)
-- [Arc F — Le souhait de dame Wachter](Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md)
-- [Arc G — Le frère et la sœur Strazni](Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md)
-- [Arc H — L’âme perdue](Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)
-- [Arc I — Les remparts de Krezk](Act%20II%20-%20The%20Shadowed%20Town/Arc%20I%20-%20The%20Walls%20of%20Krezk.md)
+- [Arc D : La fête de saint Andral](Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md)
+- [Arc E : La Vistana disparue](Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md)
+- [Arc F : Le souhait de dame Wachter](Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md)
+- [Arc G : Le frère et la sœur Strazni](Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md)
+- [Arc H : L’âme perdue](Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)
+- [Arc I : Les remparts de Krezk](Act%20II%20-%20The%20Shadowed%20Town/Arc%20I%20-%20The%20Walls%20of%20Krezk.md)
 
-### Acte III — La terre brisée
+### Acte III : La terre brisée
 
 - [Résumé de l’acte III](Act%20III%20-%20The%20Broken%20Land/Act%20III%20Summary.md)
-- [Arc J — La gemme volée](Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md)
-- [Arc K — L’abbaye déchue](Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md)
-- [Arc L — La tanière des loups](Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md)
-- [Arc M — Le manoir du dragon](Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md)
-- [Arc N — Récits de Vallaki](Act%20III%20-%20The%20Broken%20Land/Arc%20N%20-%20Tales%20of%20Vallaki.md) — page vide dans la source, conservée vide.
-- [Arc O — Dîner avec le Djavo](Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md)
-- [Arc P — Le cambriolage de Ravenloft](Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md)
-- [Arc Q — Un phare resplendissant](Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md)
+- [Arc J : La gemme volée](Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md)
+- [Arc K : L’abbaye déchue](Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md)
+- [Arc L : La tanière des loups](Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md)
+- [Arc M : Le manoir du dragon](Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md)
+- [Arc N : Récits de Vallaki](Act%20III%20-%20The%20Broken%20Land/Arc%20N%20-%20Tales%20of%20Vallaki.md) : page vide dans la source, conservée vide.
+- [Arc O : Dîner avec le Djavo](Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md)
+- [Arc P : Le cambriolage de Ravenloft](Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md)
+- [Arc Q : Un phare resplendissant](Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md)
 
-### Acte IV — Les secrets de l’Ancien
+### Acte IV : Les secrets de l’Ancien
 
 - [Résumé de l’acte IV](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Act%20IV%20Summary.md)
-- [Arc R — Les épreuves de la montagne](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md)
-- [Arc S — Une épée de lumière solaire](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md)
-- [Arc T — Les Trois Sanctuaires](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
-- [Arc U — Les rêves de l’aube](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md)
+- [Arc R : Les épreuves de la montagne](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md)
+- [Arc S : Une épée de lumière solaire](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md)
+- [Arc T : Les Trois Sanctuaires](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
+- [Arc U : Les rêves de l’aube](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md)
 - [Épilogue](Act%20IV%20-%20Secrets%20of%20the%20Ancient/Epilogue.md)
 
 ### Annexes

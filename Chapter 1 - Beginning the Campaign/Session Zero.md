@@ -1,10 +1,3 @@
-> [!info]+ **Une équipe avant les Brumes**
-> Présentez l’ouverture de [l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : à Valcroix, sur la Côte des Épées, les personnages de niveau 1 sont les hommes de main du seigneur [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), qui leur confie ce qu’il ne règle pas par sa garde. Des habitants se plaignent de voyageurs de passage ; Loïc charge les personnages de retrouver leur caravane et de la faire partir. L’injustice, les préjugés et le devoir de protection seront joués sans dicter la réponse morale des personnages. Le passage en Barovie est la prémisse annoncée de la campagne ; le refus d’un repas ou d’une tente n’est pas puni par un sommeil forcé.
->
-> Les [reliques baroviennes](Character%20Creation.md#en-motivations) enrichissent l’histoire personnelle des personnages au sein de cette ouverture commune.
->
-> La Maison reste tragique : maltraitance, mort d’enfants, dépouilles et transformation corporelle d’Elisabeth. La refonte retire son donjon souterrain, pas l’horreur du moulin, de l’Abbaye ou de Ravenloft. Réglez les limites et le degré de description avant de jouer, puis conservez les outils de sécurité ci-dessous.
-
 <a id="en-setting-expectations" data-traduction="ancre"></a>
 # Définir les attentes
  Avant de commencer la campagne, définissez les attentes suivantes avec vos joueurs :
@@ -45,7 +38,7 @@ Pour que tous les joueurs partagent les mêmes attentes au début de la campagne
 <li>Le MJ ne cherchera pas à me piéger et me donnera une chance équitable d'éviter les situations défavorables en les annonçant par des indices clairs. Cependant, les PNJ ne livreront pas les informations secondaires sur l'univers ou les personnages, sauf si nous les leur demandons expressément.</li>
 <li>Cette campagne sera largement axée sur les rencontres sociales, les enquêtes et l'exploration ; les combats pourront être aussi espacés qu'un affrontement toutes les deux ou trois séances.</li> 
 <li>Les trésors, les objets magiques et les composantes de sorts coûteuses seront rares et peu souvent obtenus ; la plupart des récompenses prendront la forme de relations et d'alliances avec des PNJ amicaux.</li>
-<li>Après le prologue, cette campagne se déroulera dans un cadre où mon personnage sera étranger à son environnement. Hormis Valcroix et son service auprès de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), les éléments de son passé n'y apparaîtront pas directement et n'y seront pas évoqués.</li>
+<li>Après le prologue, cette campagne se déroulera dans un cadre où mon personnage sera étranger à son environnement. Hormis Valcroix et son service auprès de <a href="../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive">Loïc</a>, les éléments de son passé n'y apparaîtront pas directement et n'y seront pas évoqués.</li>
 <li>Il m'appartient entièrement de collaborer avec le MJ et les autres joueurs pour donner à mon personnage une évolution émotionnelle intérieure, si je le souhaite.</li> 
 <li>Certains ennemis puissants seront impossibles à vaincre au combat, et nous devrons gagner des niveaux, recruter des alliés ou obtenir des ressources pour y parvenir.</li>
 <li>L'alignement et la moralité des créatures ne seront pas toujours déterminés par leur espèce ou leur type. Certains monstres pourront être neutres, voire amicaux, tandis que certains humanoïdes pourront être monstrueusement irrécupérables.</li>

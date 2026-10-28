@@ -8,13 +8,13 @@
 ### Loïc de Hauterive
 **Rôle.** Seigneur de Valcroix, domaine de la Côte des Épées. Les personnages sont ses hommes de main : il leur confie ce qu’il ne règle pas par sa garde. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son ordre exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
 
-**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les personnages choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de Strahd ni le passage à venir.
+**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les personnages choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de [Strahd](Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ni le passage à venir.
 
 **À la table.** Voir [l’ordre et les réponses de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
 
 <a id="de-stanimir"></a>
 ### Stanimir
-**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère. Il n’a reçu aucune commande pour recruter, droguer ou livrer les personnages.
+**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère.
 
 **Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend l’ordre de [Loïc](Non-Player%20Characters.md#de-loic-de-hauterive), accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
 
@@ -27,35 +27,35 @@
 
 <a id="de-elisabeth-durst"></a>
 ### Elisabeth Durst
-**Rôle.** Responsable du drame des Durst et boss de la Maison. Sa jalousie et son besoin de posséder les siens l’ont conduite à un pacte volontaire, aux meurtres de Klara, de Walter et de Gustav, puis à l’abandon de ses enfants enfermés. Sa mort n’a pas effacé sa volonté : la hantise lui rend une incarnation physique corrompue.
+**Rôle.** Responsable du drame des Durst et boss de la Maison de la Mort. Sa jalousie et son besoin de posséder les siens l’ont conduite à un pacte volontaire, aux meurtres de [Klara](Non-Player%20Characters.md#de-klara), de [Walter](Non-Player%20Characters.md#de-walter-durst) et de [Gustav](Non-Player%20Characters.md#de-gustav-durst), puis à l’abandon de ses enfants enfermés. Sa mort n’a pas effacé sa volonté : la hantise lui rend une incarnation physique corrompue.
 
-**Interprétation.** Elle revendique la maîtrise de son foyer et traite les personnes comme des secrets à conserver. Sa forme noble puis son corps de nothic sont deux aspects de la même Elisabeth, avec la même mémoire et la même culpabilité. Aucun parasite ne la remplace. Elle n’est pas une recruteuse de Strahd.
+**Interprétation.** Elle revendique la maîtrise de son foyer et traite les personnes comme des secrets à conserver. Sa forme noble puis son corps de nothic sont deux aspects de la même Elisabeth, avec la même mémoire et la même culpabilité.
 
-**Profil natif.** [Phase 1 — Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble) · [Phase 2 — Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
+**Profil natif.** [Phase 1 : Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble) · [Phase 2 : Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
 
 **Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-eclat-elisabeth) est une clé personnelle de la nurserie ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
 
 <a id="de-gustav-durst"></a>
 ### Gustav Durst
-**Rôle.** Époux d’Elisabeth, père de Rose, de Thorn et de Walter, qu’il a eu avec Klara. Les souvenirs et documents du manoir révèlent une famille aisée, ses fautes et sa destruction ; ils ne font pas de lui un adversaire à vaincre.
+**Rôle.** Époux d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst), père de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst), de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst) et de [Walter](Non-Player%20Characters.md#de-walter-durst), qu’il a eu avec [Klara](Non-Player%20Characters.md#de-klara). Les souvenirs et documents du manoir révèlent une famille aisée, ses fautes et sa destruction.
 
-**Sort.** Après les meurtres de Klara et Walter et le scellement de la nurserie, Gustav découvre les crimes. Elisabeth le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+**Sort.** Après les meurtres de [Klara](Non-Player%20Characters.md#de-klara) et [Walter](Non-Player%20Characters.md#de-walter-durst) et le scellement de la nurserie, Gustav découvre les crimes. [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
 
 <a id="de-klara"></a>
 ### Klara
-**Rôle.** Nourrice de Rose et Thorn, mère de Walter. Sa présence dans les étages cherche à faire reconnaître son enfant et leur sort. Elle n’impose ni combat ni possession et n’accorde aucun allié combattant contre Elisabeth.
+**Rôle.** Nourrice de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst), mère de [Walter](Non-Player%20Characters.md#de-walter-durst). Sa présence dans les étages cherche à faire reconnaître son enfant et leur sort.
 
-**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; Walter repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
+**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; [Walter](Non-Player%20Characters.md#de-walter-durst) repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-funerailles).
 
 <a id="de-walter-durst"></a>
 ### Walter Durst
-**Rôle.** Nourrisson, fils de Klara et Gustav, victime d’Elisabeth. Dans cette continuité, il n’a jamais été transformé en monstre. Il n’a donc ni phase de combat, ni profil de vampirien, de nothic ou d’amas de chair.
+**Rôle.** Nourrisson, fils de [Klara](Non-Player%20Characters.md#de-klara) et [Gustav](Non-Player%20Characters.md#de-gustav-durst), victime d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst).
 
-**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie). Il reste récupérable après la mort d’Elisabeth. Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
+**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie). Il reste récupérable après la mort d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst). Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst
-**Dans l’arc A.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de Thorn. Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Les enfants n’appellent pas les voyageurs depuis la route, ne commandent pas les loups et ne possèdent pas les personnages. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
+**Dans l’arc A.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst). Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
 
 **Conseils d’interprétation**
 ***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les personnages.
@@ -74,7 +74,7 @@
 ***Relations.*** Rose est la sœur aînée de Thorn Durst, la demi-sœur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter Durst</a> et l’aînée des enfants d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> et de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav Durst</a>.
 <a id="en-thornboldt-thorn-durst" data-traduction="ancre"></a>
 ### Thornboldt « Thorn » Durst
-**Dans l’arc A.** Thorn apparaît au grenier avec Rose. Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine. Aucun pouvoir de possession ni renfort de combat n’est ajouté.
+**Dans l’arc A.** Thorn apparaît au grenier avec [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst). Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine.
 
 **Conseils d’interprétation**
 ***Résonance.*** Thorn doit susciter la compassion par sa timidité et sa peur, et l’affection par sa joie enfantine.
@@ -100,7 +100,7 @@
 
 ***Émotions.*** Ismark se sent le plus souvent soucieux, coupable, amical, mélancolique, défiant, plein d’espoir, désespéré ou reconnaissant.
 
-***Motivations.*** Ismark veut protéger son village et Ireena, se montrer digne de son père encore vivant, puis honorer sa mémoire après son décès, et être un jour à la hauteur de l’héritage de son ancêtre.
+***Motivations.*** Ismark veut protéger son village et [Ireena](Non-Player%20Characters.md#en-ireena-kolyana), se montrer digne de son père encore vivant, puis honorer sa mémoire après son décès, et être un jour à la hauteur de l’héritage de son ancêtre.
 
 ***Inspirations.*** Pour interpréter Ismark, inspirez-vous de Jon Snow (*Game of Thrones*), de Faramir (*Le Seigneur des anneaux*) et de Trevor Belmont (*Castlevania*).
 
@@ -117,7 +117,7 @@
 
 ***Émotions.*** Ireena se sent le plus souvent curieuse, pensive, mélancolique, coupable, obstinée, joyeuse, déterminée, défiante ou anxieuse.
 
-***Motivations.*** Ireena veut protéger ses compatriotes <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a> et Ismark, honorer l’héritage familial, soutenir Kolyan de son vivant puis honorer sa mémoire après son décès, découvrir de nouvelles histoires et explorer un jour des contrées lointaines.
+***Motivations.*** Ireena veut protéger ses compatriotes <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a> et [Ismark](Non-Player%20Characters.md#en-ismark-kolyanovich), honorer l’héritage familial, soutenir [Kolyan](Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-kolyan-indirovich) de son vivant puis honorer sa mémoire après son décès, découvrir de nouvelles histoires et explorer un jour des contrées lointaines.
 
 ***Inspirations.*** Pour interpréter Ireena, inspirez-vous de Belle (La Belle et la Bête), d’Elizabeth Swann (Pirates des Caraïbes), d’Éowyn (Le Seigneur des anneaux), d’Hermione Granger (Harry Potter) et de Katniss Everdeen (Hunger Games).
 
@@ -170,7 +170,7 @@
 
 ***Motivations.*** Le père Donavich veut libérer son fils de l’emprise de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, à n’importe quel prix.
 
-***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de Walter White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
+***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de [Walter](Non-Player%20Characters.md#de-walter-durst) White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, le père Donavich est un père endeuillé, mais fervent. Avec les personnes en qui il a confiance, Donavich se révèle être un homme brisé qui va à la dérive, perdu et désorienté faute de guide ou de but.
@@ -246,7 +246,7 @@
 <h2 id="volenta-première-forme">Volenta, première forme</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-volenta-first-form">Arc D - St. Andral&#x27;s Feast — Volenta, première forme</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-volenta-first-form">Volenta, première forme (arc D : La fête de Saint-Andral)</a></li>
 </ul>
 </div>
 <br>
@@ -261,7 +261,7 @@
 <h2 id="volenta-seconde-forme">Volenta, seconde forme</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-volenta-second-form">Arc D - St. Andral&#x27;s Feast — Volenta, seconde forme</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-volenta-second-form">Volenta, seconde forme (arc D : La fête de Saint-Andral)</a></li>
 </ul>
 </div>
 
@@ -280,7 +280,7 @@
 <h2 id="volenta-experte-en-alchimie">Volenta, experte en alchimie</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-volenta-alchemical-savant">Arc P - Ravenloft Heist — Volenta, experte en alchimie</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-volenta-alchemical-savant">Volenta, experte en alchimie (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 <br>
@@ -296,7 +296,7 @@
 <h2 id="volenta-vampirienne-frénétique">Volenta, vampirienne frénétique</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-volenta-frenzied-spawn">Arc P - Ravenloft Heist — Volenta, vampirienne frénétique</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-volenta-frenzied-spawn">Volenta, vampirienne frénétique (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 
@@ -333,7 +333,7 @@
 <h2 id="ludmilla-première-forme">Ludmilla, première forme</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-ludmilla-first-form">Arc J - The Stolen Gem — Ludmilla, première forme</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-ludmilla-first-form">Ludmilla, première forme (arc J : La gemme dérobée)</a></li>
 </ul>
 </div>
 
@@ -351,7 +351,7 @@
 <h2 id="ludmilla-vilisevic-élémentaliste">Ludmilla Vilisevic, élémentaliste</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-ludmilla-vilisevic-elementalist">Arc P - Ravenloft Heist — Ludmilla Vilisevic, élémentaliste</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-ludmilla-vilisevic-elementalist">Ludmilla Vilisevic, élémentaliste (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 <br>
@@ -367,7 +367,7 @@
 <h2 id="ludmilla-vilisevic-fiélonne-de-brume">Ludmilla Vilisevic, fiélonne de brume</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-ludmilla-vilisevic-mistfiend">Arc P - Ravenloft Heist — Ludmilla Vilisevic, fiélonne de brume</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-ludmilla-vilisevic-mistfiend">Ludmilla Vilisevic, fiélonne de brume (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 
@@ -401,7 +401,7 @@
 <h2 id="anastrasya-mondaine-vampirique">Anastrasya, mondaine vampirique</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-anastrasya-vampire-socialite">Arc P - Ravenloft Heist — Anastrasya, mondaine vampirique</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-anastrasya-vampire-socialite">Anastrasya, mondaine vampirique (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 <br>
@@ -417,7 +417,7 @@
 <h2 id="anastrasya-abomination-vampirique">Anastrasya, abomination vampirique</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-anastrasya-vampiric-abomination">Arc P - Ravenloft Heist — Anastrasya, abomination vampirique</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-anastrasya-vampiric-abomination">Anastrasya, abomination vampirique (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 
@@ -490,9 +490,9 @@
 <h2 id="rahadin-chambellan-du-château">Rahadin, chambellan du château</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-rahadin-castle-chamberlain">Arc B - Welcome to Barovia — Rahadin, chambellan du château</a></li>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-rahadin-castle-chamberlain">Arc D - St. Andral&#x27;s Feast — Rahadin, chambellan du château</a></li>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-rahadin-castle-chamberlain">Arc P - Ravenloft Heist — Rahadin, chambellan du château</a></li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-rahadin-castle-chamberlain">Rahadin, chambellan du château (arc B : Bienvenue en Barovie)</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-rahadin-castle-chamberlain">Rahadin, chambellan du château (arc D : La fête de Saint-Andral)</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-rahadin-castle-chamberlain">Rahadin, chambellan du château (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 <br>
@@ -508,9 +508,9 @@
 <h2 id="rahadin-massacreur-des-siens">Rahadin, massacreur des siens</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-rahadin-kinslayer">Arc B - Welcome to Barovia — Rahadin, massacreur des siens</a></li>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-rahadin-kinslayer">Arc D - St. Andral&#x27;s Feast — Rahadin, massacreur des siens</a></li>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-rahadin-kinslayer">Arc P - Ravenloft Heist — Rahadin, massacreur des siens</a></li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-rahadin-kinslayer">Rahadin, massacreur des siens (arc B : Bienvenue en Barovie)</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20D%20-%20St.%20Andral%27s%20Feast.md#en-rahadin-kinslayer">Rahadin, massacreur des siens (arc D : La fête de Saint-Andral)</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-rahadin-kinslayer">Rahadin, massacreur des siens (arc P : Le cambriolage de Ravenloft)</a></li>
 </ul>
 </div>
 
@@ -527,7 +527,7 @@
 <h2 id="rahadin-touché-par-lambre">Rahadin, touché par l’Ambre</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rahadin-amber-touched">Arc T - The Three Fanes — Rahadin, touché par l’Ambre</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rahadin-amber-touched">Rahadin, touché par l’Ambre (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -542,7 +542,7 @@
 <h2 id="rahadin-le-corrompu">Rahadin, le Corrompu</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rahadin-the-corrupted">Arc T - The Three Fanes — Rahadin, le Corrompu</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rahadin-the-corrupted">Rahadin, le Corrompu (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -595,7 +595,7 @@
 <h2 id="varushka-servante-cauchemardesque">Varushka, servante cauchemardesque</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-varushka-nightmare-maid">Arc O - Dinner with the Devil — Varushka, servante cauchemardesque</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-varushka-nightmare-maid">Varushka, servante cauchemardesque (arc O : Dîner avec le Djavo)</a></li>
 </ul>
 </div>
 
@@ -610,7 +610,7 @@
 <h2 id="varushka-âme-du-désespoir">Varushka, âme du désespoir</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-varushka-soul-of-despair">Arc O - Dinner with the Devil — Varushka, âme du désespoir</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-varushka-soul-of-despair">Varushka, âme du désespoir (arc O : Dîner avec le Djavo)</a></li>
 </ul>
 </div>
 
@@ -646,7 +646,7 @@
 <h2 id="le-convent-du-broyeur-dos">Le convent du Broyeur d’os</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-bonegrinder-coven">Arc H - The Lost Soul — Le convent du Broyeur d’os</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-bonegrinder-coven">Le convent du Broyeur d’os (arc H : L’âme perdue)</a></li>
 </ul>
 </div>
 
@@ -661,7 +661,7 @@
 <h2 id="le-trio-du-cauchemar">Le Trio du cauchemar</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-nightmare-three">Arc H - The Lost Soul — Le Trio du cauchemar</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-nightmare-three">Le Trio du cauchemar (arc H : L’âme perdue)</a></li>
 </ul>
 </div>
 
@@ -699,7 +699,7 @@
 <h2 id="urwin-martikov-1">Urwin Martikov</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-urwin-martikov">Arc T - The Three Fanes — Urwin Martikov</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-urwin-martikov">Urwin Martikov (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -768,8 +768,8 @@
 <h2 id="rudolph-van-richten">Rudolph van Richten</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-rudolph-van-richten">Arc E - The Missing Vistana — Rudolph van Richten</a></li>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rudolph-van-richten">Arc T - The Three Fanes — Rudolph Van Richten</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-rudolph-van-richten">Rudolph van Richten (arc E : La Vistana disparue)</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-rudolph-van-richten">Rudolph Van Richten (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -803,8 +803,8 @@
 <h2 id="muriel-vinshaw-1">Muriel Vinshaw</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-muriel-vinshaw">Arc C - Into the Valley — Muriel Vinshaw</a></li>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-muriel-vinshaw">Arc J - The Stolen Gem — Muriel Vinshaw</a></li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-muriel-vinshaw">Muriel Vinshaw (arc C : Au cœur de la vallée)</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-muriel-vinshaw">Muriel Vinshaw (arc J : La gemme dérobée)</a></li>
 </ul>
 </div>
 
@@ -893,8 +893,8 @@
 <h2 id="izek-strazni-1re-forme">Izek Strazni, 1re forme</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md#en-izek-strazni-1st-form">Arc F - Lady Wachter&#x27;s Wish — Izek Strazni, 1re forme</a></li>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md#en-izek-strazni-1st-form">Arc G - The Strazni Siblings — Izek Strazni, 1re forme</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md#en-izek-strazni-1st-form">Izek Strazni, 1re forme (arc F : Le souhait de Dame Wachter)</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md#en-izek-strazni-1st-form">Izek Strazni, 1re forme (arc G : Les Strazni)</a></li>
 </ul>
 </div>
 
@@ -911,8 +911,8 @@
 <h2 id="izek-strazni-2e-forme">Izek Strazni, 2e forme</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md#en-izek-strazni-2nd-form">Arc F - Lady Wachter&#x27;s Wish — Izek Strazni, 2e forme</a></li>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md#en-izek-strazni-2nd-form">Arc G - The Strazni Siblings — Izek Strazni, 2e forme</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md#en-izek-strazni-2nd-form">Izek Strazni, 2e forme (arc F : Le souhait de Dame Wachter)</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md#en-izek-strazni-2nd-form">Izek Strazni, 2e forme (arc G : Les Strazni)</a></li>
 </ul>
 </div>
 
@@ -1050,7 +1050,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <h2 id="orateur-des-potences-1">Orateur des potences</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-speaker-of-the-gallows">Arc H - The Lost Soul — Orateur des potences</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-speaker-of-the-gallows">Orateur des potences (arc H : L’âme perdue)</a></li>
 </ul>
 </div>
 <br>
@@ -1065,7 +1065,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <h2 id="vengeur-baal-verzi">Vengeur Ba’al Verzi</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-baal-verzi-avenger">Arc H - The Lost Soul — Vengeur Ba’al Verzi</a></li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-baal-verzi-avenger">Vengeur Ba’al Verzi (arc H : L’âme perdue)</a></li>
 </ul>
 </div>
 
@@ -1119,7 +1119,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <h2 id="ezmerelda-davenir-1">Ezmerelda d&#x27;Avenir</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md#en-ezmerelda-davenir">Arc K - The Fallen Abbey — Ezmerelda d&#x27;Avenir</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md#en-ezmerelda-davenir">Ezmerelda d&#x27;Avenir (arc K : L’abbaye déchue)</a></li>
 </ul>
 </div>
 
@@ -1155,7 +1155,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <h2 id="ithuriel-le-porteur-de-laube">Ithuriel, le Porteur de l’Aube</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-ithuriel-the-dawnbringer">Arc Q - A Shining Beacon — Ithuriel, le Porteur de l’Aube</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-ithuriel-the-dawnbringer">Ithuriel, le Porteur de l’Aube (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 <br>
@@ -1171,13 +1171,13 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <h2 id="ithuriel-létoile-déchue">Ithuriel, l’Étoile déchue</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-ithuriel-the-fallen-star">Arc Q - A Shining Beacon — Ithuriel, l’Étoile déchue</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-ithuriel-the-fallen-star">Ithuriel, l’Étoile déchue (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 
 <a id="en-after-redemption" data-traduction="ancre"></a>
 ### Après la rédemption
-**Profil de jeu.** Consulter [Ithuriel restauré — La pénitence de l’Abbé](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-the-abbots-penance) pour son profil composite et son état après la restauration.
+**Profil de jeu.** Consulter [Ithuriel restauré : La pénitence de l’Abbé](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-the-abbots-penance) pour son profil composite et son état après la restauration.
 
 **Conseils d’interprétation**
 ***Résonance.*** Ithuriel doit susciter l’affection par sa détermination à réparer le mal qu’il a fait, le réconfort par sa profonde compassion et sa sollicitude, et la gratitude par les efforts sincères qu’il déploie pour aider les personnages.
@@ -1260,7 +1260,7 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 <h2 id="kiril-loup-garou-alpha">Kiril, loup-garou alpha</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-kiril-werewolf-alpha">Arc Q - A Shining Beacon — Kiril, loup-garou alpha</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-kiril-werewolf-alpha">Kiril, loup-garou alpha (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 <br>
@@ -1276,7 +1276,7 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 <h2 id="kiril-lycanthrope-mutant">Kiril, lycanthrope mutant</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-kiril-mutant-lycan">Arc Q - A Shining Beacon — Kiril, lycanthrope mutant</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-kiril-mutant-lycan">Kiril, lycanthrope mutant (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 
@@ -1294,7 +1294,7 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 <h2 id="zorya-esprit-de-pseudodragon">Zorya, esprit de pseudodragon</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-zorya-pseudodragon-spirit">Arc M - The Dragon&#x27;s Manor — Zorya, esprit de pseudodragon</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-zorya-pseudodragon-spirit">Zorya, esprit de pseudodragon (arc M : Le manoir du dragon)</a></li>
 </ul>
 </div>
 
@@ -1350,8 +1350,8 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="vladimir-horngaard-revenant-vengeur">Vladimir Horngaard, revenant vengeur</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-vladimir-horngaard-vengeful-revenant">Arc M - The Dragon&#x27;s Manor — Vladimir Horngaard, revenant vengeur</a></li>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-vladimir-horngaard-vengeful-revenant">Arc Q - A Shining Beacon — Vladimir Horngaard, revenant vengeur</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-vladimir-horngaard-vengeful-revenant">Vladimir Horngaard, revenant vengeur (arc M : Le manoir du dragon)</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-vladimir-horngaard-vengeful-revenant">Vladimir Horngaard, revenant vengeur (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 <br>
@@ -1367,8 +1367,8 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="vladimir-horngaard-chevalier-de-la-mort">Vladimir Horngaard, chevalier de la mort</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-vladimir-horngaard-knight-of-death">Arc M - The Dragon&#x27;s Manor — Vladimir Horngaard, chevalier de la mort</a></li>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-vladimir-horngaard-knight-of-death">Arc Q - A Shining Beacon — Vladimir Horngaard, chevalier de la mort</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-vladimir-horngaard-knight-of-death">Vladimir Horngaard, chevalier de la mort (arc M : Le manoir du dragon)</a></li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-vladimir-horngaard-knight-of-death">Vladimir Horngaard, chevalier de la mort (arc Q : Une lueur d’espoir)</a></li>
 </ul>
 </div>
 
@@ -1389,7 +1389,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="vilnius-premier-prisonnier">Vilnius, premier prisonnier</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-vilnius-first-prisoner">Arc S - A Sword of Sunlight — Vilnius, premier prisonnier</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-vilnius-first-prisoner">Vilnius, premier prisonnier (arc S : Une épée de lumière)</a></li>
 </ul>
 </div>
 
@@ -1407,7 +1407,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="patrina-âme-en-peine-vengeresse">Patrina, âme-en-peine vengeresse</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-patrina-vengeful-wraith">Arc S - A Sword of Sunlight — Patrina, âme en peine vengeresse</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-patrina-vengeful-wraith">Patrina, âme en peine vengeresse (arc S : Une épée de lumière)</a></li>
 </ul>
 </div>
 
@@ -1423,7 +1423,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="patrina-demi-liche">Patrina, demi-liche</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-patrina-half-lich">Arc S - A Sword of Sunlight — Patrina, demi-liche</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-patrina-half-lich">Patrina, demi-liche (arc S : Une épée de lumière)</a></li>
 </ul>
 </div>
 
@@ -1444,7 +1444,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="baba-lysaga-mère-sorcière">Baba Lysaga, mère sorcière</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-baba-lysaga-witch-mother">Arc T - The Three Fanes — Baba Lysaga, Mère Sorcière</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-baba-lysaga-witch-mother">Baba Lysaga, Mère Sorcière (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -1459,7 +1459,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="baba-lysaga-du-marais">Baba Lysaga, du marais</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-baba-lysaga-of-the-swamp">Arc T - The Three Fanes — Baba Lysaga, du marais</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-baba-lysaga-of-the-swamp">Baba Lysaga, du marais (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>
 
@@ -1478,6 +1478,6 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 <h2 id="hutte-rampante-1">Hutte rampante</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-creeping-hut">Arc T - The Three Fanes — Hutte rampante</a></li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-creeping-hut">Hutte rampante (arc T : Les trois sanctuaires)</a></li>
 </ul>
 </div>

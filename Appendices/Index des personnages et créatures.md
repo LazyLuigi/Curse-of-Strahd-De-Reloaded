@@ -842,7 +842,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-soul-weapon"></a>Arme de l’âme | Soul Weapon | [Section du guide](Non-Player%20Characters.md#en-patrina) |
 | <a id="ref-campagne-charm-wielder"></a>Charme du porteur | Charm Wielder | [Section du guide](Non-Player%20Characters.md#en-patrina) |
 | <a id="ref-campagne-negative-energy-burst"></a>Explosion d’énergie négative | Negative Energy Burst | [Section du guide](Non-Player%20Characters.md#en-patrina) |
-| <a id="ref-campagne-high-wizardry"></a>Haute sorcellerie | High Wizardry | [Référence littéraire — Diane Duane](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-the-abbots-redemption) |
+| <a id="ref-campagne-high-wizardry"></a>Haute sorcellerie | High Wizardry | [Référence littéraire : Diane Duane](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-the-abbots-redemption) |
 | <a id="ref-campagne-dark-embodiment"></a>Incarnation ténébreuse | Dark Embodiment | [Section du guide](Non-Player%20Characters.md#en-patrina) |
 | <a id="ref-campagne-conjure-sarcophagi"></a>Invocation de sarcophages | Conjure Sarcophagi | [Section du guide](Non-Player%20Characters.md#en-patrina) |
 | <a id="ref-campagne-shadowblade"></a>Lame d’ombre | Shadowblade | [Section du guide](Non-Player%20Characters.md#en-patrina) |
@@ -1126,7 +1126,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-phantomfolk-travelers-from-the-border-ethereal"></a>Peuple fantôme : voyageurs de la Frontière éthérée | Phantomfolk: Travelers from the Border Ethereal | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-what-victor-knows) |
 | <a id="ref-campagne-etherborn-natives-of-the-deep-ethereal"></a>Éthérins : natifs de la Profondeur éthérée | Etherborn: Natives of the Deep Ethereal | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-what-victor-knows) |
 
-## Le Feu et les Brumes — ajouts De-Reloaded
+## Le Feu et les Brumes
 
 | Nom | Nature | Définition locale |
 |---|---|---|
@@ -1136,8 +1136,6 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="de-sceau-nurserie"></a>Sceau de la nurserie | Hantise particulière | [Fonctionnement](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-sceau-nurserie) |
 | <a id="de-rats-albinos"></a>Rats albinos | Espions de Strahd | [Définition locale](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) |
 
-## Repères historiques de l’ancienne ouverture
-
 <a id="ref-nom-daggerford"></a>
 <a id="ref-nom-drasha"></a>
 <a id="ref-nom-lancelot"></a>
@@ -1146,5 +1144,3 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 <a id="ref-campagne-flesh-mound"></a>
 <a id="ref-campagne-graveborn"></a>
 <a id="ref-campagne-nightmares-bridle"></a>
-
-Les anciennes entrées renvoient désormais aux [archives de l’ouverture de Reloaded](../Introduction/Changelog.md#de-ancienne-ouverture). Les personnages et les règles de la version actuelle sont recensés dans les sections précédentes.
