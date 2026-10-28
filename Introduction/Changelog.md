@@ -4,12 +4,16 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 # 28 octobre 2026 : Relecture du style
 
 - Réécriture de la narration de l’[arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ.
-- Les [personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) sont les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son billet. Les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie.
+- Les [personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) sont les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son avis d’expulsion. Les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie.
 - Retrait de l’encart « Une équipe avant les Brumes » de la [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md).
 - Retrait des comparaisons avec Reloaded dans le texte de jeu de tout le guide. Les choix de réécriture sont expliqués dans des notes de conception, limitées au constat et à l’intention.
 - Liens vers les PNJ rétablis à chaque mention dans les textes De-Reloaded, notamment dans l’arc A.
 - La Maison de la Mort est toujours nommée en entier.
 - Les tirets d’incise des titres et de la narration deviennent des deux-points, des virgules ou des parenthèses. Les profils de l’annexe des PNJ nomment leur arc en français.
+- [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un personnage lit à la caravane. Il ne discute pas ses ordres.
+- Les pillards se déguisent en Vistani pour voler. La meunière raconte ce qu’elle a vu, sans reçu ni signature imitée.
+- La confrontation avec les pillards est obligatoire, avec un pillard de plus que de personnages. Ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les personnages.
+- Arcs A et B : retour aux textes de Reloaded avant une nouvelle réécriture de l’arc A. Le sous-sol de la Maison de la Mort est retiré.
 
 <a id="de-hommes-de-main-2026-10-27"></a>
 # 27 octobre 2026 : Les hommes de main de Loïc

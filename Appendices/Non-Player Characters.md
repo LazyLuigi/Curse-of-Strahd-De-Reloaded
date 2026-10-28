@@ -6,15 +6,15 @@
 
 <a id="de-loic-de-hauterive"></a>
 ### Loïc de Hauterive
-**Rôle.** Seigneur de Valcroix, domaine de la Côte des Épées. Les personnages sont ses hommes de main : il leur confie ce qu’il ne règle pas par sa garde. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son ordre exige un départ avant le lendemain midi ; il n’autorise ni massacre ni arrestation sans faits établis.
+**Rôle.** Seigneur de Valcroix, domaine de la Côte des Épées. Les personnages sont ses hommes de main : il utilise ce groupe pour effectuer avec discrétion les tâches pour lesquelles il ne souhaite pas impliquer sa garde. Il estime leur service, mais laisse son mépris des voyageurs transformer des plaintes disparates en accusation collective. Il ignore que des pillards suivent la caravane et se font passer pour des Vistani. Son avis d’expulsion exige un départ avant le lendemain midi ; les coupables doivent être arrêtés et ramenés au château pour y être jugés.
 
-**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation ; il peut entendre des preuves sans devenir soudain un autre homme. Les personnages choisissent leur manière de servir et de contester. Loïc ne connaît ni le projet de [Strahd](Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ni le passage à venir.
+**Interprétation.** Parler avec l’assurance d’un homme habitué à être obéi. Il veut ramener le calme et protéger sa réputation, et n’a que faire des détails : il balaie les questions d’un revers de main et laisse ses hommes choisir leurs moyens. Loïc ne connaît ni le projet de [Strahd](Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ni le passage à venir.
 
-**À la table.** Voir [l’ordre et les réponses de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
+**À la table.** Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat). Aucun profil de combat n’est requis pour cette scène.
 
 <a id="de-stanimir"></a>
 ### Stanimir
-**Rôle.** Conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère.
+**Rôle.** Doyen et conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère.
 
 **Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend l’ordre de [Loïc](Non-Player%20Characters.md#de-loic-de-hauterive), accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
 

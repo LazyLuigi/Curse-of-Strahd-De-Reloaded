@@ -7,8 +7,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 
 Les documents de cette ouverture sont rédigés directement en français. Leurs textes de référence restent dans les scènes où les personnages peuvent les obtenir :
 
-- [Billet de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
-- [Le papier de la meunière](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-recu), reçu présenté pendant son témoignage.
+- [Avis d’expulsion de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
 - [Plaintes et preuves](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-plaintes), aide du MJ : ne remettre aux joueurs que les renseignements acquis.
 - [Registre des domestiques](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-servants-room), témoignage sur l’inhumation de [Gustav](Non-Player%20Characters.md#de-gustav-durst).
 - [Correspondance de la bibliothèque](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-secret-room), trois pièces distinctes à découvrir.
