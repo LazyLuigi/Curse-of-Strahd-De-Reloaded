@@ -14,13 +14,13 @@
 
 <a id="de-stanimir"></a>
 ### Stanimir
-**Rôle.** Doyen et conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé au [village de Barovie](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir) ou à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère.
+**Rôle.** Doyen et conteur vistani rencontré au [camp de l’arc 0](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp), puis retrouvé à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), son campement. Après l’attaque des pillards, il invite les personnages à partager le repas pour les remercier d’avoir protégé les siens. Son hospitalité est sincère.
 
-**Interprétation.** Chaleureux sans exiger une amitié immédiate ; fier de sa parole et attentif à la sécurité des familles. Il entend l’ordre de [Loïc](Non-Player%20Characters.md#de-loic-de-hauterive), accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
+**Interprétation.** Chaleureux et empathique ; fier de sa parole et attentif à la sécurité des familles. Il entend l’ordre de [Loïc](Non-Player%20Characters.md#de-loic-de-hauterive), accepte un départ convenu et répond franchement lorsque le nom du prince de son conte lui est demandé. La magie des flammes accompagne le récit ; elle ne cause pas le passage.
 
 **Connaissances et relation.** Les Brumes n’ont pris que les personnages. S’ils dormaient au camp, il a trouvé leur tente vide et reconnu la brume de la Barovie ; s’ils étaient repartis, il les croit rentrés chez eux jusqu’à leurs retrouvailles. Noter un souvenir réellement partagé avec chaque personnage, les services reçus et les torts subis ; ses retrouvailles en dépendent. Sa liberté de passage ne permet pas de faire sortir clandestinement les personnages.
 
-**Pendant le siège.** Sa caravane quitte Valcroix à l’aube du 27 et atteint le village le jour même ; elle y attend la levée du siège avant de rejoindre Tser, comme décrit dans [Le convoi de Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). Il ne bénéficie pas d’un passage gratuit à travers la horde.
+**Après le prologue.** Sa caravane quitte Valcroix à l’aube du 27 et rejoint son campement de l’étang de Tser, où les personnages le retrouvent dans l’arc C.
 
 <a id="en-death-house" data-traduction="ancre"></a>
 # Maison de la Mort

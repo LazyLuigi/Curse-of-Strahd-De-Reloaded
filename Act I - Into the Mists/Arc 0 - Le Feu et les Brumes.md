@@ -2,28 +2,26 @@
 
 *Un prologue pour trois à six personnages de niveau 1, qui atteignent le niveau 2 avant leur arrivée en Barovie.*
 
-Les personnages sont les hommes de main de **[Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**, seigneur de **Valcroix**, un petit domaine de la Côte des Épées. Le seigneur utilise généralement ce groupe pour effectuer avec discrétion les tâches pour lesquelles il ne souhaite pas impliquer sa garde. Ils travaillent ensemble depuis assez longtemps pour se connaître et avoir gagné une confiance mutuelle. Aujourd’hui, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) les charge de faire partir une caravane d’étrangers indésirables, accusés par la population de semer le trouble sur ses terres.
+Les joueurs sont les hommes de main de **[Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**, seigneur de **Valcroix**, un petit domaine de la Côte des Épées. Le seigneur leur confie les affaires qu’il préfère régler en toute discrétion et sans sa garde. Ils travaillent ensemble depuis assez longtemps pour se faire confiance. Aujourd’hui, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) les charge de faire partir une caravane d’étrangers indésirables, accusés par la population de semer le trouble sur ses terres.
 
-Quelques témoignages les conduisent au camp de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Au soir, des pillards attaquent les roulottes : ce sont eux qui suivent les voyageurs depuis plusieurs étapes et commettent leurs vols déguisés comme eux. En défendant les étrangers, les personnages découvrent le pacifisme et l’hospitalité de ceux qu’ils étaient venus chasser. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur offre alors de partager le repas et le feu.
+Quelques témoignages les conduisent au camp de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Le soir venu, des pillards attaquent les roulottes : ce sont eux qui suivent la caravane depuis plusieurs jours et volent les habitants, déguisés en Vistani. En défendant les étrangers, les joueurs découvrent le pacifisme et l’hospitalité de ceux qu’ils étaient venus chasser. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur offre alors de partager le repas et le feu.
 
-Après cette soirée, les Brumes emportent les PJ en Barovie. Le prologue s’achève auprès des portes de Barovie, où une meute de loups poussera les joueurs à trouver refuge au manoir abandonné des Durst dans [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md).
+Après cette soirée, les Brumes emportent les joueurs en Barovie. Le prologue s’achève dans une forêt de Barovie, à quelques centaines de mètres du manoir des Durst. Au début de [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md), une meute de loups poussera les joueurs à se réfugier dans le manoir.
 
 > [!design]+ **Note de conception : Le Feu et les Brumes**
-> **Constat.** Les accroches prévues dans Reloaded sont alambiquées et brutales, et l’arc A original trop gore : il ne préfigure pas la campagne à venir. Donner au groupe un passé, une mission et un a priori sur les étrangers, finalement démenti, donne plus de texture au récit.
+> **Constat.** Ce prologue remplace les accroches de Reloaded, qui n’offrent pas un sentiment de groupe suffisamment fort aux joueurs, et adoucit l’arc A, dont l’horreur crue ne préfigure pas la campagne à venir. Ce prologue donne au groupe un passé commun, une mission et offre l’occasion d’une première rencontre avec les Vistani.
 >
-> **Intention.** Cette ouverture part d’une mission ordinaire pour ancrer le groupe dans son pays avant de l’en arracher. Les plaintes des habitants installent la méfiance envers les voyageurs, puis l’attaque des pillards renverse leur compréhension de la situation. En protégeant la caravane, les personnages gagnent la reconnaissance des Vistani et sont invités à partager leur feu. Par les yeux du rat d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) observe la scène ; intrigué, il les fait venir par les Brumes.
+> **Intention.** Cette ouverture part d’une mission ordinaire pour ancrer le groupe dans son pays avant de l’en arracher. Les plaintes des habitants installent la méfiance envers les voyageurs, puis l’attaque des pillards renverse leur compréhension de la situation. En protégeant la caravane, les joueurs gagnent la reconnaissance des Vistani et sont invités à partager leur feu. Par les yeux du rat d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) observe la scène ; intrigué, il les fait venir par les Brumes.
 
 <a id="de-preparer-arc-zero"></a>
 ## Préparer le départ
 
-Toutes les classes ont leur place dans cette équipe. Avant la première scène, demandez à chaque joueur une affaire qui explique la réputation de son personnage ou de la troupe à Valcroix : une famille expulsée, un brigand retrouvé et conduit à l’échafaud, une rébellion étouffée…
+Avant la première scène, demandez à chaque joueur une affaire qui explique la réputation de son personnage ou de la troupe à Valcroix : une famille expulsée, un brigand retrouvé et conduit à l’échafaud, une rébellion étouffée…
 
-Les personnages portent leur équipement de départ et reçoivent l’avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dès la première scène. Malgré leur titre non officiel, chacun sait à Valcroix qu’ils œuvrent pour le seigneur, et la population a tendance à les craindre. Ce que les personnages pensent de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) et de sa mission appartient aux joueurs.
-
-**Pour une introduction courte.** Visez trente à quarante-cinq minutes hors création, avec un combat bref : l’ordre de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), deux ou trois échanges avec des habitants, l’arrivée au camp et l’attaque, puis le repas et le conte. Une enquête approfondie ou un combat prolongé allongera la séance ; gardez les échanges et les jeux qui conviennent au rythme de votre table.
+Les joueurs portent leur équipement de départ et reçoivent l’avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dès la première scène. Ils n’ont aucun titre officiel, mais tout Valcroix sait qu’ils servent le seigneur, et beaucoup d’habitants les craignent. Ce que les personnages pensent de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) et de sa mission appartient aux joueurs.
 
 > [!lore]+ **Ce qui provoque les Brumes**
-> C’est [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) qui fait venir les personnages en Barovie : ces étrangers à sa vallée l’intriguent (voir [les relations de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#de-strahd-brumes)). Ni [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), ni les pillards, ni [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne connaissent son dessein ; les pillards ne cherchent que du butin, et l’hospitalité des Vistani est sincère. [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), qui voyage avec la caravane, est une espionne de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich), mais n’est pas consciente que [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) voit par les yeux de son [rat albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies), et c’est ainsi qu’il remarque les personnages, puis décide de les faire venir à lui. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et les autres Vistani ignorent tout de la loyauté d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), et rien, dans ce prologue, ne permet aux joueurs de la découvrir.
+> C’est [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) qui fait venir les joueurs en Barovie : ces étrangers à sa vallée l’intriguent (voir [les relations de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#de-strahd-brumes)). Ni [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), ni les pillards, ni [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne connaissent son dessein ; les pillards ne cherchent que du butin, et l’hospitalité des Vistani est sincère. [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), qui voyage avec la caravane, est une Vistana espionne de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich). Elle ignore cependant qu’il voit par les yeux de son [rat albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) : c’est ainsi qu’il remarque les joueurs. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et les autres Vistani ignorent tout de la loyauté d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), et rien, dans ce prologue, ne permet aux joueurs de la découvrir.
 >
 > Ce passage exceptionnel ne donne pas à [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) une téléportation utilisable à volonté. Les limites de son domaine et les moyens de traverser les Brumes restent ceux des [traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-metaphysics-magic).
 
@@ -37,7 +35,7 @@ Les dates baroviennes servent au suivi du MJ : **J0 correspond au 26 Octyavr 735
 | 13 h–16 h | Témoignages en chemin, puis arrivée à la prairie. |
 | 16 h–17 h | Rencontre de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et lecture de l’avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive). |
 | Vers 17 h | Attaque des pillards contre la caravane, au crépuscule. |
-| 17 h 30–19 h | Pillards ligotés et interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir), soins des personnages par les Vistani ; niveau 2 une fois le danger passé. |
+| 17 h 30–19 h | Pillards ligotés et interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir), soins des joueurs par les Vistani ; niveau 2 à l’invitation au repas. |
 | 19 h–22 h | Repas, échanges et conte. |
 | À partir de 22 h | Nuit au camp, N1, ou retour pour faire le rapport, N2 ; passage des Brumes vers 5 h 30 (J1) ou 22 h 30. |
 
@@ -49,29 +47,45 @@ La route orientale relie Valcroix au **poste du chemin**, à 2 km du bourg, puis
 Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) fait appeler ses hommes de main. Lorsque les joueurs se présentent devant lui, lisez :
 
 <div class="description">
-<p>Le greffier referme la porte derrière vous. Plusieurs rapports de la garde se chevauchent sur la table devant vous, chacun d’une écriture différente. <a href="../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive">Loïc de Hauterive</a> se tient debout de l’autre côté, une main posée à plat sur les bois massifs de la large table d’étude.</p>
+<p>Le greffier referme la porte derrière vous. Plusieurs rapports de la garde se chevauchent sur la table devant vous, chacun d’une écriture différente. <a href="../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive">Loïc de Hauterive</a> se tient debout de l’autre côté, une main posée à plat sur le bois massif de la table.</p>
 <p>« Des vivres volés. Une disparition. Des tombes profanées. » Son index tapote chaque feuillet à mesure qu’il énonce les méfaits. « Et maintenant, de la sorcellerie ! Depuis que ces étrangers traînent sur nos chemins, chacun vient se plaindre à ma porte. »</p>
 <p>Il appuie sa chevalière dans la cire d’un avis d’expulsion déjà rédigé, puis vous le tend.</p>
-<p>« Trouvez leur caravane et faites-la quitter mon domaine avant demain midi. Peu m’importe comment vous vous y prendrez, je veux que ces étrangers aient quitté mes terres. Je vous confie cette affaire parce que vous savez la régler discrètement. »</p>
+<p>« Trouvez leur caravane et faites-la quitter mon domaine avant demain midi. Peu m’importe comment vous vous y prendrez. Je vous confie cette affaire parce que vous savez la régler discrètement. »</p>
 </div>
 
-[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) parle avec l’assurance d’un seigneur habitué à être obéi. Il estime ses hommes de main et leur laisse le choix des moyens, mais son mépris des voyageurs est palpable. Il veut ramener le calme sur ses terres sans entacher sa réputation.
+[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) parle avec l’assurance d’un seigneur habitué à être obéi. Il estime ses hommes de main et leur laisse le choix des moyens, mais il ne parle des voyageurs qu’avec mépris : « ces gens-là », « cette vermine », « ces repaires de sorciers »… Il veut ramener le calme sur ses terres sans entacher sa réputation.
 
-Si les joueurs veulent lire les plaintes, le greffier les leur présente une à une.
+> [!profile]+ **Profil : [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**
+>
+> **Interprétation**
+> ***Résonance.*** Les joueurs devraient apprécier la confiance que [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) leur accorde et respecter son autorité, puis comprendre, quand les pillards se démasquent, que son mépris l’a conduit à accuser des innocents.
+>
+> ***Émotions.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) se montre le plus souvent assuré, impatient, méprisant ou soucieux de sa réputation.
+>
+> ***Motivations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) veut ramener le calme sur ses terres sans entacher sa réputation.
+>
+> ***Inspirations.*** Pour interpréter [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), inspirez-vous de Tywin Lannister (*Game of Thrones*) et de Denethor (*Le Seigneur des anneaux*).
+>
+> **Personnage**
+> ***Personnalité.*** Aux yeux de tous, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) est un seigneur ferme qui ne tolère pas le désordre sur ses terres. Avec ses hommes de main, il se montre direct et leur laisse le choix des moyens. Au fond de lui, il craint qu’on le juge incapable de protéger son domaine.
+>
+> ***Moral.*** En cas de conflit, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) ne se battrait pas lui-même : il enverrait ses hommes de main ou sa garde.
+>
+> ***Relations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) est le seigneur de Valcroix ; les joueurs sont ses hommes de main. Il ignore que des pillards se font passer pour des Vistani.
 
-[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) n’attend pas de discussion. Si les joueurs posent des questions, il les balaie d’un revers de main : « Je n’ai que faire des détails. Trouvez ces étrangers et faites-leur quitter mon domaine, usez de la force si cela s’avère nécessaire. Cela devrait être dans vos cordes. »
+Si les joueurs veulent lire les plaintes, le greffier les leur présente une à une : le vol au moulin, l’apprentie du potier disparue, la tombe ouverte et les lueurs vues par l’aubergiste (voir [Ce que disent les habitants](#de-plaintes)). Chaque feuillet porte le nom du plaignant.
 
-L’avis que [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet aux joueurs dit ceci :
+[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) n’attend pas de discussion. Si les joueurs posent des questions, il les balaie d’un revers de main : « Je n’ai que faire des détails. Usez de la force s’il le faut. Cela devrait être dans vos cordes. »
+
+Remettez aux joueurs l’avis ci-dessous ; l’un d’eux le lira à voix haute devant les Vistani, en 0.3. Il dit ceci :
 
 <a id="de-piece-mandat"></a>
 > [!quote]+ **Pièce à remettre aux joueurs : Avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**
 > Par ordre de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), seigneur de Valcroix :
 >
-> La caravane d’étrangers établie sur le chemin oriental quittera le domaine avant demain midi. Les porteurs du présent avis l’escorteront jusqu’à la borne située au-delà du pont des Aulnes afin de s’assurer qu’elle quitte le comté.
+> La caravane d’étrangers établie sur le chemin oriental devra quitter le domaine avant demain midi. Les porteurs du présent avis l’escorteront jusqu’à la borne du domaine, au-delà du pont des Aulnes.
 >
-> Ils recueilleront les témoignages utiles aux plaintes déposées et n’arrêteront que des personnes identifiables, pour des faits consignés. Les coupables de pillages, dégradations, profanations ou sorcellerie devront être arrêtés et ramenés au château pour y être jugés conformément aux lois du comté.
->
-> Sur présentation de cet avis, le poste du chemin recevra les personnes arrêtées, les objets saisis et le rapport de ses porteurs.
+> Ils recueilleront les témoignages utiles aux plaintes déposées et n’arrêteront que des personnes identifiables, pour des faits consignés. Les coupables de pillages, dégradations, profanations ou sorcellerie devront être arrêtés et ramenés au château pour y être jugés conformément aux lois du domaine.
 >
 > *Cachet de la chevalière : une tour sur une rivière. Ce jour, à midi.*
 
@@ -79,15 +93,15 @@ L’avis que [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauteri
 <a id="de-plaintes"></a>
 ## 0.2. Ce que disent les habitants
 
-Sur la route, les joueurs peuvent interroger les plaignants ; deux ou trois échanges suffisent. Pour les habitants, les coupables sont « les étrangers » ou « les voyageurs ». Plusieurs ont rapproché leurs malheurs du passage des roulottes, plusieurs ont vu des personnes aux habits bariolés commettre les crimes reprochés.
+Sur la route, les joueurs peuvent interroger les plaignants ; deux ou trois échanges suffisent. Pour les habitants, les coupables sont « les étrangers » ou « les voyageurs ». Plusieurs personnes affirment avoir vu des suspects aux habits bariolés commettre les crimes reprochés, mais la majorité des plaintes reposent sur des rumeurs ou du racisme.
 
 ### La meunière
 
-Commencez par la meunière, qui a elle-même été volée. Lorsque les joueurs l’interrogent, lisez :
+Commencez par la meunière, qui a réellement été volée. Lorsque les joueurs l’interrogent, lisez :
 
 <div class="description">
 <p>La meunière essuie ses mains sur son tablier, mais la farine reste incrustée sous ses ongles. D’un geste, elle désigne l’enclos vide derrière le moulin.</p>
-<p>« Deux hommes et une femme, habillés de toutes les couleurs, comme ces gens des roulottes. L’un tenait une arbalète pendant que les autres chargeaient. Deux sacs de farine, vingt kilos chacun, et trois de mes poules ! » Elle croise les bras. « Qui va me les rendre ? »</p>
+<p>« Deux hommes et une femme, habillés de toutes les couleurs et qui parlaient bizarre. L’un tenait une arbalète et me regardait moche pendant que les autres faisaient la basse besogne. Deux sacs de farine, vindiou ! Vingt kilos chacun, et trois de mes poules ! » Elle croise les bras. « Qui va m’les rendre ? »</p>
 </div>
 
 La meunière ne sait rien de plus. (Ce sont les pillards décrits dans [Les pillards au crépuscule](#de-brigands), déguisés en Vistani. La farine et les poules pourront être retrouvées dans leur charrette après l’attaque.)
@@ -97,13 +111,13 @@ La meunière ne sait rien de plus. (Ce sont les pillards décrits dans [Les pill
 Les joueurs peuvent croiser et interroger d’autres plaignants sur la route. Ils peuvent obtenir les renseignements suivants :
 
 * **« Ils ont emmené l’apprentie du potier ! »** Un voisin l’a vue monter dans une voiture le jour où les roulottes sont passées au bourg, et personne ne l’a revue depuis. En réalité, elle est partie rendre visite à sa sœur avec des marchands du pays. Si les joueurs fouillent l’atelier du potier, ils trouvent, tombée derrière l’établi, la lettre qu’elle a laissée à son maître : elle y annonce son voyage et la date de son retour.
-* **« On a ouvert une tombe depuis qu’ils sont là ! »** Le fossoyeur a trouvé une bordure affaissée, une tombe creusée et des os d’animaux mélangés à des restes humains. Cependant, si les PJ creusent un peu, ils se rendent compte que l’incident date de trois jours avant l’arrivée de la caravane. (C’est en réalité une meute de chiens sauvages qui ont dérangé le sol.)
-* **« Leur vieillard fait de la sorcellerie. »** L’aubergiste dit avoir vu des nuées de corbeaux suivre la caravane, et d’étranges lueurs vertes le soir, aux abords de leur feu de camp. Il n’apporte cependant aucune preuve solide de ses allégations et ne se plaint d’aucune dégradation ou menace directe.
+* **« On a ouvert une tombe depuis qu’ils sont là ! »** Le fossoyeur a trouvé une bordure affaissée, une tombe creusée et des os d’animaux mélangés à des restes humains. Si les joueurs interrogent le voisinage, plusieurs habitants haussent les épaules : ce n’est pas la première tombe ouverte, et le fossoyeur, qui néglige son cimetière, trouve toujours quelqu’un d’autre à accuser. Au cimetière, la clôture tombe en ruine. Un test de Sagesse (Survie) ou d’Intelligence (Nature) DD 10 y révèle de nombreuses empreintes de chiens, et un test de Sagesse (Perception) DD 10, des marques de griffes et de crocs dans la terre remuée de la tombe. (C’est en réalité une meute de chiens sauvages qui ont dérangé le sol.)
+* **« Leur vieillard fait de la sorcellerie. »** L’aubergiste dit avoir vu des nuées de corbeaux suivre la caravane, et d’étranges lueurs vertes le soir, aux abords de leur feu de camp. Pressé de questions, il admet n’avoir vu les lueurs et les corbeaux que de loin, un soir où il rentrait du marché. Il n’a rien vu d’autre, et personne n’a été menacé.
 
 <a id="trouver-la-caravane"></a>
 ### Trouver le camp
 
-Le berger qui vient de vendre du lait aux voyageurs indique le chemin sans se faire prier : « La prairie des deux saules, trois kilomètres après le pont des Aulnes. Prenez le chemin des bergers depuis le pont. » Il témoigne du sérieux et de la gentillesse des étrangers.
+Le berger qui vient de vendre du lait aux voyageurs indique le chemin sans se faire prier : « La prairie des deux saules, trois kilomètres après le pont des Aulnes. Prenez le chemin des bergers depuis le pont. » « Braves gens, ajoute-t-il. Ils m’ont payé sans marchander, et leurs gamins m’ont aidé à rassembler mes bêtes. »
 
 <a id="04-les-voyageurs-de-la-prairie"></a>
 <a id="de-camp"></a>
@@ -117,34 +131,52 @@ Les joueurs atteignent la prairie des deux saules vers 16 h. À leur arrivée, l
 <p>« Que les routes vous soient douces, étrangers, et que les Brumes oublient vos noms ! Je m’appelle <a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a>. Qu’est-ce qui vous amène jusqu’à nous ? »</p>
 </div>
 
-[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) est le doyen et conteur de la caravane ; il traite avec les autorités au nom des familles. Chaleureux sans exiger d’amitié immédiate, il est fier de sa parole et attentif avant tout à la sécurité des siens. Il offre de l’eau aux joueurs et écoute l’ordre de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) jusqu’au bout.
+[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) est le doyen et conteur de la caravane ; il traite avec les autorités au nom des familles. Il offre de l’eau aux joueurs et écoute l’ordre de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) jusqu’au bout.
+
+> [!profile]+ **Profil : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir)**
+>
+> **Interprétation**
+> ***Résonance.*** Les joueurs devraient être désarmés par l’accueil de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir), qui leur offre de l’eau alors qu’ils viennent chasser les siens, respecter le calme avec lequel il répond aux accusations et se sentir redevables de son hospitalité.
+>
+> ***Émotions.*** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) se montre le plus souvent chaleureux, attentif ou inquiet pour les siens.
+>
+> ***Motivations.*** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) veut protéger les familles de la caravane et tenir la parole qu’il donne.
+>
+> ***Inspirations.*** Pour interpréter [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir), inspirez-vous d’Iroh (*Avatar, le dernier maître de l’air*), de Tevye (*Un violon sur le toit*) et du conteur de Jim Henson (*Monstres et merveilles*).
+>
+> **Personnage**
+> ***Personnalité.*** Aux yeux de tous, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) est un vieil homme affable qui parle au nom des familles. Avec les siens, c’est un conteur malicieux qui garde un œil sur chaque enfant. Au fond de lui, il redoute le jour où l’on accusera sa caravane d’un crime qu’elle n’a pas commis sans qu’il puisse la défendre.
+>
+> ***Moral.*** En cas de conflit, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne frapperait personne : il guiderait les familles à l’abri et ferait naître des silhouettes dans le feu pour détourner les regards.
+>
+> ***Relations.*** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) est le doyen et le conteur de la caravane. Il respecte madame [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva), la voyante de son campement, et ignore tout de la loyauté d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) envers [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich).
 
 <a id="présenter-lordre"></a>
-### Présenter l’ordre
+### Présenter l’avis d’expulsion
 
 Invitez l’un des joueurs à faire avancer son personnage pour lire à voix haute l’avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive).
 
-Une fois l’ordre entendu, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) conteste les accusations, présente les achats du camp et propose aux PJ de fouiller les caravanes, attestant qu’aucun des méfaits qui leur sont reprochés n’a été commis par les membres de leur famille. Il propose ensuite de partir à l’aube : « Laissez les enfants dormir cette nuit, et nous aurons passé votre borne demain avant midi. »
+Une fois l’avis lu, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) répond point par point : il montre ce que le camp a acheté en route et invite les joueurs à fouiller les roulottes. « Fouillez. Vous constaterez qu’il n’y a rien ici qui ne soit à nous. Vous ne trouverez ni poules volées ni os de vos morts. » Il propose ensuite de partir à l’aube : « Laissez les enfants dormir cette nuit, et nous aurons passé votre borne demain avant midi. »
 
-Si les joueurs interrogent les autres membres de la caravane, deux voyageurs se souviennent alors d’une petite charrette qui suit la caravane depuis plusieurs étapes ; ils en ont parlé entre eux sans savoir comment réagir.
+Si les joueurs interrogent les autres membres de la caravane, deux voyageurs signalent alors une petite charrette qui suit la caravane depuis plusieurs étapes ; ils en ont parlé entre eux sans savoir comment réagir.
 
-[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) reste courtois avec des visiteurs distants, et des joueurs qui examinent les preuves avec soin gagnent sa confiance.
+[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) reste courtois même avec des visiteurs froids ; ceux qui examinent les preuves avec soin gagnent sa confiance, à noter pour les retrouvailles (voir [Après le passage](#de-etat-sortie)).
 
-Si les joueurs restent avec les Vistani pour fouiller les roulottes, les brigands entament leur attaque en début de soirée.
+Si les joueurs restent fouiller les roulottes, les pillards attaquent pendant qu’ils sont au camp.
 
-Si les joueurs demandent la position de la charrette pour y mener l’enquête, les bandits les attaquent.
+Si les joueurs demandent la position de la charrette pour y mener l’enquête, les Vistani leur diront l’avoir vue sur le chemin, à l’est, il y a quelques heures. Elle est cachée à une trentaine de mètres en remontant le chemin. Les pillards qui la gardent attaquent les joueurs dès que ceux-ci arrivent à 9 m de la charrette (voir [Les pillards au crépuscule](#de-brigands)) ; elle contient leurs déguisements, des armes et le butin de leurs vols. Le nombre de pillards qui la gardent, et l’attaque éventuelle du camp par le reste de la bande, sont laissés à votre discrétion.
 
-**Si les joueurs repartent avant le crépuscule.** Un voyageur les rattrape, hors d’haleine, à la sortie de la prairie : « La petite charrette s’est arrêtée dans les arbres. Il y a des hommes armés autour ; il se prépare quelque chose ! » Les joueurs ont le temps de revenir et d’organiser la protection du camp ; jouez alors la confrontation ci-dessous en adaptant l’horaire du soir à ce qu’ils ont fait entre-temps. S’ils poursuivent malgré l’alerte, les pillards attaquent les étrangers. Ils entendront alors des cris et hurlements d’enfants provenir de la caravane.
+**Si les joueurs repartent avant le crépuscule.** Un voyageur les rattrape, hors d’haleine, à la sortie de la prairie : « La petite charrette s’est arrêtée dans les arbres. Il y a des hommes armés autour ; il se prépare quelque chose ! » Les joueurs ont le temps de revenir et d’organiser la protection du camp ; jouez alors la confrontation ci-dessous en adaptant l’horaire du soir à ce qu’ils ont fait entre-temps. S’ils poursuivent malgré l’alerte, les pillards attaquent les étrangers. Ils entendront alors des bruits de combat et des hurlements d’enfants provenir de la caravane.
 
 <a id="sils-exigent-un-départ-immédiat"></a>
-**Si les joueurs exigent le départ immédiat de la caravane.** Comptez une heure pour ranger et atteler, puis une heure pour atteindre la borne, à 2 km. Une clairière de charretiers, 200 m au-delà, permet de s’arrêter. Les pillards suivent le convoi à distance : si rien ne les en a empêchés, ils tentent leur coup à cette halte du soir, contre les mêmes roulottes. Le repas pourra s’y tenir une fois les familles protégées. La mission d’expulsion est accomplie dès que la caravane passe la borne.
+**Si les joueurs exigent le départ immédiat de la caravane.** Comptez une heure pour ranger et atteler, puis une heure pour atteindre la borne, à 2 km. Une clairière de charretiers, 200 m au-delà, permet de s’arrêter. Les pillards suivent le convoi à distance et attaquent à cette halte, comme décrit dans [Les pillards au crépuscule](#de-brigands). Le repas pourra s’y tenir une fois les familles protégées. La mission d’expulsion est accomplie dès que la caravane passe la borne.
 
 <a id="03-le-faux-péage"></a>
 <a id="de-brigands"></a>
 ## 0.4. Les pillards au crépuscule
 
 > [!lore]+ **Les faux Vistani**
-> Les pillards suivent la caravane depuis trois étapes. Leurs déguisements leur permettent de se présenter comme des Vistani de la caravane venus acheter des provisions. Ils emportent les biens sous la menace et laissent les habitants se retourner contre les roulottes. Ce soir, ils veulent voler la caisse et les marchandises de la caravane avant de changer de route.
+> Les pillards suivent la caravane depuis quelques jours déjà. Leurs déguisements leur permettent de se présenter comme des Vistani de la caravane venus acheter des provisions. Ils emportent les biens sous la menace et laissent les habitants se retourner contre les roulottes. Ce soir, ils veulent voler la caisse et les marchandises de la caravane avant de changer de route.
 
 Lorsque le jour baisse, vers 17 h, les pillards approchent par la lisière. Laissez se terminer l’échange en cours, puis lisez :
 
@@ -157,52 +189,43 @@ Lorsque le jour baisse, vers 17 h, les pillards approchent par la lisière. Lais
 
 ### Terrain et forces
 
-Trois roulottes bordent une clairière d’environ 24 m sur 18 m. Le foyer est au centre ; un passage de 6 m entre les véhicules ouvre vers la lisière, et la route reste libre de l’autre côté. Placez les personnages là où leurs conversations et leurs préparatifs les ont conduits.
+Trois roulottes bordent une clairière d’environ 24 m sur 18 m. Le foyer est au centre ; un passage de 6 m entre les véhicules ouvre vers la lisière, et la route reste libre de l’autre côté. Placez les joueurs là où leurs conversations et leurs préparatifs les ont conduits.
 
-* Le meneur et un complice se montrent à **12 m des PJ les plus proches**, à l’entrée du passage. Les autres attendent quelques mètres derrière, près des arbres ; tous se sont repérés avant l’engagement.
-* Les roulottes procurent un abri partiel à qui combat près d’un angle, ou un abri total si leur caisse masque entièrement la cible. Les arbres donnent un abri partiel. La prairie est praticable ; un fossé peu profond longe la lisière et compte comme terrain difficile.
+* Le meneur et un complice se montrent à **12 m des joueurs les plus proches**, à l’entrée du passage. Les autres attendent quelques mètres derrière, près des arbres.
+* Les roulottes procurent un abri partiel à qui combat près d’un angle, ou un abri total si elles masquent entièrement la cible. Les arbres donnent un abri partiel. La prairie est praticable ; un fossé peu profond longe la lisière et compte comme terrain difficile.
 * Trois Vistani non combattants, dont deux enfants, se tiennent près du foyer, à **6 m de la roulotte opposée**. Les autres familles sont déjà auprès des portes. Le trajet jusqu’à leur abri est dégagé au début de la scène.
 * **Le butin visé.** Les sacs de vivres et le petit coffre sont au pied de la roulotte qui borde la droite du passage, à 3 m à l’intérieur du camp. Le mulet chargé est attaché à cette même roulotte, 3 m plus loin. Depuis le foyer, les défenseurs voient les deux approches ; annoncez ces positions avant l’initiative.
 
-Utilisez les [bandits de 2014](https://www.aidedd.org/dnd/monstres.php?vf=bandit) : **CA 12, 11 PV, une attaque par action**, y compris pour leur meneur.
+Utilisez le profil des [bandits](https://www.aidedd.org/dnd/monstres.php?vf=bandit) de l’édition jouée, y compris pour leur meneur. La bande compte **un pillard par joueur, plus deux**.
 
-| Personnages de niveau 1 | Pillards présents |
-|---:|---:|
-| 3 | 4 |
-| 4 | 5 |
-| 5 | 6 |
-| 6 | 7 |
+**Initiative.** Dès qu’un joueur attaque, qu’un pillard se précipite sur les vivres ou qu’une arme est utilisée, lancez l’initiative depuis les positions choisies. Si les pillards attaquent les joueurs près de la charrette, comparez leurs tests de Dextérité (Discrétion) à la Sagesse (Perception) passive de chaque joueur : un joueur qui ne les a pas remarqués est surpris au premier round.
 
-**Initiative.** Dès qu’un personnage attaque, qu’un pillard se précipite sur les vivres ou qu’une arme est utilisée, lancez l’initiative depuis les positions choisies. Les menaces sont visibles ; aucune surprise automatique n’est accordée.
+**Les familles.** Elles cherchent à s’abriter. Donnez-leur une initiative commune à +0 : chacune dispose de 9 m de déplacement et peut se Désengager si un assaillant l’a rejointe. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) guide les familles vers les roulottes et lance *[image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)* pour faire surgir du feu des silhouettes armées qui détournent l’attention des pillards. Un pillard à moins de 6 m d’une illusion doit faire un test d’Intelligence (Investigation) réussi contre le DD de sauvegarde des sorts de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) (14) ou prendre les illusions pour des défenseurs. Dès qu’une illusion est touchée, le sort disparaît. Ce n’est qu’une diversion, à employer surtout si le combat tourne mal pour les joueurs. Les Vistani consacrent leurs actions aux enfants, aux blessés et aux attelages, sans ajouter de sorts offensifs au combat.
 
-**Les familles.** Elles cherchent à s’abriter. Donnez-leur une initiative commune à +0 : chacune dispose de 9 m de déplacement et peut se Désengager si un assaillant l’a rejointe. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les guide vers les portes et fait danser près du feu des images de silhouettes qui attirent les regards. Ce n’est qu’une diversion visuelle : les Vistani consacrent leurs actions aux enfants, aux blessés et aux attelages, sans ajouter de sorts offensifs au combat.
+**Les pillards.** Le meneur tient les défenseurs à distance avec son arbalète pendant qu’un complice cherche à décrocher le mulet chargé de marchandises, ce qui lui prend une action. Les autres veulent saisir les sacs ou forcer le coffre, ce qui leur coûte aussi une action.
 
-**Les pillards.** Le meneur tient les défenseurs à distance avec son arbalète pendant qu’un complice cherche à décrocher le mulet chargé de marchandises, ce qui lui prend une action. Les autres, s’il y en a, veulent saisir les sacs ou forcer le coffre, ce qui leur coûte aussi une action.
-
-Protéger les réserves, barrer le passage ou mettre une famille à couvert peut compter autant aux yeux des Vistani que blesser un adversaire. Les pillards attaquent ceux qui s’interposent et couvrent leur retraite ; ils veulent du butin, pas des captifs à tuer.
+Les Vistani retiennent qui a protégé les réserves, barré le passage ou mis une famille à couvert autant que qui a abattu un pillard ; notez-le pour les retrouvailles avec [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Les pillards attaquent ceux qui s’interposent et couvrent leur retraite ; ils cherchent du butin, pas forcément à tuer.
 
 <a id="résoudre-lincident"></a>
 ### Arrêter l’attaque
 
 **Combattre ou repousser.** Les pillards proposent de se rendre ou cherchent une issue dès que leur meneur tombe ou que la moitié de la bande est hors de combat. Un isolé peut fuir plus tôt. Ils ne s’acharnent pas sur un inconscient tant que des défenseurs armés les menacent. Un survivant n’emporte que ce qu’il a eu le temps de prendre.
 
-**Protéger autrement.** Une défense préparée, une évacuation des familles avec leurs biens ou une interception décidée par les joueurs peut empêcher l’attaque. Utilisez les mêmes pillards et conservez leurs pertes et leurs décisions. Si la bande est neutralisée, elle ne revient pas pour jouer la scène. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) remercie les joueurs pour cette protection tout autant que pour un combat gagné.
-
-**En cas de défaite.** Les pillards prennent les biens à leur portée et s’enfuient. Les voyageurs secourent les blessés dès qu’ils le peuvent ; [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) possède une [trousse de soins](https://www.aidedd.org/regles/equipement/materiel/) avec **quatre utilisations restantes**. Une action et une utilisation stabilisent une créature à 0 PV sans test de Médecine, mais ne lui rendent aucun PV. Notez les dépenses, les pertes et toute mort survenue. Les joueurs peuvent encore organiser les soins et rassembler les familles.
+**En cas de défaite.** Les pillards prennent les biens à leur portée et s’enfuient. Les voyageurs secourent les blessés dès qu’ils le peuvent ; [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) possède une [trousse de soins](https://www.aidedd.org/regles/equipement/materiel/) avec **quatre utilisations restantes**. Une action et une utilisation stabilisent une créature à 0 PV sans test de Médecine, mais ne lui rendent aucun PV. Notez les dépenses, les pertes et toute mort survenue.
 
 <a id="biens-soins-et-prisonniers"></a>
 ### Preuves, prisonniers et invitation
 
-Une fois le danger passé, les voyageurs ligotent les pillards capturés aux roues d’une roulotte. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) examine leurs habits bariolés, interloqué : de loin, il les aurait lui-même pris pour des gens de sa famille. Il demande aux joueurs la permission d’interroger les prisonniers pendant que d’autres Vistani pansent les blessures des personnages. Les pillards avouent vite : ils suivent la caravane depuis trois étapes et volent sous ses couleurs pour que les plaintes retombent sur elle.
+Une fois le danger passé, les voyageurs ligotent les pillards capturés aux roues d’une roulotte. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) examine leurs habits bariolés, interloqué : de loin, il les aurait lui-même pris pour des gens de sa famille. Il demande aux joueurs la permission d’interroger les prisonniers pendant que d’autres Vistani pansent les blessures des joueurs. Ces pansements ne rendent aucun point de vie, mais l’heure passée au calme avant le repas compte comme un repos court : chaque joueur peut y dépenser des dés de vie. Les pillards avouent vite : ils suivent la caravane depuis plusieurs jours et volent déguisés pour que les plaintes retombent sur les étrangers.
 
-Si les joueurs ont défendu les familles, qu’ils aient combattu ou prévenu le danger, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) vient ensuite les trouver. Lisez :
+Si les joueurs ont défendu les familles, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) vient ensuite les trouver. Lisez :
 
 <div class="description">
 <p><a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> s’approche, son torchon encore à la main. Derrière lui, les familles se rassemblent autour du foyer et comptent les enfants à voix basse. Il vous regarde un long moment avant de parler.</p>
 <p>« Vous étiez venus nous faire partir. Vous avez pourtant veillé sur les nôtres. » Il désigne la marmite d’un geste. « Restez manger avec nous ; ce soir, il y a une place pour vous près du feu. »</p>
 </div>
 
-Si les joueurs ont abandonné les familles sans les aider, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne leur attribue pas le mérite de leur salut ; la mission et la protection restent à régler avant [le jalon](#de-niveau-deux).
+Si les joueurs ont laissé les familles se défendre seules, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les invite quand même : « Vous n’avez rien fait pour nous ce soir. Mais je serais le dernier des Vistani si je laissais repartir le ventre vide ceux qui sont venus jusqu’à notre feu. »
 
 La petite charrette des pillards attend à 30 m dans les arbres, au bout d’une piste visible. Si les joueurs la fouillent, lisez :
 
@@ -212,17 +235,15 @@ La petite charrette des pillards attend à 30 m dans les arbres, au bout d’une
 
 La bourse contient **7 pa**. Ces objets et les aveux des pillards prouvent qu’ils se faisaient passer pour les voyageurs. Les biens volés reviennent à leurs propriétaires.
 
-Les prisonniers passent la nuit ligotés au camp, sous la garde des voyageurs ; les joueurs pourront les remettre au poste du chemin ou les ramener au château, comme l’exige l’avis de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive). Un captif que les joueurs gardent encore au moment du passage reste à Valcroix : les Brumes ne prennent que les personnages.
+Les prisonniers passent la nuit ligotés au camp, sous la garde des voyageurs. La nuit étant tombée, les joueurs pourront les remettre au poste du chemin ou les ramener au château dès le lendemain, comme l’exige l’avis de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive). Un captif que les joueurs gardent encore au moment du passage reste à Valcroix : les Brumes ne prennent que les joueurs.
 
 <a id="07-le-service-accompli"></a>
 <a id="de-niveau-deux"></a>
 ### Le service accompli
 
-**Jalon du prologue.** Les personnages atteignent le **niveau 2, total 300 PX**, lorsque les familles sont protégées, la menace des pillards réglée et une issue convenue pour l’ordre de départ. Accordez ce niveau après la confrontation et les premiers soins, jamais au milieu du combat. Une prévention efficace ou l’évacuation des voyageurs peuvent aussi remplir ce service. Les PX des pillards sont compris dans ce jalon.
+***Jalon.*** Gagner l’hospitalité des Vistani constitue un jalon de l’histoire. Lorsque [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite les joueurs à partager le repas, accordez à chaque joueur 300 PX : ils atteignent le niveau 2.
 
-Après une défaite, les soins, la mise à l’abri des familles et le signalement des fuyards dans le rapport promis à [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) peuvent achever le service. Si les joueurs ont laissé la situation sans réponse, jouez sa résolution avant le passage des Brumes, quitte à décaler la nuit.
-
-Mettez les fiches à jour **avant la meute**. Un gain de niveau n’est pas un repos : appliquez les nouvelles aptitudes et l’augmentation normale du maximum de points de vie, sans effacer les blessures, emplacements ou autres ressources déjà dépensés. Inscrivez l’heure du dernier repos, achevé par défaut à 6 h le jour J0, et les soins effectivement reçus.
+Mettez les fiches à jour **avant la meute**. Un gain de niveau n’est pas un repos : appliquez les nouvelles aptitudes et l’augmentation normale du maximum de points de vie, sans effacer les blessures, emplacements ou autres ressources déjà dépensés. Inscrivez l’heure du dernier repos long, achevé par défaut à 6 h le jour J0, et les soins effectivement reçus.
 
 <a id="de-repas"></a>
 ## 0.5. Une place auprès du feu
@@ -234,25 +255,21 @@ Mettez les fiches à jour **avant la meute**. Un gain de niveau n’est pas un r
 <p>Deux cousins se disputent un bol ébréché, chacun jurant qu’il lui porte chance. Une femme d’une trentaine d’années s’assoit d’office entre deux d’entre vous. « Ce bol a déjà sauvé trois mariages et un cheval », vous assure-t-elle, hilare. Sur son épaule, un rat albinos aux yeux jaunes grignote le fromage qu’elle lui tend. Bientôt, une vieille querelle sur la meilleure chanson reprend, assez fort pour que tout le monde s’en mêle.</p>
 </div>
 
-La femme au rat est [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), une Vistana joyeuse, toujours prompte à se mêler d’une conversation par une remarque effrontée. Ce qu’elle cache est décrit dans [Ce qui provoque les Brumes](#de-preparer-arc-zero).
+La femme au rat est [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), une Vistana joyeuse, toujours prompte à se mêler d’une conversation par une remarque effrontée. Elle est une espionne de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ; les joueurs la reverront dans [l’arc C](Arc%20C%20-%20Into%20the%20Valley.md#en-c4c-vistani-hospitality), à l’étang de Tser.
 
-Pendant le repas, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) interroge chacun des joueurs : « Comment êtes-vous entré au service de votre seigneur ? » ou « Qu’aimez-vous retrouver, au retour d’une mission ? » Un personnage peut répondre, réparer une courroie, accompagner une mélodie ou écouter en silence. Notez un détail confié par chacun : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pourra s’en souvenir lors de leurs retrouvailles.
+Pendant le repas, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) interroge chacun des joueurs : « Comment êtes-vous entré au service de votre seigneur ? » ou bien « Qu’aimez-vous retrouver, au retour d’une mission ? » ou encore « Pourquoi risquer votre vie pour des étrangers ? » Notez un détail confié par chaque joueur : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) s’en souviendra lors de leurs retrouvailles.
 
 ### Des chansons autour du feu
 
-Après le repas, quelqu’un frappe le rythme sur le fond d’une écuelle et les voix se répondent. Proposez un ou deux petits jeux, selon l’envie du groupe. Chacun est facultatif, tient en une ou deux minutes et se résout en un seul jet.
+Après le repas, quelqu’un frappe le rythme sur le fond d’une écuelle et les voix se répondent. Proposez un ou deux petits jeux, selon l’envie du groupe. Chacun est facultatif et tient en une ou deux minutes.
 
-* **Le grelot discret.** Un voyageur fait passer un grelot derrière son dos, d’une main à l’autre, puis le tend à un invité : « À vous. Si je ne l’entends pas, vous choisissez la prochaine chanson ! » Un test de Dextérité (Escamotage) DD 10 permet de réussir le tour sans le faire sonner. Sinon, le tintement devient le départ d’un refrain que tout le monde connaît.
-* **Le couplet impossible.** Les voisins proposent trois mots : « navet », « couronne », « chaussette ». Un volontaire improvise un couplet qui les réunit, avec un test de Charisme (Représentation) DD 10. Le joueur peut décrire sa prestation au lieu de chanter. En cas d’échec, un chanteur reprend sa rime la plus bancale et en fait un refrain joyeux.
+* **Le jeu du grelot.** Chacun fait passer un grelot d’une main à l’autre derrière son dos sans le faire sonner, puis le tend à son voisin de droite : « À toi. Que je ne l’entende pas ! » Un test de Dextérité (Escamotage) DD 10 permet de réussir le tour sans le faire sonner. Sinon, le perdant doit entonner une chanson.
+* **Le couplet farfelu.** Une personne entonne une phrase, les suivants continuent la chanson en y ajoutant une phrase, faisant en sorte de garder la rime. En cas d’échec ou de cafouillage, le perdant doit finir son verre de vin et recommencer la prochaine partie.
 
-Les tentatives récoltent des applaudissements, une pomme ou la joie d’entendre sa chanson reprise. Les rires sont complices ; ces jeux n’accordent ni PX, ni soins, ni bonus.
-
-**Une relique attire les regards.** Si un personnage porte à la vue de tous un objet singulier, ou le montre, un voyageur s’y intéresse : « D’où vous vient cet objet ? », « Vous connaissez la signification de ces marques ? », « Pourquoi y tenez-vous autant ? » Laissez une ou deux minutes à cette curiosité accueillante. Les Vistani écoutent son histoire sans identifier les pouvoirs de la relique ni en faire une mission. Un objet rangé à l’abri des regards passe inaperçu.
-
-**Si les soupçons persistent.** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) écoute les griefs et présente les témoignages et les preuves disponibles. « Demain, dites à votre seigneur ce que vous avez appris ici. » Il reconnaît les torts individuels établis et ne demande pas aux joueurs de trahir [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive).
+**Une relique attire les regards.** Si un joueur porte à la vue de tous un objet singulier, ou le montre, un voyageur s’y intéresse : « D’où vous vient cet objet ? », « Vous connaissez la signification de ces marques ? », « Pourquoi y tenez-vous autant ? » Laissez une ou deux minutes à cette curiosité accueillante. Les Vistani écoutent son histoire sans identifier les pouvoirs de la relique ni en faire une mission. Un objet rangé dans un sac ou sous un vêtement passe inaperçu.
 
 <a id="sils-refusent-toute-soirée"></a>
-**Si les joueurs repartent plus tôt.** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur propose des provisions et leur souhaite bonne route ; les joueurs restent libres de refuser le repas, le vin ou le couchage. Au départ, une brume légère monte déjà de la prairie. [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), son rat albinos sur l’épaule, leur lance un adieu moqueur : « Saluez bien votre seigneur de notre part ! » Jouez N2 à l’heure de leur départ ; ceux qui n’ont pas entendu le conte le découvriront peut-être à Tser.
+**Si les joueurs repartent plus tôt.** [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur souhaite bonne route et leur tend un paquet de pain et de fromage (voir [N2](#de-n2)). Au départ, une brume légère monte déjà de la prairie. [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), son rat albinos sur l’épaule, leur lance un adieu moqueur : « Saluez bien votre seigneur de notre part ! » Jouez N2 à l’heure de leur départ ; ceux qui n’ont pas entendu le conte le découvriront peut-être à Tser.
 
 <a id="de-conte"></a>
 ## 0.6. Le prince et le feu
@@ -260,7 +277,7 @@ Les tentatives récoltent des applaudissements, une pomme ou la joie d’entendr
 Lorsque les chansons et les échanges s’apaisent, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) se rapproche du feu et propose de raconter une histoire. Si les joueurs acceptent, lisez le texte suivant, ou racontez-le avec vos mots en les laissant l’interrompre :
 
 <div class="description">
-<p><a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> prend une gorgée de vin, la garde un instant en bouche, puis la souffle au-dessus des braises. Une flamme s’élève. Dans sa lumière apparaît une silhouette qui chancelle, une main pressée contre son flanc.</p>
+<p><a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> prend une gorgée de vin, la garde un instant en bouche, puis la souffle au-dessus des braises. Une flamme verte s’élève. Dans sa lumière apparaît une silhouette qui chancelle, une main pressée contre son flanc.</p>
 <p>« Il y a longtemps, les nôtres ont trouvé un jeune prince au bord d’un champ de bataille. Ses gens l’avaient perdu. Ses ennemis le cherchaient. Il avait encore son épée, mais plus la force de la lever. »</p>
 <p>Les flammes dessinent une roulotte, une couverture étendue, des mains qui soutiennent le blessé.</p>
 <p>« Nous ne lui avons pas demandé ce que sa vie rapporterait. Nous l’avons soigné. Quand ses poursuivants sont venus, ils n’ont trouvé que des voyageurs qui reprenaient la route. »</p>
@@ -270,16 +287,16 @@ Lorsque les chansons et les échanges s’apaisent, [Stanimir](../Appendices/Non
 <p>« Les années changent les hommes, reprend <a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a>. Une parole donnée peut leur survivre plus longtemps qu’on ne le souhaiterait. »</p>
 </div>
 
-Les silhouettes naissent du sort *[image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)*, l’art scénique qu’emploie aussi [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [l’arc C](Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale). Une *[détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)* peut en montrer l’illusion ; le vin et le foyer sont ordinaires. Si une fiche de règles est consultée, cette utilisation suit le cadre 2014 de l’ouverture.
+Les silhouettes naissent du sort *[image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)*, l’art scénique qu’emploie aussi [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [l’arc C](Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale). Un sort de *[détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)* révèle une aura d’illusion autour des silhouettes ; le vin et le foyer n’ont rien de magique.
 
 Si les joueurs interrogent [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) sur son conte, il peut leur fournir les renseignements suivants :
 
-* Le prince s’appelle [Strahd von Zarovich](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich). « L’homme d’alors et le seigneur d’aujourd’hui sont la même personne, dit-il en fixant les braises. Le récit, lui, a changé. »
-* La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) a son campement en Barovie, une vallée lointaine.
-* Les routes de son peuple sont particulières, et le passage qu’on lui accorde n’est pas un droit qu’il peut vendre au premier venu.
-* S’il est question d’elle, il parle de madame [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva), une vieille voyante, comme d’une personne respectée qu’on peut consulter. (Il n’annonce aucun tirage déjà commandé pour ces invités.)
+* Le prince s’appelle [Strahd von Zarovich](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich). « L’homme d’alors et le seigneur d’aujourd’hui sont la même personne, dit-il en fixant les braises. Le royaume, lui, a changé. »
+* La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) a son campement en Barovie, une contrée lointaine.
+* Les Vistani passent là où d’autres se perdent. « Ce passage nous est accordé, dit-il. Il ne se vend pas. »
+* Si on lui parle de leur chef, il parle de madame [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva), une vieille voyante, comme d’une personne respectée qu’on peut consulter.
 
-[Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) n’affirme pas que [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) règne sur tous les Vistani, qu’il est bon ou qu’il attend ces invités. Il ne dit rien de la cosmologie des Brumes, de l’histoire de [Tatyana](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna) ni de l’emplacement des objets qui permettront de vaincre [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich).
+Si on le presse sur [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) répond seulement qu’un conteur raconte ce qui a été et laisse les seigneurs à leurs affaires. Il ne dit rien de la cosmologie des Brumes, de l’histoire de [Tatyana](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna) ni de l’emplacement des objets qui permettront de vaincre [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich).
 
 Si les joueurs veulent aider le prince ou partir pour sa vallée, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les en détourne doucement : « J’ai raconté une dette ancienne. Pour demain, je vous souhaite une route plus douce que celle de ce prince. » Il ignore que les Brumes s’apprêtent à emporter ses invités.
 
@@ -292,10 +309,10 @@ Lorsque le feu baisse, vers 22 h, lisez :
 <p>« Elle est à vous pour la nuit, si vous voulez. Nous avons encore des couvertures. »</p>
 </div>
 
-Les joueurs peuvent dormir au camp, **N1**, ou repartir ce soir rendre compte de leur mission, **N2**. S’ils passent la nuit ailleurs, jouez N1 pour une halte et N2 pour une marche. Dans tous les cas, les Brumes prennent les personnages pendant la nuit, eux seuls, avec leurs familiers et leurs compagnons animaux ; la caravane reste à son camp et repart à l’aube.
+Les joueurs peuvent dormir au camp, **N1**, ou repartir ce soir rendre compte de leur mission, **N2**. S’ils s’arrêtent pour dormir ailleurs, jouez N1 là où ils font halte ; s’ils marchent de nuit, jouez N2. Dans tous les cas, les Brumes prennent les joueurs pendant la nuit, eux seuls, avec leurs familiers et leurs compagnons animaux ; la caravane reste à son camp et repart à l’aube.
 
 <a id="de-regroupement"></a>
-**Si le groupe se partage.** Les Brumes prennent chaque personnage là où il se trouve, à l’heure de sa branche, et les déposent tous près de la même remise barovienne. Ceux qui y attendent encore voient les autres sortir du brouillard ; sinon, jouez les deux groupes en alternance. Composez [la meute](act-A-rejected.md#de-meute) d’après les personnages présents et ne la jouez qu’une fois.
+**Si le groupe se partage.** Les Brumes prennent chaque joueur là où il se trouve, vers 5 h 30 au camp ou vers 22 h 30 sur la route, et les déposent tous au même endroit. Ceux qui y attendent encore voient les autres sortir du brouillard ; sinon, jouez les deux groupes en alternance. Composez [la meute](Arc%20A%20-%20Escape%20From%20Death%20House.md) d’après les joueurs présents et ne la jouez qu’une fois.
 
 <a id="de-n1"></a>
 ## 0.8. N1 : La nuit au camp
@@ -305,23 +322,20 @@ Les joueurs peuvent dormir au camp, **N1**, ou repartir ce soir rendre compte de
 
 Dans l’horaire de référence, le repos commence à **22 h, J0**. La tente peut abriter tout le groupe ; chacun garde ses armes à portée de main et reste libre d’aller et venir. Les voyageurs proposent de partager les veilles. « Un des nôtres restera près du feu, dit [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Ajoutez un des vôtres, si cela vous rassure. »
 
-> [!info]- **Repos et veilles : règles 2014**
-> Un repos long demande au moins huit heures, dont au moins six de sommeil et au plus deux d’activité légère ; les particularités d’une espèce ou d’une aptitude continuent de s’appliquer. Il faut au moins 1 PV au début, et ses bénéfices ne s’obtiennent qu’une fois par vingt-quatre heures. Regarder le feu ou prévenir doucement un compagnon ne l’interrompt pas ; une heure d’activité soutenue, comme une marche, oblige à le recommencer en entier. Si le dernier repos des personnages s’est achevé après 6 h le jour J0, prolongez leur halte en Barovie jusqu’à l’heure admissible.
-
 ### Le passage
 
-**Vers 5 h 30, J1**, le brouillard monte autour de la tente. Si un personnage veille, lisez :
+**Vers 5 h 30, J1**, le brouillard monte autour de la tente. Si un joueur veille, lisez :
 
 <div class="description">
 <p>La rosée est devenue un voile blanc entre les roues. Le brouillard monte sans vent ; il coupe d’abord les troncs à mi-hauteur, puis cache leurs branches. Le cheval le plus proche relève la tête.</p>
-<p>Le feu pâlit, puis s’efface. Les voix du camp s’éloignent sans que personne ait bougé. Lorsque le brouillard s’amincit, roulottes, tente et chevaux ont disparu. Vos compagnons dorment toujours à quelques pas, sur leurs couvertures, dans une herbe inconnue. Tout près, un toit bas dépasse la brume ; plus loin, des points de lumière dessinent une ligne brisée.</p>
+<p>Le feu pâlit, puis s’efface. Les voix du camp s’éloignent sans que personne ait bougé. Lorsque le brouillard s’amincit, roulottes, tente et chevaux ont disparu. Vos compagnons dorment toujours à quelques pas, sur leurs couvertures, dans une herbe inconnue. Autour de vous, une forêt d’arbres maladifs ; à environ 400 mètres sur la gauche, le toit de ce qui semble être une grande demeure dépasse la brume.</p>
 </div>
 
-Si aucun personnage ne veille, les dormeurs s’éveillent vers 6 h dans une herbe inconnue, près d’un toit bas.
+Si aucun joueur ne veille, les dormeurs s’éveillent vers 6 h sur une terre inconnue, à 400 m du toit de ce qui semble être une grande demeure.
 
-Dans les deux cas, les Brumes n’ont emporté que les personnages, avec ce qu’ils portaient ou gardaient à portée de main ; les affaires laissées près des roulottes sont restées au camp. Sans interruption réelle, le repos s’achève à **6 h**.
+Dans les deux cas, les Brumes n’ont emporté que les joueurs, avec ce qu’ils portaient ou gardaient à portée de main ; les affaires laissées près des roulottes sont restées au camp. Sans interruption réelle, le repos s’achève à **6 h**.
 
-Au réveil du camp, ou plus tôt si un voyageur veillait, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) trouve la tente vide et la brume qui se retire. Il y reconnaît celle que sa caravane traverse pour rentrer en Barovie, sans savoir pourquoi elle a pris ses invités. Poursuivez avec [la remise barovienne](#de-abri-route).
+Au réveil du camp, ou plus tôt si un voyageur veillait, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) trouve la tente vide et la brume qui se retire. Il y reconnaît celle que sa caravane traverse pour rentrer en Barovie, sans savoir pourquoi elle a pris ses invités. Poursuivez avec [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md).
 
 <a id="de-n2"></a>
 ## 0.9. N2 : La route du rapport
@@ -333,32 +347,19 @@ Dans l’horaire de référence, ils partent vers **22 h, J0**. Décrivez d’ab
 <div class="description">
 <p>Le chemin descend comme vous vous en souveniez. Peu à peu, les ornières des roulottes s’effacent sous vos pas. Derrière vous, la lumière du camp s’est éteinte sans qu’aucun tournant l’ait cachée.</p>
 <p>Du brouillard s’accroche à vos genoux. À l’endroit où se dressait le saule fendu, une borne inconnue borde un chemin plus étroit.</p>
-<p>Devant vous, un toit bas dépasse la brume. Plus loin, des points de lumière dessinent une ligne brisée. Aucun clocher de Valcroix ne se découpe dans le ciel.</p>
+<p>La lune baigne le paysage brumeux de sa lumière laiteuse. Le son même de la forêt semble avoir disparu. Devant vous, à environ 400 mètres, la masse sombre d’une grande demeure se découpe sur la brume pâle. Les lumières de Valcroix, qui devraient briller au bout du chemin, et son clocher ont disparu.</p>
 </div>
 
-Il est environ **22 h 30, J0**. Revenir sur leurs pas ne ramène les joueurs à aucun repère de Valcroix. Au camp, personne n’a rien vu : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les croit rentrés chez eux.
-
-<a id="de-abri-route"></a>
-## 0.10. La remise barovienne
-
-Les deux branches aboutissent au même endroit : une remise de cantonnier abandonnée, à environ **300 m de la palissade orientale du village de Barovie**. Lorsque les joueurs s’approchent du bâtiment, lisez :
-
-<div class="description">
-<p>La porte de bois frotte sur une traînée de gravier. À l’intérieur, une pièce basse sent la poussière et la paille sèche. Deux fenêtres étroites sont fermées par des volets ; une longue barre est posée près de l’entrée. Sous un appentis, une auge vide attend sur la paille.</p>
-</div>
-
-La remise mesure environ 9 m sur 6 m. Le toit est intact et la barre ferme la porte de l’intérieur. En N2, la nuit peut s’y passer au calme : cette nuit encore, les morts assaillent le village, mais de la remise on n’en perçoit que des cris et des chocs lointains. Un repos commencé vers 22 h 30 s’achève au plus tôt à **6 h 30, J1**, selon les [règles de repos](#installer-un-vrai-repos).
-
-Qu’ils partent de nuit vers les lumières ou attendent le jour, la piste du village traverse le quartier abandonné où rôde la meute : reprenez [l’arrivée de l’arc A](act-A-rejected.md#de-arrivee) à l’heure réelle, vers **9 h** dans l’horaire de référence.
+Il est environ **22 h 30, J0**. Revenir sur leurs pas ne ramène les joueurs à aucun repère de Valcroix. Au camp, personne n’a rien vu : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les croit rentrés chez eux. Poursuivez avec [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md).
 
 <a id="de-etat-sortie"></a>
-### Après le passage
+## Après le passage
 
-**La caravane.** À l’aube du 27, les roulottes reprennent la route : rien ne retient les voyageurs à Valcroix. En N1, la tente vide hâte ce départ : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) sait qu’on accusera les siens de la disparition des hommes de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive). La caravane se dirige vers son campement de l’étang de Tser, où vit madame [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva), par le chemin que le droit de passage des Vistani lui ouvre à travers les Brumes. Le siège l’arrête au village de Barovie, où les joueurs pourront la retrouver : voir [Le convoi de Stanimir](Arc%20B%20-%20Welcome%20to%20Barovia.md#de-convoi-stanimir). [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) quitte le convoi dès l’entrée en Barovie et gagne seule [l’étang de Tser](Arc%20C%20-%20Into%20the%20Valley.md#en-c4c-vistani-hospitality) par les bois, en contournant le village assiégé.
+**La caravane.** À l’aube du 27, les roulottes reprennent la route : rien ne retient les voyageurs à Valcroix. En N1, la tente vide hâte ce départ : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) sait qu’on accusera les siens de la disparition des hommes de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive). La caravane se dirige vers son campement de l’étang de Tser, où vit madame [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva), par le chemin que le droit de passage des Vistani lui ouvre à travers les Brumes.
 
 **À noter pour la suite.**
 
-* N1 ou N2, heure réelle du passage et du dernier repos achevé.
+* N1 ou N2, heure réelle du passage et du dernier repos long achevé.
 * PV, dés de vie, sorts et consommables restants ; niveau 2, total 300 PX.
 * Solution retenue pour l’ordre de départ ; pillards capturés et biens restitués.
 * Pour les retrouvailles avec [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) : conte entendu ou non, nom de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) demandé, [Eva](../Appendices/Non-Player%20Characters.md#en-madam-eva) mentionnée ; détail confié par chacun ; confiance, soupçons ou torts ; affaires laissées au camp.

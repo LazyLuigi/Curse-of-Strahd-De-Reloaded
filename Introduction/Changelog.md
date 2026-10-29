@@ -1,8 +1,20 @@
 Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-relecture-arc0-2026-10-29"></a>
+# 29 octobre 2026 : Relecture de l’arc 0
+
+- L’[avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) n’est lu qu’aux Vistani. Le niveau 2 est atteint quand [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite les personnages à manger.
+- Les Vistani indiquent où se cache la charrette des pillards ; s’en approcher déclenche leur attaque.
+- Les jeux autour du feu deviennent le jeu du grelot et le couplet farfelu.
+- La remise barovienne disparaît : les personnages se réveillent dans une forêt, à 400 m d’un toit, et l’arc A commence aussitôt.
+- La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne s’arrête plus au village de Barovie. Les personnages le retrouvent à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#de-retrouver-stanimir), où il leur dit que la brume s’est chargée des pillards capturés.
+- [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) reçoivent un profil d’interprétation, comme les PNJ de l’arc B. Pendant l’attaque, Stanimir peut détourner les pillards avec *image majeure*, et les soins des Vistani comptent comme un repos court.
+- La tombe ouverte vient de chiens sauvages et d’un fossoyeur négligent, qui accuse toujours quelqu’un d’autre.
+
 <a id="de-relecture-style-2026-10-28"></a>
 # 28 octobre 2026 : Relecture du style
 
+- Les fiches de l’arc 0 suivent désormais l’édition choisie dans les réglages, sans verrouillage en 2014.
 - Réécriture de la narration de l’[arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ.
 - Les [personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) sont les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son avis d’expulsion. Les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie.
 - Retrait de l’encart « Une équipe avant les Brumes » de la [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md).
@@ -12,7 +24,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Les tirets d’incise des titres et de la narration deviennent des deux-points, des virgules ou des parenthèses. Les profils de l’annexe des PNJ nomment leur arc en français.
 - [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un personnage lit à la caravane. Il ne discute pas ses ordres.
 - Les pillards se déguisent en Vistani pour voler. La meunière raconte ce qu’elle a vu, sans reçu ni signature imitée.
-- La confrontation avec les pillards est obligatoire, avec un pillard de plus que de personnages. Ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les personnages.
+- La confrontation avec les pillards est obligatoire, avec un pillard par personnage, plus deux. Ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les personnages.
 - Arcs A et B : retour aux textes de Reloaded avant une nouvelle réécriture de l’arc A. Le sous-sol de la Maison de la Mort est retiré.
 
 <a id="de-hommes-de-main-2026-10-27"></a>
@@ -21,7 +33,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Les personnages deviennent les hommes de main de Loïc de Hauterive, qui leur confie ce qu’il ne règle pas par sa garde. Un billet privé remplace le mandat ; l’insigne et le serment disparaissent.
 - Eliza, l’espionne de Strahd, voyage avec la caravane : par les yeux de son rat albinos, Strahd remarque les personnages, puis les fait venir lui-même par les Brumes, voir [sa notice](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#de-strahd-brumes). Les Brumes ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport. Ses [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) deviennent des espions que le MJ peut faire paraître.
 - Retrait des comparaisons avec Reloaded ajoutées dans le texte de jeu ; liens vers Loïc, Stanimir et Eliza complétés.
-- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent [retrouver Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#de-retrouver-stanimir) avant son départ pour l’étang de Tser.
+- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent [retrouver Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#de-retrouver-stanimir) avant son départ pour l’étang de Tser.
 - Le terme fixé par l’Abbé à Anna tombe au crépuscule du 16 Neyavr, trois semaines après leur pacte. Les arcs K et Q donnent la même date, et Anna confie l’échéance aux personnages.
 - La [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) fait une exception pour Valcroix et le service auprès de Loïc. Le reste du passé des personnages n’est pas exploré, et ils ne deviennent étrangers à leur cadre qu’après le prologue.
 
