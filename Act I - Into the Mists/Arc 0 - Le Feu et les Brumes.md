@@ -16,6 +16,11 @@ Après cette soirée, les Brumes emportent les joueurs en Barovie. Le prologue s
 <a id="de-preparer-arc-zero"></a>
 ## Préparer le départ
 
+> [!warning]+ **<span style="color:orange">Limitez votre charge de travail</span>**
+> <span style="color:orange">*Curse of <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>: Reloaded* a été délibérément écrit pour réduire au minimum le temps passé loin de la table, afin de proposer autant que possible une campagne « sans préparation ». À cette fin, ce guide a été conçu pour amener les joueurs à suivre des chemins précis, soigneusement choisis dans l’aventure, tout en leur accordant des marges de liberté voulues qui, bien que significatives, ne changeront pas sensiblement l’issue finale de la campagne.</span>
+> 
+> <span style="color:orange">Si vous souhaitez limiter votre charge de travail, efforcez-vous de ne rien modifier ni ajouter à ce guide. De tels changements risquent d’altérer la manière dont les joueurs abordent son récit et ses mécanismes de jeu, en ébranlant des piliers essentiels parfois difficiles à repérer sans relire plusieurs fois l’intégralité du guide. (Par exemple, augmenter les distances entre les localités baroviennes rend plusieurs quêtes des actes II et III impossibles à terminer sans remanier complètement la chronologie de toute la campagne.) Toute modification, qu’elle concerne les échéances, les distances, les profils de statistiques, les motivations des personnages ou les événements, se fait aux risques et périls du MJ et peut entraîner la mort de tout le groupe, des divergences considérables ou des intrigues insatisfaisantes.</span>
+
 Avant la première scène, demandez à chaque joueur une affaire qui explique la réputation de son personnage ou de la troupe à Valcroix : une famille expulsée, un brigand retrouvé et conduit à l’échafaud, une rébellion étouffée…
 
 Les joueurs portent leur équipement de départ et reçoivent l’avis d’expulsion de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dès la première scène. Ils n’ont aucun titre officiel, mais tout Valcroix sait qu’ils servent le seigneur, et beaucoup d’habitants les craignent. Ce que les personnages pensent de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) et de sa mission appartient aux joueurs.

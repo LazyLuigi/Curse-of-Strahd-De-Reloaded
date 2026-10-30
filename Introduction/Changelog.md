@@ -7,7 +7,8 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Le sous-sol est retiré. À minuit, [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) attend les personnages dans le grand hall, sous deux formes ; la *Valse pour Klara* l’affaiblit.
 - À sa mort, les personnages repartent avec les os de Rose et de Thorn. Gustav et les dévots ne barrent plus la sortie. Le jalon de l’arc passe à 600 PX.
 - Elisabeth devient un boss en deux phases, réglé comme l’amas de chair de Reloaded, avec ses adaptations de 3 à 6 joueurs. La meute ne peut pas être vaincue : chaque loup tué laisse place à un loup sanguinaire.
-- Dans la maison, l’horloge sonne dix heures à l’arrivée : un seul dé à six faces décompte les deux heures avant minuit.
+- Dans la maison, l’horloge sonne dix heures à l’arrivée : deux dés à six faces, à dix minutes par point, décomptent les deux heures avant minuit.
+- Relecture de l’arc A : arrivée au clair de lune vers un manoir illuminé, nouveau poème, Elisabeth surgit aussi si les personnages atteignent la porte avec les os des enfants. Rose et Thorn ne possèdent plus personne.
 - L’éclat d’ambre d’Elisabeth redevient celui de Reloaded : il ouvre la porte secrète de la bibliothèque, porte la tentation de Norganas et tombe en poussière quand la maison s’effondre. Les mises en garde sur cet éclat dans les arcs M à T sont retirées.
 - L’histoire des Durst suit les indices de la maison : Klara séquestrée, mutilée et morte de faim, Gustav poignardé dans son lit.
 - Relecture de la traduction de tout le guide : calques de l’anglais, fautes, répétitions et liens posés sur des mots courants.

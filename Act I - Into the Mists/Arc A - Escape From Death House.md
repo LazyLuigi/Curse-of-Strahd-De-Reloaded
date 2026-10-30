@@ -1,8 +1,5 @@
 *Une aventure pour cinq personnages de niveau 2.*
 
-> [!warning]+ **Une aventure de niveau 2**
-> <span style="color:orange">Les personnages commencent la campagne au niveau 1 et arrivent ici au niveau 2.</span>
-
 <span style="color:orange">Les personnages sortent des Brumes en Barovie, à l’orée des bois de Svalich, au commencement de la vieille route. Quelques minutes plus tard, une meute de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> les encercle et les rabat vers le seul abri en vue : le vieux manoir des Durst, la Maison de la Mort.</span>
 
 Une fois à l’intérieur, les personnages se retrouvent piégés et apprennent <span style="color:orange">que la maîtresse des lieux les traquera dès son réveil, à minuit. Ils ont deux heures pour se préparer à l’affronter.</span> En explorant la maison, ils découvrent son histoire sordide ainsi que la véritable identité <span style="color:orange">de celle qui les retient : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>.</span>
@@ -20,20 +17,17 @@ Si les personnages <span style="color:orange">tuent <a href="../Appendices/Index
 <a id="de-arrivee"></a>
 # <span style="color:orange">A1. La vieille route de Svalich</span>
 
-> [!warning]+ **Limitez votre charge de travail**
-> *Curse of <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>: Reloaded* a été délibérément écrit pour réduire au minimum le temps passé loin de la table, afin de proposer autant que possible une campagne « sans préparation ». À cette fin, ce guide a été conçu pour amener les joueurs à suivre des chemins précis, soigneusement choisis dans l’aventure, tout en leur accordant des marges de liberté voulues qui, bien que significatives, ne changeront pas sensiblement l’issue finale de la campagne.
-> 
-> Si vous souhaitez limiter votre charge de travail, efforcez-vous de ne rien modifier ni ajouter à ce guide. De tels changements risquent d’altérer la manière dont les joueurs abordent son récit et ses mécanismes de jeu, en ébranlant des piliers essentiels parfois difficiles à repérer sans relire plusieurs fois l’intégralité du guide. (Par exemple, augmenter les distances entre les localités baroviennes rend plusieurs quêtes des actes II et III impossibles à terminer sans remanier complètement la chronologie de toute la campagne.) Toute modification, qu’elle concerne les échéances, les distances, les profils de statistiques, les motivations des personnages ou les événements, se fait aux risques et périls du MJ et peut entraîner la mort de tout le groupe, des divergences considérables ou des intrigues insatisfaisantes.
 <a id="de-meute"></a>
 ## <span style="color:orange">A1a. La meute</span>
-<span style="color:orange">Les personnages sortent des Brumes de nuit, à la fin de [l’arc 0](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, la masse sombre d’un grand manoir se découpe sur la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.</span>
+<span style="color:orange">Les personnages sortent des Brumes de nuit, à la fin de [l’arc 0](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.</span>
 
 <span style="color:orange">Après quelques minutes de marche, lisez :</span>
 
 <div class="description">
-<p><span style="color:orange">Un vieux chemin de terre, creusé d’ornières que personne n’a suivies depuis longtemps, file entre les troncs nus vers la demeure. La brume s’accroche aux branches basses et étouffe vos pas.</span></p>
+<p><span style="color:orange">La lune décroissante baigne les bois d’une lumière laiteuse et triste. Un vieux chemin de terre, creusé d’ornières que personne n’a suivies depuis longtemps, file entre les troncs nus et noirs. La brume s’accroche aux branches basses et étouffe vos pas. L’air sent la feuille pourrie et la terre froide.</span></p>
+<p><span style="color:orange">Au bout du chemin, un grand manoir domine les arbres. Toutes ses fenêtres sont éclairées : dans ces bois sans autre lumière, il brille comme un phare.</span></p>
 <p><span style="color:orange">Un hurlement s’élève sur votre gauche. Un autre lui répond derrière vous, puis un troisième, tout proche. Entre les arbres, des silhouettes grises glissent sans bruit et vous dépassent de chaque côté.</span></p>
-<p><span style="color:orange">Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Seul le chemin du manoir reste libre.</span></p>
+<p><span style="color:orange">Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le manoir vous semble cependant atteignable avant de vous faire déborder.</span></p>
 </div>
 
 <span style="color:orange">Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à trente pieds. Tant que les personnages avancent vers le manoir, la meute les escorte sans attaquer. Si un personnage s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les personnages ont repris le chemin du manoir, et aucun ne franchit la grille du portique.</span>
@@ -72,9 +66,6 @@ Lisez le texte suivant à tous les joueurs :
 
 L’entrée au-delà du portique correspond pour le reste à la description de <span class="citation">Entrée (p. 212)</span>.
 
-> [!lore]+ **<span style="color:orange"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et la meute</span>**
->
-> <span style="color:orange">Les loups obéissent à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>. Il a fait venir les personnages en Barovie et veut savoir ce qu’ils valent : sa meute les pousse dans la maison des Durst, dont il connaît la maîtresse.</span>
 <a id="en-main-hall" data-traduction="ancre"></a>
 ### Grand hall
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 2.</em></span>
@@ -91,37 +82,37 @@ Peu après que tous les personnages sont entrés dans le grand hall, la porte d�
 Des lettres de sang commencent alors à apparaître sur le mur sud, juste au-dessus de l’escalier de marbre. Elles forment le message suivant :
 
 <div class="description" style="text-align: center; padding: 15px;">
-<em><span style="color:orange">Sous ce toit règne une maîtresse</span></em>
+<em><span style="color:orange">Sous cet infâme toit règne une ombre souveraine,</span></em>
 <br>
-<em><span style="color:orange">Qui ne rend jamais ce qu’elle a pris.</span></em>
+<em><span style="color:orange">Qui retient dans ses murs les âmes enchaînées.</span></em>
 <br>
-<em>Elle dort jusqu’aux coups de minuit</em>
+<em><span style="color:orange">Jusqu’au glas de minuit, elle dort, inhumaine,</span></em>
 <br>
-<em>Puis s’éveille à ses sombres desseins.</em>
+<em><span style="color:orange">Puis surgit des ténèbres pour vous condamner.</span></em>
+<div style="height: 15px;"></div>
+<em><span style="color:orange">Ô vous, hôtes perdus, venez briser vos chaînes,</span></em>
 <br>
-<em><span style="color:orange">Si ses hôtes veulent fuir leur destin,</span></em>
+<em><span style="color:orange">Rendez donc leur voix aux enfants oubliés.</span></em>
 <br>
-<em><span style="color:orange">Qu’ils rendent voix à ce qu’elle a fait taire :</span></em>
+<em><span style="color:orange">Au chant jaloux qui ravive ses peines,</span></em>
 <br>
-<em><span style="color:orange">Au son de sa jalousie,</span></em>
-<br>
-<em><span style="color:orange">Sa garde un instant faiblira.</span></em>
+<em><span style="color:orange">L’immonde fléchira, son pouvoir ébranlé.</span></em>
 </div>
 
 L’horloge de parquet sonne alors <span style="color:orange">dix heures</span>.
 
 > [!info]+ **Le temps dans la Maison de la Mort**
 >
-> Lorsque l’horloge sonne <span style="color:orange">dix heures, placez un dé à six faces sur la table devant les joueurs, affichant un six. Chaque point du dé</span> représente vingt minutes avant minuit.
+> Lorsque l’horloge sonne <span style="color:orange">dix heures, placez deux dés à six faces</span> sur la table devant les joueurs, chacun affichant un six. Chaque point sur les dés représente <span style="color:orange">dix minutes</span> avant minuit.
 >
-> À mesure que les personnages explorent la maison, diminuez <span style="color:orange">la valeur de ce dé</span> pour indiquer le temps écoulé. S’il indique un, faites-le passer à « zéro » en le retirant <span style="color:orange">de la table</span>.
+> À mesure que les personnages explorent la maison, diminuez les valeurs de cette horloge de dés pour indiquer le temps écoulé, en commençant toujours par le dé affichant le nombre le plus bas. S’il indique un, faites-le passer à « zéro » en le retirant du groupe.
 >
-> <span style="color:orange">Le dé</span> décompte le temps total passé dans la maison de la façon suivante :
-> - Chaque fois que les personnages pénètrent dans un nouveau niveau de la maison, diminuez <span style="color:orange">le dé</span> d’un point.
-> - Chaque fois que les personnages effectuent un test de Perception ou d’Investigation pour fouiller une pièce entière, diminuez <span style="color:orange">le dé</span> d’un point.
-> - Chaque fois que les personnages terminent un repos court, diminuez <span style="color:orange">le dé</span> de trois points.
+> L’horloge de dés décompte le temps total passé dans la maison de la façon suivante :
+> - Chaque fois que les personnages pénètrent dans un nouveau niveau de la maison, diminuez l’horloge de dés d’un point.
+> - Chaque fois que les personnages effectuent un test de Perception ou d’Investigation pour fouiller une pièce entière, diminuez l’horloge de dés d’un point.
+> - Chaque fois que les personnages terminent un repos court, diminuez l’horloge de dés de trois points.
 >
-> Une heure entière s’écoule chaque fois <span style="color:orange">que le dé</span> passe de 4 à 3, ou de 1 à 0. L’horloge de parquet du **grand hall** sonne à chaque heure et s’entend dans toute la maison.
+> Une heure entière s’écoule chaque fois <span style="color:orange">qu’un dé passe de 1 à 0</span>. L’horloge de parquet du **grand hall** sonne à chaque heure et s’entend dans toute la maison.
 >
 > <span style="color:orange">Lorsque l’horloge sonne minuit, **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>** s’éveille et descend dans le grand hall, où elle attend les personnages (voir [A2f. Les coups de minuit](#de-minuit)).</span>
 
@@ -558,9 +549,7 @@ Outre ses sorts mineurs, le journal vieilli et délavé de <a href="../Appendice
 
 La maison de poupée contient de petites figurines représentant, en miniatures déformées, tous les personnages et créatures actuellement visibles dans la maison. Elles sont faites de résine peinte. Quiconque regarde à l’intérieur depuis la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> peut voir les figurines de toutes les créatures vivantes du manoir, placées aux bons endroits. La maison de poupée ne contient que les pièces de la maison elle-même.
 
-<span style="color:orange">Avant que les personnages ne quittent la chambre,</span> <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demande timidement si <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et lui peuvent accompagner les personnages pour les aider, puis tente de posséder un personnage amical si celui-ci l’y autorise. Lorsque <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> ou <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> tente une possession, décrivez « la petite main d’un enfant cherchant désespérément le contact d’une autre âme ».
-
-Un personnage possédé par <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> peut lancer les sorts mineurs de son journal ; un personnage possédé par <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> peut obtenir les effets du sort mineur _Main de mage_ au prix d’une action, sans composantes. (La main spectrale est invisible.)
+<span style="color:orange">Avant que les personnages ne quittent la chambre,</span> <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demande timidement si <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et lui peuvent accompagner les personnages pour les aider.
 <a id="en-storage-room-2" data-traduction="ancre"></a>
 ### Débarras
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 18.</em></span>
@@ -583,11 +572,12 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 
 <a id="de-minuit"></a>
 ## <span style="color:orange">A2f. Les coups de minuit</span>
-<span style="color:orange">Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit, elle prend forme dans sa chambre, descend le grand escalier et attend les personnages dans le grand hall, entre eux et la porte d’entrée. Lorsqu’ils la voient pour la première fois, lisez :</span>
+<span style="color:orange">Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit (ou si les personnages atteignent la porte avec les ossements des enfants), elle prend forme dans sa chambre, descend le grand escalier et attend les personnages dans le grand hall, entre eux et la porte d’entrée. Lorsqu’ils la voient pour la première fois, lisez :</span>
 
 <div class="description">
 <p><span style="color:orange">Une femme se tient au pied du grand escalier, une main posée sur la rampe. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</span></p>
-<p><span style="color:orange">« Vous êtes chez moi, dit-elle. Et de chez moi, personne ne part. »</span></p>
+<p><span style="color:orange">« On ne quitte pas ma maison en emportant ce qui m’appartient. »</span></p>
+<p><span style="color:orange">La porte d’entrée claque et se verrouille brutalement alors que la femme fonce vers vous avec une dextérité inattendue.</span></p>
 </div>
 
 <span style="color:orange">Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> combat jusqu’à la mort. Sous sa forme de noble, elle donne des ordres brefs (« Tenez-vous droits », « Vous n’avez rien à faire ici ») et cherche à agripper celui qui la menace le plus. Sous sa forme de nothic, sa voix reste la même, mais les ordres font place aux accusations.</span>
@@ -647,7 +637,7 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 
 <div class="description">
 <p><span style="color:orange"><a href="../Appendices/Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a> ouvre la bouche, mais c’est sa poitrine qui se fend. Une déchirure remonte à travers la robe et la peau, comme si une couture trop tendue venait de céder. Un grand œil humide s’ouvre au milieu de ce qui était son visage.</span></p>
-<p><span style="color:orange">Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous accueille : « Vous regardez encore. »</span></p>
+<p><span style="color:orange">Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous accueille : « Je vois vos petits secrets, mes enfants. »</span></p>
 </div>
 
 <div class="statblock" style="color:orange">
@@ -688,10 +678,11 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 <span style="color:orange">Lorsqu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> meurt, lisez :</span>
 
 <div class="description">
-<p><span style="color:orange">Le corps s’affaisse au pied de l’escalier et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre d’elle-même, et l’air froid de la nuit entre dans le hall.</span></p>
+<p><span style="color:orange">Le corps s’affaisse au pied de l’escalier et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit entre brutalement dans le hall.</span></p>
+<p><span style="color:orange">La brume environnante semble s’être retirée.</span></p>
 </div>
 
-<span style="color:orange">La maison ne retient plus personne : la brume qui l’enveloppait s’est retirée, et les personnages peuvent aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>, ils peuvent remonter au grenier les chercher. Ils ne repartent qu’avec ces restes, pour les enterrer comme ils l’ont promis (voir [A3](#en-a3-outside-death-house)) ; ceux de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> restent dans la maison.</span>
+<span style="color:orange">Les personnages peuvent dorénavant aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>, ils peuvent remonter au grenier les chercher. Ils ne repartent qu’avec ces restes, pour les enterrer comme ils l’ont promis (voir [A3](#en-a3-outside-death-house)) ; ceux de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> restent dans la maison.</span>
 
 <span style="color:orange">La maison ne s’effondre qu’une fois que tous les personnages en sont sortis.</span>
 
@@ -703,7 +694,7 @@ Lorsque les personnages quittent la Maison de la Mort, <span style="color:orange
 
 La maison s’effondre alors <span style="color:orange">sur elle-même. Il n’en reste qu’un amas de pierres noircies.</span> Si les personnages l’ont encore, l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> tombe en poussière.
 
-Si les esprits de [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et de [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst) possèdent encore des personnages, ils mettent fin à la possession. <span style="color:orange">Les enfants reconnaissent les bois de Svalich, qui entouraient leur maison. Ils savent que la route mène au village de Barovie, mais ne l’ont jamais suivie seuls.</span>
+<span style="color:orange">Les enfants reconnaissent les bois de Svalich, qui entouraient leur maison. Ils savent que la route mène au village de Barovie, mais ne l’ont jamais suivie seuls.</span>
 
 En examinant les alentours, les personnages aperçoivent rapidement le sommet d’une vieille tour de pierre en ruine dépassant des arbres. Son architecture correspond à la description de <span class="citation">Feu follet (p. 33)</span>, mais l’intérieur n’est pas une terre profanée, il n’y a aucun coffre de bois au sol et aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> <a href="../Appendices/Bestiary.md#en-zombie"><sup>fiche</sup></a>** ni **<a href="https://www.aidedd.org/dnd/monstres.php?vf=feu-follet">feu follet</a>** à l’intérieur ou autour de la tour.
 
@@ -726,7 +717,7 @@ Le compte à rebours et le poème ont été ajoutés pour donner aux joueurs une
 
 ***Le troisième niveau.*** Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=spectre">spectre</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-specter-monstre"><sup>fiche</sup></a> de la nourrice constitue désormais une aide essentielle pour trouver l’escalier du grenier sans frustration ni retard excessifs. Des indices supplémentaires révèlent le sort de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>, de M. Durst et de la nourrice.
 
-***Le grenier.*** Des indices révèlent le sort de la nourrice et <span style="color:orange">les dévots</span> de Mme Durst.
+***Le grenier.*** Des indices révèlent le sort de la nourrice.
 
 L’ajout fréquent d’un défi de compétences pour fuir la maison a été écarté afin d’assurer une transition simple et fluide entre la mort d’<span style="color:orange"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a></span> et la sortie des personnages. Cela évite de mettre en difficulté les joueurs qui auraient du mal à apprendre les mécanismes d’un nouveau système de jeu dans le feu de l’action, et préserve leur immersion dans le récit de la fuite plutôt que dans ses règles.
 

@@ -74,7 +74,7 @@
 ***Relations.*** Rose est la sœur aînée de Thorn Durst, la demi-sœur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter Durst</a> et l’aînée des enfants d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> et de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav Durst</a>.
 <a id="en-thornboldt-thorn-durst" data-traduction="ancre"></a>
 ### Thornboldt « Thorn » Durst
-**Dans l’arc A.** Thorn apparaît au grenier avec [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst). <span style="color:orange">Il demande timidement si sa sœur et lui peuvent accompagner les personnages, puis tente de posséder l’un d’eux s’il l’y autorise.</span>
+**Dans l’arc A.** Thorn apparaît au grenier avec [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst). <span style="color:orange">Il demande timidement si sa sœur et lui peuvent accompagner les personnages.</span>
 
 **Conseils d’interprétation**
 ***Résonance.*** Thorn doit susciter la compassion par sa timidité et sa peur, et l’affection par sa joie enfantine.
