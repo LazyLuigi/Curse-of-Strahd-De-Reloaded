@@ -9,15 +9,8 @@ Les documents de cette ouverture sont rédigés directement en français. Leurs 
 
 - [Avis d’expulsion de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
 - [Plaintes et preuves](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-plaintes), aide du MJ : ne remettre aux joueurs que les renseignements acquis.
-- [Registre des domestiques](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-servants-room), témoignage sur l’inhumation de [Gustav](Non-Player%20Characters.md#de-gustav-durst).
 - [Correspondance de la bibliothèque](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-secret-room), trois pièces distinctes à découvrir.
-- [Carnet de Rose et dessin de Thorn](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room), indices vers la cache, même sans dialogue avec les esprits.
-
-Le plan suivant est un **gabarit destiné au MJ**. Il représente seulement le hall et le bas de l’escalier, avec les positions de préparation de la rencontre. Une case mesure 1,50 m ; les [règles du terrain](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-main-hall) en précisent l’usage.
-
-![Hall Durst : plan du MJ](../images/De-Reloaded%20-%20Hall%20Durst.svg)
-
-*Cartographie De-Reloaded : LazyLuigi.*
+- <span style="color:orange">[Journal de Rose](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room), caché dans la taie d’oreiller de son lit.</span>
 
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup
@@ -88,7 +81,7 @@ Le plan suivant est un **gabarit destiné au MJ**. Il représente seulement le h
 >
 > Mais qui l’a modifié, et pourquoi ?
 
-Les trois dessins représentent, de gauche à droite, un arbre noueux entouré d’un canal, un livre posé sur un piédestal et un œil sur une colline. Le premier sarcophage est entouré en rouge et relié aux formules. Les caractères arcaniques sont des signes de l’univers de jeu, et non un texte anglais à lire aux joueurs.
+Les trois dessins représentent, de gauche à droite, un arbre noueux entouré d’un canal, un livre posé sur un piédestal et un œil sur une colline. Le premier sarcophage est cerclé de rouge et relié aux formules. Les caractères arcaniques sont des signes de l’univers de jeu, et non un texte anglais à lire aux joueurs.
 
 <a id="support-khazan-2"></a>
 ## Second feuillet de Khazan
@@ -116,7 +109,7 @@ Dans l’original, la dernière question est soulignée trois fois.
 >
 > Le mal m’encercle. L’heure est venue d’abandonner cette apparence et de montrer à ces impies ma véritable et redoutable forme. Qu’elle fasse naître la terreur dans leurs cœurs ! Qu’ils racontent leur sombre triomphe sur le protecteur des monts Balinok ! Que l’on se souvienne d’Argynvost comme d’un dragon d’honneur et de vaillance.
 >
-> Je ne crains pas la mort. J’ai déposé mes attributs sous le regard vigilant de la tour, afin que d’autres puissent perpétuer mon héritage à ma place. Mon corps mourra, mais mon esprit vivra là où subsistent le serment et le feu du Dragon d’Argent. Puisse-t-il servir de phare contre les ténèbres. Puisse-t-il apporter l’espoir à une terre rongée par le désespoir.
+> Je ne crains pas la mort. J’ai déposé mes attributs sous le regard vigilant de la tour, afin que d’autres puissent perpétuer mon héritage à ma place. Mon corps mourra, mais mon esprit vivra là où subsistent le serment et le feu du Dragon d’argent. Puisse-t-il servir de phare contre les ténèbres. Puisse-t-il apporter l’espoir à une terre rongée par le désespoir.
 >
 > Maintenant, au combat !
 >

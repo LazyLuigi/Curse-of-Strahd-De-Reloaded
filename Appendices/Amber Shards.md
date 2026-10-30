@@ -1,13 +1,5 @@
 Au cours de l’aventure, les joueurs auront l’occasion d’obtenir un ou plusieurs *<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a>* : des fragments des sarcophages d’ambre qui emprisonnent les vestiges du Temple de l’Ambre.
 
-<a id="de-exception-elisabeth"></a>
-> [!info]+ **La clé d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) : un objet distinct**
-> L’[éclat d’Elisabeth Durst](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-eclat-elisabeth), dans *Le Feu et les Brumes*, porte la signature d’un pacte personnel déjà conclu. Les règles de tentation et les trois stades ci-dessous **ne s’appliquent pas à cette clé** : elle n’accorde aux personnages ni don sombre, ni guérison, ni communication avec un vestige.
->
-> Cette distinction vaut dans toute la campagne : les réactions de [Godfrey](Non-Player%20Characters.md#en-sir-godfrey-gwilym), le guidage et les esprits du Temple de l’Ambre, ainsi que la Résonance hurlante de [Rahadin](Non-Player%20Characters.md#en-rahadin), concernent les éclats liés aux vestiges. La clé locale, active ou inerte, n’y participe pas ; elle ne donne ni mot de passe, ni marque de corruption, ni moyen de tromper ces réactions.
->
-> Un seul exemplaire matériel se trouve dans le double fond du coffret à bijoux, sur la coiffeuse de la suite parentale. Il ouvre définitivement la nurserie, sans être consommé, et devient inerte lorsque **la nurserie est ouverte et [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) morte**, quel que soit l’ordre. Si [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) est vaincue avant l’ouverture, la clé demeure utilisable. Les autres ambres, y compris une relique personnelle, ne remplacent pas sa signature ; elle-même n’ouvre aucun autre sceau. Sa définition complète et les interactions magiques sont celles de l’arc A.
-
 Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> conserve un lien psychique avec le sarcophage dont il provient. Par ce lien, un vestige peut murmurer à l’oreille du porteur de l’éclat, lui promettant du pouvoir en échange de sa descente dans la corruption.
 
 > [!info]+ **Trouver des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a>**
@@ -23,16 +15,16 @@ Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index
 > Vous ne devez toutefois pas ajouter d’autres éclats que les joueurs pourraient obtenir.
 
 > [!info]+ **La magie des éclats**
-> Un personnage qui examine attentivement un <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> avec un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie">détection de la magie</a>* y distingue des traces de magie d’abjuration. Un personnage qui tente d’identifier un éclat avec un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=identification">identification</a>* apprend qu’il faisait autrefois partie d’une structure plus vaste destinée à contenir ou emprisonner une entité ou une créature, et qu’il conserve un lien arcanique avec son réceptacle d’origine.
+> Un personnage qui examine attentivement un <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> avec un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie">détection de la magie</a>* y distingue des traces de magie d’abjuration. Un personnage qui lance un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=identification">identification</a>* sur un éclat apprend qu’il faisait autrefois partie d’une structure plus vaste destinée à contenir ou emprisonner une entité ou une créature, et qu’il conserve un lien arcanique avec son réceptacle d’origine.
 
 > [!info]+ **Pourquoi de l’ambre ?**
-> Un personnage qui réussit un test d’Intelligence (Arcanes) DD 15 se rappelle que l’ambre possède une propriété magique unique : c’est un « isolant » magique, qu’aucune forme d’énergie, magique ou divine, ne peut endommager ni traverser. Sur un résultat de 20 ou plus, le personnage se rappelle également que les énergies magiques ne peuvent traverser l’ambre que très lentement, sur une durée de plusieurs années à plusieurs décennies.
+> Un personnage qui réussit un test d’Intelligence (Arcanes) DD 15 se rappelle que l’ambre possède une propriété unique : c’est un « isolant » magique, qu’aucune forme d’énergie, magique ou divine, ne peut endommager ni traverser. Sur un résultat de 20 ou plus, le personnage se rappelle également que les énergies magiques ne peuvent traverser l’ambre que très lentement, sur une durée de plusieurs années à plusieurs décennies.
 
 <a id="en-stage-one" data-traduction="ancre"></a>
 # Premier stade
-À ce stade, le personnage est un simple possesseur de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, probablement inconscient du véritable pouvoir qu’il offre.
+À ce stade, le personnage est un simple possesseur de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, probablement ignorant du véritable pouvoir qu’il offre.
 
-La première fois que le personnage est réduit à 0 point de vie et tombe inconscient alors qu’il possède l’éclat, une silhouette sombre lui apparaît dans une vision et lui propose de l’aider à échapper au <a href="https://www.aidedd.org/dnd/monstres.php?vf=spectre">spectre</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-specter-monstre"><sup>fiche</sup></a> de la mort et à reprendre le combat. La silhouette ne précise aucun prix et garde le silence tant que le personnage n’accepte pas son offre.
+La première fois que le personnage est réduit à 0 point de vie et tombe inconscient alors qu’il possède l’éclat, une silhouette sombre lui apparaît dans une vision et lui propose de l’aider à échapper au spectre de la mort et à reprendre le combat. La silhouette ne précise aucun prix et garde le silence tant que le personnage n’accepte pas son offre.
 
 Si le personnage accepte, il récupère tous ses points de vie. Il passe alors au deuxième stade de la corruption de l’éclat. S’il refuse, le vestige ne lui apparaît plus, à moins que le personnage ne tombe inconscient dans une situation particulièrement désespérée.
 <a id="en-stage-two" data-traduction="ancre"></a>
@@ -54,7 +46,7 @@ Si le personnage accepte, les effets suivants s’appliquent :
 
 * Il obtient un bienfait particulier, comme indiqué dans la section **Corruption de l’ambre** ci-dessous.
 * Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu’il le fait, il gagne un nombre de niveaux d’épuisement égal au nombre de fois où il a lancé le sort. Ce nombre n’est réinitialisé que si le personnage passe trois jours entiers sans lancer le sort du vestige. (Par exemple, si un personnage lance le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond">nuage nauséabond</a>* de Fekre deux jours de suite, il reçoit un niveau d’épuisement le premier jour et deux niveaux d’épuisement le deuxième jour. Si le personnage attend trois jours avant de lancer de nouveau le sort, il ne reçoit qu’un niveau d’épuisement en le faisant ; sinon, il reçoit trois niveaux d’épuisement supplémentaires.)
-* Il subit une altération particulière, comme indiqué dans la même section ci-dessous. Cette altération est incurable sans l’aide d’un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure">restauration supérieure</a>* ou d’une magie similaire. (Un personnage peut également recevoir les soins de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a> dans [l’arc Q : Un phare éclatant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md).) Si l’altération est guérie, le personnage perd également tous les dons du vestige, y compris son sort et son bienfait.
+* Il subit une altération particulière, comme indiqué dans la même section ci-dessous. Cette altération est incurable sans l’aide d’un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure">restauration supérieure</a>* ou d’une magie similaire. (Un personnage peut également recevoir les soins de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a> dans [l’arc Q : Un phare éclatant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md).) Si l’altération est guérie, le personnage perd aussi tous les dons du vestige, y compris son sort et son bienfait.
 
 Si le personnage interroge le vestige au sujet de l’altération, celui-ci lui explique qu’elle résulte du lien imparfait établi par les éclats. Il invite le personnage au Temple de l’Ambre pour recevoir l’intégralité du don du vestige et achever sa transformation.
 
@@ -109,7 +101,7 @@ Si le personnage refuse l’offre de la voix, il peut de nouveau communier avec 
 ***Altération.*** Un doigt supplémentaire pousse à chacune de vos mains. Vous avez un désavantage aux jets de sauvegarde de Constitution contre le poison, les sorts et les effets magiques.
 <a id="en-drizlash-the-nine-eyed-spider" data-traduction="ancre"></a>
 ## Drizlash, l’Araignée aux neuf yeux
-***Sort.*** _Toile d’<a href="https://www.aidedd.org/dnd/monstres.php?vf=araignee">araignée</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-spider-monstre"><sup>fiche</sup></a>._
+***Sort.*** _Toile d’araignée._
 
 ***Bienfait.*** Vous pouvez escalader des surfaces difficiles, y compris la tête en bas au plafond, sans avoir à effectuer de test de caractéristique.
 
@@ -171,7 +163,7 @@ Si le personnage refuse l’offre de la voix, il peut de nouveau communier avec 
 ***Altération.*** Une fourrure noire et huileuse recouvre votre visage et votre corps. Vous avez un désavantage aux tests effectués pour vous libérer lorsque vous êtes agrippé.
 <a id="en-norganas-the-finger-of-oblivion" data-traduction="ancre"></a>
 ## Norganas, le Doigt de l’oubli
-*Provenance historique du pacte d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) ; aucun éclat tentateur de Norganas n’est distribué dans l’arc A.* La [clé locale d’Elisabeth](#de-exception-elisabeth) ne donne pas accès aux pouvoirs ci-dessous. Ceux-ci décrivent le vestige et un éventuel éclat ordinaire choisi à la création, selon les règles de cette annexe.
+*Emplacement de l’éclat : Maison de la Mort*
 
 ***Sort.*** _Malédiction (au niveau 5)._
 
@@ -193,4 +185,4 @@ Si le personnage refuse l’offre de la voix, il peut de nouveau communier avec 
 
 ***Bienfait.*** Vous gagnez la résistance aux dégâts de feu.
 
-***Altération.*** La peau de votre bras gauche devient rouge cramoisi et se couvre d’épines barbelées, tandis que les doigts de votre main gauche s’allongent et que ses ongles deviennent longs. Vous avez un désavantage aux jets de sauvegarde de Sagesse.
+***Altération.*** La peau de votre bras gauche devient rouge cramoisi et se couvre d’épines barbelées, tandis que les doigts de votre main gauche s’allongent et que ses ongles poussent. Vous avez un désavantage aux jets de sauvegarde de Sagesse.

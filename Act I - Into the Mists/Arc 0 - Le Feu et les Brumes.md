@@ -312,7 +312,7 @@ Lorsque le feu baisse, vers 22 h, lisez :
 Les joueurs peuvent dormir au camp, **N1**, ou repartir ce soir rendre compte de leur mission, **N2**. S’ils s’arrêtent pour dormir ailleurs, jouez N1 là où ils font halte ; s’ils marchent de nuit, jouez N2. Dans tous les cas, les Brumes prennent les joueurs pendant la nuit, eux seuls, avec leurs familiers et leurs compagnons animaux ; la caravane reste à son camp et repart à l’aube.
 
 <a id="de-regroupement"></a>
-**Si le groupe se partage.** Les Brumes prennent chaque joueur là où il se trouve, vers 5 h 30 au camp ou vers 22 h 30 sur la route, et les déposent tous au même endroit. Ceux qui y attendent encore voient les autres sortir du brouillard ; sinon, jouez les deux groupes en alternance. Composez [la meute](Arc%20A%20-%20Escape%20From%20Death%20House.md) d’après les joueurs présents et ne la jouez qu’une fois.
+**Si le groupe se partage.** Les Brumes prennent chaque joueur là où il se trouve, vers 5 h 30 au camp ou vers 22 h 30 sur la route, et les déposent tous au même endroit <span style="color:orange">et au même moment, de nuit, en Barovie.</span>
 
 <a id="de-n1"></a>
 ## 0.8. N1 : La nuit au camp

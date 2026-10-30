@@ -55,7 +55,7 @@ Ce dossier constitue **Curse of Strahd De-Reloaded**, par **LazyLuigi** : une ve
 - [Arc K : L’abbaye déchue](Act%20III%20-%20The%20Broken%20Land/Arc%20K%20-%20The%20Fallen%20Abbey.md)
 - [Arc L : La tanière des loups](Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md)
 - [Arc M : Le manoir du dragon](Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md)
-- [Arc N : Récits de Vallaki](Act%20III%20-%20The%20Broken%20Land/Arc%20N%20-%20Tales%20of%20Vallaki.md) : page vide dans la source, conservée vide.
+- [Arc N : Récits de Vallaki](Act%20III%20-%20The%20Broken%20Land/Arc%20N%20-%20Tales%20of%20Vallaki.md) : page vide dans la source, conservée telle quelle.
 - [Arc O : Dîner avec le Djavo](Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md)
 - [Arc P : Le cambriolage de Ravenloft](Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md)
 - [Arc Q : Un phare resplendissant](Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md)

@@ -31,31 +31,31 @@
 
 **Interprétation.** Elle revendique la maîtrise de son foyer et traite les personnes comme des secrets à conserver. Sa forme noble puis son corps de nothic sont deux aspects de la même Elisabeth, avec la même mémoire et la même culpabilité.
 
-**Profil natif.** [Phase 1 : Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-noble) · [Phase 2 : Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
+**Profil natif.** [Phase 1 : Noble corrompue](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble) · [Phase 2 : Nothic Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic). Les deux réserves, la transition et l’adaptation au nombre de personnages sont définies uniquement dans l’arc A. Le profil de nothic standard ne les remplace pas.
 
-**Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-eclat-elisabeth) est une clé personnelle de la nurserie ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
+**Objet lié.** L’unique [éclat d’Elisabeth](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-master-suite) <span style="color:orange">ouvre la porte secrète de la bibliothèque</span> ; un reflet de pendentif dans une apparition n’en constitue pas un second exemplaire.
 
 <a id="de-gustav-durst"></a>
 ### Gustav Durst
 **Rôle.** Époux d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst), père de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst), de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst) et de [Walter](Non-Player%20Characters.md#de-walter-durst), qu’il a eu avec [Klara](Non-Player%20Characters.md#de-klara). Les souvenirs et documents du manoir révèlent une famille aisée, ses fautes et sa destruction.
 
-**Sort.** Après les meurtres de [Klara](Non-Player%20Characters.md#de-klara) et [Walter](Non-Player%20Characters.md#de-walter-durst) et le scellement de la nurserie, Gustav découvre les crimes. [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) le tue et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Sa tombe existe déjà : les personnages n’ont pas une cinquième dépouille à rassembler. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) et les [funérailles](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-funerailles).
+**Sort.** <span style="color:orange">Après les meurtres de [Klara](Non-Player%20Characters.md#de-klara) et [Walter](Non-Player%20Characters.md#de-walter-durst),</span> Gustav découvre les crimes. [Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst) <span style="color:orange">le poignarde dans leur lit</span> et fait passer sa mort pour une maladie. Les domestiques l’enterrent au jardin avant la catastrophe finale. Voir [l’histoire des Durst](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers).
 
 <a id="de-klara"></a>
 ### Klara
 **Rôle.** Nourrice de [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst), mère de [Walter](Non-Player%20Characters.md#de-walter-durst). Sa présence dans les étages cherche à faire reconnaître son enfant et leur sort.
 
-**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. Ses restes sont dans le coffre du grenier ; [Walter](Non-Player%20Characters.md#de-walter-durst) repose dans le couffin de la nurserie. Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et la [récupération des victimes](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-funerailles).
+**Indices et restes.** Sa suite, ses affaires et la *Valse pour Klara* permettent de recouper son identité. <span style="color:orange">Ses restes sont dans la malle du débarras du grenier.</span> Voir la [suite de la nourrice](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite) et <span style="color:orange">le [débarras du grenier](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-storage-room-2)</span>.
 
 <a id="de-walter-durst"></a>
 ### Walter Durst
 **Rôle.** Nourrisson, fils de [Klara](Non-Player%20Characters.md#de-klara) et [Gustav](Non-Player%20Characters.md#de-gustav-durst), victime d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst).
 
-**Restes et issue.** Il repose dans son couffin, dans la [nurserie scellée](../Act%20I%20-%20Into%20the%20Mists/act-A-rejected.md#de-sceau-nurserie). Il reste récupérable après la mort d’[Elisabeth](Non-Player%20Characters.md#de-elisabeth-durst). Son enterrement apaise sa hantise locale ; il ne prouve pas que son âme a quitté les Brumes. Les réactions des autres personnages dépendent de sa récupération et de ses funérailles effectives.
+**Dans l’arc A.** <span style="color:orange">Son nom est gravé sur le berceau de la [chambre du bébé](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-nursemaids-suite). Sous le berceau, un doigt de sa mère porte des traces de petites dents.</span>
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst
-**Dans l’arc A.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst). Rose révèle la cache d’ambre qu’elle a vue de son vivant ; elle ignore les secrets du Temple de l’Ambre. Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
+**Dans l’arc A.** Première manifestation dans la chambre du grenier, auprès de ses restes et de ceux de [Thorn](Non-Player%20Characters.md#en-thornboldt-thorn-durst). <span style="color:orange">Rose révèle la cachette de son journal et demande aux personnages d’emporter leurs os pour les enterrer.</span> Voir la [première rencontre](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room).
 
 **Conseils d’interprétation**
 ***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les personnages.
@@ -74,7 +74,7 @@
 ***Relations.*** Rose est la sœur aînée de Thorn Durst, la demi-sœur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter Durst</a> et l’aînée des enfants d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> et de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav Durst</a>.
 <a id="en-thornboldt-thorn-durst" data-traduction="ancre"></a>
 ### Thornboldt « Thorn » Durst
-**Dans l’arc A.** Thorn apparaît au grenier avec [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst). Ses souvenirs domestiques et ses dessins complètent les indices de sa sœur sans exiger de test social. Les deux dépouilles restent distinctes pour le suivi des funérailles ; leur apaisement ne signifie pas une sortie du domaine.
+**Dans l’arc A.** Thorn apparaît au grenier avec [Rose](Non-Player%20Characters.md#en-rosavalda-rose-durst). <span style="color:orange">Il demande timidement si sa sœur et lui peuvent accompagner les personnages, puis tente de posséder l’un d’eux s’il l’y autorise.</span>
 
 **Conseils d’interprétation**
 ***Résonance.*** Thorn doit susciter la compassion par sa timidité et sa peur, et l’affection par sa joie enfantine.
@@ -96,7 +96,7 @@
 <a id="en-ismark-kolyanovich" data-traduction="ancre"></a>
 ### Ismark Kolyanovich
 **Conseils d’interprétation**
-***Résonance.*** Ismark doit flatter les personnages par l’intérêt et l’empathie sincères qu’il leur porte, susciter la compassion par sa culpabilité et son désespoir, l’affection par son désir inquiet de sortir de l’<a href="https://www.aidedd.org/dnd/monstres.php?vf=ombre">ombre</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-shadow-monstre"><sup>fiche</sup></a> de son ancêtre, et la gratitude par sa bienveillance et son aide.
+***Résonance.*** Ismark doit flatter les personnages par l’intérêt et l’empathie sincères qu’il leur porte, susciter la compassion par sa culpabilité et son désespoir, l’affection par son désir inquiet de sortir de l’ombre de son ancêtre, et la gratitude par sa bienveillance et son aide.
 
 ***Émotions.*** Ismark se sent le plus souvent soucieux, coupable, amical, mélancolique, défiant, plein d’espoir, désespéré ou reconnaissant.
 
@@ -170,12 +170,12 @@
 
 ***Motivations.*** Le père Donavich veut libérer son fils de l’emprise de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, à n’importe quel prix.
 
-***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de [Walter](Non-Player%20Characters.md#de-walter-durst) White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
+***Inspirations.*** Pour interpréter le père Donavich, inspirez-vous d’Eddard Stark (Game of Thrones), de Walter White (Breaking Bad) et de Boromir (Le Seigneur des anneaux).
 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, le père Donavich est un père endeuillé, mais fervent. Avec les personnes en qui il a confiance, Donavich se révèle être un homme brisé qui va à la dérive, perdu et désorienté faute de guide ou de but.
 
-***Moral au combat.*** Dans un combat, le père Donavich se battrait normalement pour défendre les siens et son église. Dans son état actuel, il se rendrait toutefois immédiatement, trop rongé par la culpabilité pour défendre ne serait-ce que sa propre vie.
+***Moral au combat.*** Dans un combat, le père Donavich se battrait normalement pour protéger les siens et son église. Dans son état actuel, il se rendrait toutefois immédiatement, trop rongé par la culpabilité pour défendre ne serait-ce que sa propre vie.
 
 ***Relations.*** Le père Donavich est le père de Doru et le <a href="https://www.aidedd.org/dnd/monstres.php?vf=pretre">prêtre</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-priest-monstre"><sup>fiche</sup></a> de l’église de Barovie.
 <a id="en-doru" data-traduction="ancre"></a>
@@ -200,7 +200,7 @@
 <a id="en-madam-eva" data-traduction="ancre"></a>
 #### madame Eva
 **Conseils d’interprétation**
-***Résonance.*** Madame Eva doit susciter le malaise par sa connaissance intime du passé des personnages, la gratitude par son dévouement envers leur quête, et les rassurer par l’assurance de ses prédictions.
+***Résonance.*** Madame Eva doit susciter le malaise par sa connaissance intime du passé des personnages, la gratitude par son dévouement envers leur quête, et les rassurer par la certitude de ses prédictions.
 
 ***Émotions.*** Madame Eva éprouve le plus souvent de l’amusement, de la gravité, de l’inquiétude ou de la contemplation.
 
@@ -209,9 +209,9 @@
 ***Inspirations.*** Pour interpréter Madame Eva, inspirez-vous de l’Ancien (Doctor Strange) et des Moires (Hercule).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Madame Eva semble être une vieille femme sage mais démente qui s’exprime par prophéties et énigmes. Avec les personnes en qui elle a confiance, elle se révèle être une vieille femme bienveillante, mais d’une opacité et d’une obstination exaspérantes.
+***Personnalité.*** Aux yeux du monde, Madame Eva semble être une vieille femme sage mais démente qui s’exprime par prophéties et énigmes. Avec les personnes en qui elle a confiance, elle se révèle être une femme bienveillante, mais d’une opacité et d’une obstination exaspérantes.
 
-***Moral au combat.*** Dans un combat, Madame Eva insisterait calmement pour que son adversaire cesse ses attaques. Puis, si ses aides vistani ne parvenaient pas à arrêter son assaillant, elle l’affaiblirait à l’aide du sort <a href="https://www.aidedd.org/dnd/sorts.php?vf=contamination">contamination</a> avant d’exiger sa reddition.
+***Moral au combat.*** Dans un combat, Madame Eva insisterait calmement pour que son adversaire cesse ses attaques. Puis, si ses aides vistani ne parvenaient pas à arrêter son assaillant, elle l’affaiblirait avec le sort <a href="https://www.aidedd.org/dnd/sorts.php?vf=contamination">contamination</a> avant d’exiger sa reddition.
 
 ***Relations.*** Madame Eva est la seule à savoir qu’elle est un avatar de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-seeker">la Chercheuse</a>.
 <a id="en-castle-ravenloft" data-traduction="ancre"></a>
@@ -303,7 +303,7 @@
 <a id="en-ludmilla-vilisevic" data-traduction="ancre"></a>
 ## Ludmilla Vilisevic
 **Conseils d’interprétation**
-***Résonance.*** Ludmilla doit susciter l’irritation par son refus de se laisser provoquer par les personnages (et son apparente incapacité à ressentir de la colère), le malaise par sa personnalité détachée et analytique, et la colère par sa condescendance et ses insultes élaborées.
+***Résonance.*** Ludmilla doit susciter l’irritation par son refus de se laisser provoquer par les personnages (et son apparente incapacité à s’emporter), le malaise par sa personnalité détachée et analytique, et la colère par sa condescendance et ses insultes élaborées.
 
 ***Émotions.*** Ludmilla se sent le plus souvent intriguée, agacée, pensive ou légèrement amusée.
 
@@ -380,14 +380,14 @@
 
 ***Motivations.*** Anastrasya veut écarter Volenta, Ludmilla et les personnages de la compétition pour l’affection de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, si possible en les dressant les uns contre les autres.
 
-***Inspirations.*** Pour interpréter Anastrasya, inspirez-vous de Lara Raith (*Les Dossiers Dresden*), de Margaery Tyrell (*Game of Thrones*) et d’Irène Adler (*Sherlock Holmes*)
+***Inspirations.*** Pour interpréter Anastrasya, inspirez-vous de Lara Raith (*Les Dossiers Dresden*), de Margaery Tyrell (*Game of Thrones*) et d’Irène Adler (*Sherlock Holmes*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Anastrasya est une mondaine empathique, attentionnée et charmante. Pour ceux qui la connaissent mieux, elle est une stratège rusée et impitoyable, particulièrement habile à se sortir des situations les plus délicates.
+***Personnalité.*** Aux yeux du monde, Anastrasya est une mondaine empathique, attentionnée et charmante. Pour ceux qui la connaissent mieux, c’est une stratège rusée et impitoyable, particulièrement habile à se sortir des situations les plus délicates.
 
 ***Moral au combat.*** Dans un combat, Anastrasya négocierait la paix, puis poignarderait son ennemi dans le dos dès que l’occasion se présenterait.
 
-***Relations.*** Anastrasya est la troisième plus jeune épouse de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et une ancienne <a href="https://www.aidedd.org/dnd/monstres.php?vf=noble">noble</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-noble-monstre"><sup>fiche</sup></a> de Vallaki issue d’une maison aujourd’hui éteinte.
+***Relations.*** Anastrasya est la troisième plus jeune épouse de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et une ancienne noble de Vallaki issue d’une maison aujourd’hui éteinte.
 
 
 <div class="native-profile-reference">
@@ -437,7 +437,7 @@
 
 ***Moral au combat.*** Dans un combat, Escher chercherait à fléchir son adversaire ou à le fuir. Il ne se battrait que s’il était acculé ou profondément offensé.
 
-***Relations.*** Avant de devenir l’un des compagnons de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, Escher était amoureux de Doru, son ancien meilleur ami. Il est aujourd’hui l’un des compagnons de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, sans lui être officiellement marié, et occupe un rang inférieur à sa cour.
+***Relations.*** Avant de rejoindre l’entourage de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, Escher était amoureux de Doru, son ancien meilleur ami. Il est aujourd’hui l’un des compagnons de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, sans lui être officiellement marié, et occupe un rang inférieur à sa cour.
 <a id="en-sasha-ivliskova" data-traduction="ancre"></a>
 ## Sasha Ivliskova
 **Conseils d’interprétation**
@@ -447,7 +447,7 @@
 
 ***Motivations.*** Sasha veut éviter la colère de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, empêcher d’autres <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a> vulnérables de tomber sous son emprise et se libérer de la malédiction vampirique de la non-vie.
 
-***Inspirations.*** Pour interpréter Sasha, inspirez-vous de Sansa Stark (*Game of Thrones)*), de Katniss Everdeen (*Hunger Games*) et d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elsa">Elsa</a> (*La Reine des neiges*).
+***Inspirations.*** Pour interpréter Sasha, inspirez-vous de Sansa Stark (*Game of Thrones*), de Katniss Everdeen (*Hunger Games*) et d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elsa">Elsa</a> (*La Reine des neiges*).
 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, Sasha est une <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampire</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-monstre"><sup>fiche</sup></a> silencieuse et maussade qui s’intéresse peu aux autres. Avec les personnes en qui elle a confiance, Sasha se révèle être une âme chagrine et rongée par la culpabilité, qui cherche désespérément à échapper à son existence monstrueuse.
@@ -465,7 +465,7 @@
 
 ***Émotions.*** Rahadin se sent le plus souvent calme, dédaigneux, satisfait, ennuyé ou irrité.
 
-***Motivations.*** Rahadin veut servir la volonté de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> en fidèle et loyal serviteur, quel qu’en soit le prix pour lui-même ou pour les autres.
+***Motivations.*** Rahadin veut accomplir la volonté de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> en fidèle et loyal serviteur, quel qu’en soit le prix pour lui-même ou pour les autres.
 
 ***Inspirations.*** Pour interpréter Rahadin, inspirez-vous de Tywin Lannister (*Game of Thrones*), de Severus Rogue (*Harry Potter*) et de l’agent Smith (*Matrix*).
 
@@ -549,7 +549,7 @@
 <a id="en-cyrus-belview" data-traduction="ancre"></a>
 ## Cyrus Belview
 **Conseils d’interprétation**
-***Résonance.*** Cyrus doit susciter l’affection par ses efforts sincères pour se rendre utile malgré ses handicaps physiques et sa mauvaise mémoire, l’amusement par sa mauvaise humeur et ses diatribes étrangement péremptoires, parfois complotistes, et le malaise par son incapacité à respecter l’espace personnel d’autrui.
+***Résonance.*** Cyrus doit susciter l’affection par ses efforts sincères pour se rendre utile malgré ses handicaps physiques et sa mémoire défaillante, l’amusement par sa mauvaise humeur et ses diatribes étrangement péremptoires, parfois complotistes, et le malaise par son incapacité à respecter l’espace personnel d’autrui.
 
 ***Émotions.*** Cyrus se sent le plus souvent curieux, intrigué, déterminé, agité, impatient ou sceptique.
 
@@ -558,7 +558,7 @@
 ***Inspirations.*** Pour interpréter Cyrus, inspirez-vous d’Ebenezer Scrooge (*Un chant de Noël*), d’Abraham Simpson (*Les Simpson*) et du grand maestre Pycelle (*Game of Thrones*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Cyrus est un vieux majordome chancelant qui affectionne les diatribes complotistes. Avec les personnes en qui il a confiance, et dans ses moments de lucidité, Cyrus se révèle être un vieil homme triste, depuis longtemps résigné à croire sa famille à jamais damnée pour les péchés de ses ancêtres.
+***Personnalité.*** Aux yeux du monde, Cyrus est un vieux majordome chancelant qui affectionne les diatribes complotistes. Avec les personnes en qui il a confiance, et dans ses moments de lucidité, Cyrus se révèle être un homme triste, depuis longtemps résigné à croire sa famille à jamais damnée pour les péchés de ses ancêtres.
 
 ***Moral au combat.*** Dans un combat, Cyrus se recroquevillerait dans un coin en brandissant un objet à portée de main comme arme improvisée, mais se rendrait immédiatement s’il était réellement blessé.
 
@@ -629,9 +629,9 @@
  ***Inspirations.*** Mémé Ciredutemps (*Les Annales du Disque-monde*), Minerva McGonagall (*Harry Potter*), docteure Kureha (*One Piece*)
  
 **Informations sur le personnage**
- ***Personnalité.*** Aux yeux du monde, Morgantha est une vieille dame joyeuse qui aime les commérages et se plaindre. Seules Morgantha et ses filles savent qu’elle est en réalité la matriarche au cœur noir d’un convent de <a href="https://www.aidedd.org/dnd/monstres.php?vf=guenaude-nocturne">guenaudes nocturnes</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-night-hag-monstre"><sup>fiche</sup></a>.
+ ***Personnalité.*** Aux yeux du monde, Morgantha est une vieille dame joyeuse qui aime cancaner et se plaindre. Seules Morgantha et ses filles savent qu’elle est en réalité la matriarche au cœur noir d’un convent de <a href="https://www.aidedd.org/dnd/monstres.php?vf=guenaude-nocturne">guenaudes nocturnes</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-night-hag-monstre"><sup>fiche</sup></a>.
 
- ***Moral au combat.*** Dans un combat, Morgantha tenterait de négocier la paix, puis utiliserait son aptitude ***forme éthérée*** pour s’enfuir dans le <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">plan Éthéré</a> si la négociation paraissait vaine.
+ ***Moral au combat.*** Dans un combat, Morgantha tenterait de négocier la paix, puis utiliserait son aptitude ***forme éthérée*** pour s’enfuir dans le <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">plan Éthéré</a> si les pourparlers paraissaient vains.
 
  ***Relations.*** Morgantha est la mère des **<a href="https://www.aidedd.org/dnd/monstres.php?vf=guenaude-nocturne">guenaudes nocturnes</a>** <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-bella-sunbane">Bella</a> et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-offalia-wormwiggle">Offalia</a> et la fournisseuse de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-dream-pastry">pâtisseries oniriques</a> du réfugié barovien [Franz](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-h3b-franzs-tent).
  
@@ -682,7 +682,7 @@
 ***Inspirations.*** Pour interpréter Urwin, inspirez-vous de Vander (Arcane), de Greg Universe (Steven Universe) et de Linda Belcher (Bob’s Burgers).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Urwin est une figure paternelle bienveillante, un père de famille et un hôte accueillant au regard toujours pétillant. Avec les personnes en qui il a confiance, Urwin se révèle être un maître-espion et un tacticien rusé qui nourrit un immense espoir pour l’avenir de la Barovie. Au fond de lui, Urwin craint pour l’avenir de ses fils dans un domaine gouverné par <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>.
+***Personnalité.*** Aux yeux du monde, Urwin est une figure paternelle bienveillante, un père de famille et un hôte accueillant au regard toujours pétillant. Avec les personnes en qui il a confiance, Urwin se révèle être un maître-espion et un tacticien rusé qui nourrit un immense espoir pour l’avenir de la Barovie. Au fond de lui, Urwin craint pour ses fils dans un domaine gouverné par <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>.
 
 ***Moral au combat.*** Dans un combat, Urwin tenterait immédiatement de désamorcer la situation et s’enfuirait en cas d’échec, après avoir toutefois mis les autres à l’abri du danger.
 
@@ -785,7 +785,7 @@
 ***Inspirations.*** Pour interpréter Muriel, inspirez-vous d’Améthyste (*Steven Universe*), de Sokka (*Avatar : Le Dernier Maître de l’air*) et de Peter Parker (*Spider-Man*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Muriel est une jeune femme joyeuse, quoique parfois étourdie. Avec les personnes en qui elle a confiance, Muriel se révèle être une agente de terrain déterminée des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a>, dotée d’un grand sens de la justice et d’une indépendance farouche. Au fond d’elle-même, Muriel pleure toujours la mort de son fiancé, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric Martikov</a>, et se demande si elle réparera un jour ce que sa mort a brisé en elle.
+***Personnalité.*** Aux yeux du monde, Muriel est une jeune femme joyeuse, quoique parfois étourdie. Avec les personnes en qui elle a confiance, Muriel se révèle être une agente de terrain déterminée des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a>, dotée d’un grand sens de la justice et d’une indépendance farouche. Au fond d’elle-même, Muriel pleure toujours la mort de son fiancé, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric Martikov</a>, et se demande si elle réparera un jour ce que sa disparition a brisé en elle.
 
 ***Moral au combat.*** Dans un combat, Muriel tirerait volontiers son <a href="https://www.aidedd.org/regles/equipement/armes/">épée courte</a> ou son arbalète en défiant son adversaire de frapper le premier. Elle ne fuirait que si sa régénération était bloquée ou dépassée par les dégâts subis.
 
@@ -863,7 +863,7 @@
 
 ***Moral au combat.*** Dans un combat, Vargas ordonnerait à ses chiens, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-claw">Griffe</a> et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-fang">Croc</a>, ainsi qu’à Izek Strazni et aux <a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">gardes</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-guard-monstre"><sup>fiche</sup></a> présents de se saisir de tous ceux qui s’opposent à lui. Privé de ses défenseurs, Vargas tenterait de fuir ou, si la fuite était impossible, ramperait pitoyablement aux pieds de son attaquant en implorant sa clémence.
 
-***Relations.*** Vargas, le bourgmestre de Vallaki, est le père de Victor Vallakovich, l’époux de la <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baroness-lydia-petrovna">baronne Lydia Petrovna</a>, le beau-frère du père Lucian Petrovich et le fils du défunt <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baron-valentin-vallakovich">baron Valentin Vallakovich</a>. Il est également l’employeur et le « père » adoptif d’Izek Strazni, son capitaine de la <a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">garde</a> et principal homme de main.
+***Relations.*** Vargas, le bourgmestre de Vallaki, est le père de Victor Vallakovich, l’époux de la <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baroness-lydia-petrovna">baronne Lydia Petrovna</a>, le beau-frère du père Lucian Petrovich et le fils du défunt <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baron-valentin-vallakovich">baron Valentin Vallakovich</a>. Il est également l’employeur et le « père » adoptif d’Izek Strazni, son capitaine de la garde et principal homme de main.
 <a id="en-izek-strazni" data-traduction="ancre"></a>
 ### Izek Strazni
 **Conseils d’interprétation**
@@ -880,7 +880,7 @@
 
 ***Moral au combat.*** Dans un combat, Izek tirerait volontiers sa <a href="https://www.aidedd.org/regles/equipement/armes/">hache d’armes</a> argentée et se battrait jusqu’à la mort.
 
-***Relations.*** Izek est le « fils » adoptif du baron Vargas Vallakovich, le capitaine de la <a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">garde</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-guard-monstre"><sup>fiche</sup></a> de Vallaki, un client régulier du fabricant de jouets Gadof Blinsky et, à leur insu à tous les deux, le frère biologique d’Ireena Kolyana.
+***Relations.*** Izek est le « fils » adoptif du baron Vargas Vallakovich, le capitaine de la garde de Vallaki, un client régulier du fabricant de jouets Gadof Blinsky et, à leur insu à tous les deux, le frère biologique d’Ireena Kolyana.
 
 <div class="native-profile-reference">
 <a id="en-izek-strazni-1st-form" data-traduction="ancre"></a>
@@ -918,7 +918,7 @@
 
 <a id="en-victor-vallakovich" data-traduction="ancre"></a>
 ### Victor Vallakovich
-Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de Victor contient les sorts _communication à distance_ et _peur_, mais ne contient pas _délivrance des malédictions._
+Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de Victor contient les sorts _communication à distance_ et _peur_, mais pas _délivrance des malédictions._
 
 **Conseils d’interprétation**
 ***Résonance.*** Victor doit agacer les personnages par sa méfiance et sa condescendance, susciter leur compassion par son anxiété, sa frustration et son désespoir, et leur affection par sa détermination obstinée à guérir <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella</a>.
@@ -930,7 +930,7 @@ Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de 
 ***Inspirations.*** Pour interpréter Victor, inspirez-vous de Jonathan Byers (*Stranger Things*), du prince Zuko (*Avatar : Le Dernier Maître de l’air*), de Raven (*Teen Titans*) et de Perrin Aybara (*La Roue du temps*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Victor est un jeune homme discret, maussade et isolé, maladroit et dépourvu d’aisance sociale. Avec les personnes en qui il a confiance, Victor se révèle être un ami dévoué et compatissant, doté d’une étincelle de génie et têtu comme une <a href="https://www.aidedd.org/dnd/monstres.php?vf=mule">mule</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-mule-monstre"><sup>fiche</sup></a>. Lui seul sait qu’il craint secrètement de perdre l’amitié de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella</a>, tant à cause du mal causé par son *<a href="https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-teleportation">cercle de téléportation</a>* que du temps qu’elle a passé avec <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten">Erasmus van Richten</a> dans le <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">plan Éthéré</a>.
+***Personnalité.*** Aux yeux du monde, Victor est un jeune homme discret, maussade et isolé, maladroit et dépourvu d’aisance sociale. Avec les personnes en qui il a confiance, Victor se révèle être un ami dévoué et compatissant, doté d’une étincelle de génie et têtu comme une mule. Lui seul sait qu’il craint secrètement de perdre l’amitié de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella</a>, tant à cause du mal causé par son *<a href="https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-teleportation">cercle de téléportation</a>* que du temps qu’elle a passé avec <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten">Erasmus van Richten</a> dans le <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">plan Éthéré</a>.
 
 ***Moral au combat.*** Dans un combat, Victor tenterait de fuir, mais recourrait à ses sorts les plus dangereux avec une imprudence désordonnée de débutant s’il était acculé ou défendait ses amis ou sa famille.
 
@@ -988,14 +988,14 @@ Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, Arrigal est l’homme de main et le conseiller de Luvash : un homme prudent, enjoué et curieux qui préfère se tenir à l’écart des problèmes d’autrui. Avec les personnes en qui il a confiance, Arrigal se révèle être un oncle dévoué, un défenseur acharné des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a> et un duelliste aux nombreux talents meurtriers. Lui seul sait qu’il sert fidèlement <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a> comme <a href="https://www.aidedd.org/dnd/monstres.php?vf=espion">espion</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-spy-monstre"><sup>fiche</sup></a> et qu’il est prêt à aller très loin pour accomplir la volonté du <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampire</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-monstre"><sup>fiche</sup></a> en échange de la prospérité de sa famille et de son peuple.
 
-***Moral au combat.*** Dans un combat, Arrigal agirait avec une ruse impitoyable, reculant au besoin avant de frapper depuis les <a href="https://www.aidedd.org/dnd/monstres.php?vf=ombre">ombres</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-shadow-monstre"><sup>fiche</sup></a> et usant de tromperie, de manipulation ou de coups déloyaux pour obtenir l’avantage.
+***Moral au combat.*** Dans un combat, Arrigal agirait avec une ruse impitoyable, reculant au besoin avant de frapper depuis les ombres et usant de tromperie, de manipulation ou de coups déloyaux pour obtenir l’avantage.
 
 ***Relations.*** Arrigal est le frère cadet de Luvash et l’oncle d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a>. Il espionne également pour <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et remet des rapports réguliers à Anastrasya, l’une de ses épouses vampiriques.
 <a id="en-kasimir-velikov" data-traduction="ancre"></a>
 ### Kasimir Velikov
 
 **Conseils d’interprétation**
-***Résonance.*** Kasimir doit susciter la gratitude des personnages par sa compétence et son désir sincère de les aider, les vexer légèrement par sa condescendance, éveiller une légère méfiance par sa réserve et susciter leur compassion par sa tristesse face au sort de son peuple.
+***Résonance.*** Kasimir doit susciter la gratitude des personnages par sa compétence et son désir sincère de les aider, les vexer quelque peu par sa condescendance, éveiller une légère méfiance par sa réserve et susciter leur compassion par sa tristesse face au sort de son peuple.
 
 ***Émotions.*** Kasimir se sent le plus souvent curieux, frustré, méfiant, enthousiaste, mélancolique, nostalgique, grave ou plein de regrets.
 
@@ -1030,7 +1030,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 ***Inspirations.*** Pour interpréter dame Wachter, inspirez-vous de Moiraine Damodred (La Roue du temps), d’Olenna Tyrell (Game of Thrones), de Minerva McGonagall (Harry Potter) et de dame Jessica (Dune).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, dame Wachter est une <a href="https://www.aidedd.org/dnd/monstres.php?vf=noble">noble</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-noble-monstre"><sup>fiche</sup></a> froide, rusée et courtoise. Avec les personnes en qui elle a confiance, dame Wachter se révèle être une défenseuse mélancolique, pince-sans-rire, mais farouchement déterminée de ce qu’elle estime être le bien de Vallaki. Elle seule mesure la profondeur de son amour pour ses enfants et l’étendue de sa foi et de ses espoirs brisés.
+***Personnalité.*** Aux yeux du monde, dame Wachter est une noble froide, rusée et courtoise. Avec les personnes en qui elle a confiance, dame Wachter se révèle être une défenseuse mélancolique, pince-sans-rire, mais farouchement déterminée de ce qu’elle estime être le bien de Vallaki. Elle seule mesure la profondeur de son amour pour ses enfants et l’étendue de sa foi et de ses espoirs brisés.
 
 ***Moral au combat.*** Dans un combat, dame Wachter tenterait de négocier ou de fuir, cherchant par tous les moyens à mettre fin aux hostilités, y compris en se rendant sans condition. Si cela était nécessaire pour sauver sa vie ou celle de ses enfants, elle se battrait toutefois jusqu’à la mort avec une âpre férocité.
 
@@ -1083,7 +1083,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 ***Inspirations.*** Pour interpréter Dmitri, inspirez-vous d’Eddard Stark (*Game of Thrones*), du roi Théoden (*Le Seigneur des anneaux*) et de Stoïk la Brute (*Dragons*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Dmitri est un dirigeant austère mais chaleureux. Avec les personnes en qui il a confiance, Dmitri se révèle être un père, un époux et un ami chaleureux et aimant. Lui seul mesure l’étendue de son chagrin, de son inquiétude et de sa culpabilité concernant la malédiction de sa famille et le sort de ses enfants et de son épouse.
+***Personnalité.*** Aux yeux du monde, Dmitri est un dirigeant austère mais chaleureux. Avec les personnes en qui il a confiance, Dmitri se révèle être un père, un époux et un ami tendre et aimant. Lui seul mesure l’étendue de son chagrin, de son inquiétude et de sa culpabilité concernant la malédiction de sa famille et le sort de ses enfants et de son épouse.
 
 ***Moral au combat.*** Dans un combat, Dmitri n’agirait que pour se protéger ou défendre ses proches. Il commencerait par avertir son adversaire de renoncer, puis se battrait farouchement jusqu’à sa reddition ou sa défaite.
 
@@ -1101,7 +1101,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 
 ***Motivations.*** Ezmerelda veut sauver les innocents des créatures qui rôdent dans la nuit, échapper au sombre héritage de ses parents et prouver qu’elle est aussi compétente que le docteur van Richten dans la chasse aux <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampires</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-monstre"><sup>fiche</sup></a>.
 
-***Inspirations.*** Le Dixième Docteur (*Doctor Who*), le capitaine Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy contre les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampires</a>*), Malcolm Reynolds (*Firefly*)
+***Inspirations.*** Le Dixième Docteur (*Doctor Who*), le capitaine Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy contre les vampires*), Malcolm Reynolds (*Firefly*)
 
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, Ezmerelda est une chasseuse de monstres professionnelle, distinguée et pleine d’assurance. Avec les personnes en qui elle a confiance, Ezmerelda se révèle être une amie fougueuse, prompte à plaisanter et d’une loyauté indéfectible. Au fond d’elle-même, elle se demande si le docteur van Richten ne l’estimait pas assez compétente ou si les crimes de sa famille contre lui suffisent à entacher son héritage à jamais.
@@ -1139,7 +1139,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, l’Abbé est un saint homme et un « scientifique » serein, mais d’un détachement inhumain. Lui seul sait qu’il est Ithuriel, un ange du <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-morninglord">Seigneur de l’Aube</a> envoyé pour honorer la mémoire de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a>.
 
-***Moral au combat.*** Dans un combat, l’Abbé révélerait sa forme divine, puis ordonnerait à ses ennemis de déposer leurs armes et de se rendre. S’ils n’obéissaient pas, il les attaquerait sans merci pour écraser toute résistance jusqu’à ce qu’ils se rendent ou prennent la fuite.
+***Moral au combat.*** Dans un combat, l’Abbé révélerait sa forme divine, puis ordonnerait à ses ennemis de déposer leurs armes et de se rendre. S’ils n’obéissaient pas, il les attaquerait sans merci pour écraser toute résistance jusqu’à ce qu’ils capitulent ou prennent la fuite.
 
 ***Relations.*** L’Abbé, un ange du <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-morninglord">Seigneur de l’Aube</a> autrefois nommé Ithuriel, est le maître de l’abbaye Sainte-Markovia, notamment des **hybrides animaux** <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-otto-belview">Otto</a>, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-zygfrek-belview">Zygfrek</a> et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-clovin-belview">Clovin Belview</a>. Il est également le créateur de Vasilka, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=golem-de-chair">golem de chair</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-flesh-golem-monstre"><sup>fiche</sup></a>**, et celui qui a ressuscité <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-kala-krezkova">Kala Krezkova</a>.
 
@@ -1184,7 +1184,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 
 ***Émotions.*** Ithuriel se sent le plus souvent pensif, chagrin, joyeux, coupable, honteux, inquiet, défiant, audacieux ou serein.
 
-***Motivations.*** Ithuriel veut réparer le mal qu’il a fait à Vasilka, aux Belview, aux Krezkov et aux personnages, et défendre l’abbaye et le village de Krezk contre ceux qui leur voudraient du mal.
+***Motivations.*** Ithuriel veut réparer le mal qu’il a fait à Vasilka, aux Belview, aux Krezkov et aux personnages, et défendre l’abbaye et le village de Krezk contre ceux qui les menaceraient.
 
 ***Inspirations.*** Pour interpréter Ithuriel, inspirez-vous de Zuko (*Avatar : Le Dernier Maître de l’air*), de Neji Hyûga (*Naruto*) et du père Forthill (*Les Dossiers Dresden*).
 
@@ -1217,12 +1217,12 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 # Le Magicien des Vins
 Pour interpréter la famille Martikov, gardez les informations suivantes à l’esprit :
 
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a>** a deux ans de plus qu’Urwin et se montre généralement discret et observateur, mais n’hésite pas à prendre les choses en main si nécessaire. Il ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin et estime qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort en défendant ses convictions, et que sa mort mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a> doit flatter les personnages et susciter leur gratitude. Il se sent le plus souvent pensif, déterminé ou mélancolique.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a>** a deux ans de plus qu’Urwin et se montre généralement discret et observateur, mais n’hésite pas à prendre les choses en main si nécessaire. Il ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin et estime qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort en défendant ses convictions, et que sa fin mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a> doit flatter les personnages et susciter leur gratitude. Il se sent le plus souvent pensif, déterminé ou mélancolique.
 * **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a>** a dix ans de moins qu’Urwin et est le frère jumeau de feu <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric Martikov</a>. Il se montre généralement vif, sarcastique et colérique. Il estime que <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> a eu tort de mépriser Urwin et que le vol de la troisième gemme enchantée n’était probablement pas la faute d’Urwin. Il affirme volontiers qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort pour rien et que toute la famille se porterait mieux s’il n’était jamais allé au château Ravenloft participer à la rébellion de Doru. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> se sent toutefois profondément trahi qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> soit parti affronter <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> sans lui. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> doit susciter l’irritation, la vexation, la compassion et l’affection des personnages. Il se sent le plus souvent frustré, agacé, mélancolique, en colère, déterminé ou amusé.
 * **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a>** a cinq ans de plus qu’Urwin. Elle ne lui reproche pas le vol de la troisième gemme enchantée, mais partage l’avis de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> selon lequel Urwin s’est probablement trompé sur ce qu’il a vu. Elle estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est une tragédie, mais qu’il était un membre adulte des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a> et que son choix mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a> doit réconforter les personnages et susciter leur gratitude. Elle se sent le plus souvent joyeuse ou déterminée.
 * **Dag**, qui est entré dans la famille Martikov par mariage, ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin, mais partage l’avis de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a> : la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est une tragédie, mais son choix mérite le respect. Il se sent le plus souvent amusé, pensif, joueur ou déterminé et doit susciter la gratitude, l’amusement et l’affection des personnages.
 * **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-claudiu">Claudiu</a>** se moque de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin. Il estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> prouve clairement que résister à <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> est sans espoir et que tous ceux qui s’y essaient sont voués à l’échec. Il se sent le plus souvent austère, ennuyé, agacé, frustré ou mélancolique et doit susciter l’irritation, la vexation et la compassion des personnages.
-* **Martin et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-viggo">Viggo</a>** ignorent tout de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin, qu’ils n’ont jamais rencontré. Ils ne comprennent pas toute la nature de la révolte d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> contre le château Ravenloft, mais en savent assez pour comprendre qu’il y est mort. Ils se sentent le plus souvent joueurs, ennuyés, craintifs, intrigués ou enthousiastes et doivent flatter les personnages et susciter leur amusement et leur affection.
+* **Martin et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-viggo">Viggo</a>** ignorent tout de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin, qu’ils n’ont jamais rencontré. Ils ne saisissent pas toute la nature de la révolte d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> contre le château Ravenloft, mais en savent assez pour comprendre qu’il y est mort. Ils se sentent le plus souvent joueurs, ennuyés, craintifs, intrigués ou enthousiastes et doivent flatter les personnages et susciter leur amusement et leur affection.
 * **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a>** est le patriarche de la famille Martikov et le veuf de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mirabel">Mirabel</a> Oraonova. En public, il affirme qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> était un imbécile insubordonné et désobéissant pour avoir refusé son ordre de rester à l’écart du château Ravenloft. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> est brisé à l’idée que les derniers mots qu’il a adressés à son fils avant sa mort étaient : « *Et ne reviens pas !* » <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> se sent le plus souvent agacé, irrité, satisfait ou grognon et doit susciter la vexation, la gratitude et la compassion des personnages.
 
 <a id="en-the-werewolf-den" data-traduction="ancre"></a>
@@ -1239,11 +1239,11 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 ***Inspirations.*** Pour interpréter Bianca, inspirez-vous de Yennefer de Vengerberg (*The Witcher*), de Malicia (*X-Men*) et de la princesse Amidala (*Star Wars*).
 
 **Informations sur le personnage**
-***Personnalité.*** Aux yeux du monde, Bianca est une femme exaltée, quoique étonnamment raffinée. Avec les personnes en qui elle a confiance, Bianca se révèle être anxieuse et désespérée de ramener Kiril du bord de la folie. Au fond d’elle-même, elle se demande si elle regrette de l’avoir rejoint en devenant une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">louve-garou</a> <a href="Bestiary.md#en-werewolf"><sup>fiche</sup></a>**.
+***Personnalité.*** Aux yeux du monde, Bianca est une femme exaltée, quoique étonnamment raffinée. Avec les personnes en qui elle a confiance, Bianca se révèle anxieuse et cherche désespérément à ramener Kiril du bord de la folie. Au fond d’elle-même, elle se demande si elle regrette de l’avoir rejoint en devenant une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">louve-garou</a> <a href="Bestiary.md#en-werewolf"><sup>fiche</sup></a>**.
 
 ***Moral au combat.*** Dans un combat, Bianca tenterait de négocier ou de fuir, mais se battrait sauvagement si elle était acculée.
 
-***Relations.*** Bianca est la compagne et l’épouse de Kiril, ainsi que la fille déshéritée d’une famille <a href="https://www.aidedd.org/dnd/monstres.php?vf=noble">noble</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-noble-monstre"><sup>fiche</sup></a> extérieure à la Barovie.
+***Relations.*** Bianca est la compagne et l’épouse de Kiril, ainsi que la fille déshéritée d’une famille noble extérieure à la Barovie.
 
 <a id="en-kiril-stoyanovich" data-traduction="ancre"></a>
 ## Kiril Stoyanovich
@@ -1300,7 +1300,7 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 
 <a id="en-brother-marek" data-traduction="ancre"></a>
 ## Frère Marek
-Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférente d’un homme. Sa jovialité d’autrefois s’est desséchée en un cynisme mordant et sarcastique, et il voit le sort de l’Ordre comme la damnation méritée par ses échecs. Il n’est toutefois pas dénué de compassion et ne souhaite sincèrement que le meilleur aux personnages, pourvu qu’ils renoncent à leurs efforts insensés pour réveiller les esprits d’Argynvostholt. L’esprit de frère Marek doit irriter et vexer les personnages tout en suscitant leur compassion. Il se sent le plus souvent mélancolique, agacé, sceptique, amer, résigné, perplexe ou désapprobateur.
+Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférente d’un homme. Sa jovialité d’autrefois s’est desséchée en un cynisme mordant et sarcastique, et il voit le sort de l’Ordre comme la damnation méritée par ses échecs. Il n’est toutefois pas dénué d’empathie et ne souhaite sincèrement que le meilleur aux personnages, pourvu qu’ils renoncent à leurs efforts insensés pour réveiller les esprits d’Argynvostholt. L’esprit de frère Marek doit irriter et vexer les personnages tout en suscitant leur compassion. Il se sent le plus souvent mélancolique, agacé, sceptique, amer, résigné, perplexe ou désapprobateur.
 
 <a id="en-sir-godfrey-gwilym" data-traduction="ancre"></a>
 ## messire Godfrey Gwilym
@@ -1336,7 +1336,7 @@ Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférent
 
 ***Moral au combat.*** Dans un combat, Vladimir prendrait volontiers les armes contre quiconque l’insulterait, lui désobéirait ou le menacerait.
 
-***Relations.*** Vladimir est le commandant de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-order-of-the-silver-dragon">ordre du Dragon d’argent</a>, la source de la non-vie des autres <a href="https://www.aidedd.org/dnd/monstres.php?vf=revenant">revenants</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-revenant-monstre"><sup>fiche</sup></a> par le serment qu’ils lui ont prêté, et l’époux de messire Godfrey Gwilym, dont il a oublié la relation avec lui.
+***Relations.*** Vladimir est le commandant de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-order-of-the-silver-dragon">ordre du Dragon d’argent</a>, la source de la non-vie des autres <a href="https://www.aidedd.org/dnd/monstres.php?vf=revenant">revenants</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-revenant-monstre"><sup>fiche</sup></a> par le serment qu’ils lui ont prêté, et l’époux de messire Godfrey Gwilym, ce qu’il a oublié.
 
 
 <div class="native-profile-reference">

@@ -5,7 +5,7 @@ Considérez *La Malédiction de <a href="../Appendices/Index%20des%20personnages
 > [!warning]+ **Une toute nouvelle Barovie**
 > *La Malédiction de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> : Reloaded* est conçu pour remplacer entièrement l'aventure originale, *La Malédiction de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>*, dont il ne reprend le contenu que par renvoi.
 > 
-> Par exemple, si ce guide indique : « Cette zone correspond pour l'essentiel à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », ou « Les personnages passent par <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », cela signifie que vous devez utiliser tout le contenu de cette section du <a href="https://www.aidedd.org/regles/equipement/materiel/">livre</a> original, **sauf lorsque le présent guide le contredit ou le remplace.**
+> Par exemple, si ce guide indique : « Cette zone correspond pour l'essentiel à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », ou « Les personnages passent par <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », cela signifie que vous devez utiliser tout le contenu de cette section du livre original, **sauf lorsque le présent guide le contredit ou le remplace.**
 > 
 > Si ce guide ne fait pas référence à un élément particulier de l'aventure originale, comme une rencontre aléatoire ou un détail de l'univers, **considérez qu'il n'existe pas.**
 
@@ -16,7 +16,7 @@ Considérez *La Malédiction de <a href="../Appendices/Index%20des%20personnages
 > [!info]+ **Pas de panique**
 > Contrairement à la plupart des aventures, ce guide n'a pas besoin d'être lu en entier avant de commencer à jouer. Vous n'avez même pas besoin de lire l'aventure originale, sauf lorsque le guide y renvoie.
 > 
-> Ce guide a été rédigé de façon à rendre chaque scène **autonome**. Chacune contient donc toutes les informations nécessaires pour la mener, sans qu'il soit nécessaire de consulter les scènes à venir.
+> Ce guide a été rédigé de façon à rendre chaque scène **autonome**. Chacune contient donc toutes les informations nécessaires pour la mener, sans avoir à consulter les scènes à venir.
 > 
 > Bien sûr, vous pourrez donner davantage de profondeur et de sens à ces scènes en lisant à l'avance la suite du guide et l'aventure originale. Toutefois, **si vous préparez simplement le début de la campagne et disposez de peu de temps**, il vous suffit de lire [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md), [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md), [Arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) et [Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) avant de commencer.
 > 
@@ -49,7 +49,7 @@ Au fil de ce guide, vous rencontrerez plusieurs types d'encadrés dépliables, q
 > Un encadré d'**avertissement** attire votre attention sur des informations importantes pour vous aider à éviter les pièges et les erreurs courantes.
 
 > [!lore] **Encadrés de contexte**
-> Un encadré de **contexte** apporte ou rappelle des informations complémentaires sur le contexte d'une scène, d'un chapitre ou d'un arc.
+> Un encadré de **contexte** apporte ou rappelle des informations complémentaires sur l'arrière-plan d'une scène, d'un chapitre ou d'un arc.
 
 > [!abstract] **Encadrés narratifs**
 > Un encadré **narratif** fournit des informations supplémentaires sur une voie facultative que les joueurs pourraient emprunter dans une scène ou une zone.
