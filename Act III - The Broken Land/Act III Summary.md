@@ -1,4 +1,4 @@
-Cet acte commence le matin suivant la pleine lune du rituel de [Stella](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter), le 9 Neyavr dans le calendrier de référence, même si les PJ sont arrivés trop tard pour ce rituel. Ils reçoivent deux invitations selon les déclencheurs et les conditions décrits ci-dessous.
+Dans cet acte, qui commence le matin suivant la première pleine lune que les PJ ont passée à Vallaki, les PJ reçoivent deux invitations.
 
 La première, un appel à l’aide d’<a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin Martikov</a>, leur demande de se rendre au domaine viticole du Magicien des Vins, à l’ouest, pour enquêter sur une mystérieuse pénurie de vin dans [l’arc J : La gemme volée](Arc%20J%20-%20The%20Stolen%20Gem.md).
 
@@ -12,7 +12,7 @@ Ce faisant, ils trouveront plusieurs raisons de se rendre au château Ravenloft 
 
 La dernière nuit avant la nouvelle lune, les PJ peuvent dîner avec <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a> et les membres de sa cour dans [l’arc O : Dîner avec le Djavo](Arc%20O%20-%20Dinner%20with%20the%20Devil.md). Ils y apprendront que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> sera absent du château la nuit suivante, ce qui leur offre l’occasion idéale de s’y infiltrer dans [l’arc P : Cambriolage à Ravenloft](Arc%20P%20-%20Ravenloft%20Heist.md). Une fois ce coup accompli, les PJ doivent retourner dans la vallée occidentale pour purifier l’âme de <a href="../Appendices/Non-Player%20Characters.md#en-the-abbot">l’Abbé</a>, vaincre le **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>** <a href="../Appendices/Non-Player%20Characters.md#en-kiril-stoyanovich">Kiril Stoyanovich</a> et rallumer le phare d’Argynvostholt.
 
-Cet acte se termine au crépuscule de la première nuit suivant l’infiltration des PJ au château Ravenloft dans [l’arc P : Cambriolage à Ravenloft](Arc%20P%20-%20Ravenloft%20Heist.md). Ils peuvent toutefois encore finir les arcs inachevés de cet acte après le début de l’acte IV, à condition, évidemment, qu’il soit toujours possible de les mener à bien.
+Cet acte se termine au crépuscule de la première nuit suivant l’infiltration des PJ au château Ravenloft dans [l’arc P : Cambriolage à Ravenloft](Arc%20P%20-%20Ravenloft%20Heist.md). Ils peuvent toutefois encore finir les arcs inachevés de cet acte après le début de l’acte IV, à condition, bien sûr, qu’il soit toujours possible de les mener à bien.
 <a id="en-milestones" data-traduction="ancre"></a>
 # Jalons
 Les PJ commencent cet acte au niveau 5 et devraient le terminer au niveau 8. Ils gagnent des PX de jalon chaque fois qu’ils accomplissent l’un des objectifs suivants :
@@ -37,12 +37,12 @@ Les PJ commencent cet acte au niveau 5 et devraient le terminer au niveau 8. Ils
 * allumer le phare d’Argynvostholt (3,000 PX)
 <a id="en-timeline" data-traduction="ancre"></a>
 # Chronologie
-Les dates du tableau et des parcours d’exemple suivent le [calendrier installé](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md#de-calendrier-installe) : pleine lune le 8 Neyavr, dîner le 14 et nouvelle lune le 15 dans la référence. Un autre calendrier préparé en amont conserve les intervalles lunaires ; un retard en cours de partie ne déplace ni une lune, ni une invitation déjà reçue, ni un fait passé connu. Les quêtes deviennent disponibles et se résolvent selon leurs événements réellement survenus. (🟢 indique un jour où la quête reste disponible, 🔶 un jour où un événement important se produit, 🟥 la date limite d’une quête et ❌ un jour où la quête est indisponible.)
+Les quêtes de l’acte III deviennent disponibles et se résolvent selon le tableau ci-dessous. (🟢 indique un jour où la quête reste disponible, 🔶 un jour où un événement important se produit, 🟥 la date limite d’une quête et ❌ un jour où la quête est indisponible.)
 
 | Arc \ Jour de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neyavr">Neyavr</a>      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J : La gemme volée        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K : L’abbaye déchue      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  |
+| K : L’abbaye déchue      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | L : L’antre des loups     | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | M : Le manoir du dragon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | N : Récits de Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |

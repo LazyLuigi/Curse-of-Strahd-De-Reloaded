@@ -1,18 +1,5 @@
 Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. Quand plusieurs rencontres possèdent leur propre profil, choisissez la version de l’arc concerné. Les deux profils conservés dans cette annexe disposent également d’un bouton **Ouvrir la fiche**.
 
-<a id="de-elisabeth-durst"></a>
-<h3>Elisabeth Durst : Le Feu et les Brumes</h3>
-
-<div class="native-profile-reference">
-<p><strong>Boss de campagne en deux phases.</strong> Les deux formes sont la même <a href="Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a>. Utilisez ses profils natifs, avec leurs règles de transition et leur échelle de points de vie ; le nothic standard ne les remplace pas.</p>
-<ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-noble">Voir la fiche</a> : Noble corrompue</li>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-elisabeth-nothic">Voir la fiche</a> : Nothic <a href="Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a></li>
-</ul>
-</div>
-
-Les [victimes Durst et Klara](Non-Player%20Characters.md#en-death-house) ont leurs propres notices. [Walter](Non-Player%20Characters.md#de-walter-durst) <span style="color:orange">est un nourrisson.</span>
-
 <a id="en-animated-major-object" data-traduction="ancre"></a>
 ### Objet animé majeur
 

@@ -1,440 +1,324 @@
 {
   "nodes": [
     {
-      "id": "mandat",
+      "id": "86cc6ce32bd84940",
       "type": "text",
-      "text": "ARC 0 · Niveau 1\nÀ Valcroix, Loïc charge ses hommes de main, les personnages, de faire partir une caravane avant demain midi.",
-      "x": 0,
-      "y": 0,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : <span style=\"color:orange\">Une meute de loups rabat les personnages</span> vers la Maison de la Mort.",
+      "x": -380,
+      "y": -400,
+      "width": 250,
+      "height": 160
     },
     {
-      "id": "recherche",
+      "id": "8278c303beadd405",
       "type": "text",
-      "text": "Quelques témoignages\nDes habitants accusent des étrangers de vols. Les pistes conduisent au camp de Stanimir ; échange sur l’ordre de Loïc.",
-      "x": 400,
-      "y": 0,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : <span style=\"color:orange\">Se réfugier dans</span> la Maison de la Mort.",
+      "x": 120,
+      "y": -240,
+      "width": 250,
+      "height": 80
     },
     {
-      "id": "attaque",
+      "id": "34c71edee808ca44",
       "type": "text",
-      "text": "Au camp · Crépuscule, vers 17 h\nLes pillards qui suivent la caravane attaquent. Ils se faisaient passer pour des Vistani. Protéger les familles : combat, dissuasion ou reddition.",
-      "x": 800,
-      "y": 0,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : Les personnages sont prisonniers de la Maison de la Mort.",
+      "x": 520,
+      "y": -279,
+      "width": 250,
+      "height": 158
     },
     {
-      "id": "camp",
+      "id": "ff302b57650f726d",
       "type": "text",
-      "text": "Après la protection\nStanimir invite les personnages au repas ; conte au coin du feu. Caravane protégée et ordre de départ réglé → niveau 2 (total 300 PX).",
-      "x": 1200,
-      "y": 0,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort annonce aux personnages qu’<span style=\"color:orange\">une ombre</span> se réveillera à minuit pour les <span style=\"color:orange\">condamner</span>.",
+      "x": 870,
+      "y": -20,
+      "width": 250,
+      "height": 215
     },
     {
-      "id": "n1",
+      "id": "f56a7829979accca",
       "type": "text",
-      "text": "N1 · Rester au camp\nVers 5 h 30, les Brumes prennent les seuls personnages ; tente vide. Repos réel 22 h–06 h.",
-      "x": 1600,
-      "y": -150,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : L’armure animée attaque les personnages sur le balcon du troisième niveau.",
+      "x": 1385,
+      "y": 540,
+      "width": 250,
+      "height": 180
     },
     {
-      "id": "n2",
+      "id": "7d80808d4264157c",
       "type": "text",
-      "text": "N2 · Repartir faire le rapport\nVers 22 h 30, les Brumes prennent les seuls personnages sur la route. Remise de cantonnier : repos réel 22 h 30–06 h 30.",
-      "x": 1600,
-      "y": 150,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : Vaincre l’armure animée.",
+      "x": 1720,
+      "y": 590,
+      "width": 250,
+      "height": 80
     },
     {
-      "id": "meute",
+      "id": "d95a296ae8a74997",
       "type": "text",
-      "text": "ARC A · Approche de Baroville\nManoir fixe à 12 m ; palissade à 120 m. N loups + 1 sanguinaire, fuite ou victoire réelle.",
-      "x": 2000,
-      "y": 0,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : Les personnages rencontrent les fantômes de Rose et de Thorn.",
+      "x": 2085,
+      "y": 550,
+      "width": 250,
+      "height": 160
     },
     {
-      "id": "hall",
+      "id": "9d021b0a4691f2df",
       "type": "text",
-      "text": "Refuge puis fermeture n° 1\nMessage des enfants ; aucun enfant dehors. Toucher la poignée ne déclenche pas Elisabeth.",
-      "x": 2400,
-      "y": -150,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort <span style=\"color:orange\">invite les personnages à rendre leur voix aux enfants oubliés</span>.",
+      "x": 1120,
+      "y": 280,
+      "width": 250,
+      "height": 200
     },
     {
-      "id": "sans",
+      "id": "859f7ba11fe27408",
       "type": "text",
-      "text": "Maison évitée\nAide de protection au quartier oriental ; jalon alternatif niveau 3, aucun exploit Durst supposé.",
-      "x": 2400,
-      "y": 700,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : <span style=\"color:orange\">Se préparer à affronter Elisabeth Durst</span> avant minuit.",
+      "x": 4650,
+      "y": 40,
+      "width": 250,
+      "height": 117
     },
     {
-      "id": "bibliotheque",
+      "id": "4474d9997b9328e9",
       "type": "text",
-      "text": "Bibliothèque facultative\nMécanisme sans ambre ; documents de la famille et sort de Gustav.",
-      "x": 2800,
-      "y": -450,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : <span style=\"color:orange\">Elisabeth Durst</span> s’éveille.",
+      "x": 5880,
+      "y": 200,
+      "width": 250,
+      "height": 109
     },
     {
-      "id": "grenier",
+      "id": "aecfdedac425fbc9",
       "type": "text",
-      "text": "Grenier librement accessible\nPremière rencontre Rose/Thorn ; carnet ou dessin si esprits refusés. Restes des enfants et coffre de Klara.",
-      "x": 2800,
-      "y": -150,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : Vaincre <span style=\"color:orange\">Elisabeth Durst</span>.",
+      "x": 6220,
+      "y": 214,
+      "width": 250,
+      "height": 80
     },
     {
-      "id": "cache",
+      "id": "e121fb91a722db54",
       "type": "text",
-      "text": "Cache unique\nDouble fond du coffret à bijoux, coiffeuse parentale. Découverte précoce valable.",
-      "x": 3200,
-      "y": -150,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : S’échapper de la Maison de la Mort.",
+      "x": 7440,
+      "y": -240,
+      "width": 250,
+      "height": 70
     },
     {
-      "id": "nursery",
+      "id": "cd0dd645786b3935",
       "type": "text",
-      "text": "Nurserie scellée entièrement\nSeul l’éclat l’ouvre, définitivement et sans consommation. Walter dans son couffin.",
-      "x": 3600,
-      "y": -150,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : Enterrer Rose et Thorn à l’extérieur de la Maison de la Mort.",
+      "x": 7760,
+      "y": 1155,
+      "width": 250,
+      "height": 130
     },
     {
-      "id": "seuil",
+      "id": "25ebaf2848e7e462",
       "type": "text",
-      "text": "Une dépouille au seuil desserre le verrou\nOU forçage réellement réussi. Réouverture → Elisabeth descend l’escalier ; fermeture n° 2.",
-      "x": 4000,
-      "y": 100,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : Rose et Thorn demandent aux personnages d’enterrer leurs dépouilles à l’extérieur de la Maison de la Mort.",
+      "x": 3040,
+      "y": 1120,
+      "width": 250,
+      "height": 200
     },
     {
-      "id": "p1",
+      "id": "40ed0d5fdb8236e5",
       "type": "text",
-      "text": "Phase 1 · Noble corrompue\nCombat dans le hall ; pas de surprise ni attaque gratuite. Walter présent : réplique du couffin.",
-      "x": 4400,
-      "y": 100,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : Ouvrir la porte secrète.",
+      "x": 2515,
+      "y": 830,
+      "width": 250,
+      "height": 100
     },
     {
-      "id": "p2",
+      "id": "ce0f4a5b5014f3ae",
       "type": "text",
-      "text": "Phase 2 · Nothic Elisabeth\nMême Elisabeth, même initiative ; effets subis maintenus, aucune recharge gratuite de réaction. Coup de mêlée final non létal : assommée et vivante, emprise encore active.",
-      "x": 4800,
-      "y": 100,
-      "width": 320,
-      "height": 190
+      "text": "OBJECTIF : Placer l’éclat d’ambre dans la porte secrète.",
+      "x": 2285,
+      "y": 1065,
+      "width": 250,
+      "height": 110
     },
     {
-      "id": "suite",
+      "id": "be0099ddeebaea51",
       "type": "text",
-      "text": "Mort d’Elisabeth\nEntrée libre, maison visitable, victimes oubliées récupérables. Éclat actif si nurserie encore fermée.",
-      "x": 5200,
-      "y": 100,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : Les personnages découvrent l’éclat d’ambre dans la chambre principale.",
+      "x": 1960,
+      "y": 1040,
+      "width": 250,
+      "height": 160
     },
     {
-      "id": "ambre",
+      "id": "6081b3b0cdaf6218",
       "type": "text",
-      "text": "Condition d’inertie\nNurserie ouverte ET Elisabeth morte. Un seul éclat, aucun don sombre aux personnages.",
-      "x": 5200,
-      "y": -200,
-      "width": 320,
-      "height": 190
+      "text": "ÉLÉMENT DÉCLENCHEUR : Les personnages découvrent la porte secrète dans la bibliothèque.",
+      "x": 1710,
+      "y": 800,
+      "width": 250,
+      "height": 160
     },
     {
-      "id": "funerailles",
+      "id": "176aa2811042cb04",
+      "x": 1385,
+      "y": 810,
+      "width": 250,
+      "height": 140,
       "type": "text",
-      "text": "Quatre funérailles au jardin\nRose, Thorn, Klara, Walter ; Gustav déjà enterré. Apaisement local, pas de sortie cosmologique.",
-      "x": 5600,
-      "y": 100,
-      "width": 320,
-      "height": 190
-    },
-    {
-      "id": "repos",
-      "type": "text",
-      "text": "Résolution → niveau 3 (total 900 PX)\nOu jalon alternatif déjà obtenu. Repos réel ≥ 8 h, bénéfices espacés de 24 h. Le calendrier du village continue de courir.",
-      "x": 6000,
-      "y": 350,
-      "width": 320,
-      "height": 190
-    },
-    {
-      "id": "village",
-      "type": "text",
-      "text": "ARC B · État réel du village\nAvant l’assaut : Kolyan vivant, Ireena non mordue. Après l’assaut : accueil endeuillé, horde retirée ; scènes et récompenses adaptées. Convoi de Stanimir sur la place jusqu’à la levée du siège.",
-      "x": 6400,
-      "y": 350,
-      "width": 320,
-      "height": 190
-    },
-    {
-      "id": "vallee",
-      "type": "text",
-      "text": "ARC C · Strahd puis Eva\nConnaissances réelles, responsabilités des Brumes ; retrouvailles Stanimir au village ou à Tser. Dalvan facultatif, boussole unique.",
-      "x": 6800,
-      "y": 350,
-      "width": 320,
-      "height": 190
+      "text": "CHOIX : Les personnages fouillent la bibliothèque ou jouent la *Valse pour Klara* dans le salon de musique."
     }
   ],
   "edges": [
     {
-      "id": "feu-00",
-      "fromNode": "mandat",
+      "id": "817a4b14be42f48b",
+      "fromNode": "86cc6ce32bd84940",
       "fromSide": "right",
-      "toNode": "recherche",
+      "toNode": "8278c303beadd405",
       "toSide": "left"
     },
     {
-      "id": "feu-01",
-      "fromNode": "recherche",
+      "id": "fbcb1798928765c5",
+      "fromNode": "8278c303beadd405",
       "fromSide": "right",
-      "toNode": "attaque",
+      "toNode": "34c71edee808ca44",
       "toSide": "left"
     },
     {
-      "id": "feu-01b",
-      "fromNode": "attaque",
+      "id": "030ccd6090c42788",
+      "fromNode": "34c71edee808ca44",
       "fromSide": "right",
-      "toNode": "camp",
+      "toNode": "e121fb91a722db54",
       "toSide": "left"
     },
     {
-      "id": "feu-02",
-      "fromNode": "camp",
+      "id": "a8f8b935f58466a1",
+      "fromNode": "ff302b57650f726d",
       "fromSide": "right",
-      "toNode": "n1",
-      "toSide": "left",
-      "label": "tente / camp"
-    },
-    {
-      "id": "feu-03",
-      "fromNode": "camp",
-      "fromSide": "right",
-      "toNode": "n2",
-      "toSide": "left",
-      "label": "retour pour le rapport"
-    },
-    {
-      "id": "feu-04",
-      "fromNode": "n1",
-      "fromSide": "right",
-      "toNode": "meute",
-      "toSide": "left",
-      "label": "état N1"
-    },
-    {
-      "id": "feu-05",
-      "fromNode": "n2",
-      "fromSide": "right",
-      "toNode": "meute",
-      "toSide": "left",
-      "label": "état N2"
-    },
-    {
-      "id": "feu-06",
-      "fromNode": "meute",
-      "fromSide": "right",
-      "toNode": "hall",
-      "toSide": "left",
-      "label": "refuge"
-    },
-    {
-      "id": "feu-07",
-      "fromNode": "meute",
-      "fromSide": "right",
-      "toNode": "sans",
-      "toSide": "left",
-      "label": "victoire / autre fuite"
-    },
-    {
-      "id": "feu-08",
-      "fromNode": "hall",
-      "fromSide": "right",
-      "toNode": "bibliotheque",
-      "toSide": "left",
-      "label": "facultatif"
-    },
-    {
-      "id": "feu-09",
-      "fromNode": "hall",
-      "fromSide": "right",
-      "toNode": "grenier",
-      "toSide": "left",
-      "label": "escalier ordinaire"
-    },
-    {
-      "id": "feu-10",
-      "fromNode": "hall",
-      "fromSide": "right",
-      "toNode": "cache",
-      "toSide": "left",
-      "label": "fouille anticipée"
-    },
-    {
-      "id": "feu-11",
-      "fromNode": "grenier",
-      "fromSide": "right",
-      "toNode": "cache",
-      "toSide": "left",
-      "label": "indice sans verrou social"
-    },
-    {
-      "id": "feu-12",
-      "fromNode": "cache",
-      "fromSide": "right",
-      "toNode": "nursery",
-      "toSide": "left",
-      "label": "signature de la clé"
-    },
-    {
-      "id": "feu-13",
-      "fromNode": "grenier",
-      "fromSide": "right",
-      "toNode": "seuil",
-      "toSide": "left",
-      "label": "au moins une dépouille"
-    },
-    {
-      "id": "feu-14",
-      "fromNode": "nursery",
-      "fromSide": "right",
-      "toNode": "seuil",
-      "toSide": "left",
-      "label": "Walter récupéré, si Elisabeth vit"
-    },
-    {
-      "id": "feu-15",
-      "fromNode": "hall",
-      "fromSide": "right",
-      "toNode": "seuil",
-      "toSide": "left",
-      "label": "forçage réussi"
-    },
-    {
-      "id": "feu-16",
-      "fromNode": "seuil",
-      "fromSide": "right",
-      "toNode": "p1",
-      "toSide": "left",
-      "label": "initiative"
-    },
-    {
-      "id": "feu-17",
-      "fromNode": "p1",
-      "fromSide": "right",
-      "toNode": "p2",
-      "toSide": "left",
-      "label": "première réserve à 0"
-    },
-    {
-      "id": "feu-18",
-      "fromNode": "p2",
-      "fromSide": "right",
-      "toNode": "suite",
-      "toSide": "left",
-      "label": "seconde réserve à 0, mort réelle"
-    },
-    {
-      "id": "feu-19",
-      "fromNode": "suite",
-      "fromSide": "right",
-      "toNode": "nursery",
-      "toSide": "left",
-      "label": "si encore fermée : revenir avec la clé"
-    },
-    {
-      "id": "feu-20",
-      "fromNode": "suite",
-      "fromSide": "right",
-      "toNode": "ambre",
-      "toSide": "left",
-      "label": "vérifier les deux conditions"
-    },
-    {
-      "id": "feu-21",
-      "fromNode": "suite",
-      "fromSide": "right",
-      "toNode": "funerailles",
-      "toSide": "left",
-      "label": "collecte encore possible"
-    },
-    {
-      "id": "feu-22",
-      "fromNode": "funerailles",
-      "fromSide": "right",
-      "toNode": "repos",
-      "toSide": "left",
-      "label": "pas de double jalon"
-    },
-    {
-      "id": "feu-23",
-      "fromNode": "sans",
-      "fromSide": "right",
-      "toNode": "repos",
-      "toSide": "left",
-      "label": "branche exclusive"
-    },
-    {
-      "id": "feu-24",
-      "fromNode": "repos",
-      "fromSide": "right",
-      "toNode": "village",
-      "toSide": "left",
-      "label": "calendrier réel"
-    },
-    {
-      "id": "feu-25",
-      "fromNode": "village",
-      "fromSide": "right",
-      "toNode": "vallee",
+      "toNode": "859f7ba11fe27408",
       "toSide": "left"
     },
     {
-      "id": "feu-26",
-      "fromNode": "nursery",
+      "id": "316f82866affd499",
+      "fromNode": "34c71edee808ca44",
       "fromSide": "bottom",
-      "toNode": "funerailles",
-      "toSide": "top",
-      "label": "Walter récupéré après la mort d’Elisabeth"
+      "toNode": "ff302b57650f726d",
+      "toSide": "left"
     },
     {
-      "id": "feu-27",
-      "fromNode": "p2",
-      "fromSide": "bottom",
-      "toNode": "sans",
-      "toSide": "bottom",
-      "label": "assommée ou fuite : alternative exclusive, état conservé"
+      "id": "ab52df059f6a7c94",
+      "fromNode": "4474d9997b9328e9",
+      "fromSide": "right",
+      "toNode": "aecfdedac425fbc9",
+      "toSide": "left"
     },
     {
-      "id": "feu-28",
-      "fromNode": "p1",
+      "id": "25c300a15e7be80d",
+      "fromNode": "aecfdedac425fbc9",
+      "fromSide": "right",
+      "toNode": "e121fb91a722db54",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2e9540964378a6fc",
+      "fromNode": "f56a7829979accca",
+      "fromSide": "right",
+      "toNode": "7d80808d4264157c",
+      "toSide": "left"
+    },
+    {
+      "id": "a84a37b231f23894",
+      "fromNode": "7d80808d4264157c",
+      "fromSide": "right",
+      "toNode": "d95a296ae8a74997",
+      "toSide": "left"
+    },
+    {
+      "id": "9f18764711f1bbba",
+      "fromNode": "ff302b57650f726d",
       "fromSide": "bottom",
-      "toNode": "sans",
-      "toSide": "top",
-      "label": "fuite : état conservé, alternative exclusive"
+      "toNode": "9d021b0a4691f2df",
+      "toSide": "left"
+    },
+    {
+      "id": "b739dba5111244c1",
+      "fromNode": "9d021b0a4691f2df",
+      "fromSide": "bottom",
+      "toNode": "f56a7829979accca",
+      "toSide": "left"
+    },
+    {
+      "id": "3d43693b6ebfe546",
+      "fromNode": "859f7ba11fe27408",
+      "fromSide": "right",
+      "toNode": "4474d9997b9328e9",
+      "toSide": "left"
+    },
+    {
+      "id": "e815bf47467fbc3b",
+      "fromNode": "25ebaf2848e7e462",
+      "fromSide": "right",
+      "toNode": "cd0dd645786b3935",
+      "toSide": "left"
+    },
+    {
+      "id": "e2852555f89f033a",
+      "fromNode": "e121fb91a722db54",
+      "fromSide": "right",
+      "toNode": "cd0dd645786b3935",
+      "toSide": "top"
+    },
+    {
+      "id": "bfb0cd0501d3567a",
+      "fromNode": "6081b3b0cdaf6218",
+      "fromSide": "right",
+      "toNode": "40ed0d5fdb8236e5",
+      "toSide": "left"
+    },
+    {
+      "id": "368d2b33f47300f1",
+      "fromNode": "be0099ddeebaea51",
+      "fromSide": "right",
+      "toNode": "ce0f4a5b5014f3ae",
+      "toSide": "left"
+    },
+    {
+      "id": "bb785328b4e96d44",
+      "fromNode": "6081b3b0cdaf6218",
+      "fromSide": "bottom",
+      "toNode": "be0099ddeebaea51",
+      "toSide": "left"
+    },
+    {
+      "id": "c7ba0e1831258124",
+      "fromNode": "ce0f4a5b5014f3ae",
+      "fromSide": "right",
+      "toNode": "40ed0d5fdb8236e5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ef52fe2fc2a574ec",
+      "fromNode": "9d021b0a4691f2df",
+      "fromSide": "bottom",
+      "toNode": "176aa2811042cb04",
+      "toSide": "left"
+    },
+    {
+      "id": "32244b43cb5263c3",
+      "fromNode": "176aa2811042cb04",
+      "fromSide": "right",
+      "toNode": "6081b3b0cdaf6218",
+      "toSide": "left"
+    },
+    {
+      "id": "2b8c251fb573295f",
+      "fromNode": "d95a296ae8a74997",
+      "fromSide": "right",
+      "toNode": "25ebaf2848e7e462",
+      "toSide": "left"
     }
   ]
 }

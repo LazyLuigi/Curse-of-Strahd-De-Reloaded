@@ -2,16 +2,6 @@
 
 Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les personnages ignorent.
 
-<a id="de-supports-feu-brumes"></a>
-## Le Feu et les Brumes : documents et plan
-
-Les documents de cette ouverture sont rédigés directement en français. Leurs textes de référence restent dans les scènes où les personnages peuvent les obtenir :
-
-- [Avis d’expulsion de Loïc de Hauterive](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), à remettre au départ.
-- [Plaintes et preuves](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-plaintes), aide du MJ : ne remettre aux joueurs que les renseignements acquis.
-- [Correspondance de la bibliothèque](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-secret-room), trois pièces distinctes à découvrir.
-- <span style="color:orange">[Journal de Rose](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#en-childrens-room), caché dans la taie d’oreiller de son lit.</span>
-
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup
 

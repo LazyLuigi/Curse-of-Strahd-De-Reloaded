@@ -1,14 +1,27 @@
 Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-retour-reloaded-2026-10-31"></a>
+# 31 octobre 2026 : Retour au texte de Reloaded hors des arcs 0 et A
+
+- Hors des arcs 0 et A, le guide reprend le texte de Reloaded : retrait du calendrier unique et de l’horloge de campagne, des dates ajoutées, des arrivées tardives et des présences conditionnelles de Stanimir.
+- De la relecture de la traduction, seules les vraies corrections restent : fautes, calques, répétitions, liens posés sur des mots courants et tirets d’incise.
+- Résumés, accroches, plan de l’acte I, index, arcs B et C : ce ne sont plus la Maison de la Mort ni des reliques qui mènent les personnages en Barovie, mais les Brumes, puis une meute qui les rabat vers le manoir. Les reliques restent une option pour impliquer davantage les joueurs.
+- L’acte I commence au niveau 1 avec l’arc 0. Arc A : 200 PX quand les personnages rencontrent les fantômes de Rose et de Thorn, puis 400 PX à la sortie de la Maison de la Mort.
+- [Histoire de Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) : plus de rituel ni d’amas de chair. Abandonnée de ses fidèles, Elisabeth sombre dans la folie et meurt seule ; Strahd ne s’en soucie jamais ; dans sa lettre, il décline ses avances et la dit insignifiante. Ses relations ne mentionnent plus la Maison de la Mort.
+- À l’étang de Tser, [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) reconnaît les personnages et les salue avec entrain.
+- L’annexe des PNJ présente brièvement [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst).
+- Retrait de la note de conception sur les accroches de Reloaded.
+
 <a id="de-arc-a-2026-10-30"></a>
 # 30 octobre 2026 : Arc A et traduction
 
 - L’[arc A](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) repart du texte de Reloaded. Les personnages sortent des Brumes à l’orée des bois de Svalich, et une meute les rabat vers la Maison de la Mort.
-- Le sous-sol est retiré. À minuit, [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) attend les personnages dans le grand hall, sous deux formes ; la *Valse pour Klara* l’affaiblit.
-- À sa mort, les personnages repartent avec les os de Rose et de Thorn. Gustav et les dévots ne barrent plus la sortie. Le jalon de l’arc passe à 600 PX.
-- Elisabeth devient un boss en deux phases, réglé comme l’amas de chair de Reloaded, avec ses adaptations de 3 à 6 joueurs. La meute ne peut pas être vaincue : chaque loup tué laisse place à un loup sanguinaire.
+- Le sous-sol est retiré. À minuit, [Elisabeth Durst](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst) s’éveille et affronte les personnages, sous deux formes ; la *Valse pour Klara* l’affaiblit.
+- À sa mort, les personnages peuvent quitter la maison, en emportant s’ils le veulent les os de Rose et de Thorn. Gustav et les dévots ne barrent plus la sortie. Le jalon de l’arc passe à 600 PX.
+- Elisabeth devient un boss en deux phases, réglé comme l’amas de chair de Reloaded, avec ses adaptations de 3 à 6 joueurs. La meute ne peut pas être vaincue : chaque loup tué laisse place à un loup sanguinaire, mais ses attaques sont non létales.
 - Dans la maison, l’horloge sonne dix heures à l’arrivée : deux dés à six faces, à dix minutes par point, décomptent les deux heures avant minuit.
 - Relecture de l’arc A : arrivée au clair de lune vers un manoir illuminé, nouveau poème, Elisabeth surgit aussi si les personnages atteignent la porte avec les os des enfants. Rose et Thorn ne possèdent plus personne.
+- Relecture comparée de l’arc A : à minuit, Elisabeth cherche les personnages salle par salle ; la *Valse pour Klara* lui impose aussi le désavantage à ses attaques ; ses fiches sont allégées des règles de concepteur. Rose et Thorn demandent à être enterrés au pied du grand cerisier de la clairière, quand les personnages le souhaitent.
 - L’éclat d’ambre d’Elisabeth redevient celui de Reloaded : il ouvre la porte secrète de la bibliothèque, porte la tentation de Norganas et tombe en poussière quand la maison s’effondre. Les mises en garde sur cet éclat dans les arcs M à T sont retirées.
 - L’histoire des Durst suit les indices de la maison : Klara séquestrée, mutilée et morte de faim, Gustav poignardé dans son lit.
 - Relecture de la traduction de tout le guide : calques de l’anglais, fautes, répétitions et liens posés sur des mots courants.
@@ -20,7 +33,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Les Vistani indiquent où se cache la charrette des pillards ; s’en approcher déclenche leur attaque.
 - Les jeux autour du feu deviennent le jeu du grelot et le couplet farfelu.
 - La remise barovienne disparaît : les personnages se réveillent dans une forêt, à 400 m d’un toit, et l’arc A commence aussitôt.
-- La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne s’arrête plus au village de Barovie. Les personnages le retrouvent à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#de-retrouver-stanimir), où il leur dit que la brume s’est chargée des pillards capturés.
+- La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne s’arrête plus au village de Barovie. Les personnages le retrouvent à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), où il leur dit que la brume s’est chargée des pillards capturés.
 - [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) reçoivent un profil d’interprétation, comme les PNJ de l’arc B. Pendant l’attaque, Stanimir peut détourner les pillards avec *image majeure*, et les soins des Vistani comptent comme un repos court.
 - La tombe ouverte vient de chiens sauvages et d’un fossoyeur négligent, qui accuse toujours quelqu’un d’autre.
 
@@ -44,9 +57,9 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 # 27 octobre 2026 : Les hommes de main de Loïc
 
 - Les personnages deviennent les hommes de main de Loïc de Hauterive, qui leur confie ce qu’il ne règle pas par sa garde. Un billet privé remplace le mandat ; l’insigne et le serment disparaissent.
-- Eliza, l’espionne de Strahd, voyage avec la caravane : par les yeux de son rat albinos, Strahd remarque les personnages, puis les fait venir lui-même par les Brumes, voir [sa notice](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#de-strahd-brumes). Les Brumes ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport. Ses [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) deviennent des espions que le MJ peut faire apparaître.
+- Eliza, l’espionne de Strahd, voyage avec la caravane : par les yeux de son rat albinos, Strahd remarque les personnages, puis les fait venir lui-même par les Brumes. Les Brumes ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport. Ses [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) deviennent des espions que le MJ peut faire apparaître.
 - Retrait des comparaisons avec Reloaded ajoutées dans le texte de jeu ; liens vers Loïc, Stanimir et Eliza complétés.
-- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent [retrouver Stanimir](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#de-retrouver-stanimir) avant son départ pour l’étang de Tser.
+- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent retrouver Stanimir avant son départ pour l’étang de Tser.
 - Le terme fixé par l’Abbé à Anna tombe au crépuscule du 16 Neyavr, trois semaines après leur pacte. Les arcs K et Q donnent la même date, et Anna confie l’échéance aux personnages.
 - La [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) fait une exception pour Valcroix et le service auprès de Loïc. Le reste du passé des personnages n’est pas exploré, et ils ne deviennent étrangers à leur cadre qu’après le prologue.
 
@@ -76,7 +89,7 @@ Cette réécriture de **LazyLuigi** remplace l’ancienne ouverture de Reloaded.
 - Elisabeth est responsable de ses crimes et possède deux formes natives, **Noble corrompue** puis **Nothic**. Ses modales réunissent les phases, les règles communes, l’adaptation au groupe et le bénéfice de la mélodie de Klara. Walter, Klara, Rose et Thorn sont les victimes à inhumer ; Gustav repose déjà au jardin.
 - Séparation de la clé d’Elisabeth et des autres éclats d’ambre : cette clé n’accorde aucun don sombre et devient inerte seulement lorsque la nurserie est ouverte **et** Elisabeth morte. Les funérailles apaisent les victimes localement, sans faire sortir leurs âmes de Barovie.
 - Harmonisation des accroches, résumés, calendriers, connaissances de Strahd, retrouvailles vistani et raccords tardifs. Dalvan reste une découverte facultative à la frontière ; ses apparitions et son unique boussole suivent les événements réellement joués.
-- Mise à jour des notices, du bestiaire, des index, des apparitions, du sommaire et du canevas de l’acte I. Ajout des documents de jeu et d’un [gabarit français du hall](../Appendices/Supports%20visuels.md#de-supports-feu-brumes). Les profils standard de l’ouverture sont expressément fixés à 2014 ; le réglage général 2024 reste disponible ailleurs et ne convertit pas le boss maison.
+- Mise à jour des notices, du bestiaire, des index, des apparitions, du sommaire et du canevas de l’acte I. Ajout des documents de jeu et d’un gabarit français du hall. Les profils standard de l’ouverture sont expressément fixés à 2014 ; le réglage général 2024 reste disponible ailleurs et ne convertit pas le boss maison.
 - Épreuve des chemins de traverse : fuite suivie d’un retour, incendie local, Elisabeth assommée plutôt que tuée, repos interrompus, arrivées avant ou après le siège. Les états du manoir et les récompenses suivent les actes réellement accomplis ; le jalon du village distingue la défense (200 PX) du soutien aux habitants et du départ (200 PX).
 - Adoption d’une horloge commune pour le siège, Vallaki, les fêtes et les lunes. Les retards consomment le temps disponible ; le convoi de Stanimir attend la levée du blocus et les scènes tiennent compte des personnes réellement arrivées.
 - Correction des effets tardifs de l’ambre : la clé locale d’Elisabeth ne provoque ni soupçon de corruption chez Godfrey, ni appel des sarcophages, ni résonance de Rahadin. Burebis peut reconnaître l’origine de la relique liée à un vestige promise par l’accroche Connaissance.

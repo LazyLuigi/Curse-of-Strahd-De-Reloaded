@@ -2,13 +2,11 @@
 
 <span style="color:orange">Les personnages sortent des Brumes en Barovie, à l’orée des bois de Svalich, au commencement de la vieille route. Quelques minutes plus tard, une meute de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> les encercle et les rabat vers le seul abri en vue : le vieux manoir des Durst, la Maison de la Mort.</span>
 
-Une fois à l’intérieur, les personnages se retrouvent piégés et apprennent <span style="color:orange">que la maîtresse des lieux les traquera dès son réveil, à minuit. Ils ont deux heures pour se préparer à l’affronter.</span> En explorant la maison, ils découvrent son histoire sordide ainsi que la véritable identité <span style="color:orange">de celle qui les retient : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>.</span>
+Une fois à l’intérieur, les personnages se retrouvent piégés et apprennent <span style="color:orange">que quelque chose s’éveillera à minuit. Ils ont deux heures pour se préparer à l’affronter.</span> En explorant la maison, ils découvrent son histoire sordide ainsi que la véritable identité <span style="color:orange">de celle qui les retient : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>.</span>
 
-Si les personnages <span style="color:orange">tuent <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a></span>, la maison commence à s’effondrer, les obligeant à fuir sous peine de disparaître dans les décombres.
+<span style="color:orange">Si les personnages tuent <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a>, la brume se retire et ils peuvent enfin quitter la maison, qui s’effondre derrière eux.</span>
 
 > [!design]+ <span style="color:orange">**Note de conception : la Maison de la Mort**</span>
-> <span style="color:orange">**Constat.** L’arc A de Reloaded part de Gué de la Dague et culmine dans un donjon dont l’horreur crue ne préfigure pas la campagne à venir.</span>
->
 > <span style="color:orange">**Intention.** Les personnages arrivent en Barovie par le prologue et se réfugient dans la maison pour échapper à la meute. Le sous-sol disparaît : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> devient la menace de minuit, et l’enquête dans les étages prépare le combat contre elle.</span>
 
 > [!lore]+ **L’histoire de la Maison de la Mort**
@@ -25,9 +23,9 @@ Si les personnages <span style="color:orange">tuent <a href="../Appendices/Index
 
 <div class="description">
 <p><span style="color:orange">La lune décroissante baigne les bois d’une lumière laiteuse et triste. Un vieux chemin de terre, creusé d’ornières que personne n’a suivies depuis longtemps, file entre les troncs nus et noirs. La brume s’accroche aux branches basses et étouffe vos pas. L’air sent la feuille pourrie et la terre froide.</span></p>
-<p><span style="color:orange">Au bout du chemin, un grand manoir domine les arbres. Toutes ses fenêtres sont éclairées : dans ces bois sans autre lumière, il brille comme un phare.</span></p>
+<p><span style="color:orange">Au bout du chemin, un grand manoir domine les arbres. Quelques fenêtres sont éclairées : dans ces bois sans autre lumière, il brille comme un phare.</span></p>
 <p><span style="color:orange">Un hurlement s’élève sur votre gauche. Un autre lui répond derrière vous, puis un troisième, tout proche. Entre les arbres, des silhouettes grises glissent sans bruit et vous dépassent de chaque côté.</span></p>
-<p><span style="color:orange">Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le manoir vous semble cependant atteignable avant de vous faire déborder.</span></p>
+<p><span style="color:orange">Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le cercle se resserre, mais du côté du manoir une lumière semble s’être allumée.</span></p>
 </div>
 
 <span style="color:orange">Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à trente pieds. Tant que les personnages avancent vers le manoir, la meute les escorte sans attaquer. Si un personnage s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les personnages ont repris le chemin du manoir, et aucun ne franchit la grille du portique.</span>
@@ -42,7 +40,7 @@ Si les personnages <span style="color:orange">tuent <a href="../Appendices/Index
 > |-|-|-|-|-|
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">Loups</a> | 3 | 4 | 5 | 6 |
 > 
-> <span style="color:orange">La meute ne cherche pas à tuer : elle pousse les personnages vers le manoir. Un personnage tombé à 0 point de vie n’est plus attaqué.</span>
+> <span style="color:orange">La meute ne cherche pas à tuer : elle pousse les personnages vers le manoir, et les attaques des loups sont non létales. Un personnage tombé à 0 point de vie n’est plus attaqué ; ses compagnons peuvent le porter jusqu’au manoir. Si tous les personnages tombent, ils reprennent connaissance devant la grille du portique avec 1 point de vie, les loups assis à la lisière.</span>
 
 <a id="en-a2-death-house" data-traduction="ancre"></a>
 # A2. La Maison de la Mort
@@ -59,10 +57,10 @@ Lisez le texte suivant à tous les joueurs :
 <p>La pièce maîtresse de cette imposante façade est son portique, une arche de pierre montant la garde devant les portes en chêne. Une grille de fer forgé en ferme le passage ; ses gonds rouillés grincent tandis qu’elle oscille au vent.</p>
 <p>De chaque côté de la grille, des lampes à huile pendent à des chaînes. Leur lueur faible et vacillante jette un éclat maladif qui perce à peine le brouillard environnant.</p>
 <p>Au-delà, de solides portes en chêne restent closes, encadrées par la grille et les lampes. Vieillies et usées par les intempéries, le bois assombri par le temps, elles se dressent pourtant, robustes et fières : une entrée peu accueillante vers la demeure.</p>
-<p>Une rafale de vent vous balaie, portant un souffle de terreur glacée qui vous fait frissonner.</p>
+<p><span style="color:orange">Derrière vous, les loups se sont arrêtés à la lisière de la clairière. Ils s’assoient dans l’herbe et vous regardent. Une rafale de vent glacé balaie les lieux et fait grincer la grille sur ses gonds d’une plainte funeste.</span></p>
 </div>
 
-<span style="color:orange">Les loups s’arrêtent à la lisière de la clairière et s’assoient dans l’herbe, sans quitter les personnages des yeux. Aucun ne franchit la grille.</span>
+<span style="color:orange">Aucun loup ne franchit la grille.</span>
 
 L’entrée au-delà du portique correspond pour le reste à la description de <span class="citation">Entrée (p. 212)</span>.
 
@@ -92,9 +90,9 @@ Des lettres de sang commencent alors à apparaître sur le mur sud, juste au-des
 <div style="height: 15px;"></div>
 <em><span style="color:orange">Ô vous, hôtes perdus, venez briser vos chaînes,</span></em>
 <br>
-<em><span style="color:orange">Rendez donc leur voix aux enfants oubliés.</span></em>
+<em><span style="color:orange">Rendez enfin leur voix aux enfants oubliés.</span></em>
 <br>
-<em><span style="color:orange">Au chant jaloux qui ravive ses peines,</span></em>
+<em><span style="color:orange">Quand l’air de sa rivale ravivera ses peines,</span></em>
 <br>
 <em><span style="color:orange">L’immonde fléchira, son pouvoir ébranlé.</span></em>
 </div>
@@ -114,7 +112,7 @@ L’horloge de parquet sonne alors <span style="color:orange">dix heures</span>.
 >
 > Une heure entière s’écoule chaque fois <span style="color:orange">qu’un dé passe de 1 à 0</span>. L’horloge de parquet du **grand hall** sonne à chaque heure et s’entend dans toute la maison.
 >
-> <span style="color:orange">Lorsque l’horloge sonne minuit, **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>** s’éveille et descend dans le grand hall, où elle attend les personnages (voir [A2f. Les coups de minuit](#de-minuit)).</span>
+> <span style="color:orange">Lorsque l’horloge sonne minuit, **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>** s’éveille et cherche les personnages salle par salle. Elle peut apparaître plus tôt (voir [A2f. Les coups de minuit](#de-minuit)).</span>
 
 > [!info]+ **Se reposer dans la Maison de la Mort**
 >
@@ -197,7 +195,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 Un personnage qui mange ne subit aucun effet néfaste.
 <a id="en-kitchen-and-pantry" data-traduction="ancre"></a>
 ### Cuisine et garde-manger
-<span class="citation"><em>Cette scène correspond à l’annexe B : zone 4.</em></span>
+<span class="citation"><em>Cette scène <span style="color:orange">se déroule dans</span> l’annexe B : zone 4.</em></span>
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Cuisine et garde-manger (p. 213)</span>. Lorsque les personnages y entrent, lisez :
 
@@ -323,7 +321,7 @@ Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modi
 
 <div class="description">
 <p>Ma plus pitoyable servante,</p>
-<p>Je ne suis pas un messie que les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> de cette contrée vous auraient envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. <span style="color:orange">Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez,</span> sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre.</p>
+<p>Je ne suis pas un messie que les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> de cette contrée vous auraient envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. <span style="color:orange">Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez,</span> sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre. <span style="color:orange">Vous rêvez de partager mon éternité. Je décline : vous m’êtes insignifiante.</span></p>
 <p>Vous dites être maudite, votre fortune dilapidée. Votre mari a trouvé du réconfort dans les bras d’une autre femme, engendré un fils bâtard et vous a poussée à délaisser l’amour pour la folie. Maudite par les ténèbres ? Je n’en doute pas. Vous sauver de votre misère ? Je ne crois pas. Je vous préfère de loin telle que vous êtes.</p>
 <p>Votre redoutable seigneur et maître,</p>
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a></p>
@@ -446,7 +444,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 Si un personnage entre, le fredonnement cesse brusquement. Lisez :
 
 <div class="description">
-<p>L’air de cette petite chambre est étrangement chaud, teinté d’une odeur cuivrée. <span style="color:orange">Un berceau occupe le centre de la pièce ; sur son côté, un nom semble gravé.</span></p>
+<p>L’air de cette petite chambre est étrangement chaud, teinté d’une odeur cuivrée. <span style="color:orange">Un berceau occupe le centre de la pièce ; un nom est gravé à sa tête.</span></p>
 <p>En baissant les yeux, vous remarquez qu’un petit objet semble être tombé sous le berceau. Au loin, vous percevez faiblement les doux gémissements d’un nourrisson.</p>
 </div>
 
@@ -491,7 +489,7 @@ Les personnages peuvent reconnaître la poupée que <a href="../Appendices/Non-P
 
 La boîte à musique contient un couteau à dépecer rouillé et ensanglanté ainsi que la clé du cadenas de la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>.
 
-<span style="color:orange">Elle contient aussi un morceau de parchemin enroulé, qui porte une liste de noms inconnus sous le mot RECRUTEMENT.</span>
+<span style="color:orange">Elle contient aussi un parchemin roulé qui porte, sous le mot RECRUTEMENT, une douzaine de noms baroviens. (Ce sont les fidèles que réunissait Elisabeth sous son toit ; voir la lettre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dans la [pièce secrète](#en-secret-room).)</span>
 
 Lorsque les personnages quittent la pièce, le fauteuil commence à se balancer doucement et la boîte à musique s’ouvre et joue. Un fredonnement maternel flotte dans l’air pendant deux mesures, puis devient faux et déformé avant de s’interrompre violemment en un cri strident. Le fauteuil s’immobilise alors.
 <a id="en-childrens-room" data-traduction="ancre"></a>
@@ -545,11 +543,13 @@ Tandis que les enfants <a href="https://www.aidedd.org/dnd/monstres.php?vf=fanto
 
 Outre ses sorts mineurs, le journal vieilli et délavé de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> contient des notes sur ses études, ses amis, son petit frère, sa nourrice (« Mademoiselle <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> ») et les disputes entre ses parents. (<a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> ne sait rien du contenu de ces querelles.)
 
-<span style="color:orange"><a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> demande aux personnages d’emporter ses os et ceux de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> s’ils s’échappent, pour les enterrer dans le jardin à l’extérieur.</span>
+<span style="color:orange"><a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demandent aux personnages d’emporter leurs os s’ils s’échappent, pour les enterrer dehors, dans la clairière, au pied du grand cerisier.</span>
 
 La maison de poupée contient de petites figurines représentant, en miniatures déformées, tous les personnages et créatures actuellement visibles dans la maison. Elles sont faites de résine peinte. Quiconque regarde à l’intérieur depuis la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> peut voir les figurines de toutes les créatures vivantes du manoir, placées aux bons endroits. La maison de poupée ne contient que les pièces de la maison elle-même.
 
 <span style="color:orange">Avant que les personnages ne quittent la chambre,</span> <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demande timidement si <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et lui peuvent accompagner les personnages pour les aider.
+
+**_Jalon_**. <span style="color:orange">Rencontrer les fantômes de Rose et de Thorn constitue un jalon de l’histoire. Lorsque les personnages quittent la chambre des enfants, accordez 200 PX à chaque personnage.</span>
 <a id="en-storage-room-2" data-traduction="ancre"></a>
 ### Débarras
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 18.</em></span>
@@ -572,15 +572,25 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 
 <a id="de-minuit"></a>
 ## <span style="color:orange">A2f. Les coups de minuit</span>
-<span style="color:orange">Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit (ou si les personnages atteignent la porte avec les ossements des enfants), elle prend forme dans sa chambre, descend le grand escalier et attend les personnages dans le grand hall, entre eux et la porte d’entrée. Lorsqu’ils la voient pour la première fois, lisez :</span>
+<span style="color:orange">Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit, elle prend forme dans sa chambre, et cherchera les personnages salle par salle. Si les personnages atteignent la porte d’entrée avec les ossements des enfants, elle apparaît aussitôt au pied de l’escalier, derrière eux.</span>
+
+<span style="color:orange">Si elle trouve les personnages après minuit, lisez :</span>
 
 <div class="description">
-<p><span style="color:orange">Une femme se tient au pied du grand escalier, une main posée sur la rampe. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</span></p>
-<p><span style="color:orange">« On ne quitte pas ma maison en emportant ce qui m’appartient. »</span></p>
+<p><span style="color:orange">Dans le couloir, des pas mesurés approchent sans hâte, puis la porte s’ouvre. Une femme se tient sur le seuil, une main posée sur le chambranle. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</span></p>
+<p><span style="color:orange">« On ne quitte pas ma maison. »</span></p>
+<p><span style="color:orange">La porte claque derrière elle alors que la femme fonce vers vous avec une dextérité inattendue.</span></p>
+</div>
+
+<span style="color:orange">Si les personnages atteignent la porte d’entrée avec les ossements des enfants, lisez :</span>
+
+<div class="description">
+<p><span style="color:orange">Derrière vous, une marche gémit. Une femme se tient au pied du grand escalier, une main posée sur la rampe. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</span></p>
+<p><span style="color:orange">« On ne quitte pas ma maison. »</span></p>
 <p><span style="color:orange">La porte d’entrée claque et se verrouille brutalement alors que la femme fonce vers vous avec une dextérité inattendue.</span></p>
 </div>
 
-<span style="color:orange">Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> combat jusqu’à la mort. Sous sa forme de noble, elle donne des ordres brefs (« Tenez-vous droits », « Vous n’avez rien à faire ici ») et cherche à agripper celui qui la menace le plus. Sous sa forme de nothic, sa voix reste la même, mais les ordres font place aux accusations.</span>
+<span style="color:orange">Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> combat jusqu’à la mort. Sous sa forme de noble, elle donne des ordres brefs (« Tenez-vous droits », « Vous n’avez rien à faire ici ») et cherche à agripper celui qui la menace le plus.</span>
 
 <a id="de-combat-elisabeth"></a>
 > [!combat]- **<span style="color:orange">Combat : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a></span>**
@@ -606,7 +616,7 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 <div class="statblock" style="color:orange">
 <a id="de-elisabeth-noble"></a>
 <h2>Elisabeth Durst : Noble corrompue</h2>
-<em>Aberration de taille M, loyale mauvaise ; profil maison, phase 1, cadre 2014</em>
+<em>Aberration de taille M, loyale mauvaise</em>
 <hr>
 <strong>Classe d’armure</strong> 15<br>
 <strong>Points de vie</strong> 93 pour cinq PJ ; 56 / 75 / 112 pour trois / quatre / six PJ<br>
@@ -619,31 +629,30 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 <strong>Langues</strong> commun<br>
 <strong>Facteur de puissance</strong> 4 ; aucun PX de combat à cumuler au jalon
 <hr>
-<p><strong><em>Incarnation.</em></strong> Elisabeth est une aberration dès cette forme. Elle n’a ni résistance aux dégâts, ni résistance légendaire, ni action légendaire. Les sorts réservés aux humanoïdes ne la ciblent pas valablement.</p>
-<p><strong><em>Déchirure.</em></strong> À 0 PV, Elisabeth passe immédiatement à sa seconde forme, à la même place et au même rang d’initiative. Aucun tour, mouvement, attaque ni réaction supplémentaire n’est accordé. Les effets et états qui l’affectent conservent leurs durées et leurs conditions de fin. Ses tissus relâchent toute cible agrippée ou entravée par ses propres capacités. Les dégâts excédentaires ne débordent pas sur la seconde réserve ; une attaque suivante de la même action peut atteindre la nouvelle forme. Cette transition remplace la chute finale de la première forme, même si l’attaque de mêlée avait été annoncée non létale : une réserve de PV reste à vaincre. Aucun repos ne sépare les phases.</p>
+<p><strong><em>Incarnation.</em></strong> Elisabeth est une aberration dès cette forme. Les sorts qui ne ciblent que des humanoïdes, comme <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=charme-personne">charme-personne</a></em> ou <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne">immobilisation de personne</a></em>, sont sans effet sur elle.</p>
+<p><strong><em>Déchirure.</em></strong> À 0 PV, Elisabeth passe immédiatement à sa seconde forme, à la même place et au même rang d’initiative. Aucun tour, mouvement, attaque ni réaction supplémentaire n’est accordé. Les effets et états qui l’affectent conservent leurs durées et leurs conditions de fin. Ses tissus relâchent toute cible agrippée ou entravée par ses propres capacités. Les dégâts excédentaires ne débordent pas sur la seconde réserve ; une attaque suivante de la même action peut atteindre la nouvelle forme. Aucun repos ne sépare les phases.</p>
 <h3>Actions</h3>
 <p><strong><em>Autorité domestique.</em></strong> Elisabeth effectue deux attaques, au choix Poigne impérieuse ou Éclat du foyer. Elle peut remplacer l’une d’elles par le Drap mortuaire.</p>
-<p><strong><em>Poigne impérieuse.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 10 pieds, une cible. Touché : 14 (2d10 + 3) dégâts contondants. Une cible de taille M ou inférieure est agrippée (évasion DD 13). Elisabeth ne peut agripper ainsi qu’une seule créature à la fois ; elle doit la relâcher avant d’en agripper une autre. Une victime ou un allié adjacent à elle peut consacrer son action à un test de Force (Athlétisme) ou de Dextérité (Acrobaties) DD 13 pour mettre fin à cette poigne : le secours par un allié est une règle particulière de cette capacité. L’agrippement cesse aussi si la cible est à plus de 10 pieds d’Elisabeth, ou si Elisabeth est incapable d’agir.</p>
-<p><strong><em>Éclat du foyer.</em></strong> Attaque à distance : +5 au toucher, portée 30 pieds, jusqu’à deux cibles situées à 5 pieds ou moins l’une de l’autre. Touché : 5 (1d4 + 3) dégâts perforants. Par exception maison, la présence d’un ennemi au contact ne lui impose pas de désavantage à cette attaque.</p>
-<p><strong><em>Drap mortuaire.</em></strong> À la place d’une de ses attaques, Elisabeth cible la créature qu’elle agrippe. Celle-ci effectue une sauvegarde de Force DD 13. Échec : 8 (2d4 + 3) dégâts contondants et état entravé jusqu’au début du prochain tour d’Elisabeth. Réussite : aucun dégât et fin de l’agrippement. Le drap n’engloutit pas la cible et ne l’empêche pas de respirer. Mettre fin à la Poigne met également fin à cette entrave.</p>
+<p><strong><em>Poigne impérieuse.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 10 pieds, une cible. Touché : 14 (2d10 + 3) dégâts contondants. Une cible de taille M ou inférieure est agrippée (évasion DD 13). Elisabeth ne peut agripper ainsi qu’une seule créature à la fois ; elle doit la relâcher avant d’en agripper une autre. La cible, ou un personnage au contact, peut utiliser son action pour tenter un test de Force (Athlétisme) ou de Dextérité (Acrobaties) DD 13 ; en cas de réussite, la cible est libérée. L’agrippement cesse aussi si la cible est à plus de 10 pieds d’Elisabeth, ou si Elisabeth est incapable d’agir.</p>
+<p><strong><em>Éclat du foyer.</em></strong> Attaque à distance : +5 au toucher, portée 30 pieds, jusqu’à deux cibles situées à 5 pieds ou moins l’une de l’autre. Touché : 5 (1d4 + 3) dégâts perforants. Elle n’a pas de désavantage à cette attaque quand un ennemi se trouve à son contact.</p>
+<p><strong><em>Drap mortuaire.</em></strong> À la place d’une de ses attaques, Elisabeth cible la créature qu’elle agrippe. Celle-ci effectue une sauvegarde de Force DD 13. Échec : 8 (2d4 + 3) dégâts contondants et état entravé jusqu’au début du prochain tour d’Elisabeth. Réussite : aucun dégât et fin de l’agrippement. Mettre fin à la Poigne met également fin à cette entrave.</p>
 <h3>Action bonus</h3>
 <p><strong><em>À genoux (une fois dans cette phase).</em></strong> Jusqu’à deux créatures choisies par Elisabeth à 10 pieds ou moins d’elle effectuent une sauvegarde de Force DD 13. En cas d’échec, elles tombent à terre. Aucun dégât.</p>
 <h3>Réaction</h3>
-<p>Elisabeth dispose d’une seule réaction, récupérée au début de son tour selon la règle normale. Cette réserve est partagée avec la seconde forme et avec une éventuelle attaque d’opportunité.</p>
-<p><strong><em>Démarche impossible.</em></strong> Après avoir subi les dégâts d’une attaque à distance ou d’un sort, Elisabeth peut se déplacer d’au plus 10 pieds, sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce n’est pas une téléportation ; une vitesse réduite à 0 empêche ce déplacement.</p>
+<p><strong><em>Démarche impossible.</em></strong> Après avoir subi les dégâts d’une attaque à distance ou d’un sort, Elisabeth peut se déplacer d’au plus 10 pieds, sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
 </div>
 
 <span style="color:orange">Lorsque la première forme tombe à 0 point de vie, lisez :</span>
 
 <div class="description">
-<p><span style="color:orange"><a href="../Appendices/Non-Player%20Characters.md#de-elisabeth-durst">Elisabeth</a> ouvre la bouche, mais c’est sa poitrine qui se fend. Une déchirure remonte à travers la robe et la peau, comme si une couture trop tendue venait de céder. Un grand œil humide s’ouvre au milieu de ce qui était son visage.</span></p>
+<p><span style="color:orange"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> ouvre la bouche, mais c’est sa poitrine qui se fend. Une déchirure remonte à travers la robe et la peau, comme si une couture trop tendue venait de céder. Un grand œil humide s’ouvre au milieu de ce qui était son visage.</span></p>
 <p><span style="color:orange">Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous accueille : « Je vois vos petits secrets, mes enfants. »</span></p>
 </div>
 
 <div class="statblock" style="color:orange">
 <a id="de-elisabeth-nothic"></a>
 <h2>Elisabeth Durst : Nothic</h2>
-<em>Aberration de taille M, loyale mauvaise ; profil maison, phase 2, cadre 2014</em>
+<em>Aberration de taille M, loyale mauvaise</em>
 <hr>
 <strong>Classe d’armure</strong> 15<br>
 <strong>Points de vie</strong> 93 pour cinq PJ ; 56 / 75 / 112 pour trois / quatre / six PJ<br>
@@ -657,32 +666,35 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 <strong>Facteur de puissance</strong> 4 ; aucun PX de combat à cumuler au jalon
 <hr>
 <p><strong><em>Vue aiguisée.</em></strong> Elisabeth a l’avantage aux tests de Sagesse (Perception) liés à la vue.</p>
-<p><strong><em>Même Elisabeth.</em></strong> Cette forme conserve les effets et états subis pendant la première, le rang d’initiative et la réaction disponible ou dépensée. Elle n’a ni résistance aux dégâts, ni résistance légendaire, ni action légendaire. Les capacités de la première forme sont remplacées par celles-ci.</p>
-<p><strong><em>Œil béant.</em></strong> Après avoir utilisé Regard de corruption ou Lecture de secret, Elisabeth expose son œil jusqu’au début de son prochain tour. La première attaque qui la touche pendant cette ouverture lui inflige 1d6 dégâts supplémentaires du même type que l’attaque, puis l’ouverture cesse. Le MJ décrit clairement la vulnérabilité. Aucun critique automatique ; un effet reposant seulement sur une sauvegarde ne déclenche pas ce bonus. Plusieurs expositions avant le même début de tour ne cumulent pas les dés.</p>
+<p><strong><em>Œil béant.</em></strong> Après avoir utilisé Regard de corruption ou Lecture de secret, Elisabeth expose son œil jusqu’au début de son prochain tour. La première attaque qui la touche pendant cette ouverture lui inflige 1d6 dégâts supplémentaires du même type que l’attaque, puis l’ouverture cesse. Décrivez aux joueurs l’œil grand ouvert et humide, pour qu’ils comprennent qu’il faut frapper maintenant. Plusieurs expositions avant le même début de tour ne cumulent pas les dés.</p>
 <h3>Actions</h3>
 <p><strong><em>Griffes.</em></strong> Elisabeth effectue trois attaques de Griffe.</p>
 <p><strong><em>Griffe.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 5 pieds, une cible. Touché : 14 (2d10 + 3) dégâts tranchants.</p>
 <p><strong><em>Regard de corruption.</em></strong> À la place des Griffes, Elisabeth choisit une créature qu’elle voit à 30 pieds ou moins. La cible effectue une sauvegarde de Constitution DD 13. Échec : 14 (4d6) dégâts nécrotiques ; réussite : aucun dégât. Cette action expose son œil.</p>
 <h3>Action bonus</h3>
-<p><strong><em>Lecture de secret (une fois dans cette phase).</em></strong> Elisabeth choisit une créature qu’elle voit à 30 pieds ou moins. Elle oppose son test de Sagesse (Intuition) +4 au test de Charisme (Tromperie) de la cible. Seule une victoire stricte lui apprend un fait ou un secret réel ; une égalité protège la cible. Une cible immunisée à l’état charmé gagne automatiquement cette opposition. Le fait révélé existe dans l’histoire du personnage ou est choisi avec son joueur ; n’inventez pas de crime à sa place. Aucun dégât ni désavantage additionnel. Cette lecture expose l’œil, qu’elle réussisse ou non.</p>
+<p><strong><em>Lecture de secret (une fois dans cette phase).</em></strong> Elisabeth choisit une créature qu’elle voit à 30 pieds ou moins. Elle oppose son test de Sagesse (Intuition) +4 au test de Charisme (Tromperie) de la cible. Si elle l’emporte, elle apprend un secret réel du personnage et le dit à voix haute, devant ses compagnons. Une cible immunisée à l’état charmé gagne automatiquement cette opposition. Le fait révélé existe dans l’histoire du personnage ou est choisi avec son joueur ; n’inventez pas de crime à sa place. Aucun dégât ni désavantage additionnel. Cette lecture expose l’œil, qu’elle réussisse ou non.</p>
 <h3>Réaction</h3>
-<p>Une seule réaction au total, partagée avec la première forme et avec une éventuelle attaque d’opportunité ; elle revient au début du tour normal.</p>
-<p><strong><em>Recul convulsif.</em></strong> Après avoir subi des dégâts, Elisabeth peut se déplacer d’au plus 10 pieds sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce mouvement n’est pas une téléportation et ne fonctionne pas si sa vitesse est réduite à 0.</p>
+<p><strong><em>Recul convulsif.</em></strong> Après avoir subi des dégâts, Elisabeth peut se déplacer d’au plus 10 pieds sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
 </div>
 
 <a id="de-melodie"></a>
-<span style="color:orange">***La Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>.*** Une fois pendant le combat, un personnage qui connaît la *Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>* (voir le [salon de musique](#en-conservatory) et la [suite de la nourrice](#en-nursemaids-suite)) peut consacrer son action à la fredonner ou à la jouer en évoquant <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> ou <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> perd sa réaction jusqu’au début de son prochain tour. Sous sa forme de nothic, elle expose aussi son œil, comme le décrit son trait *Œil béant*.</span>
+<span style="color:orange">***La Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>.*** Une fois pendant le combat, un personnage qui connaît la *Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>* (voir le [salon de musique](#en-conservatory) et la [suite de la nourrice](#en-nursemaids-suite)) peut consacrer son action à la fredonner ou à la jouer en évoquant <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> ou <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> s’arrête, les mains plaquées sur les oreilles, et siffle : « Pas cette chanson. Pas dans ma maison. » Elle perd sa réaction jusqu’au début de son prochain tour et a le désavantage à ses jets d’attaque jusqu’à la fin de son prochain tour. Sous sa forme de nothic, elle expose aussi son œil, comme le décrit son trait *Œil béant*.</span>
 
 <a id="en-a2h-escape-from-death-house" data-traduction="ancre"></a>
 ## <span style="color:orange">A2g.</span> S’échapper de la Maison de la Mort
 <span style="color:orange">Lorsqu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> meurt, lisez :</span>
 
 <div class="description">
-<p><span style="color:orange">Le corps s’affaisse au pied de l’escalier et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit entre brutalement dans le hall.</span></p>
-<p><span style="color:orange">La brume environnante semble s’être retirée.</span></p>
+<p><span style="color:orange">Le corps s’affaisse et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit s’engouffre dans la maison.</span></p>
 </div>
 
-<span style="color:orange">Les personnages peuvent dorénavant aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>, ils peuvent remonter au grenier les chercher. Ils ne repartent qu’avec ces restes, pour les enterrer comme ils l’ont promis (voir [A3](#en-a3-outside-death-house)) ; ceux de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> restent dans la maison.</span>
+<span style="color:orange">Lorsque les personnages arrivent à la porte d’entrée, lisez :</span>
+
+<div class="description">
+<p><span style="color:orange">Par la porte ouverte, vous voyez la clairière sous la lune : la brume a reculé jusqu’à la lisière des bois.</span></p>
+</div>
+
+<span style="color:orange">Les personnages peuvent dorénavant aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>, ils peuvent remonter au grenier les chercher. Ils peuvent emporter ces ossements pour les enterrer comme les enfants l’ont demandé (voir [A3](#en-a3-outside-death-house)).</span>
 
 <span style="color:orange">La maison ne s’effondre qu’une fois que tous les personnages en sont sortis.</span>
 
@@ -690,7 +702,7 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 # A3. À l’extérieur de la Maison de la Mort
 Lorsque les personnages quittent la Maison de la Mort, <span style="color:orange">la meute est partie</span>, et les brumes qui entouraient la maison ont disparu. La nuit est tombée depuis longtemps, et la lune décroissante est haute dans le ciel. <span style="color:orange">(Dans la maison, le temps ne s’écoule pas comme au-dehors : les personnages en ressortent toujours dans la nuit du 27 au 28 Octyavr.)</span>
 
-<span style="color:orange">La maison se dresse</span> dans une sombre clairière au commencement de la <span class="citation">vieille route de Svalich (p. 33)</span>. La route part vers l’ouest. À l’est s’étendent des bois obscurs et sans fin, emplis des <span class="citation"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mists-of-ravenloft">brumes de Ravenloft</a> (p. 23)</span>.
+<span style="color:orange">La maison se dresse</span> dans une sombre clairière au commencement de la <span class="citation">vieille route de Svalich (p. 33)</span>. <span style="color:orange">Un grand cerisier aux branches nues se dresse au bord de la clairière.</span> La route part vers l’ouest. À l’est s’étendent des bois obscurs et sans fin, emplis des <span class="citation"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mists-of-ravenloft">brumes de Ravenloft</a> (p. 23)</span>.
 
 La maison s’effondre alors <span style="color:orange">sur elle-même. Il n’en reste qu’un amas de pierres noircies.</span> Si les personnages l’ont encore, l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> tombe en poussière.
 
@@ -700,11 +712,11 @@ En examinant les alentours, les personnages aperçoivent rapidement le sommet d�
 
 Les personnages peuvent facilement conclure que la ruine semble offrir un endroit sûr pour passer la nuit. <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> proposent de monter la garde pendant leur repos, surveillant les bois et les réveillant si une menace apparaît.
 
-La nuit se passe sans incident. Au réveil, le lendemain matin, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demandent aux personnages d’enterrer leurs restes avant de poursuivre, afin qu’ils puissent enfin reposer en paix. (Les esprits des enfants n’iront pas plus loin en Barovie et les supplient plutôt de leur accorder le repos.) Si leurs restes sont enterrés ici, ils remercient les personnages puis disparaissent.
+La nuit se passe sans incident. <span style="color:orange">Les personnages enterrent les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> quand ils le souhaitent. S’ils le font au pied du grand cerisier, comme les enfants l’ont demandé, <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> serre sa sœur contre lui et <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> murmure : « Merci. Ne restez pas dans les bois quand il fait nuit. » Les deux enfants pâlissent comme la brume au soleil, puis disparaissent. S’ils les enterrent ailleurs, les enfants ne se manifestent pas. Si les personnages n’ont pas les os, les enfants restent à la lisière de la clairière et ne les suivent pas sur la route.</span>
 
-Les personnages trouvent le début de la vieille route de Svalich à une courte distance de la tour, à travers les bois. [L’arc B : Bienvenue en Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md) commence alors.
+<span style="color:orange">Au matin, les personnages regagnent la vieille route de Svalich, à quelques minutes de marche de la tour.</span> [L’arc B : Bienvenue en Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md) commence alors.
 
-**_Jalon_**. S’échapper de la Maison de la Mort constitue un jalon de l’histoire. Lorsque le groupe commence son premier repos long après sa fuite, accordez <span style="color:orange">600 PX</span> à chaque personnage. (Cela devrait lui permettre d’atteindre le niveau 3.)
+**_Jalon_**. S’échapper de la Maison de la Mort constitue un jalon de l’histoire. Lorsque le groupe commence son premier repos long après sa fuite, accordez <span style="color:orange">400 PX</span> à chaque personnage. (Cela devrait lui permettre d’atteindre le niveau 3.)
 <a id="en-design-notes-death-house" data-traduction="ancre"></a>
 # Notes de conception : la Maison de la Mort
 ***L’arrivée.*** Les illusions de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> ont été délibérément retirées de cette version afin que les personnages entrent dans la maison <span style="color:orange">pour y chercher refuge</span> et fassent confiance aux véritables enfants Durst lorsqu’ils les rencontrent.
