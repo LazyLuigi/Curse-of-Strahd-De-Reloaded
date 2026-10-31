@@ -5,7 +5,7 @@ Considérez *La Malédiction de <a href="../Appendices/Index%20des%20personnages
 > [!warning]+ **Une toute nouvelle Barovie**
 > *La Malédiction de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> : Reloaded* est conçu pour remplacer entièrement l'aventure originale, *La Malédiction de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>*, dont il ne reprend le contenu que par renvoi.
 > 
-> Par exemple, si ce guide indique : « Cette zone correspond pour l'essentiel à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », ou « Les personnages passent par <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », cela signifie que vous devez utiliser tout le contenu de cette section du livre original, **sauf lorsque le présent guide le contredit ou le remplace.**
+> Par exemple, si ce guide indique : « Cette zone correspond pour l'essentiel à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », ou « Les joueurs passent par <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span> », cela signifie que vous devez utiliser tout le contenu de cette section du livre original, **sauf lorsque le présent guide le contredit ou le remplace.**
 > 
 > Si ce guide ne fait pas référence à un élément particulier de l'aventure originale, comme une rencontre aléatoire ou un détail de l'univers, **considérez qu'il n'existe pas.**
 

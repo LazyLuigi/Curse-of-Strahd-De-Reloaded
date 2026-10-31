@@ -11,6 +11,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - À l’étang de Tser, [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) reconnaît les personnages et les salue avec entrain.
 - L’annexe des PNJ présente brièvement [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst).
 - Retrait de la note de conception sur les accroches de Reloaded.
+- Comme chez DragnaCarta, le guide parle partout des « joueurs » ; « personnage » reste pour la figure jouée, les PNJ et là où il écrit « character ». Plus de « PJ ».
 
 <a id="de-arc-a-2026-10-30"></a>
 # 30 octobre 2026 : Arc A et traduction

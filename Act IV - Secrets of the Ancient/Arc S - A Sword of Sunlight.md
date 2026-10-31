@@ -1829,7 +1829,7 @@ Si le joueur traverse l’arche d’ambre en portant la poignée de l’*<a href
 
 <a id="en-patrinas-revenge" data-traduction="ancre"></a>
 ### La vengeance de Patrina
-Si un joueur sort du [sarcophage du Vampyr](#en-the-vampyrs-sarcophagus) après avoir obtenu l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>*, lisez ou paraphrasez le texte suivant à voix haute aux autres joueurs, en remplaçant « \_\_\_\_\_\_\_\_\_ » par le nom du personnage qui ressort :
+Si un joueur sort du [sarcophage du Vampyr](#en-the-vampyrs-sarcophagus) après avoir obtenu l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>*, lisez ou paraphrasez le texte suivant à voix haute aux autres joueurs, en remplaçant « \_\_\_\_\_\_\_\_\_ » par le nom du joueur qui ressort :
 
 <div class="description">
 <p>Vous voyez la main de &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; s’enfoncer dans le sarcophage ; l’ambre ondule autour d’elle comme de l’eau. Puis, lentement, tandis que les yeux de &#95;&#95;&#95;&#95;&#95;&#95;&#95; s’ouvrent à nouveau, sa main se retire peu à peu de la surface ambrée, les doigts cette fois refermés sur une poignée d’épée en platine.</p>

@@ -5,7 +5,7 @@
 
 <a id="de-loic-de-hauterive"></a>
 ### <span style="color:orange">Loïc de Hauterive</span>
-<span style="color:orange">***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les personnages sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).</span>
+<span style="color:orange">***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les joueurs sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).</span>
 
 <a id="de-stanimir"></a>
 ### <span style="color:orange">Stanimir</span>
@@ -16,12 +16,12 @@
 
 <a id="de-elisabeth-durst"></a>
 ### <span style="color:orange">Elisabeth Durst</span>
-<span style="color:orange">***Rôle.*** Maîtresse de la Maison de la Mort. Abandonnée de ses fidèles, elle est morte seule dans sa folie. À minuit, elle s’éveille et cherche les personnages pour les affronter, sous deux formes : noble corrompue, puis nothic. Voir [A2f. Les coups de minuit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-minuit).</span>
+<span style="color:orange">***Rôle.*** Maîtresse de la Maison de la Mort. Abandonnée de ses fidèles, elle est morte seule dans sa folie. À minuit, elle s’éveille et cherche les joueurs pour les affronter, sous deux formes : noble corrompue, puis nothic. Voir [A2f. Les coups de minuit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-minuit).</span>
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst
 **Conseils d’interprétation**
-***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les personnages.
+***Résonance.*** Rose doit susciter la compassion par ses incertitudes et ses peurs, l’affection par son dévouement envers Thorn, et la gratitude par les efforts sincères qu’elle déploie pour aider les joueurs.
 
 ***Émotions.*** Rose éprouve le plus souvent de l’appréhension, de la curiosité, de la défiance ou de l’audace.
 
@@ -57,7 +57,7 @@
 <a id="en-ismark-kolyanovich" data-traduction="ancre"></a>
 ### Ismark Kolyanovich
 **Conseils d’interprétation**
-***Résonance.*** Ismark doit flatter les personnages par l’intérêt et l’empathie sincères qu’il leur porte, susciter la compassion par sa culpabilité et son désespoir, l’affection par son désir inquiet de sortir de l’ombre de son ancêtre, et la gratitude par sa bienveillance et son aide.
+***Résonance.*** Ismark doit flatter les joueurs par l’intérêt et l’empathie sincères qu’il leur porte, susciter la compassion par sa culpabilité et son désespoir, l’affection par son désir inquiet de sortir de l’ombre de son ancêtre, et la gratitude par sa bienveillance et son aide.
 
 ***Émotions.*** Ismark se sent le plus souvent soucieux, coupable, amical, mélancolique, défiant, plein d’espoir, désespéré ou reconnaissant.
 
@@ -74,7 +74,7 @@
 <a id="en-ireena-kolyana" data-traduction="ancre"></a>
 ### Ireena Kolyana
 **Conseils d’interprétation**
-***Résonance.*** Ireena doit flatter les personnages par l’intérêt sincère qu’elle porte à leurs objectifs et à leurs centres d’intérêt, susciter la compassion par sa culpabilité et sa peur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, l’affection par sa détermination à continuer d’avancer et la gratitude par ses efforts pour aider les personnages à réussir.
+***Résonance.*** Ireena doit flatter les joueurs par l’intérêt sincère qu’elle porte à leurs objectifs et à leurs centres d’intérêt, susciter la compassion par sa culpabilité et sa peur de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, l’affection par sa détermination à continuer d’avancer et la gratitude par ses efforts pour aider les joueurs à réussir.
 
 ***Émotions.*** Ireena se sent le plus souvent curieuse, pensive, mélancolique, coupable, obstinée, joyeuse, déterminée, défiante ou anxieuse.
 
@@ -108,7 +108,7 @@
 <a id="en-parriwimple" data-traduction="ancre"></a>
 ### Parriwimple
 **Conseils d’interprétation**
-***Résonance.*** Parriwimple doit susciter la compassion par la perte de ses parents, l’affection par ses manières enfantines et sa persévérance optimiste, et flatter les personnages par sa fascination pour leurs armes et leurs vêtements exotiques.
+***Résonance.*** Parriwimple doit susciter la compassion par la perte de ses parents, l’affection par ses manières enfantines et sa persévérance optimiste, et flatter les joueurs par sa fascination pour leurs armes et leurs vêtements exotiques.
 
 ***Émotions.*** Parriwimple éprouve le plus souvent de la curiosité, de l’espoir, de l’émerveillement, de la mélancolie ou de la confusion.
 
@@ -161,7 +161,7 @@
 <a id="en-madam-eva" data-traduction="ancre"></a>
 #### madame Eva
 **Conseils d’interprétation**
-***Résonance.*** Madame Eva doit susciter le malaise par sa connaissance intime du passé des personnages, la gratitude par son dévouement envers leur quête, et les rassurer par la certitude de ses prédictions.
+***Résonance.*** Madame Eva doit susciter le malaise par sa connaissance intime du passé des joueurs, la gratitude par son dévouement envers leur quête, et les rassurer par la certitude de ses prédictions.
 
 ***Émotions.*** Madame Eva éprouve le plus souvent de l’amusement, de la gravité, de l’inquiétude ou de la contemplation.
 
@@ -264,7 +264,7 @@
 <a id="en-ludmilla-vilisevic" data-traduction="ancre"></a>
 ## Ludmilla Vilisevic
 **Conseils d’interprétation**
-***Résonance.*** Ludmilla doit susciter l’irritation par son refus de se laisser provoquer par les personnages (et son apparente incapacité à s’emporter), le malaise par sa personnalité détachée et analytique, et la colère par sa condescendance et ses insultes élaborées.
+***Résonance.*** Ludmilla doit susciter l’irritation par son refus de se laisser provoquer par les joueurs (et son apparente incapacité à s’emporter), le malaise par sa personnalité détachée et analytique, et la colère par sa condescendance et ses insultes élaborées.
 
 ***Émotions.*** Ludmilla se sent le plus souvent intriguée, agacée, pensive ou légèrement amusée.
 
@@ -335,11 +335,11 @@
 <a id="en-anastrasya-karelova" data-traduction="ancre"></a>
 ## Anastrasya Karelova
 **Conseils d’interprétation**
-***Résonance.*** Anastrasya doit flatter les personnages par ses compliments et son charme, susciter la méfiance par ses tentatives dissimulées pour percer leurs secrets, et le dégoût par son indifférence au sort des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a>.
+***Résonance.*** Anastrasya doit flatter les joueurs par ses compliments et son charme, susciter la méfiance par ses tentatives dissimulées pour percer leurs secrets, et le dégoût par son indifférence au sort des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-barovians">Baroviens</a>.
 
 ***Émotions.*** Anastrasya se sent le plus souvent calme, amusée, satisfaite ou intriguée.
 
-***Motivations.*** Anastrasya veut écarter Volenta, Ludmilla et les personnages de la compétition pour l’affection de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, si possible en les dressant les uns contre les autres.
+***Motivations.*** Anastrasya veut écarter Volenta, Ludmilla et les joueurs de la compétition pour l’affection de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, si possible en les dressant les uns contre les autres.
 
 ***Inspirations.*** Pour interpréter Anastrasya, inspirez-vous de Lara Raith (*Les Dossiers Dresden*), de Margaery Tyrell (*Game of Thrones*) et d’Irène Adler (*Sherlock Holmes*).
 
@@ -385,7 +385,7 @@
 <a id="en-escher" data-traduction="ancre"></a>
 ## Escher
 **Conseils d’interprétation**
-***Résonance.*** Escher doit amuser et flatter les personnages par sa séduction flamboyante, les irriter par ses commentaires sarcastiques ou condescendants, et finir par susciter leur compassion pour sa culpabilité inavouée : en réveillant <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, il a contribué au malheur de ses amis et de ses voisins.
+***Résonance.*** Escher doit amuser et flatter les joueurs par sa séduction flamboyante, les irriter par ses commentaires sarcastiques ou condescendants, et finir par susciter leur compassion pour sa culpabilité inavouée : en réveillant <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, il a contribué au malheur de ses amis et de ses voisins.
 
 ***Émotions.*** Escher se sent le plus souvent agacé, curieux, en colère, suffisant, anxieux, craintif, joueur, espiègle, amusé, coupable, amer, plein de regrets ou honteux.
 
@@ -527,7 +527,7 @@
 <a id="en-gertruda" data-traduction="ancre"></a>
 ## Gertruda
 **Conseils d’interprétation**
-***Résonance.*** Gertruda doit susciter l’affection par son idéalisme et sa pitié pour Escher, la compassion par son dévouement envers Doru et sa mère, et flatter les personnages par sa gratitude sincère de l’avoir sauvée.
+***Résonance.*** Gertruda doit susciter l’affection par son idéalisme et sa pitié pour Escher, la compassion par son dévouement envers Doru et sa mère, et flatter les joueurs par sa gratitude sincère de l’avoir sauvée.
 
 ***Émotions.*** Gertruda se sent le plus souvent curieuse, pensive, enthousiaste ou inquiète.
 
@@ -581,7 +581,7 @@
 <a id="en-morgantha-dream-peddler" data-traduction="ancre"></a>
 ## Morgantha, marchande de rêves
 **Conseils d’interprétation**
-***Résonance.*** Lorsque les personnages la rencontrent, Morgantha doit les flatter et les réconforter par son charme de grand-mère, susciter la gratitude par sa générosité en compliments et en « échantillons gratuits », l’affection par ses plaintes sur les petits tracas d’une vieille femme, et une légère méfiance par l’assurance et l’aisance avec lesquelles elle voyage seule sur une route dangereuse.
+***Résonance.*** Lorsque les joueurs la rencontrent, Morgantha doit les flatter et les réconforter par son charme de grand-mère, susciter la gratitude par sa générosité en compliments et en « échantillons gratuits », l’affection par ses plaintes sur les petits tracas d’une vieille femme, et une légère méfiance par l’assurance et l’aisance avec lesquelles elle voyage seule sur une route dangereuse.
 
 ***Émotions.*** Morgantha semble le plus souvent joyeuse, amusée ou pensive.
 
@@ -774,7 +774,7 @@
 <a id="en-father-lucian-petrovich" data-traduction="ancre"></a>
 ### père Lucian Petrovich
 **Conseils d’interprétation**
-***Résonance.*** Le père Petrovich doit susciter la gratitude par son hospitalité, flatter les personnages par son écoute et son empathie, les réconforter par sa chaleur, sa sérénité et sa sagesse, et susciter leur compassion par son inquiétude concernant les ossements disparus et la sécurité de ses fidèles.
+***Résonance.*** Le père Petrovich doit susciter la gratitude par son hospitalité, flatter les joueurs par son écoute et son empathie, les réconforter par sa chaleur, sa sérénité et sa sagesse, et susciter leur compassion par son inquiétude concernant les ossements disparus et la sécurité de ses fidèles.
 
 ***Émotions.*** Le père Petrovich éprouve le plus souvent de la réflexion, de l’espoir, de l’inquiétude ou de la compassion.
 
@@ -882,7 +882,7 @@
 Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de Victor contient les sorts _communication à distance_ et _peur_, mais pas _délivrance des malédictions._
 
 **Conseils d’interprétation**
-***Résonance.*** Victor doit agacer les personnages par sa méfiance et sa condescendance, susciter leur compassion par son anxiété, sa frustration et son désespoir, et leur affection par sa détermination obstinée à guérir <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella</a>.
+***Résonance.*** Victor doit agacer les joueurs par sa méfiance et sa condescendance, susciter leur compassion par son anxiété, sa frustration et son désespoir, et leur affection par sa détermination obstinée à guérir <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella</a>.
 
 ***Émotions.*** Victor se sent le plus souvent curieux, frustré, méfiant, enthousiaste, ennuyé, anxieux, désespéré ou déterminé.
 
@@ -921,7 +921,7 @@ Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de 
 <a id="en-luvash" data-traduction="ancre"></a>
 ### Luvash
 **Conseils d’interprétation**
-***Résonance.*** Luvash doit susciter la compassion des personnages par son chagrin, leur affection par son dévouement envers sa fille, leur irritation par son obstination et un léger malaise par son tempérament colérique.
+***Résonance.*** Luvash doit susciter la compassion des joueurs par son chagrin, leur affection par son dévouement envers sa fille, leur irritation par son obstination et un léger malaise par son tempérament colérique.
 
 ***Émotions.*** Luvash se sent le plus souvent en colère, mélancolique, anxieux, coupable, désespéré, frustré, joyeux, satisfait, amusé ou reconnaissant.
 
@@ -938,7 +938,7 @@ Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de 
 <a id="en-arrigal" data-traduction="ancre"></a>
 ### Arrigal
 **Conseils d’interprétation**
-***Résonance.*** Arrigal doit vexer les personnages par sa légère condescendance, les troubler par sa vive curiosité et sa courtoisie joyeuse de façade, et, lorsqu’ils l’apprendront, susciter à la fois leur dégoût et leur compassion par sa décision de servir <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>.
+***Résonance.*** Arrigal doit vexer les joueurs par sa légère condescendance, les troubler par sa vive curiosité et sa courtoisie joyeuse de façade, et, lorsqu’ils l’apprendront, susciter à la fois leur dégoût et leur compassion par sa décision de servir <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>.
 
 ***Émotions.*** Arrigal se sent le plus souvent curieux, méfiant, frustré, rancunier, détendu ou amusé.
 
@@ -956,7 +956,7 @@ Le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de 
 ### Kasimir Velikov
 
 **Conseils d’interprétation**
-***Résonance.*** Kasimir doit susciter la gratitude des personnages par sa compétence et son désir sincère de les aider, les vexer quelque peu par sa condescendance, éveiller une légère méfiance par sa réserve et susciter leur compassion par sa tristesse face au sort de son peuple.
+***Résonance.*** Kasimir doit susciter la gratitude des joueurs par sa compétence et son désir sincère de les aider, les vexer quelque peu par sa condescendance, éveiller une légère méfiance par sa réserve et susciter leur compassion par sa tristesse face au sort de son peuple.
 
 ***Émotions.*** Kasimir se sent le plus souvent curieux, frustré, méfiant, enthousiaste, mélancolique, nostalgique, grave ou plein de regrets.
 
@@ -1089,7 +1089,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <a id="en-before-redemption" data-traduction="ancre"></a>
 ### Avant la rédemption
 **Conseils d’interprétation**
-***Résonance.*** L’Abbé doit susciter le malaise par son stoïcisme et ses observations régulières sur les « mortels », le dégoût par son mépris pour la vie et les valeurs humaines, la colère par son assurance souveraine et inébranlable, et la gratitude par son amabilité quelque peu déconcertante et sa volonté de guérir gratuitement les personnages de leur lycanthropie.
+***Résonance.*** L’Abbé doit susciter le malaise par son stoïcisme et ses observations régulières sur les « mortels », le dégoût par son mépris pour la vie et les valeurs humaines, la colère par son assurance souveraine et inébranlable, et la gratitude par son amabilité quelque peu déconcertante et sa volonté de guérir gratuitement les joueurs de leur lycanthropie.
 
 ***Émotions.*** L’Abbé se sent le plus souvent curieux, intrigué, froid, détaché ou, rarement, enragé.
 
@@ -1141,11 +1141,11 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 **Profil de jeu.** Consulter [Ithuriel restauré : La pénitence de l’Abbé](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md#en-the-abbots-penance) pour son profil composite et son état après la restauration.
 
 **Conseils d’interprétation**
-***Résonance.*** Ithuriel doit susciter l’affection par sa détermination à réparer le mal qu’il a fait, le réconfort par sa profonde compassion et sa sollicitude, et la gratitude par les efforts sincères qu’il déploie pour aider les personnages.
+***Résonance.*** Ithuriel doit susciter l’affection par sa détermination à réparer le mal qu’il a fait, le réconfort par sa profonde compassion et sa sollicitude, et la gratitude par les efforts sincères qu’il déploie pour aider les joueurs.
 
 ***Émotions.*** Ithuriel se sent le plus souvent pensif, chagrin, joyeux, coupable, honteux, inquiet, défiant, audacieux ou serein.
 
-***Motivations.*** Ithuriel veut réparer le mal qu’il a fait à Vasilka, aux Belview, aux Krezkov et aux personnages, et défendre l’abbaye et le village de Krezk contre ceux qui les menaceraient.
+***Motivations.*** Ithuriel veut réparer le mal qu’il a fait à Vasilka, aux Belview, aux Krezkov et aux joueurs, et défendre l’abbaye et le village de Krezk contre ceux qui les menaceraient.
 
 ***Inspirations.*** Pour interpréter Ithuriel, inspirez-vous de Zuko (*Avatar : Le Dernier Maître de l’air*), de Neji Hyûga (*Naruto*) et du père Forthill (*Les Dossiers Dresden*).
 
@@ -1157,7 +1157,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 <a id="en-vasilka" data-traduction="ancre"></a>
 ## Vasilka
 **Conseils d’interprétation**
-***Résonance.*** Vasilka doit susciter l’affection par sa douceur maladroite, sa naïveté parfois embarrassante, son immense innocence, sa soif insatiable d’apprendre et sa capacité à voir du bon dans toute situation ; la compassion par son anxiété et sa peur de fâcher l’Abbé ; et flatter les personnages par sa fascination sincère et émerveillée pour eux et leurs aventures héroïques.
+***Résonance.*** Vasilka doit susciter l’affection par sa douceur maladroite, sa naïveté parfois embarrassante, son immense innocence, sa soif insatiable d’apprendre et sa capacité à voir du bon dans toute situation ; la compassion par son anxiété et sa peur de fâcher l’Abbé ; et flatter les joueurs par sa fascination sincère et émerveillée pour eux et leurs aventures héroïques.
 
 ***Émotions.*** Vasilka se sent le plus souvent curieuse, joyeuse, pensive, timide, anxieuse, pleine d’espoir ou rêveuse.
 
@@ -1168,7 +1168,7 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 **Informations sur le personnage**
 ***Personnalité.*** Aux yeux du monde, Vasilka est une jeune fille polie, réservée et bien élevée. Avec les personnes en qui elle a confiance, elle se révèle être un esprit timide, parfois anxieux et désespérément curieux.
 
-***Moral au combat.*** Lorsque les personnages la rencontrent, Vasilka se recroquevillerait et implorerait la paix si on l’attaquait, sans se battre, même pour se défendre.
+***Moral au combat.*** Lorsque les joueurs la rencontrent, Vasilka se recroquevillerait et implorerait la paix si on l’attaquait, sans se battre, même pour se défendre.
 
 ***Relations.*** Vasilka est la création de l’Abbé et la « petite sœur » du **<a href="https://www.aidedd.org/dnd/monstres.php?vf=golem-de-chair">golem de chair</a>** dénué d’esprit de l’abbaye.
 
@@ -1178,20 +1178,20 @@ Dame Wachter possède toujours les caractéristiques d’un **<a href="https://w
 # Le Magicien des Vins
 Pour interpréter la famille Martikov, gardez les informations suivantes à l’esprit :
 
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a>** a deux ans de plus qu’Urwin et se montre généralement discret et observateur, mais n’hésite pas à prendre les choses en main si nécessaire. Il ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin et estime qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort en défendant ses convictions, et que sa fin mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a> doit flatter les personnages et susciter leur gratitude. Il se sent le plus souvent pensif, déterminé ou mélancolique.
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a>** a dix ans de moins qu’Urwin et est le frère jumeau de feu <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric Martikov</a>. Il se montre généralement vif, sarcastique et colérique. Il estime que <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> a eu tort de mépriser Urwin et que le vol de la troisième gemme enchantée n’était probablement pas la faute d’Urwin. Il affirme volontiers qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort pour rien et que toute la famille se porterait mieux s’il n’était jamais allé au château Ravenloft participer à la rébellion de Doru. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> se sent toutefois profondément trahi qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> soit parti affronter <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> sans lui. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> doit susciter l’irritation, la vexation, la compassion et l’affection des personnages. Il se sent le plus souvent frustré, agacé, mélancolique, en colère, déterminé ou amusé.
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a>** a cinq ans de plus qu’Urwin. Elle ne lui reproche pas le vol de la troisième gemme enchantée, mais partage l’avis de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> selon lequel Urwin s’est probablement trompé sur ce qu’il a vu. Elle estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est une tragédie, mais qu’il était un membre adulte des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a> et que son choix mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a> doit réconforter les personnages et susciter leur gratitude. Elle se sent le plus souvent joyeuse ou déterminée.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a>** a deux ans de plus qu’Urwin et se montre généralement discret et observateur, mais n’hésite pas à prendre les choses en main si nécessaire. Il ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin et estime qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort en défendant ses convictions, et que sa fin mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-adrian-martikov">Adrian</a> doit flatter les joueurs et susciter leur gratitude. Il se sent le plus souvent pensif, déterminé ou mélancolique.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a>** a dix ans de moins qu’Urwin et est le frère jumeau de feu <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric Martikov</a>. Il se montre généralement vif, sarcastique et colérique. Il estime que <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> a eu tort de mépriser Urwin et que le vol de la troisième gemme enchantée n’était probablement pas la faute d’Urwin. Il affirme volontiers qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est mort pour rien et que toute la famille se porterait mieux s’il n’était jamais allé au château Ravenloft participer à la rébellion de Doru. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> se sent toutefois profondément trahi qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> soit parti affronter <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> sans lui. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elvir-martikov">Elvir</a> doit susciter l’irritation, la vexation, la compassion et l’affection des joueurs. Il se sent le plus souvent frustré, agacé, mélancolique, en colère, déterminé ou amusé.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a>** a cinq ans de plus qu’Urwin. Elle ne lui reproche pas le vol de la troisième gemme enchantée, mais partage l’avis de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> selon lequel Urwin s’est probablement trompé sur ce qu’il a vu. Elle estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est une tragédie, mais qu’il était un membre adulte des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a> et que son choix mérite donc le respect. <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a> doit réconforter les joueurs et susciter leur gratitude. Elle se sent le plus souvent joyeuse ou déterminée.
 * **Dag**, qui est entré dans la famille Martikov par mariage, ne prend pas parti dans la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin, mais partage l’avis de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stefania">Stefania</a> : la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> est une tragédie, mais son choix mérite le respect. Il se sent le plus souvent amusé, pensif, joueur ou déterminé et doit susciter la gratitude, l’amusement et l’affection des personnages.
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-claudiu">Claudiu</a>** se moque de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin. Il estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> prouve clairement que résister à <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> est sans espoir et que tous ceux qui s’y essaient sont voués à l’échec. Il se sent le plus souvent austère, ennuyé, agacé, frustré ou mélancolique et doit susciter l’irritation, la vexation et la compassion des personnages.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-claudiu">Claudiu</a>** se moque de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin. Il estime que la mort d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> prouve clairement que résister à <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> est sans espoir et que tous ceux qui s’y essaient sont voués à l’échec. Il se sent le plus souvent austère, ennuyé, agacé, frustré ou mélancolique et doit susciter l’irritation, la vexation et la compassion des joueurs.
 * **Martin et <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-viggo">Viggo</a>** ignorent tout de la querelle entre <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> et Urwin, qu’ils n’ont jamais rencontré. Ils ne saisissent pas toute la nature de la révolte d’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> contre le château Ravenloft, mais en savent assez pour comprendre qu’il y est mort. Ils se sentent le plus souvent joueurs, ennuyés, craintifs, intrigués ou enthousiastes et doivent flatter les personnages et susciter leur amusement et leur affection.
-* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a>** est le patriarche de la famille Martikov et le veuf de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mirabel">Mirabel</a> Oraonova. En public, il affirme qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> était un imbécile insubordonné et désobéissant pour avoir refusé son ordre de rester à l’écart du château Ravenloft. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> est brisé à l’idée que les derniers mots qu’il a adressés à son fils avant sa mort étaient : « *Et ne reviens pas !* » <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> se sent le plus souvent agacé, irrité, satisfait ou grognon et doit susciter la vexation, la gratitude et la compassion des personnages.
+* **<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a>** est le patriarche de la famille Martikov et le veuf de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mirabel">Mirabel</a> Oraonova. En public, il affirme qu’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elric-martikov">Elric</a> était un imbécile insubordonné et désobéissant pour avoir refusé son ordre de rester à l’écart du château Ravenloft. Au fond de lui, <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> est brisé à l’idée que les derniers mots qu’il a adressés à son fils avant sa mort étaient : « *Et ne reviens pas !* » <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davian-martikov">Davian</a> se sent le plus souvent agacé, irrité, satisfait ou grognon et doit susciter la vexation, la gratitude et la compassion des joueurs.
 
 <a id="en-the-werewolf-den" data-traduction="ancre"></a>
 # Antre des loups-garous
 <a id="en-bianca-stoyanovich" data-traduction="ancre"></a>
 ## Bianca Stoyanovich
 **Conseils d’interprétation**
-***Résonance.*** Lorsqu’elle rencontre les personnages, Bianca doit susciter la compassion par son anxiété et son incertitude, et l’affection par sa bonne humeur face à un dilemme éprouvant.
+***Résonance.*** Lorsqu’elle rencontre les joueurs, Bianca doit susciter la compassion par son anxiété et son incertitude, et l’affection par sa bonne humeur face à un dilemme éprouvant.
 
 ***Émotions.*** Bianca se sent le plus souvent mélancolique, joyeuse, amusée, pensive, curieuse, désespérée ou anxieuse.
 
@@ -1261,7 +1261,7 @@ Pour interpréter la famille Martikov, gardez les informations suivantes à l’
 
 <a id="en-brother-marek" data-traduction="ancre"></a>
 ## Frère Marek
-Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférente d’un homme. Sa jovialité d’autrefois s’est desséchée en un cynisme mordant et sarcastique, et il voit le sort de l’Ordre comme la damnation méritée par ses échecs. Il n’est toutefois pas dénué d’empathie et ne souhaite sincèrement que le meilleur aux personnages, pourvu qu’ils renoncent à leurs efforts insensés pour réveiller les esprits d’Argynvostholt. L’esprit de frère Marek doit irriter et vexer les personnages tout en suscitant leur compassion. Il se sent le plus souvent mélancolique, agacé, sceptique, amer, résigné, perplexe ou désapprobateur.
+Dans la mort, frère Marek n’est plus que l’enveloppe froide et indifférente d’un homme. Sa jovialité d’autrefois s’est desséchée en un cynisme mordant et sarcastique, et il voit le sort de l’Ordre comme la damnation méritée par ses échecs. Il n’est toutefois pas dénué d’empathie et ne souhaite sincèrement que le meilleur aux joueurs, pourvu qu’ils renoncent à leurs efforts insensés pour réveiller les esprits d’Argynvostholt. L’esprit de frère Marek doit irriter et vexer les joueurs tout en suscitant leur compassion. Il se sent le plus souvent mélancolique, agacé, sceptique, amer, résigné, perplexe ou désapprobateur.
 
 <a id="en-sir-godfrey-gwilym" data-traduction="ancre"></a>
 ## messire Godfrey Gwilym

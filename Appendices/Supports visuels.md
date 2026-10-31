@@ -1,6 +1,6 @@
 # Textes français des supports visuels
 
-Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les personnages ignorent.
+Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les joueurs ignorent.
 
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup

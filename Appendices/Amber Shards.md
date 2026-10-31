@@ -15,42 +15,42 @@ Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index
 > Vous ne devez toutefois pas ajouter d’autres éclats que les joueurs pourraient obtenir.
 
 > [!info]+ **La magie des éclats**
-> Un personnage qui examine attentivement un <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> avec un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie">détection de la magie</a>* y distingue des traces de magie d’abjuration. Un personnage qui tente d’identifier un éclat avec un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=identification">identification</a>* apprend qu’il faisait autrefois partie d’une structure plus vaste destinée à contenir ou emprisonner une entité ou une créature, et qu’il conserve un lien arcanique avec son réceptacle d’origine.
+> Un joueur qui examine attentivement un <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> avec un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie">détection de la magie</a>* y distingue des traces de magie d’abjuration. Un joueur qui tente d’identifier un éclat avec un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=identification">identification</a>* apprend qu’il faisait autrefois partie d’une structure plus vaste destinée à contenir ou emprisonner une entité ou une créature, et qu’il conserve un lien arcanique avec son réceptacle d’origine.
 
 > [!info]+ **Pourquoi de l’ambre ?**
-> Un personnage qui réussit un test d’Intelligence (Arcanes) DD 15 se rappelle que l’ambre possède une propriété unique : c’est un « isolant » magique, qu’aucune forme d’énergie, magique ou divine, ne peut endommager ni traverser. Sur un résultat de 20 ou plus, le personnage se rappelle également que les énergies magiques ne peuvent traverser l’ambre que très lentement, sur une durée de plusieurs années à plusieurs décennies.
+> Un joueur qui réussit un test d’Intelligence (Arcanes) DD 15 se rappelle que l’ambre possède une propriété unique : c’est un « isolant » magique, qu’aucune forme d’énergie, magique ou divine, ne peut endommager ni traverser. Sur un résultat de 20 ou plus, le joueur se rappelle également que les énergies magiques ne peuvent traverser l’ambre que très lentement, sur une durée de plusieurs années à plusieurs décennies.
 
 <a id="en-stage-one" data-traduction="ancre"></a>
 # Premier stade
-À ce stade, le personnage est un simple possesseur de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, probablement ignorant du véritable pouvoir qu’il offre.
+À ce stade, le joueur est un simple possesseur de l’<a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, probablement ignorant du véritable pouvoir qu’il offre.
 
-La première fois que le personnage est réduit à 0 point de vie et tombe inconscient alors qu’il possède l’éclat, une silhouette sombre lui apparaît dans une vision et lui propose de l’aider à échapper au spectre de la mort et à reprendre le combat. La silhouette ne précise aucun prix et garde le silence tant que le personnage n’accepte pas son offre.
+La première fois que le joueur est réduit à 0 point de vie et tombe inconscient alors qu’il possède l’éclat, une silhouette sombre lui apparaît dans une vision et lui propose de l’aider à échapper au spectre de la mort et à reprendre le combat. La silhouette ne précise aucun prix et garde le silence tant que le joueur n’accepte pas son offre.
 
-Si le personnage accepte, il récupère tous ses points de vie. Il passe alors au deuxième stade de la corruption de l’éclat. S’il refuse, le vestige ne lui apparaît plus, à moins que le personnage ne tombe inconscient dans une situation particulièrement désespérée.
+Si le joueur accepte, il récupère tous ses points de vie. Il passe alors au deuxième stade de la corruption de l’éclat. S’il refuse, le vestige ne lui apparaît plus, à moins que le joueur ne tombe inconscient dans une situation particulièrement désespérée.
 <a id="en-stage-two" data-traduction="ancre"></a>
 # Deuxième stade
-À ce stade, le personnage connaît le pouvoir surnaturel de l’éclat, mais ne peut pas contacter le vestige pour obtenir une aide supplémentaire.
+À ce stade, le joueur connaît le pouvoir surnaturel de l’éclat, mais ne peut pas contacter le vestige pour obtenir une aide supplémentaire.
 
-La première fois que le personnage est réduit à la moitié de son maximum de points de vie ou moins au cours d’un combat, la voix de la silhouette résonne dans son esprit. Le vestige lui propose de lui accorder le pouvoir d’abattre ses ennemis. Si le personnage refuse l’offre de la voix, le vestige ne le contacte plus, à moins que le personnage ne soit réduit à la moitié de son maximum de points de vie ou moins au cours d’un combat contre un ennemi qu’il déteste particulièrement.
+La première fois que le joueur est réduit à la moitié de son maximum de points de vie ou moins au cours d’un combat, la voix de la silhouette résonne dans son esprit. Le vestige lui propose de lui accorder le pouvoir d’abattre ses ennemis. Si le joueur refuse l’offre de la voix, le vestige ne le contacte plus, à moins que le joueur ne soit réduit à la moitié de son maximum de points de vie ou moins au cours d’un combat contre un ennemi qu’il déteste particulièrement.
 
-Si le personnage accepte, il gagne un nombre de points de vie temporaires égal à deux fois son bonus de maîtrise au début de chacun de ses tours pendant 1 minute. Pendant cette durée, le personnage peut également lancer une fois un sort particulier par une action bonus, sans dépenser d’emplacement de sort et sans composantes, comme indiqué dans la section **Corruption de l’ambre** ci-dessous. (Le bonus d’attaque du sort est de +7 et son DD de sauvegarde est de 15.)
+Si le joueur accepte, il gagne un nombre de points de vie temporaires égal à deux fois son bonus de maîtrise au début de chacun de ses tours pendant 1 minute. Pendant cette durée, le joueur peut également lancer une fois un sort particulier par une action bonus, sans dépenser d’emplacement de sort et sans composantes, comme indiqué dans la section **Corruption de l’ambre** ci-dessous. (Le bonus d’attaque du sort est de +7 et son DD de sauvegarde est de 15.)
 
-Après lui avoir accordé ces bienfaits, la voix du vestige invite le personnage à communier avec son éclat s’il souhaite obtenir le pouvoir qu’il recherche. Le personnage passe alors au troisième stade de la corruption de l’éclat.
+Après lui avoir accordé ces bienfaits, la voix du vestige invite le joueur à communier avec son éclat s’il souhaite obtenir le pouvoir qu’il recherche. Le joueur passe alors au troisième stade de la corruption de l’éclat.
 <a id="en-stage-three" data-traduction="ancre"></a>
 # Troisième stade
-À ce stade, le personnage a goûté au pouvoir occulte de l’éclat et souhaite aller plus loin.
+À ce stade, le joueur a goûté au pouvoir occulte de l’éclat et souhaite aller plus loin.
 
-Le personnage peut communier avec le vestige en méditant pendant 1 minute tout en concentrant ses pensées sur l’éclat. La voix du vestige résonne alors dans son esprit et lui offre un bienfait permanent en cadeau, ainsi qu’un aperçu de toute la puissance qu’il pourra obtenir s’il se rend dans la demeure du vestige, au Temple de l’Ambre.
+Le joueur peut communier avec le vestige en méditant pendant 1 minute tout en concentrant ses pensées sur l’éclat. La voix du vestige résonne alors dans son esprit et lui offre un bienfait permanent en cadeau, ainsi qu’un aperçu de toute la puissance qu’il pourra obtenir s’il se rend dans la demeure du vestige, au Temple de l’Ambre.
 
-Si le personnage accepte, les effets suivants s’appliquent :
+Si le joueur accepte, les effets suivants s’appliquent :
 
 * Il obtient un bienfait particulier, comme indiqué dans la section **Corruption de l’ambre** ci-dessous.
-* Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu’il le fait, il gagne un nombre de niveaux d’épuisement égal au nombre de fois où il a lancé le sort. Ce nombre n’est réinitialisé que si le personnage passe trois jours entiers sans lancer le sort du vestige. (Par exemple, si un personnage lance le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond">nuage nauséabond</a>* de Fekre deux jours de suite, il reçoit un niveau d’épuisement le premier jour et deux niveaux d’épuisement le deuxième jour. Si le personnage attend trois jours avant de lancer de nouveau le sort, il ne reçoit qu’un niveau d’épuisement en le faisant ; sinon, il reçoit trois niveaux d’épuisement supplémentaires.)
-* Il subit une altération particulière, comme indiqué dans la même section ci-dessous. Cette altération est incurable sans l’aide d’un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure">restauration supérieure</a>* ou d’une magie similaire. (Un personnage peut également recevoir les soins de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a> dans [l’arc Q : Un phare éclatant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md).) Si l’altération est guérie, le personnage perd aussi tous les dons du vestige, y compris son sort et son bienfait.
+* Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu’il le fait, il gagne un nombre de niveaux d’épuisement égal au nombre de fois où il a lancé le sort. Ce nombre n’est réinitialisé que si le joueur passe trois jours entiers sans lancer le sort du vestige. (Par exemple, si un joueur lance le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond">nuage nauséabond</a>* de Fekre deux jours de suite, il reçoit un niveau d’épuisement le premier jour et deux niveaux d’épuisement le deuxième jour. Si le joueur attend trois jours avant de lancer de nouveau le sort, il ne reçoit qu’un niveau d’épuisement en le faisant ; sinon, il reçoit trois niveaux d’épuisement supplémentaires.)
+* Il subit une altération particulière, comme indiqué dans la même section ci-dessous. Cette altération est incurable sans l’aide d’un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure">restauration supérieure</a>* ou d’une magie similaire. (Un joueur peut également recevoir les soins de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a> dans [l’arc Q : Un phare éclatant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md).) Si l’altération est guérie, le joueur perd aussi tous les dons du vestige, y compris son sort et son bienfait.
 
-Si le personnage interroge le vestige au sujet de l’altération, celui-ci lui explique qu’elle résulte du lien imparfait établi par les éclats. Il invite le personnage au Temple de l’Ambre pour recevoir l’intégralité du don du vestige et achever sa transformation.
+Si le joueur interroge le vestige au sujet de l’altération, celui-ci lui explique qu’elle résulte du lien imparfait établi par les éclats. Il invite le joueur au Temple de l’Ambre pour recevoir l’intégralité du don du vestige et achever sa transformation.
 
-Si le personnage refuse l’offre de la voix, il peut de nouveau communier avec le vestige à tout moment en répétant le même processus.
+Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le vestige à tout moment en répétant le même processus.
 <a id="en-amber-corruption" data-traduction="ancre"></a>
 # Corruption de l’ambre
 <a id="en-fekre-queen-of-poxes" data-traduction="ancre"></a>
