@@ -174,7 +174,7 @@ Vos joueurs peuvent choisir un ou plusieurs liens dans le tableau ci-dessous pou
 | Secret | J’ai un jour promis à quelqu’un de garder ses secrets. Je compte tenir parole, quel qu’en soit le prix. |
 <a id="en-motivations" data-traduction="ancre"></a>
 # Motivations
-Si vous choisissez d’utiliser <span style="color:orange">les reliques baroviennes</span> pour un ou plusieurs joueurs, demandez-leur de choisir la motivation principale de leur personnage dans le tableau suivant.
+Si vous choisissez d’utiliser les reliques baroviennes pour un ou plusieurs joueurs, demandez-leur de choisir la motivation principale de leur personnage dans le tableau suivant.
 
 |d12|Motivation|Relique|
 |:---:|:---|:---|

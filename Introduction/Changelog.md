@@ -4,6 +4,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 # 1er novembre 2026 : Le prologue
 
 - L’arc 0 s’appelle désormais le [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md).
+- Le texte du guide n’est plus marqué en orange : seule la version de relecture surligne ce qui diffère de la traduction.
 
 <a id="de-retour-reloaded-2026-10-31"></a>
 # 31 octobre 2026 : Retour au texte de Reloaded hors du prologue et de l’arc A
