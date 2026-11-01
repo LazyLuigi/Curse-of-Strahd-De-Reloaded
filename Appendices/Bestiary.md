@@ -12,7 +12,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="objet-animé-majeur-1">Objet animé majeur</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-animated-major-object">Voir la fiche</a> — O · Dîner avec le Djavo</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-animated-major-object">Voir la fiche</a> : O · Dîner avec le Djavo</li>
 </ul>
 </div>
 
@@ -28,8 +28,8 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="objet-animé-mineur-1">Objet animé mineur</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-animated-minor-object">Voir la fiche</a> — O · Dîner avec le Djavo</li>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-animated-minor-object">Voir la fiche</a> — T · Les trois sanctuaires</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-animated-minor-object">Voir la fiche</a> : O · Dîner avec le Djavo</li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-animated-minor-object">Voir la fiche</a> : T · Les trois sanctuaires</li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="gargouille">Gargouille</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-gargoyle">Voir la fiche</a> — P · Le cambriolage de Ravenloft</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-gargoyle">Voir la fiche</a> : P · Le cambriolage de Ravenloft</li>
 </ul>
 </div>
 
@@ -65,8 +65,8 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="druide-assaillant-1">Druide assaillant</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-druid-assailant">Voir la fiche</a> — J · La gemme dérobée</li>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-druid-assailant">Voir la fiche</a> — R · Les épreuves de la montagne</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-druid-assailant">Voir la fiche</a> : J · La gemme dérobée</li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-druid-assailant">Voir la fiche</a> : R · Les épreuves de la montagne</li>
 </ul>
 </div>
 
@@ -86,7 +86,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="druide-naturaliste-1">Druide naturaliste</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-druid-naturalist">Voir la fiche</a> — J · La gemme dérobée</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-druid-naturalist">Voir la fiche</a> : J · La gemme dérobée</li>
 </ul>
 </div>
 
@@ -102,7 +102,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="nielleux-ancien-1">Nielleux ancien</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-elder-twig-blight">Voir la fiche</a> — J · La gemme dérobée</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-elder-twig-blight">Voir la fiche</a> : J · La gemme dérobée</li>
 </ul>
 </div>
 
@@ -118,7 +118,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="gargouille-2">Gargouille</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-gargoyle">Voir la fiche</a> — E · La Vistana disparue</li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-gargoyle">Voir la fiche</a> : E · La Vistana disparue</li>
 </ul>
 </div>
 
@@ -134,7 +134,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="fléau-de-rats-1">Fléau de rats</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-plague-of-rats">Voir la fiche</a> — R · Les épreuves de la montagne</li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-plague-of-rats">Voir la fiche</a> : R · Les épreuves de la montagne</li>
 </ul>
 </div>
 
@@ -150,7 +150,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="triade-de-racines-épineuses-1">Triade de racines épineuses</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-rootspike-triad">Voir la fiche</a> — R · Les épreuves de la montagne</li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-rootspike-triad">Voir la fiche</a> : R · Les épreuves de la montagne</li>
 </ul>
 </div>
 
@@ -166,7 +166,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="nuée-de-nielleux-1">Nuée de nielleux</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-swarm-of-twig-blights">Voir la fiche</a> — J · La gemme dérobée</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-swarm-of-twig-blights">Voir la fiche</a> : J · La gemme dérobée</li>
 </ul>
 </div>
 
@@ -184,8 +184,8 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="loup-garou-1">Loup-garou</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-werewolf">Voir la fiche</a> — C · Au cœur de la vallée</li>
-<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-werewolf">Voir la fiche</a> — E · La Vistana disparue</li>
+<li><a href="../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-werewolf">Voir la fiche</a> : C · Au cœur de la vallée</li>
+<li><a href="../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-werewolf">Voir la fiche</a> : E · La Vistana disparue</li>
 </ul>
 </div>
 
@@ -203,7 +203,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="loup-garou-bagarreur-1">Loup-garou bagarreur</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md#en-werewolf-brawler">Voir la fiche</a> — L · La tanière des loups</li>
+<li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md#en-werewolf-brawler">Voir la fiche</a> : L · La tanière des loups</li>
 </ul>
 </div>
 
@@ -219,7 +219,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <h2 id="commandant-nécrophage-1">Commandant nécrophage</h2>
 <p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
 <ul>
-<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-wight-commander">Voir la fiche</a> — R · Les épreuves de la montagne</li>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-wight-commander">Voir la fiche</a> : R · Les épreuves de la montagne</li>
 </ul>
 </div>
 

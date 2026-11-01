@@ -1,6 +1,6 @@
 # Textes français des supports visuels
 
-Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les personnages ignorent.
+Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les joueurs ignorent.
 
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup
@@ -60,7 +60,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 >
 > Brûlez ceci.
 >
-> — A.
+> A.
 
 <a id="support-khazan-1"></a>
 ## Premier feuillet de Khazan
@@ -71,7 +71,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 >
 > Mais qui l’a modifié, et pourquoi ?
 
-Les trois dessins représentent, de gauche à droite, un arbre noueux entouré d’un canal, un livre posé sur un piédestal et un œil sur une colline. Le premier sarcophage est entouré en rouge et relié aux formules. Les caractères arcaniques sont des signes de l’univers de jeu, et non un texte anglais à lire aux joueurs.
+Les trois dessins représentent, de gauche à droite, un arbre noueux entouré d’un canal, un livre posé sur un piédestal et un œil sur une colline. Le premier sarcophage est cerclé de rouge et relié aux formules. Les caractères arcaniques sont des signes de l’univers de jeu, et non un texte anglais à lire aux joueurs.
 
 <a id="support-khazan-2"></a>
 ## Second feuillet de Khazan
@@ -99,7 +99,7 @@ Dans l’original, la dernière question est soulignée trois fois.
 >
 > Le mal m’encercle. L’heure est venue d’abandonner cette apparence et de montrer à ces impies ma véritable et redoutable forme. Qu’elle fasse naître la terreur dans leurs cœurs ! Qu’ils racontent leur sombre triomphe sur le protecteur des monts Balinok ! Que l’on se souvienne d’Argynvost comme d’un dragon d’honneur et de vaillance.
 >
-> Je ne crains pas la mort. J’ai déposé mes attributs sous le regard vigilant de la tour, afin que d’autres puissent perpétuer mon héritage à ma place. Mon corps mourra, mais mon esprit vivra là où subsistent le serment et le feu du Dragon d’Argent. Puisse-t-il servir de phare contre les ténèbres. Puisse-t-il apporter l’espoir à une terre rongée par le désespoir.
+> Je ne crains pas la mort. J’ai déposé mes attributs sous le regard vigilant de la tour, afin que d’autres puissent perpétuer mon héritage à ma place. Mon corps mourra, mais mon esprit vivra là où subsistent le serment et le feu du Dragon d’argent. Puisse-t-il servir de phare contre les ténèbres. Puisse-t-il apporter l’espoir à une terre rongée par le désespoir.
 >
 > Maintenant, au combat !
 >
