@@ -1,12 +1,17 @@
 Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
-<a id="de-retour-reloaded-2026-10-31"></a>
-# 31 octobre 2026 : Retour au texte de Reloaded hors des arcs 0 et A
+<a id="de-prologue-2026-11-01"></a>
+# 1er novembre 2026 : Le prologue
 
-- Hors des arcs 0 et A, le guide reprend le texte de Reloaded : retrait du calendrier unique et de l’horloge de campagne, des dates ajoutées, des arrivées tardives et des présences conditionnelles de Stanimir.
+- L’arc 0 s’appelle désormais le [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md).
+
+<a id="de-retour-reloaded-2026-10-31"></a>
+# 31 octobre 2026 : Retour au texte de Reloaded hors du prologue et de l’arc A
+
+- Hors du prologue et de l’arc A, le guide reprend le texte de Reloaded : retrait du calendrier unique et de l’horloge de campagne, des dates ajoutées, des arrivées tardives et des présences conditionnelles de Stanimir.
 - De la relecture de la traduction, seules les vraies corrections restent : fautes, calques, répétitions, liens posés sur des mots courants et tirets d’incise.
 - Résumés, accroches, plan de l’acte I, index, arcs B et C : ce ne sont plus la Maison de la Mort ni des reliques qui mènent les personnages en Barovie, mais les Brumes, puis une meute qui les rabat vers le manoir. Les reliques restent une option pour impliquer davantage les joueurs.
-- L’acte I commence au niveau 1 avec l’arc 0. Arc A : 200 PX quand les personnages rencontrent les fantômes de Rose et de Thorn, puis 400 PX à la sortie de la Maison de la Mort.
+- L’acte I commence au niveau 1 avec le prologue. Arc A : 200 PX quand les personnages rencontrent les fantômes de Rose et de Thorn, puis 400 PX à la sortie de la Maison de la Mort.
 - [Histoire de Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) : plus de rituel ni d’amas de chair. Abandonnée de ses fidèles, Elisabeth sombre dans la folie et meurt seule ; Strahd ne s’en soucie jamais ; dans sa lettre, il décline ses avances et la dit insignifiante. Ses relations ne mentionnent plus la Maison de la Mort.
 - À l’étang de Tser, [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) reconnaît les personnages et les salue avec entrain.
 - L’annexe des PNJ présente brièvement [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst).
@@ -28,9 +33,9 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Relecture de la traduction de tout le guide : calques de l’anglais, fautes, répétitions et liens posés sur des mots courants.
 
 <a id="de-relecture-arc0-2026-10-29"></a>
-# 29 octobre 2026 : Relecture de l’arc 0
+# 29 octobre 2026 : Relecture du prologue
 
-- L’[avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) n’est lu qu’aux Vistani. Le niveau 2 est atteint quand [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite les personnages à manger.
+- L’[avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) n’est lu qu’aux Vistani. Le niveau 2 est atteint quand [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite les personnages à manger.
 - Les Vistani indiquent où se cache la charrette des pillards ; s’en approcher déclenche leur attaque.
 - Les jeux autour du feu deviennent le jeu du grelot et le couplet farfelu.
 - La remise barovienne disparaît : les personnages se réveillent dans une forêt, à 400 m d’un toit, et l’arc A commence aussitôt.
@@ -41,15 +46,15 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 <a id="de-relecture-style-2026-10-28"></a>
 # 28 octobre 2026 : Relecture du style
 
-- Les fiches de l’arc 0 suivent désormais l’édition choisie dans les réglages, sans verrouillage en 2014.
-- Réécriture de la narration de l’[arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ.
+- Les fiches du prologue suivent désormais l’édition choisie dans les réglages, sans verrouillage en 2014.
+- Réécriture de la narration du [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ.
 - Les [personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) sont les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son avis d’expulsion. Les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie.
 - Retrait de l’encart « Une équipe avant les Brumes » de la [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md).
 - Retrait des comparaisons avec Reloaded dans le texte de jeu de tout le guide. Les choix de réécriture sont expliqués dans des notes de conception, limitées au constat et à l’intention.
 - Liens vers les PNJ rétablis à chaque mention dans les textes De-Reloaded, notamment dans l’arc A.
 - La Maison de la Mort est toujours nommée en entier.
 - Les tirets d’incise des titres et de la narration deviennent des deux-points, des virgules ou des parenthèses. Les profils de l’annexe des PNJ nomment leur arc en français.
-- [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un personnage lit à la caravane. Il ne discute pas ses ordres.
+- [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un personnage lit à la caravane. Il ne discute pas ses ordres.
 - Les pillards se déguisent en Vistani pour voler. La meunière raconte ce qu’elle a vu, sans reçu ni signature imitée.
 - La confrontation avec les pillards est obligatoire, avec un pillard par personnage, plus deux. Ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les personnages.
 - Arcs A et B : retour aux textes de Reloaded avant une nouvelle réécriture de l’arc A. Le sous-sol de la Maison de la Mort est retiré.
@@ -73,9 +78,9 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 - Ajout de deux jeux facultatifs pendant les chants, entre le repas et les questions sur les reliques : le grelot discret (Dextérité) et le couplet impossible (Charisme), avant le conte de Stanimir.
 - Les reliques visibles peuvent susciter des questions des Vistani au repas. La Session 0 et la création des personnages précisent leur nouveau rôle par rapport à Reloaded : des liens personnels intégrés à l’ouverture commune, plutôt qu’une accroche supplémentaire.
 - Réécriture du résumé de l’acte I dans un style narratif, avec le contexte présenté avant les noms et les fonctions des personnages. Harmonisation des autres présentations, des notices et du canevas avec cette nouvelle séquence.
-- Harmonisation des arcs 0 et A avec l’écriture de l’arc B : présentation chronologique, descriptions à lire aux joueurs, dialogues et indications pratiques distincts. Les pièces du manoir séparent ce qui se voit en entrant de ce qui se découvre en explorant ; les profils d’Elisabeth sont conservés.
+- Harmonisation du prologue et de l’arc A avec l’écriture de l’arc B : présentation chronologique, descriptions à lire aux joueurs, dialogues et indications pratiques distincts. Les pièces du manoir séparent ce qui se voit en entrant de ce qui se découvre en explorant ; les profils d’Elisabeth sont conservés.
 - Deux passes de relecture croisée sur les parcours, le lore, la forme et la conduite du jeu. Correction des départs anticipés, des connaissances supposées dans les descriptions et des répétitions entre le prologue et l’arrivée à Baroville.
-- Contrôle des fiches, des annexes et des références des arcs 0 et A : accès direct aux sorts du sceau et à la trousse de soins, avec leurs règles 2014 ; renvoi précis au relevé de continuité ; apparitions de Thorn complétées.
+- Contrôle des fiches, des annexes et des références du prologue et de l’arc A : accès direct aux sorts du sceau et à la trousse de soins, avec leurs règles 2014 ; renvoi précis au relevé de continuité ; apparitions de Thorn complétées.
 - Retrait de huit entrées obsolètes de l’index courant, conservées uniquement dans les archives de Reloaded avec leurs anciens renvois. Retrait du plan du sous-sol et de l’illustration du grick devenus sans usage ; retour de l’illustration de Rose et Thorn auprès de leur scène.
 - À l’étang de Tser, accueil, contes, mises, votes et petit-déjeuner tiennent compte de la présence effective de Stanimir et de ses compagnons.
 
@@ -84,7 +89,7 @@ Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of S
 
 Cette réécriture de **LazyLuigi** remplace l’ancienne ouverture de Reloaded. Ses choix sont expliqués dans les notes de conception des chapitres concernés.
 
-- Ajout de l’[arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) : les personnages servent Loïc de Hauterive à Valcroix, enquêtent sur quatre plaintes, rencontrent des brigands indépendants et découvrent l’hospitalité sincère de Stanimir. Le passage des Brumes tient compte d’une nuit au camp ou d’un départ nocturne, des personnes présentes et des repos réellement pris.
+- Ajout du [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : les personnages servent Loïc de Hauterive à Valcroix, enquêtent sur quatre plaintes, rencontrent des brigands indépendants et découvrent l’hospitalité sincère de Stanimir. Le passage des Brumes tient compte d’une nuit au camp ou d’un départ nocturne, des personnes présentes et des repos réellement pris.
 - Réécriture de l’[arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) : arrivée près de Baroville, meute dangereuse et refuge fixe. La victoire contre les loups, la fuite et le passage direct au village restent possibles, avec une progression adaptée.
 - Recentrage du manoir sur ses étages : enquête sur la famille Durst, première rencontre des enfants au grenier, cache unique dans le coffret d’Elisabeth et nurserie scellée. Retrait du donjon souterrain, du culte sacrificiel et du boss Walter du parcours actuel.
 - Elisabeth est responsable de ses crimes et possède deux formes natives, **Noble corrompue** puis **Nothic**. Ses modales réunissent les phases, les règles communes, l’adaptation au groupe et le bénéfice de la mélodie de Klara. Walter, Klara, Rose et Thorn sont les victimes à inhumer ; Gustav repose déjà au jardin.
@@ -167,7 +172,7 @@ Travaux de **LazyLuigi** pour **Curse of Strahd De-Reloaded**, la version maison
 
 <a id="de-ancienne-ouverture"></a>
 > [!info]+ **Lire les anciennes notes de l’ouverture**
-> Les entrées ci-dessous conservent l’historique de Reloaded sous ses dates d’origine. Leurs mentions de Walter en tant que boss, de la Maison de la Mort voyageuse, du sous-sol ou de l’ancienne accroche concernent cette version antérieure. Pour jouer De-Reloaded, suivre l’[arc 0 : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md) puis l’[arc A réécrit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md). Les profils retirés ne s’appliquent plus.
+> Les entrées ci-dessous conservent l’historique de Reloaded sous ses dates d’origine. Leurs mentions de Walter en tant que boss, de la Maison de la Mort voyageuse, du sous-sol ou de l’ancienne accroche concernent cette version antérieure. Pour jouer De-Reloaded, suivre le [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) puis l’[arc A réécrit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md). Les profils retirés ne s’appliquent plus.
 >
 > Les noms ci-dessous appartiennent uniquement à cette ancienne ouverture ; leurs entrées ont été retirées de l’index courant.
 >

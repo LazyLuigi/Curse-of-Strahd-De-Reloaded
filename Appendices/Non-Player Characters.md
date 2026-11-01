@@ -5,11 +5,11 @@
 
 <a id="de-loic-de-hauterive"></a>
 ### <span style="color:orange">Loïc de Hauterive</span>
-<span style="color:orange">***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les joueurs sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).</span>
+<span style="color:orange">***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les joueurs sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).</span>
 
 <a id="de-stanimir"></a>
 ### <span style="color:orange">Stanimir</span>
-<span style="color:orange">***Rôle.*** Doyen et conteur de la caravane vistani. Voir [le camp de la caravane](../Act%20I%20-%20Into%20the%20Mists/Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp).</span>
+<span style="color:orange">***Rôle.*** Doyen et conteur de la caravane vistani. Voir [le camp de la caravane](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp).</span>
 
 <a id="en-death-house" data-traduction="ancre"></a>
 # Maison de la Mort

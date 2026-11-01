@@ -17,7 +17,7 @@ Une fois à l’intérieur, les joueurs se retrouvent piégés et apprennent <sp
 
 <a id="de-meute"></a>
 ## <span style="color:orange">A1a. La meute</span>
-<span style="color:orange">Les joueurs sortent des Brumes de nuit, à la fin de [l’arc 0](Arc%200%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.</span>
+<span style="color:orange">Les joueurs sortent des Brumes de nuit, à la fin du [prologue](Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.</span>
 
 <span style="color:orange">Après quelques minutes de marche, lisez :</span>
 
@@ -327,7 +327,7 @@ Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modi
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a></p>
 </div>
 
-<span style="color:orange">Les joueurs connaissent ce nom s’ils l’ont demandé à <a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> après son conte, dans l’arc 0.</span>
+<span style="color:orange">Les joueurs connaissent ce nom s’ils l’ont demandé à <a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> après son conte, dans le prologue.</span>
 
 > [!design]- **Note de conception : retirer le titre de propriété**
 > Les joueurs qui découvrent le titre de propriété du Vieux Broyeur d’os dans le coffre secret concluent souvent à tort que s’en emparer fait d’eux les nouveaux propriétaires du moulin. Ils risquent alors de vouloir l’explorer pendant [l’arc C : Dans la vallée](Arc%20C%20-%20Into%20the%20Valley.md), provoquant un affrontement avec le cercle de <a href="https://www.aidedd.org/dnd/monstres.php?vf=guenaude-nocturne">guenaudes nocturnes</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-night-hag-monstre"><sup>fiche</sup></a> et, sans qu’ils en soient responsables, la mort probable de tout le groupe. Le titre a donc été retiré pour éviter cette issue.
