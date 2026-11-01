@@ -1,22 +1,22 @@
 <a id="en-companions" data-traduction="ancre"></a>
 # Compagnons
 
-# <span style="color:orange">Le Feu et les Brumes</span>
+# Le Feu et les Brumes
 
 <a id="de-loic-de-hauterive"></a>
-### <span style="color:orange">Loïc de Hauterive</span>
-<span style="color:orange">***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les joueurs sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).</span>
+### Loïc de Hauterive
+***Rôle.*** Seigneur de Valcroix, domaine de la Côte des Épées. Les joueurs sont ses hommes de main. Voir [l’ordre de Loïc](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat).
 
 <a id="de-stanimir"></a>
-### <span style="color:orange">Stanimir</span>
-<span style="color:orange">***Rôle.*** Doyen et conteur de la caravane vistani. Voir [le camp de la caravane](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp).</span>
+### Stanimir
+***Rôle.*** Doyen et conteur de la caravane vistani. Voir [le camp de la caravane](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-camp).
 
 <a id="en-death-house" data-traduction="ancre"></a>
 # Maison de la Mort
 
 <a id="de-elisabeth-durst"></a>
-### <span style="color:orange">Elisabeth Durst</span>
-<span style="color:orange">***Rôle.*** Maîtresse de la Maison de la Mort. Abandonnée de ses fidèles, elle est morte seule dans sa folie. À minuit, elle s’éveille et cherche les joueurs pour les affronter, sous deux formes : noble corrompue, puis nothic. Voir [A2f. Les coups de minuit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-minuit).</span>
+### Elisabeth Durst
+***Rôle.*** Maîtresse de la Maison de la Mort. Abandonnée de ses fidèles, elle est morte seule dans sa folie. À minuit, elle s’éveille et cherche les joueurs pour les affronter, sous deux formes : noble corrompue, puis nothic. Voir [A2f. Les coups de minuit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-minuit).
 
 <a id="en-rosavalda-rose-durst" data-traduction="ancre"></a>
 ### Rosavalda « Rose » Durst

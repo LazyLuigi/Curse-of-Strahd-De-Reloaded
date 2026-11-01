@@ -3,7 +3,7 @@
     {
       "id": "86cc6ce32bd84940",
       "type": "text",
-      "text": "ÉLÉMENT DÉCLENCHEUR : <span style=\"color:orange\">Une meute de loups rabat les joueurs</span> vers la Maison de la Mort.",
+      "text": "ÉLÉMENT DÉCLENCHEUR : Une meute de loups rabat les joueurs vers la Maison de la Mort.",
       "x": -380,
       "y": -400,
       "width": 250,
@@ -12,7 +12,7 @@
     {
       "id": "8278c303beadd405",
       "type": "text",
-      "text": "OBJECTIF : <span style=\"color:orange\">Se réfugier dans</span> la Maison de la Mort.",
+      "text": "OBJECTIF : Se réfugier dans la Maison de la Mort.",
       "x": 120,
       "y": -240,
       "width": 250,
@@ -30,7 +30,7 @@
     {
       "id": "ff302b57650f726d",
       "type": "text",
-      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort annonce aux joueurs qu’<span style=\"color:orange\">une ombre</span> se réveillera à minuit pour les <span style=\"color:orange\">condamner</span>.",
+      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort annonce aux joueurs qu’une ombre se réveillera à minuit pour les condamner.",
       "x": 870,
       "y": -20,
       "width": 250,
@@ -66,7 +66,7 @@
     {
       "id": "9d021b0a4691f2df",
       "type": "text",
-      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort <span style=\"color:orange\">invite les joueurs à rendre leur voix aux enfants oubliés</span>.",
+      "text": "ÉLÉMENT DÉCLENCHEUR : La comptine de la Maison de la Mort invite les joueurs à rendre leur voix aux enfants oubliés.",
       "x": 1120,
       "y": 280,
       "width": 250,
@@ -75,7 +75,7 @@
     {
       "id": "859f7ba11fe27408",
       "type": "text",
-      "text": "OBJECTIF : <span style=\"color:orange\">Se préparer à affronter Elisabeth Durst</span> avant minuit.",
+      "text": "OBJECTIF : Se préparer à affronter Elisabeth Durst avant minuit.",
       "x": 4650,
       "y": 40,
       "width": 250,
@@ -84,7 +84,7 @@
     {
       "id": "4474d9997b9328e9",
       "type": "text",
-      "text": "ÉLÉMENT DÉCLENCHEUR : <span style=\"color:orange\">Elisabeth Durst</span> s’éveille.",
+      "text": "ÉLÉMENT DÉCLENCHEUR : Elisabeth Durst s’éveille.",
       "x": 5880,
       "y": 200,
       "width": 250,
@@ -93,7 +93,7 @@
     {
       "id": "aecfdedac425fbc9",
       "type": "text",
-      "text": "OBJECTIF : Vaincre <span style=\"color:orange\">Elisabeth Durst</span>.",
+      "text": "OBJECTIF : Vaincre Elisabeth Durst.",
       "x": 6220,
       "y": 214,
       "width": 250,
