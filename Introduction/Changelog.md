@@ -4,6 +4,7 @@ Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Rel
 # Correctif 3.2.0.11 (6 novembre 2026)
 * Rétablissement de corrections perdues lors du retour au texte de Reloaded : fautes, tirets d’incise, parenthèses cassées, majuscules et calques, notamment dans les arcs O, P, R, S et T
 * Rétablissement des rats albinos, espions de Strahd, dans [Les alliés de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies), Mener l’aventure et l’index
+* Les rats espions boivent le sang de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) et ont le profil du rat ; il ne mord que celui d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-town-gates)
 * Les profils de [Personnages non joueurs](../Appendices/Non-Player%20Characters.md) nomment de nouveau leur arc en français
 * Retrait de la rubrique « Conséquences en jeu » de la note de conception sur le Djavo, dans [Traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#de-reloaded-djavo)
 * Ajout d’une courte section sur les hommes de main de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#de-gardes-de-valcroix)
