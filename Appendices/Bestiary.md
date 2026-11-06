@@ -122,6 +122,20 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 </ul>
 </div>
 
+<a id="de-squelette-de-rat-geant"></a>
+### Squelette de rat géant
+
+<div style="clear: both; padding-top: 0.8rem;"></div>
+
+<div class="native-profile-reference">
+<a id="de-squelette-de-rat-geant-2"></a>
+<h2 id="squelette-de-rat-géant-1">Squelette de rat géant</h2>
+<p><strong>Profil de jeu.</strong> Consulter le bloc natif de la rencontre ; cette annexe conserve le renvoi, sans dupliquer ses caractéristiques.</p>
+<ul>
+<li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#de-squelette-de-rat-geant">Voir la fiche</a> : T · Les trois sanctuaires</li>
+</ul>
+</div>
+
 <a id="en-plague-of-rats" data-traduction="ancre"></a>
 ### Fléau de rats
 

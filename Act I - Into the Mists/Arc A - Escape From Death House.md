@@ -30,6 +30,8 @@ Après quelques minutes de marche, lisez :
 
 Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à trente pieds. Tant que les joueurs avancent vers le manoir, la meute les escorte sans attaquer. Si un joueur s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les joueurs ont repris le chemin du manoir, et aucun ne franchit la grille du portique.
 
+Si des joueurs portent des [reliques baroviennes](../Chapter%203%20-%20Running%20the%20Game/Running%20the%20Adventure.md#en-adventure-hooks), elles perçoivent la présence de la Maison de la Mort à l’approche du manoir et réagissent comme décrit dans [Motivations](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#en-motivations). Si certaines reliques volent ou roulent jusqu’à la Maison de la Mort, comme l’*écharpe du Voyageur* ou la *pièce d’électrum*, elles se posent sur le seuil, juste après le portique.
+
 > [!combat]- **Combat : <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">Loups</a>**
 > **Difficulté du combat** : éprouvante
 > **Niveau prévu des personnages** : 2
@@ -67,6 +69,8 @@ L’entrée au-delà du portique correspond pour le reste à la description de <
 <a id="en-main-hall" data-traduction="ancre"></a>
 ### Grand hall
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 2.</em></span>
+
+Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques baroviennes qu’ils portent cessent de manifester leurs pouvoirs. (Par exemple, le *médaillon du soleil levant* cesse de briller.)
 
 Le grand hall correspond dans l’ensemble à la description de <span class="citation">Grand hall (p. 212)</span>, mais contient désormais une horloge de parquet, placée dans l’espace circulaire au pied de l’escalier.
 

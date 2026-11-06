@@ -219,6 +219,7 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-amber-temple"></a>Temple de l’Ambre | Amber Temple | [Fiche de l’annexe](Non-Player%20Characters.md#en-amber-temple) |
 | <a id="ref-nom-lugdanas-knoll"></a>tertre de Lugdana | Lugdana’s Knoll | [Section du guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20B%20-%20Welcome%20to%20Barovia.md#en-b5j-lugdanas-knoll) |
 | <a id="ref-nom-van-richtens-tower"></a>tour de Van Richten | Van Richten’s Tower | [Section du guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-journey-to-vallaki) |
+| <a id="ref-nom-valcroix"></a>Valcroix | Valcroix | [Section du guide](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) |
 | <a id="ref-nom-vallaki"></a>Vallaki | Vallaki | [Section du guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-welcome-to-vallaki) |
 | <a id="ref-nom-old-svalich-road"></a>vieille route de Svalich | Old Svalich Road | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j2-the-old-svalich-road) |
 | <a id="ref-nom-old-bonegrinder"></a>Vieux Broyeur d’os | Old Bonegrinder | [Fiche de l’annexe](Non-Player%20Characters.md#en-old-bonegrinder) |
@@ -445,6 +446,7 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-leo-dilisnya"></a>Leo Dilisnya | Leo Dilisnya | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-ghost-of-leo-dilisnya) |
 | <a id="ref-nom-lief-lipsiege"></a>Lief Lipsiege | Lief Lipsiege | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-relationships) |
 | <a id="ref-nom-livius-martikov"></a>Livius Martikov | Livius Martikov | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-echoes-of-evil) |
+| <a id="ref-nom-loic-de-hauterive"></a>Loïc de Hauterive | Loïc de Hauterive | [Fiche de l’annexe](Non-Player%20Characters.md#de-loic-de-hauterive) |
 | <a id="ref-nom-lorelei"></a>Lorelei | Lorelei | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s3b-west-catacombs) |
 | <a id="ref-nom-lorghoth"></a>Lorghoth | Lorghoth | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-loading-winch) |
 | <a id="ref-nom-lorghoth-the-decayer"></a>Lorghoth le Décomposeur | Lorghoth the Decayer | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-loading-winch) |
@@ -521,7 +523,7 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-skennis"></a>Skennis | Skennis | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md#en-what-zuleika-knows) |
 | <a id="ref-nom-sofiya-zalken"></a>Sofiya Zalken | Sofiya Zalken | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Epilogue.md#en-2d-festival-games) |
 | <a id="ref-nom-soldav"></a>Soldav | Soldav | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r5g-morning-in-soldav) |
-| <a id="ref-nom-stanimir"></a>Stanimir | Stanimir | [Section du guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale) |
+| <a id="ref-nom-stanimir"></a>Stanimir | Stanimir | [Fiche de l’annexe](Non-Player%20Characters.md#de-stanimir) |
 | <a id="ref-nom-stefan-zalenski"></a>Stefan Zalenski | Stefan Zalenski | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md#en-l4a-cave-mouth-guard-post) |
 | <a id="ref-nom-stefania"></a>Stefania | Stefania | [Section du guide](Non-Player%20Characters.md#en-the-wizard-of-wines) |
 | <a id="ref-nom-stefania-martikov"></a>Stefania Martikov | Stefania Martikov | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-down-the-ladder) |
@@ -969,7 +971,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
-| <a id="ref-campagne-flesh-mound"></a>Amas de chair | Flesh Mound | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-design-notes-history-of-barovia) |
+| <a id="ref-campagne-flesh-mound"></a>Amas de chair | Flesh Mound | [Section du guide](../Introduction/Changelog.md#en-patch-2095-october-21-2024) |
 | <a id="ref-campagne-walking-corpse"></a>Cadavre ambulant | Walking Corpse | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t3d-town-green) |
 | <a id="ref-campagne-wight-commander"></a>Commandant nécrophage | Wight Commander | [Section du guide](Bestiary.md#en-wight-commander) |
 | <a id="ref-campagne-amber-construct"></a>Créature artificielle d’ambre | Amber Construct | [Section du guide](Non-Player%20Characters.md#en-patrina) |
@@ -997,6 +999,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-soul-leech"></a>Sangsue des âmes | Soul Leech | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) |
 | <a id="ref-campagne-elder-shoosuva"></a>Shoosuva ancien | Elder Shoosuva | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
 | <a id="ref-campagne-forsaken-soldier"></a>Soldat abandonné | Forsaken Soldier | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
+| <a id="ref-campagne-giant-rat-skeleton"></a>Squelette de rat géant | Giant Rat Skeleton | [Section du guide](Bestiary.md#de-squelette-de-rat-geant) |
 | <a id="ref-campagne-greater-strix"></a>Strix majeur | Greater Strix | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20I%20-%20The%20Walls%20of%20Krezk.md#en-i3b-the-luna-river-path) |
 | <a id="ref-campagne-lesser-strix"></a>Strix mineur | Lesser Strix | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j3-the-wizard-of-wines) |
 | <a id="ref-campagne-rootspike-triad"></a>Triade de racines épineuses | Rootspike Triad | [Section du guide](Bestiary.md#en-rootspike-triad) |

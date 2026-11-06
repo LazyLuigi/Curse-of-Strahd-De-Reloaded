@@ -279,7 +279,7 @@ Si les joueurs tuent des <a href="https://www.aidedd.org/dnd/monstres.php?vf=gar
 > Les patrouilles de garde de Vallaki sont en grande partie telles que décrites dans <span class="citation">Portes de la ville (p. 95)</span>. Cependant, six autres **<a href="https://www.aidedd.org/dnd/monstres.php?vf=cultiste">cultistes</a>** fidèles à dame Wachter patrouillent les murs aux côtés des **<a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">gardes</a>**.
 
 > [!lore]+ **L’emprise du château Ravenloft**
-> Suite aux exploits des joueurs dans [Arc Q : Un phare brillant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md), et après avoir appris la relation étroite des joueurs avec <a href="../Appendices/Non-Player%20Characters.md#en-lady-fiona-wachter">dame Fiona Wachter</a>, nouée dans [Arc F - Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md) et [Arc H : L'âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md), <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a envoyé une émissaire du château de Ravenloft pour mettre dame Wachter et Vallaki au pas. Dans l'espoir de semer la peur et le désespoir avant <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-grand-conjunction">la Grande Conjonction</a>, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> ordonna à son émissaire de « briser l'esprit de la ville », par tous les moyens. (Si <a href="../Appendices/Non-Player%20Characters.md#en-volenta-popofsky">Volenta Popofsky</a>, <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla Vilisevic</a> ou <a href="../Appendices/Non-Player%20Characters.md#en-anastrasya-karelova">Anastrasya Karelova</a> sont toujours en vie, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a désigné l'une d'elles comme son émissaire. Sinon, il a transformé sa fanatique **espionne** <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> en une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirienne</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** et l'a désignée comme son émissaire à la place. Si ni <a href="../Appendices/Non-Player%20Characters.md#en-volenta-popofsky">Volenta</a>, ni <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla</a>, ni <a href="../Appendices/Non-Player%20Characters.md#en-anastrasya-karelova">Anastrasya</a>, ni <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> ne survivent, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a plutôt choisi la **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirienne</a>** <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-helga">Helga</a>, qui est telle que décrite dans <span class="citation">K32. Une servante en enfer (p. 64)</span>.
+> Suite aux exploits des joueurs dans [Arc Q : Un phare brillant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md), et après avoir appris la relation étroite des joueurs avec <a href="../Appendices/Non-Player%20Characters.md#en-lady-fiona-wachter">dame Fiona Wachter</a>, nouée dans [Arc F - Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md) et [Arc H : L'âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md), <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a envoyé une émissaire du château de Ravenloft pour mettre dame Wachter et Vallaki au pas. Dans l'espoir de semer la peur et le désespoir avant <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-grand-conjunction">la Grande Conjonction</a>, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> ordonna à son émissaire de « briser l'esprit de la ville », par tous les moyens. (Si <a href="../Appendices/Non-Player%20Characters.md#en-volenta-popofsky">Volenta Popofsky</a>, <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla Vilisevic</a> ou <a href="../Appendices/Non-Player%20Characters.md#en-anastrasya-karelova">Anastrasya Karelova</a> sont toujours en vie, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a désigné l'une d'elles comme son émissaire. Sinon, il a transformé sa fanatique **espionne** <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> en une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirienne</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** et l'a désignée comme son émissaire à la place. Il a aussi changé son rat albinos en **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-giant-rat-skeleton">squelette de rat géant</a>**, dont les yeux jaunes brillent toujours au fond des orbites. Si ni <a href="../Appendices/Non-Player%20Characters.md#en-volenta-popofsky">Volenta</a>, ni <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla</a>, ni <a href="../Appendices/Non-Player%20Characters.md#en-anastrasya-karelova">Anastrasya</a>, ni <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> ne survivent, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> a plutôt choisi la **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirienne</a>** <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-helga">Helga</a>, qui est telle que décrite dans <span class="citation">K32. Une servante en enfer (p. 64)</span>.
 >
 > À son arrivée à Wachterhaus, l'émissaire de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> présenta à dame Wachter une proclamation signée et scellée du château de Ravenloft désignant l'émissaire comme la « voix » officielle de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> à Vallaki. Dame Wachter, réticente, a invité l'émissaire chez elle et lui a permis de placer un cercueil dans <span class="citation">N4q. Réserve (p. 114)</span>.
 >
@@ -2153,7 +2153,7 @@ La première fois que dame Wachter voit l’*<a href="../Appendices/Index%20des%
 > * **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-ladies-three">Les Trois Dames</a>.** Un loup sanguinaire, une araignée géante et un corbeau géant.
 <a id="en-t5b-lady-wachters-vizier" data-traduction="ancre"></a>
 ## T5b. La conseillère de dame Wachter
-Le jour, l’émissaire du château Ravenloft dort dans un cercueil dans <span class="citation">N4q. Réserve (p. 114)</span>. La nuit, elle murmure ses instructions et écoute les rapports des six **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-chauves-souris">nuées de chauves-souris</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-bats-monstre"><sup>fiche</sup></a>** qui hantent le ciel nocturne de Vallaki.
+Le jour, l’émissaire du château Ravenloft dort dans un cercueil dans <span class="citation">N4q. Réserve (p. 114)</span>. La nuit, elle murmure ses instructions et écoute les rapports des six **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-chauves-souris">nuées de chauves-souris</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-bats-monstre"><sup>fiche</sup></a>** qui hantent le ciel nocturne de Vallaki. Si l’émissaire est <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>, son **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-giant-rat-skeleton">squelette de rat géant</a>** veille le jour près de son cercueil, et elle combat montée sur lui.
 
 Si les joueurs l’affrontent, l’émissaire de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> siffle que dame Wachter et eux ont commis une « grave erreur », puis attaque. Si elle est ensanglantée ou prise dans la lumière de l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>*, elle tente plutôt de fuir Wachterhaus pour rejoindre [T5c. Le dépôt Arasek](#en-t5c-arasek-stockyard).
 
@@ -2171,6 +2171,56 @@ Un joueur qui réussit un test de Sagesse (Perspicacité) DD 12 comprend qu’el
 
 * Les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> et les <a href="https://www.aidedd.org/dnd/monstres.php?vf=necrophage">nécrophages</a> ont creusé des fosses piégées juste après chacune des deux portes.
 * La porte du bureau est protégée par des fils de détente : ils déclenchent des collets reliés au mécanisme de poulies central.
+
+<div class="statblock">
+<a id="de-squelette-de-rat-geant"></a>
+<h2>Squelette de rat géant</h2>
+<em>Mort-vivant de taille Grande, loyal mauvais</em>
+<hr>
+<strong>Classe d'armure</strong> 12 (armure naturelle)
+<br>
+<strong>Points de vie</strong> 67 (9d10 + 18)
+<br>
+<strong>Vitesse</strong> 40 pieds.
+<hr>
+<table class="ability-table">
+<thead>
+<tr>
+<th>FOR</th>
+<th>DEX</th>
+<th>CON</th>
+<th>INT</th>
+<th>SAG</th>
+<th>CHA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18 (+4)</td>
+<td>11 (+0)</td>
+<td>15 (+2)</td>
+<td>6 (-2)</td>
+<td>8 (-1)</td>
+<td>5 (-3)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Vulnérabilités aux dégâts</strong> Contondants<br>
+<strong>Immunités aux dégâts</strong> Poison<br>
+<strong>Immunités aux états</strong> Épuisement, empoisonné<br>
+<strong>Sens</strong> Vision dans le noir 60 pieds, perception passive 9<br>
+<strong>Langues</strong> Comprend le commun mais ne peut pas parler<br>
+<strong>Facteur de puissance</strong> 2<br>
+<strong>Bonus de maîtrise</strong> +2<br>
+<hr>
+<p><strong><em>Charge.</em></strong> Si le squelette se déplace d'au moins 10 pieds en ligne droite vers une cible, puis la touche avec sa morsure calamiteuse dans le même tour, la cible subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 ou être repoussée de 10 pieds et tomber à terre.</p>
+<p><strong><em>Monture d'Eliza.</em></strong> Quand <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> le monte, le squelette agit comme une monture indépendante : il garde sa propre initiative et attaque.</p>
+<h3>Actions</h3>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 17 (2d12 + 4) dégâts tranchants.</p>
+<p><strong><em>Morsure calamiteuse.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 5 pieds, une créature. <em>Touché :</em> 21 (4d8 + 3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14, sinon son maximum de points de vie diminue d'un montant égal aux dégâts subis. Cette diminution dure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
+</div>
+
 <a id="en-t5c-arasek-stockyard" data-traduction="ancre"></a>
 ## T5c. Le dépôt Arasek
 Cette zone correspond en grande partie à <span class="citation">N5. Dépôt Arasek (p. 115)</span>. L’entrepôt mesure quarante pieds de long, soixante pieds de large et vingt pieds de haut. Il se dresse immédiatement à gauche de <span class="citation">N6. Atelier du fabricant de cercueils (p. 116)</span> et présente les caractéristiques suivantes :
