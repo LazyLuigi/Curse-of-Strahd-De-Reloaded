@@ -971,7 +971,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
-| <a id="ref-campagne-flesh-mound"></a>Amas de chair | Flesh Mound | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-design-notes-history-of-barovia) |
+| <a id="ref-campagne-flesh-mound"></a>Amas de chair | Flesh Mound | [Section du guide](../Introduction/Changelog.md#en-patch-2095-october-21-2024) |
 | <a id="ref-campagne-walking-corpse"></a>Cadavre ambulant | Walking Corpse | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t3d-town-green) |
 | <a id="ref-campagne-wight-commander"></a>Commandant nécrophage | Wight Commander | [Section du guide](Bestiary.md#en-wight-commander) |
 | <a id="ref-campagne-amber-construct"></a>Créature artificielle d’ambre | Amber Construct | [Section du guide](Non-Player%20Characters.md#en-patrina) |

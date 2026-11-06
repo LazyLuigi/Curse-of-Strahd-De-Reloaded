@@ -2,6 +2,8 @@
 
 [Ouvrir le lecteur HTML](index.html) : ouverture directe dans un navigateur. [Mode d’emploi](lecteur/LISEZ-MOI.md).
 
+Pour une table à deux écrans, le lecteur montre aussi les illustrations aux joueurs : un clic droit sur une image, puis **Afficher aux joueurs** (section « Écran des joueurs » du mode d’emploi).
+
 Ce dossier constitue **Curse of Strahd De-Reloaded**, par **LazyLuigi** : une version maison, augmentée, autonome et en français du guide **Curse of Strahd: Reloaded** de **DragnaCarta**. Les références à l’aventure originale, les sources et les crédits sont conservés.
 
 [Contexte du projet](AGENT.md) · [Historique de De-Reloaded](docs/CHANGELOG.md) · [Travail à venir](TODO.md).

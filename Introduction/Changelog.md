@@ -1,170 +1,170 @@
-Les entrées De-Reloaded d’octobre 2026 décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
+Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
+
+<a id="de-retours-prologue-2026-11-05"></a>
+# Correctif 3.2.0.10 (5 novembre 2026)
+* Modification de l’invitation de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : il remercie les joueurs d’avoir veillé sur les siens et défendu leur honneur ; son invitation aux joueurs restés à l’écart devient un texte à lire
+* Simplification du sort des pillards capturés dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : ils passent la nuit au camp pour être livrés à [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) le lendemain ; si les joueurs repartent le soir même, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les leur remet
+* Ajout d’une tradition au conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : les joueurs doivent deviner si l’histoire est vraie ou fausse, puis il révèle qu’elle est véridique. Le conte s’ouvre désormais sur l’exil des Vistani, venus d’une terre ancienne
+* Suppression dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) de l’adieu moqueur d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), de la réplique de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) sur le passage des Vistani à travers les Brumes (il dit seulement que le chemin est caché et que seuls les Vistani le connaissent) et de l’heure précise du passage au camp
+* Modification de la route du rapport dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : à la place des deux saules de la prairie se dresse un arbre maladif, vers lequel les joueurs reviennent sans cesse s’ils rebroussent chemin
+
+<a id="de-garde-fous-prologue-2026-11-04"></a>
+# Correctif 3.2.0.9 (4 novembre 2026)
+* Suppression de deux précautions inutiles dans l’encadré « Ce qui provoque les Brumes » de [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : la phrase selon laquelle ni [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), ni les pillards, ni [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne connaissent le dessein de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich), et le paragraphe qui précisait que ce passage ne lui donne pas une téléportation utilisable à volonté
+* Modification du moral de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : en cas de conflit, il garde les familles à l’abri et fait son possible pour éloigner l’ennemi, sans tour précis
+* Précision dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : si les joueurs repartent avant le crépuscule, l’horaire de la confrontation s’adapte à ce qu’ils ont fait entre-temps, sans la fixer au soir
+
+<a id="de-resume-prologue-2026-11-02"></a>
+# Correctif 3.2.0.8 (2 novembre 2026)
+* Ajout du prologue à l’acte I de [Résumé de l’aventure](../Chapter%203%20-%20Running%20the%20Game/Adventure%20Summary.md#en-act-i-into-the-mists), dans le schéma des actes comme dans la présentation de l’acte
+* Ajout du prologue à [Résumé de l’acte I](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md), dans la présentation de l’acte et dans la [chronologie](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md#en-timeline) (26 Octyavr 735)
+* Rangement des illustrations du dossier `images` dans un sous-dossier par page, sur le modèle du guide (par exemple `images/Act I - Into the Mists/Arc A - Escape From Death House`), et des illustrations qu’aucune page n’affiche dans `images/Non utilisées`
+* Ajout du rat d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t5b-lady-wachters-vizier) : si elle devient l’émissaire de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich), son rat albinos devient un [squelette de rat géant](../Appendices/Bestiary.md#de-squelette-de-rat-geant) qui veille sur son cercueil et lui sert de monture
+* Ajout de l’illustration de l’avis d’expulsion de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) et dans [Supports visuels](../Appendices/Supports%20visuels.md#support-avis-expulsion)
+* Ajout au lecteur d’un écran des joueurs pour les tables à deux écrans : un clic droit sur une image l’affiche aux joueurs dans une seconde fenêtre, sur une brume animée, et une régie, que le MJ peut glisser où il veut à l’écran, permet de l’effacer ou de changer d’ambiance
 
 <a id="de-prologue-2026-11-01"></a>
-# 1er novembre 2026 : Le prologue
-
-- L’arc 0 s’appelle désormais le [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md).
-- Le texte du guide n’est plus marqué en orange : seule la version de relecture surligne ce qui diffère de la traduction.
+# Correctif 3.2.0.7 (1er novembre 2026)
+* Renommage de l’arc 0 en [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md)
+* Suppression du surlignage orange du texte du guide : seule la version de relecture marque ce qui diffère de la traduction
+* Ajout dans [Arc C : Au cœur de la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale) d’une variante du Jeu des histoires : si les joueurs ont déjà entendu le conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans le prologue, il les invite à raconter à leur tour
+* Modification de la question de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) sur la Maison de la Mort dans [Arc C : Au cœur de la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md) : il ne parle plus de ses serviteurs et reproche aux joueurs de s’être mêlés des affaires des défunts
+* Rétablissement du rat albinos d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) dans [Arc C : Au cœur de la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)
+* Ajout de fenêtres éclairées à la demeure aperçue en N2 dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md), comme dans l’arc A
+* Suppression du renvoi au calendrier installé, qui n’existe plus, dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md)
+* Ajout de la réaction des reliques baroviennes à l’approche de la Maison de la Mort, et de leur silence une fois le seuil franchi, dans [Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md#de-meute)
+* Remplacement de « 0 » par « Prologue » dans le tableau des jalons de [Résumé de l’aventure](../Chapter%203%20-%20Running%20the%20Game/Adventure%20Summary.md#en-act-i-milestones)
+* Ajout de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) et de Valcroix à l’[Index des personnages et créatures](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md), où [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) renvoie désormais à sa fiche
 
 <a id="de-retour-reloaded-2026-10-31"></a>
-# 31 octobre 2026 : Retour au texte de Reloaded hors du prologue et de l’arc A
-
-- Hors du prologue et de l’arc A, le guide reprend le texte de Reloaded : retrait du calendrier unique et de l’horloge de campagne, des dates ajoutées, des arrivées tardives et des présences conditionnelles de Stanimir.
-- De la relecture de la traduction, seules les vraies corrections restent : fautes, calques, répétitions, liens posés sur des mots courants et tirets d’incise.
-- Résumés, accroches, plan de l’acte I, index, arcs B et C : ce ne sont plus la Maison de la Mort ni des reliques qui mènent les personnages en Barovie, mais les Brumes, puis une meute qui les rabat vers le manoir. Les reliques restent une option pour impliquer davantage les joueurs.
-- L’acte I commence au niveau 1 avec le prologue. Arc A : 200 PX quand les personnages rencontrent les fantômes de Rose et de Thorn, puis 400 PX à la sortie de la Maison de la Mort.
-- [Histoire de Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) : plus de rituel ni d’amas de chair. Abandonnée de ses fidèles, Elisabeth sombre dans la folie et meurt seule ; Strahd ne s’en soucie jamais ; dans sa lettre, il décline ses avances et la dit insignifiante. Ses relations ne mentionnent plus la Maison de la Mort.
-- À l’étang de Tser, [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) reconnaît les personnages et les salue avec entrain.
-- L’annexe des PNJ présente brièvement [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst).
-- Retrait de la note de conception sur les accroches de Reloaded.
-- Comme chez DragnaCarta, le guide parle partout des « joueurs » ; « personnage » reste pour la figure jouée, les PNJ et là où il écrit « character ». Plus de « PJ ».
+# Correctif 3.2.0.6 (31 octobre 2026)
+* Retour au texte de Reloaded hors du prologue et de l’arc A : suppression du calendrier unique, de l’horloge de campagne, des dates ajoutées, des arrivées tardives et des présences conditionnelles de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir)
+* Conservation des seules vraies corrections de la relecture de la traduction : fautes, calques, répétitions, liens posés sur des mots courants et tirets d’incise
+* Modification de l’arrivée en Barovie dans les résumés, les accroches, le canevas de l’acte I, l’index et les arcs B et C : ce ne sont plus la Maison de la Mort ni des reliques qui y mènent les joueurs, mais les Brumes, puis une meute qui les rabat vers la Maison de la Mort
+* Précision : les reliques restent une option pour impliquer davantage les joueurs
+* L’acte I commence désormais au niveau 1, avec le prologue
+* Répartition des PX d’[Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) : 200 PX à la rencontre des fantômes de [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et de [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst), puis 400 PX à la sortie de la Maison de la Mort
+* Révision d’[Histoire de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) : plus de rituel ni d’amas de chair ; abandonnée de ses fidèles, [Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) sombre dans la folie et meurt seule, [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ne s’en soucie jamais et, dans sa lettre, décline ses avances en la disant insignifiante
+* Suppression du paragraphe sur la Maison de la Mort dans [Les relations de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-relationships)
+* [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza) reconnaît désormais les joueurs et les salue avec entrain à l’étang de Tser dans [Arc C : Au cœur de la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)
+* Réduction des fiches de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et d’[Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) à une courte présentation dans [Personnages non joueurs](../Appendices/Non-Player%20Characters.md)
+* Suppression de la note de conception sur les accroches de Reloaded
+* Remplacement de « personnages » et de « PJ » par « joueurs » pour désigner les héros dans tout le guide, comme chez DragnaCarta ; « personnage » reste pour la figure jouée, les PNJ et là où il écrit « character »
 
 <a id="de-arc-a-2026-10-30"></a>
-# 30 octobre 2026 : Arc A et traduction
-
-- L’[arc A](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) repart du texte de Reloaded. Les personnages sortent des Brumes à l’orée des bois de Svalich, et une meute les rabat vers la Maison de la Mort.
-- Le sous-sol est retiré. À minuit, [Elisabeth Durst](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst) s’éveille et affronte les personnages, sous deux formes ; la *Valse pour Klara* l’affaiblit.
-- À sa mort, les personnages peuvent quitter la maison, en emportant s’ils le veulent les os de Rose et de Thorn. Gustav et les dévots ne barrent plus la sortie. Le jalon de l’arc passe à 600 PX.
-- Elisabeth devient un boss en deux phases, réglé comme l’amas de chair de Reloaded, avec ses adaptations de 3 à 6 joueurs. La meute ne peut pas être vaincue : chaque loup tué laisse place à un loup sanguinaire, mais ses attaques sont non létales.
-- Dans la maison, l’horloge sonne dix heures à l’arrivée : deux dés à six faces, à dix minutes par point, décomptent les deux heures avant minuit.
-- Relecture de l’arc A : arrivée au clair de lune vers un manoir illuminé, nouveau poème, Elisabeth surgit aussi si les personnages atteignent la porte avec les os des enfants. Rose et Thorn ne possèdent plus personne.
-- Relecture comparée de l’arc A : à minuit, Elisabeth cherche les personnages salle par salle ; la *Valse pour Klara* lui impose aussi le désavantage à ses attaques ; ses fiches sont allégées des règles de concepteur. Rose et Thorn demandent à être enterrés au pied du grand cerisier de la clairière, quand les personnages le souhaitent.
-- L’éclat d’ambre d’Elisabeth redevient celui de Reloaded : il ouvre la porte secrète de la bibliothèque, porte la tentation de Norganas et tombe en poussière quand la maison s’effondre. Les mises en garde sur cet éclat dans les arcs M à T sont retirées.
-- L’histoire des Durst suit les indices de la maison : Klara séquestrée, mutilée et morte de faim, Gustav poignardé dans son lit.
-- Relecture de la traduction de tout le guide : calques de l’anglais, fautes, répétitions et liens posés sur des mots courants.
+# Correctif 3.2.0.5 (30 octobre 2026)
+* Correction de diverses coquilles, de calques de l’anglais, de répétitions et de liens posés sur des mots courants dans tout le guide
+* Remaniement d’[Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) à partir du texte de Reloaded : les joueurs sortent des Brumes à l’orée des bois de Svalich, et une meute les rabat vers la Maison de la Mort
+* Suppression du sous-sol de la Maison de la Mort
+* Remplacement du poème ; les joueurs arrivent désormais au clair de lune vers un manoir illuminé
+* [Elisabeth Durst](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) devient un boss en deux phases, réglé comme l’amas de chair, avec ses adaptations de 3 à 6 joueurs
+* Précision : à minuit, [Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) s’éveille et cherche les joueurs salle par salle ; elle surgit aussi s’ils atteignent la porte avec les os des enfants
+* Précision : la *Valse pour [Klara](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara)* affaiblit [Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) et lui impose le désavantage à ses attaques
+* Allègement des fiches d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst), débarrassées des règles de concepteur
+* Après la mort d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst), les joueurs peuvent quitter la maison en emportant les os de [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et de [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst) ; [Gustav](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst) et les dévots ne barrent plus la sortie
+* Augmentation du jalon de l’arc à 600 PX
+* La meute ne peut plus être vaincue : chaque loup tué laisse place à un loup sanguinaire, mais ses attaques sont non létales
+* Modification de l’horloge de la Maison de la Mort : elle sonne dix heures à l’arrivée, et deux dés à six faces, à dix minutes par point, décomptent les deux heures avant minuit
+* Suppression des possessions par [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst), qui demandent désormais à être enterrés au pied du grand cerisier de la clairière, quand les joueurs le souhaitent
+* Retour à la version de Reloaded de l’éclat d’ambre d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) : il ouvre la porte secrète de la bibliothèque, porte la tentation de [Norganas](../Appendices/Amber%20Shards.md#en-norganas-the-finger-of-oblivion) et tombe en poussière quand la maison s’effondre
+* Suppression des mises en garde sur cet éclat dans les arcs M à T
+* Révision de l’histoire des Durst pour suivre les indices de la maison : [Klara](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara) séquestrée, mutilée et morte de faim, [Gustav](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst) poignardé dans son lit
 
 <a id="de-relecture-arc0-2026-10-29"></a>
-# 29 octobre 2026 : Relecture du prologue
-
-- L’[avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) n’est lu qu’aux Vistani. Le niveau 2 est atteint quand [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite les personnages à manger.
-- Les Vistani indiquent où se cache la charrette des pillards ; s’en approcher déclenche leur attaque.
-- Les jeux autour du feu deviennent le jeu du grelot et le couplet farfelu.
-- La remise barovienne disparaît : les personnages se réveillent dans une forêt, à 400 m d’un toit, et l’arc A commence aussitôt.
-- La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne s’arrête plus au village de Barovie. Les personnages le retrouvent à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), où il leur dit que la brume s’est chargée des pillards capturés.
-- [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) reçoivent un profil d’interprétation, comme les PNJ de l’arc B. Pendant l’attaque, Stanimir peut détourner les pillards avec *image majeure*, et les soins des Vistani comptent comme un repos court.
-- La tombe ouverte vient de chiens sauvages et d’un fossoyeur négligent, qui accuse toujours quelqu’un d’autre.
+# Correctif 3.2.0.4 (29 octobre 2026)
+* Précision : l’[avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) n’est lu qu’aux Vistani dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md)
+* Les joueurs atteignent désormais le niveau 2 quand [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) les invite à manger
+* Ajout d’indications des Vistani sur la cachette de la charrette des pillards : s’en approcher déclenche leur attaque
+* Remplacement des jeux autour du feu par le jeu du grelot et le couplet farfelu
+* Suppression de la remise barovienne : les joueurs se réveillent dans une forêt, à 400 m d’un toit, et l’arc A commence aussitôt
+* La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) ne s’arrête plus au village de Barovie ; les joueurs le retrouvent à [l’étang de Tser](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4a-arrival-at-tser-pool), où il leur dit que la brume s’est chargée des pillards capturés
+* Ajout de profils d’interprétation pour [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), comme pour les PNJ de l’arc B
+* Précision : pendant l’attaque, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) peut détourner les pillards avec *image majeure*, et les soins des Vistani comptent comme un repos court
+* La tombe ouverte vient désormais de chiens sauvages et d’un fossoyeur négligent, qui accuse toujours quelqu’un d’autre
 
 <a id="de-relecture-style-2026-10-28"></a>
-# 28 octobre 2026 : Relecture du style
-
-- Les fiches du prologue suivent désormais l’édition choisie dans les réglages, sans verrouillage en 2014.
-- Réécriture de la narration du [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ.
-- Les [personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) sont les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son avis d’expulsion. Les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie.
-- Retrait de l’encart « Une équipe avant les Brumes » de la [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md).
-- Retrait des comparaisons avec Reloaded dans le texte de jeu de tout le guide. Les choix de réécriture sont expliqués dans des notes de conception, limitées au constat et à l’intention.
-- Liens vers les PNJ rétablis à chaque mention dans les textes De-Reloaded, notamment dans l’arc A.
-- La Maison de la Mort est toujours nommée en entier.
-- Les tirets d’incise des titres et de la narration deviennent des deux-points, des virgules ou des parenthèses. Les profils de l’annexe des PNJ nomment leur arc en français.
-- [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un personnage lit à la caravane. Il ne discute pas ses ordres.
-- Les pillards se déguisent en Vistani pour voler. La meunière raconte ce qu’elle a vu, sans reçu ni signature imitée.
-- La confrontation avec les pillards est obligatoire, avec un pillard par personnage, plus deux. Ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les personnages.
-- Arcs A et B : retour aux textes de Reloaded avant une nouvelle réécriture de l’arc A. Le sous-sol de la Maison de la Mort est retiré.
+# Correctif 3.2.0.3 (28 octobre 2026)
+* Réécriture de la narration du [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) dans le style de l’arc B : chaque scène s’ouvre sur son déclencheur, puis sur une description à lire aux joueurs et les indications au MJ
+* Les fiches du prologue suivent désormais l’édition choisie dans les réglages, sans verrouillage en 2014
+* Les joueurs deviennent les mercenaires de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), porteurs de son avis d’expulsion, dans [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) ; les reliques restent facultatives et servent d’attache émotionnelle avec la Barovie
+* Suppression de l’encadré « Une équipe avant les Brumes » de [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md)
+* Suppression des comparaisons avec Reloaded dans le texte de jeu de tout le guide ; les choix de réécriture sont expliqués dans des notes de conception
+* Rétablissement des liens vers les PNJ à chaque mention dans les textes De-Reloaded, notamment dans l’arc A
+* La Maison de la Mort est désormais toujours nommée en entier
+* Remplacement des tirets d’incise des titres et de la narration par des deux-points, des virgules ou des parenthèses ; les profils de [Personnages non joueurs](../Appendices/Non-Player%20Characters.md) nomment leur arc en français
+* [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) remet désormais un [avis d’expulsion](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat) officiel, qu’un joueur lit à la caravane, et ne discute pas ses ordres
+* Les pillards se déguisent désormais en Vistani pour voler ; la meunière raconte ce qu’elle a vu, sans reçu ni signature imitée
+* La confrontation avec les pillards devient obligatoire, avec un pillard par joueur, plus deux ; ligotés au camp, ils sont interrogés par [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) pendant que les Vistani soignent les joueurs
+* Retour aux textes de Reloaded pour les arcs A et B avant une nouvelle réécriture de l’arc A, et suppression du sous-sol de la Maison de la Mort
 
 <a id="de-hommes-de-main-2026-10-27"></a>
-# 27 octobre 2026 : Les hommes de main de Loïc
-
-- Les personnages deviennent les hommes de main de Loïc de Hauterive, qui leur confie ce qu’il ne règle pas par sa garde. Un billet privé remplace le mandat ; l’insigne et le serment disparaissent.
-- Eliza, l’espionne de Strahd, voyage avec la caravane : par les yeux de son rat albinos, Strahd remarque les personnages, puis les fait venir lui-même par les Brumes. Les Brumes ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport. Ses [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) deviennent des espions que le MJ peut faire apparaître.
-- Retrait des comparaisons avec Reloaded ajoutées dans le texte de jeu ; liens vers Loïc, Stanimir et Eliza complétés.
-- La caravane de Stanimir gagne la Barovie par sa propre route. Elle attend la levée du siège au village, où les personnages peuvent retrouver Stanimir avant son départ pour l’étang de Tser.
-- Le terme fixé par l’Abbé à Anna tombe au crépuscule du 16 Neyavr, trois semaines après leur pacte. Les arcs K et Q donnent la même date, et Anna confie l’échéance aux personnages.
-- La [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) fait une exception pour Valcroix et le service auprès de Loïc. Le reste du passé des personnages n’est pas exploré, et ils ne deviennent étrangers à leur cadre qu’après le prologue.
+# Correctif 3.2.0.2 (27 octobre 2026)
+* Les joueurs deviennent les hommes de main de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), qui leur confie ce qu’il ne règle pas par sa garde ; un billet privé remplace le mandat, et l’insigne et le serment disparaissent
+* Ajout d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), l’espionne de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich), à la caravane : par les yeux de son rat albinos, [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) remarque les joueurs, puis les fait venir par les Brumes, qui ne prennent qu’eux, qu’ils dorment au camp ou repartent faire leur rapport
+* Les [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) deviennent des espions que le MJ peut faire apparaître
+* Suppression des comparaisons avec Reloaded ajoutées dans le texte de jeu et ajout des liens vers [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza)
+* La caravane de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) gagne désormais la Barovie par sa propre route et attend la levée du siège au village, où les joueurs peuvent le retrouver avant son départ pour l’étang de Tser
+* Le terme fixé par [l’Abbé](../Appendices/Non-Player%20Characters.md#en-the-abbot) à [Anna](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baroness-anna-krezkova) tombe désormais au crépuscule du 16 Neyavr, trois semaines après leur pacte, dans les arcs K et Q ; [Anna](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-baroness-anna-krezkova) confie l’échéance aux joueurs
+* Ajout dans [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) d’une exception pour Valcroix et le service auprès de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) ; le reste du passé des personnages n’est pas exploré
 
 <a id="de-pillards-caravane-2026-10-26"></a>
-# 26 octobre 2026 : Les pillards et la caravane
-
-- Introduction resserrée autour de l’enquête et des échanges avec les habitants. Leurs témoignages mettent en cause des étrangers qu’ils confondent avec la caravane ; le trajet jusqu’au camp ne comporte ni attaque ni piège.
-- Remplacement du faux péage par une attaque de la caravane au crépuscule. Les pillards suivent les voyageurs et usurpent leur identité vistani pour détourner les soupçons. Les personnages viennent défendre les familles que leur mission devait faire partir.
-- L’invitation de Stanimir au repas remercie désormais les personnages pour leur aide. La soirée, le conte et le passage des Brumes prolongent cette rencontre.
-- Ajout de deux jeux facultatifs pendant les chants, entre le repas et les questions sur les reliques : le grelot discret (Dextérité) et le couplet impossible (Charisme), avant le conte de Stanimir.
-- Les reliques visibles peuvent susciter des questions des Vistani au repas. La Session 0 et la création des personnages précisent leur nouveau rôle par rapport à Reloaded : des liens personnels intégrés à l’ouverture commune, plutôt qu’une accroche supplémentaire.
-- Réécriture du résumé de l’acte I dans un style narratif, avec le contexte présenté avant les noms et les fonctions des personnages. Harmonisation des autres présentations, des notices et du canevas avec cette nouvelle séquence.
-- Harmonisation du prologue et de l’arc A avec l’écriture de l’arc B : présentation chronologique, descriptions à lire aux joueurs, dialogues et indications pratiques distincts. Les pièces du manoir séparent ce qui se voit en entrant de ce qui se découvre en explorant ; les profils d’Elisabeth sont conservés.
-- Deux passes de relecture croisée sur les parcours, le lore, la forme et la conduite du jeu. Correction des départs anticipés, des connaissances supposées dans les descriptions et des répétitions entre le prologue et l’arrivée à Baroville.
-- Contrôle des fiches, des annexes et des références du prologue et de l’arc A : accès direct aux sorts du sceau et à la trousse de soins, avec leurs règles 2014 ; renvoi précis au relevé de continuité ; apparitions de Thorn complétées.
-- Retrait de huit entrées obsolètes de l’index courant, conservées uniquement dans les archives de Reloaded avec leurs anciens renvois. Retrait du plan du sous-sol et de l’illustration du grick devenus sans usage ; retour de l’illustration de Rose et Thorn auprès de leur scène.
-- À l’étang de Tser, accueil, contes, mises, votes et petit-déjeuner tiennent compte de la présence effective de Stanimir et de ses compagnons.
+# Correctif 3.2.0.1 (26 octobre 2026)
+* Correction des départs anticipés, des connaissances supposées dans les descriptions et des répétitions entre le prologue et l’arrivée au village de Barovie
+* Resserrement de l’introduction du [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) autour de l’enquête : les témoignages des habitants mettent en cause des étrangers qu’ils confondent avec la caravane, et le trajet jusqu’au camp ne comporte ni attaque ni piège
+* Remplacement du faux péage par une attaque de la caravane au crépuscule : les pillards suivent les voyageurs et usurpent leur identité vistani, et les joueurs défendent les familles que leur mission devait faire partir
+* [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) invite désormais les joueurs au repas pour les remercier de leur aide
+* Ajout de deux jeux facultatifs pendant les chants, avant le conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) : le grelot discret (Dextérité) et le couplet impossible (Charisme)
+* Ajout de questions des Vistani sur les reliques visibles pendant le repas
+* Précision dans [Session zéro](../Chapter%201%20-%20Beginning%20the%20Campaign/Session%20Zero.md) et [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) : les reliques deviennent des liens personnels intégrés à l’ouverture commune, plutôt qu’une accroche supplémentaire
+* Réécriture de [Résumé de l’acte I](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md) dans un style narratif, avec le contexte présenté avant les noms et les fonctions des personnages
+* Harmonisation du prologue et de l’arc A avec l’écriture de l’arc B : présentation chronologique, descriptions à lire aux joueurs, dialogues et indications pratiques distincts ; les pièces du manoir séparent ce qui se voit en entrant de ce qui se découvre en explorant
+* Ajout d’accès directs aux sorts du sceau et à la trousse de soins, avec leurs règles 2014, et des apparitions manquantes de [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst)
+* Suppression de huit entrées obsolètes de l’index courant, conservées dans l’historique de Reloaded
+* Suppression du plan du sous-sol et de l’illustration du grick, et retour de l’illustration de [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst) auprès de leur scène
+* Précision dans [Arc C : Au cœur de la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md) : l’accueil, les contes, les mises, les votes et le petit-déjeuner de l’étang de Tser tiennent compte de la présence effective de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) et de ses compagnons
 
 <a id="de-feu-brumes-2026-10-25"></a>
-# 25 octobre 2026 : Le Feu et les Brumes, nouvelle ouverture
-
-Cette réécriture de **LazyLuigi** remplace l’ancienne ouverture de Reloaded. Ses choix sont expliqués dans les notes de conception des chapitres concernés.
-
-- Ajout du [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : les personnages servent Loïc de Hauterive à Valcroix, enquêtent sur quatre plaintes, rencontrent des brigands indépendants et découvrent l’hospitalité sincère de Stanimir. Le passage des Brumes tient compte d’une nuit au camp ou d’un départ nocturne, des personnes présentes et des repos réellement pris.
-- Réécriture de l’[arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) : arrivée près de Baroville, meute dangereuse et refuge fixe. La victoire contre les loups, la fuite et le passage direct au village restent possibles, avec une progression adaptée.
-- Recentrage du manoir sur ses étages : enquête sur la famille Durst, première rencontre des enfants au grenier, cache unique dans le coffret d’Elisabeth et nurserie scellée. Retrait du donjon souterrain, du culte sacrificiel et du boss Walter du parcours actuel.
-- Elisabeth est responsable de ses crimes et possède deux formes natives, **Noble corrompue** puis **Nothic**. Ses modales réunissent les phases, les règles communes, l’adaptation au groupe et le bénéfice de la mélodie de Klara. Walter, Klara, Rose et Thorn sont les victimes à inhumer ; Gustav repose déjà au jardin.
-- Séparation de la clé d’Elisabeth et des autres éclats d’ambre : cette clé n’accorde aucun don sombre et devient inerte seulement lorsque la nurserie est ouverte **et** Elisabeth morte. Les funérailles apaisent les victimes localement, sans faire sortir leurs âmes de Barovie.
-- Harmonisation des accroches, résumés, calendriers, connaissances de Strahd, retrouvailles vistani et raccords tardifs. Dalvan reste une découverte facultative à la frontière ; ses apparitions et son unique boussole suivent les événements réellement joués.
-- Mise à jour des notices, du bestiaire, des index, des apparitions, du sommaire et du canevas de l’acte I. Ajout des documents de jeu et d’un gabarit français du hall. Les profils standard de l’ouverture sont expressément fixés à 2014 ; le réglage général 2024 reste disponible ailleurs et ne convertit pas le boss maison.
-- Épreuve des chemins de traverse : fuite suivie d’un retour, incendie local, Elisabeth assommée plutôt que tuée, repos interrompus, arrivées avant ou après le siège. Les états du manoir et les récompenses suivent les actes réellement accomplis ; le jalon du village distingue la défense (200 PX) du soutien aux habitants et du départ (200 PX).
-- Adoption d’une horloge commune pour le siège, Vallaki, les fêtes et les lunes. Les retards consomment le temps disponible ; le convoi de Stanimir attend la levée du blocus et les scènes tiennent compte des personnes réellement arrivées.
-- Correction des effets tardifs de l’ambre : la clé locale d’Elisabeth ne provoque ni soupçon de corruption chez Godfrey, ni appel des sarcophages, ni résonance de Rahadin. Burebis peut reconnaître l’origine de la relique liée à un vestige promise par l’accroche Connaissance.
-- Complément des accès directs aux fiches depuis les annexes et de la navigation Walter → sceau → clé. Ajout de l’onglet **Après le combat** à Elisabeth ; retrait des associations erronées de Walter White et Gustav Herrenghast avec les Durst.
-- Relecture croisée de l’ouverture et de ses raccords dans tout le guide selon cinq axes : choix imprévus des joueurs, règles et ressources, temps et géographie, continuité du lore, navigation du lecteur. Les corrections ont été revérifiées ; les contrôles du lecteur couvrent les deux éditions, les sources des profils, les apparitions, la recherche et l’affichage mobile.
-- Les anciens noms et notes de conception sont conservés comme repères historiques, distincts des règles de cette ouverture. Les profils maison disposent de repères de difficulté ; leur équilibrage devra encore être éprouvé en partie.
+# Mise à jour 3.2 (25 octobre 2026)
+* Ajout du [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : les joueurs servent [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) à Valcroix, enquêtent sur quatre plaintes, rencontrent des brigands indépendants et découvrent l’hospitalité de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) avant le passage des Brumes
+* Correction de l’ouverture et de ses raccords dans tout le guide : choix imprévus des joueurs, règles et ressources, temps et géographie, continuité du lore et navigation
+* Remaniement d’[Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) : arrivée près du village de Barovie, meute dangereuse et refuge fixe ; la victoire contre les loups, la fuite et le passage direct au village restent possibles
+* Recentrage de la Maison de la Mort sur ses étages : enquête sur la famille Durst, première rencontre des enfants au grenier, cache unique dans le coffret d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) et nurserie scellée
+* Suppression du donjon souterrain, du culte sacrificiel et du boss [Walter](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst)
+* [Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) devient responsable de ses crimes et reçoit deux formes, **Noble corrompue** puis **Nothic** ; [Walter](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst), [Klara](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara), [Rose](../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst) et [Thorn](../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst) sont les victimes à inhumer, et [Gustav](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst) repose déjà au jardin
+* Ajout de l’onglet **Après le combat** à la fiche d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst)
+* Séparation de la clé d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) et des autres éclats d’ambre : elle n’accorde aucun don sombre et ne devient inerte que lorsque la nurserie est ouverte et [Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) morte
+* Précision : les funérailles apaisent les victimes localement, sans faire sortir leurs âmes de Barovie
+* Correction des effets tardifs de l’ambre : la clé d’[Elisabeth](../Appendices/Non-Player%20Characters.md#de-elisabeth-durst) ne provoque ni soupçon de corruption chez [Godfrey](../Appendices/Non-Player%20Characters.md#en-sir-godfrey-gwilym), ni appel des sarcophages, ni résonance de [Rahadin](../Appendices/Non-Player%20Characters.md#en-rahadin) ; [Burebis](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elder-burebis) peut reconnaître l’origine de la relique liée à un vestige
+* Ajout d’une horloge commune pour le siège, Vallaki, les fêtes et les lunes : les retards consomment le temps disponible
+* Harmonisation des accroches, résumés, connaissances de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) et retrouvailles vistani avec la nouvelle ouverture ; [Dalvan](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dalvan-olensky) reste une découverte facultative à la frontière
+* Précision : les états du manoir et les récompenses suivent les actes réellement accomplis ; le jalon du village distingue la défense (200 PX) du soutien aux habitants et du départ (200 PX)
+* Fixation à 2014 des profils standard de l’ouverture
+* Ajout des documents de jeu, d’un gabarit français du hall et d’accès directs aux fiches depuis les annexes ; mise à jour des notices, du bestiaire, des index, des apparitions, du sommaire et du canevas de l’acte I
+* Suppression des associations erronées de Walter White et Gustav Herrenghast avec les Durst
+* Ajout de repères de difficulté aux profils maison, dont l’équilibrage reste à éprouver
 
 <a id="de-reloaded-2026-10-25"></a>
-# 25 octobre 2026 : De-Reloaded, lecteur, navigation et aides de jeu
-
-Travaux de **LazyLuigi** pour **Curse of Strahd De-Reloaded**, la version maison, augmentée, autonome et française de Reloaded.
-
-## Premier choix narratif : le Djavo
-
-- Remplacement de l’appellation « le Diable » par **« le Djavo »** dans les récits, dialogues, résumés, titres, renvois et annexes ; l’arc O devient **Dîner avec le Djavo**. Les emplois populaires utilisent *djavo* ou *djavos*.
-- Ajout d’un cartouche **« Note de conception : le Djavo »** juste avant la première mention narrative, dans [Baroviens](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#de-reloaded-djavo), accompagnée de **« (Diable) »**. Il explique le choix de LazyLuigi, inspiré de *đavo*, et sa musicalité balkanique adaptée à l’ambiance de Ravenloft.
-- Harmonisation du menu, des concordances de titres et de l’alias **Djavo Strahd**. Les chemins, ancres et sources restent stables ; les noms techniques D&D (*Diable osseux*, *Vision/Vue du diable*) conservent leur identité et leurs fiches de règles.
-
-## Navigation interne et lecteur autonome
-
-- Mise en place du lecteur autonome : navigation entre chapitres, sommaire des sections, historique, favoris, mode nuit, taille du texte et affichage mobile.
-- Conservation des encadrés repliables, tableaux, illustrations, notes de bas de page, blocs de statistiques et ancres de traduction.
-- Mise en place et vérification des liens internes entre personnages, noms, lieux, créatures, objets et descriptions de campagne. Distinction des homonymes, variantes de rencontre et identités familiales.
-- Protection des noms propres et des emplois narratifs : « Gué de la Dague » ne renvoie plus à l’arme ; les verbes, titres de livres, métaphores et représentations décoratives ne déclenchent plus les fiches auxquelles ils avaient été associés à tort.
-
-## Supports visuels et recherche dans tout le guide
-
-- Traduction des textes des supports de jeu : lettres, affiches, documents et annotations de plans, rassemblés dans [Supports visuels](../Appendices/Supports%20visuels.md) et accessibles depuis les passages concernés.
-- Conservation des illustrations et crédits ; compression et optimisation des images avec préservation des cartes et documents à texte fin.
-- Ajout d’une recherche dans l’ensemble du guide, avec extraits, accès direct aux résultats et prise en compte des accents. Raccourci `Ctrl`/`Cmd` + `K`.
-- Après sélection d’un résultat, positionnement sur la première occurrence de l’expression recherchée dans le chapitre, avec ouverture des encadrés qui la contiennent et surlignage temporaire pendant **10 secondes**. Les accents et la casse sont ignorés ; si les mots sont dispersés, le lecteur rejoint le premier mot trouvé.
-
-## Modales de règles, catalogues 2014/2024 et liens AideDD
-
-- Mise en place de fiches d’aide en modale pour les créatures, objets, sorts, équipements, pièges et règles disponibles, avec description, statistiques et sources.
-- Intégration des extractions locales de One Click Dungeon pour le catalogue 2024 et constitution d’une base 2014 séparée à partir des références AideDD.
-- Ajout d’une page de réglages permettant de choisir **2014 ou 2024**, avec mémorisation du choix et bibliothèque de fiches consultables.
-- Respect des éditions imposées par la campagne, notamment Contresort 2014 pour Victor et Aboleth 2024 pour le cœur de la Rêveuse. Les absences d’extraction et les profils partiels sont indiqués explicitement.
-- Navigation entre fiches, bouton Retour, fermeture sans perdre sa place dans le chapitre et liens externes conservés lorsqu’ils sont pertinents.
-
-## Fiches du contenu maison et spécifique à la campagne
-
-- Création de fiches locales pour les PNJ modifiés, variantes de monstres, objets, pièges, pouvoirs et règles propres à la campagne.
-- Regroupement des formes et étapes des boss en onglets ; choix de la phase et de la rencontre correspondant au passage lu.
-- Renvoi vers les blocs natifs de l’aventure et retrait des copies d’annexe contradictoires, tout en conservant les anciennes ancres.
-- Ajout ou rétablissement des descriptions et règles omises : modifications de rencontre, règles communes de Strahd, effets des éclats d’ambre, cercle de confinement, Abjuration de Victor, portrait gardien et autres définitions locales.
-- Séparation des profils qui avaient été confondus, notamment Fiona/Leo, Ismark et son ancêtre, Gustav/Erasmus/Varushka, ainsi que Wensencia et sa monture. Les ajustements de PV d’une scène ne remplacent pas ceux d’une autre.
-
-## Apparitions et accès aux annexes
-
-- Création du cartouche **« Apparitions de… »**, qui rassemble les passages où un personnage ou une créature indexée est mentionné, avec regroupement par chapitre et liens vers les sections.
-- Rétablissement de ces informations dans les fiches modales grâce à l’onglet **Apparitions**. La sélection d’un passage ferme la fiche et rejoint le texte concerné ; les cartouches des pages d’annexe sont conservés.
-- Ajout d’accès explicites aux fiches modales depuis le [Bestiaire](../Appendices/Bestiary.md), en conservant les liens vers les profils natifs et leurs variantes de rencontre.
-- Ajout et enrichissement des annexes : index des personnages, créatures et éléments de jeu, concordances des noms, termes D&D, aptitudes et créations de campagne, et transcriptions des supports visuels.
-
-## Relectures et corrections
-
-- Relecture complète des neuf dossiers, puis contrôles du rendu et des modales dans les deux éditions.
-- Corrections des destinations, profils, phases, liens imbriqués, descriptions tronquées et faux liens lexicaux ; tests de navigation, d’accessibilité des modales, d’affichage mobile et de fonctionnement hors ligne.
-- Correction de 53 sous-titres de catégories dans l’extraction d’équipement 2014, sans modifier les valeurs des objets.
+# Mise à jour 3.1 (25 octobre 2026)
+* Remplacement de « le Diable » par « le Djavo » dans tout le guide ; l’arc O devient [Arc O : Dîner avec le Djavo](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md), et une note de conception explique ce choix dans [Traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#de-reloaded-djavo)
+* Ajout d’un lecteur autonome : navigation entre chapitres, sommaire des sections, historique, favoris, mode nuit, taille du texte et affichage mobile
+* Ajout de liens internes entre personnages, lieux, créatures et objets, en distinguant les homonymes
+* Correction des faux liens : les noms propres comme « Gué de la Dague », les verbes, les titres de livres et les métaphores ne renvoient plus aux fiches de règles
+* Ajout d’une recherche dans tout le guide (`Ctrl`/`Cmd` + `K`), qui ignore les accents et la casse, ouvre le chapitre sur la première occurrence et la surligne pendant 10 secondes
+* Ajout de [Supports visuels](../Appendices/Supports%20visuels.md), qui rassemble les textes traduits des lettres, affiches, documents et plans
+* Ajout de fiches en modale pour les créatures, objets, sorts, équipements, pièges et règles, avec un réglage 2014 ou 2024 et des liens vers AideDD
+* Précision : les éditions imposées par la campagne sont respectées, notamment Contresort 2014 pour [Victor](../Appendices/Non-Player%20Characters.md#en-victor-vallakovich) et Aboleth 2024 pour le cœur de la Rêveuse
+* Ajout de fiches pour les PNJ modifiés, variantes de monstres, objets, pièges, pouvoirs et règles propres à la campagne, avec les formes et phases des boss en onglets
+* Séparation de profils confondus, notamment [Fiona](../Appendices/Non-Player%20Characters.md#en-lady-fiona-wachter) et [Leo](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-leo-dilisnya), [Ismark](../Appendices/Non-Player%20Characters.md#en-ismark-kolyanovich) et son ancêtre, [Gustav](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst), [Erasmus](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten) et [Varushka](../Appendices/Non-Player%20Characters.md#en-varushka), ainsi que [Wensencia](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-wensencia) et sa monture
+* Ajout de l’onglet **Apparitions** aux fiches, qui rassemble les passages où un personnage ou une créature est mentionné
+* Ajout d’accès aux fiches depuis le [Bestiaire](../Appendices/Bestiary.md) et enrichissement des annexes : index, concordances des noms, termes D&D, aptitudes et créations de campagne
+* Correction de 53 sous-titres de catégories dans l’extraction d’équipement 2014
+* Correction de diverses destinations de liens, de profils, de phases et de descriptions tronquées
 
 <a id="de-reloaded-2026-10-24"></a>
-# 24 octobre 2026 : Traduction complète en français
-
-- Traduction intégrale du contenu disponible du guide [Curse of Strahd: Reloaded de DragnaCarta](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded).
-- Prise en compte des 41 pages Markdown de référence, dont 40 contenaient du texte, ainsi que du schéma Canvas de l’acte I. L’arc N, vide dans la source, reste signalé comme tel.
-- Traduction des textes narratifs, descriptions, encadrés, dialogues, tableaux et profils ; relecture bilingue des neuf grandes zones et harmonisation terminologique.
-- Conservation des valeurs, dés, structures, crédits et chemins de fichiers utiles à la continuité des références.
+# Mise à jour 3.0 (24 octobre 2026)
+* Traduction française intégrale de [Curse of Strahd: Reloaded de DragnaCarta](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) : les 41 pages Markdown, dont 40 contenaient du texte, et le canevas de l’acte I ; l’arc N, vide dans la source, reste signalé comme tel
+* Relecture bilingue et harmonisation de la terminologie
+* Conservation des valeurs, dés, structures, crédits et chemins de fichiers
 
 ---
 
@@ -175,7 +175,7 @@ Travaux de **LazyLuigi** pour **Curse of Strahd De-Reloaded**, la version maison
 > [!info]+ **Lire les anciennes notes de l’ouverture**
 > Les entrées ci-dessous conservent l’historique de Reloaded sous ses dates d’origine. Leurs mentions de Walter en tant que boss, de la Maison de la Mort voyageuse, du sous-sol ou de l’ancienne accroche concernent cette version antérieure. Pour jouer De-Reloaded, suivre le [prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) puis l’[arc A réécrit](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md). Les profils retirés ne s’appliquent plus.
 >
-> Les noms ci-dessous appartiennent uniquement à cette ancienne ouverture ; leurs entrées ont été retirées de l’index courant.
+> Les noms ci-dessous appartiennent uniquement à cette ancienne ouverture. Leurs entrées ont été retirées de l’index courant, sauf celles de Drasha, de Lancelot et de l’amas de chair, qui ne renvoient plus qu’à cet historique.
 >
 > | Français | Anglais |
 > |---|---|
