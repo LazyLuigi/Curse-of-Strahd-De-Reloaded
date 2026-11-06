@@ -1,3 +1,6 @@
+<a id="de-gardes-de-valcroix"></a>
+# Les hommes de main de Loïc
+L’aventure commence à **Valcroix**, un petit domaine de la Côte des Épées. Les joueurs créent des personnages de **niveau 1** qui servent déjà son seigneur, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), qui leur confie les affaires qu’il préfère régler sans sa garde. Toutes les classes ont leur place dans ce petit groupe. Demandez à chaque joueur un lien avec un autre personnage ; le reste se prépare avec [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-preparer-arc-zero).
 
 <a id="en-flaws" data-traduction="ancre"></a>
 # Défauts
