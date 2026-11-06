@@ -46,6 +46,8 @@ Les <a href="https://www.aidedd.org/dnd/monstres.php?vf=espion">espions</a> de <
 * toutes les conversations qu’ils entendent les joueurs tenir ;
 * tous les sorts, armes ou aptitudes qu’ils voient les joueurs utiliser ;
 * tous les lieux où ils voient les joueurs se rendre et tous les PNJ auxquels ils les voient rendre visite.
+
+<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dispose aussi de quelques [rats albinos](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies).
 <a id="en-encounters-with-strahd" data-traduction="ancre"></a>
 # Rencontres avec Strahd
 Tout au long de l’aventure, les joueurs auront de nombreuses occasions de se retrouver face à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a>. Après l’avoir rencontré pour la première fois à la croisée de l’Ivlis (voir [Arc C : Dans la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md)), ils pourront ensuite lui parler sur la colline d’Antan (voir [Arc J : La gemme volée](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md)) et dîner avec lui au château Ravenloft (voir [Arc O : Dîner avec le Djavo](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md)).

@@ -740,7 +740,7 @@ Comme un chat qui joue avec sa proie, <a href="../Appendices/Non-Player%20Charac
 
 <div class="description">
 <p>Le regard de <a href="../Appendices/Non-Player%20Characters.md#en-kiril-stoyanovich">Kiril</a> glisse vers l'homme à vos côtés et sa babine noire se retrousse. Il le fixe un instant, puis rejette la tête en arrière dans un rire tonitruant.</p>
-<p>« Vous avez ramené l'avorton ! tonne-t-il. Félicitations, mauviette. Qu'est-ce que ça fait de savoir qu'il t'a fallu ces <em>souris</em> pour te sauver ? Je suis impressionné, quand même. Comment <em>ont-elles</em> fait ?</p>
+<p>« Vous avez ramené l'avorton ! tonne-t-il. Félicitations, mauviette. Qu'est-ce que ça fait de savoir qu'il t'a fallu ces <em>souris</em> pour te sauver ? Je suis impressionné, quand même. Comment <em>ont-elles</em> fait ? »</p>
 </div>
 
 > [!abstract]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-emil-toranescu">Emil</a> emprisonné**

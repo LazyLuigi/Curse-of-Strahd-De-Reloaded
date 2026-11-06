@@ -719,7 +719,7 @@ Les esprits sont prêts à partager les informations suivantes si on le leur dem
 * Le Temple de l’Ambre a été fondé par des <a href="https://www.aidedd.org/dnd/monstres.php?vf=mage">mages</a> qui ont vécu un siècle avant eux, qui cherchaient à emprisonner les vestiges d'êtres puissants et maléfiques afin qu'ils ne ressuscitent pas. (Les esprits peuvent confirmer que les restes de ces fondateurs sont scellés dans [S3. Catacombes](#en-s3-catacombs).)
 * Les esprits ont été assassinés par <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, l'apprenti du chef de l'ordre secret du Temple : un <a href="https://www.aidedd.org/dnd/monstres.php?vf=archimage">archimage</a> nommé <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a>. <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> l’a fait en empoisonnant le vin contenu dans l’aiguière d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a>. (Bien qu'<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a> ait également été victime de la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, son <a href="https://www.aidedd.org/dnd/monstres.php?vf=fantome">fantôme</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-ghost-monstre"><sup>fiche</sup></a> a disparu du temple environ un an après l'arrivée de la <a href="https://www.aidedd.org/dnd/monstres.php?vf=mage">mage</a> elfe du crépuscule <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina Velikovna</a>. Les esprits ne sont pas sûrs de ce qui lui est arrivé, mais soupçonnent <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina</a> d'en être responsable.)
 * Si on leur demande pourquoi <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> les a tués, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=spectre">spectres</a> expriment leur conviction qu'il a été corrompu par « l'appel de l'ambre », comme tant de leurs collègues l'étaient « dans ces derniers jours ».
-* Depuis la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, le temple est tombé aux mains des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a>, que les esprits croient nées des miasmes maléfiques que dégagent les vestiges. Les esprits ont ressenti ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> dans leurs cauchemars pendant qu’ils vivaient, et sentent maintenant la présence de ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> les piéger dans le temple. "Elles appartiennent aux brumes", grince une <a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>, "et les brumes leur appartiennent."
+* Depuis la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, le temple est tombé aux mains des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a>, que les esprits croient nées des miasmes maléfiques que dégagent les vestiges. Les esprits ont ressenti ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> dans leurs cauchemars pendant qu’ils vivaient, et sentent maintenant que la présence de ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> les piège dans le temple. "Elles appartiennent aux brumes", grince une <a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>, "et les brumes leur appartiennent."
 
 > [!abstract]+ **Les esprits de l'ambre**
 > Si un joueur possède un <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, ouvertement ou secrètement, les âmes en peine en sentent la présence, sans en connaître l’emplacement précis, et exigent que les joueurs expliquent pourquoi ils portent « un fragment de l’influence du mal ».
@@ -817,7 +817,7 @@ Cette zone est telle que décrite dans <span class="citation">X37. Chambre du ma
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33d. Caveau éventré (p. 192)</span> et <span class="citation">Sarcophages d'ambre (p. 191)</span>. Cependant, aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nothic">nothic</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-nothic-monstre"><sup>fiche</sup></a>** ne réside dans cette salle. De plus, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>).**
+> [!info]+ **Sarcophage ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 >
 > ---
@@ -842,7 +842,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 
 Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>, la connexion télépathique prend fin et le joueur retrouve la perception de son environnement.
 
-> [!info]+ **Sarcophage Nord (Tombeau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a>).**
+> [!info]+ **Sarcophage nord (Tombeau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a>).**
 > Si un joueur s'approche de ce sarcophage alors qu'il est en possession de la statuette de papillon de [J4a. Le cairn de Kavan](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j4a-kavans-cairn), ou de l'*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-twilight-crest">emblème du crépuscule</a>* de [J6b. Le mur qui murmure](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j6b-the-whispering-wall), l'objet brille en violet et émet un bourdonnement doux et aigu.  (La lumière et le bourdonnement s'estompent après 1 minute ou si l'objet est retiré de la pièce.)
 
 > [!lore]+ **Le sarcophage brisé**
@@ -850,7 +850,7 @@ Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appe
 >
 > Depuis son enfermement, le vestige de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a> dormait silencieusement dans son sarcophage… jusqu’à ce que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a> vienne, il y a trois mois, rechercher son savoir sur la magie des âmes. Devant son refus de livrer ses secrets, il l’arracha au sarcophage et l’enferma dans <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">le Cœur de douleur</a>, au sommet du château Ravenloft, où il pouvait utiliser le pouvoir des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-fanes">Sanctuaires</a> pour la contraindre à répondre. Seules des bribes de sa puissance enveloppent aujourd’hui les débris de sa prison millénaire, portant un faible écho du manteau qu’elle revêtait jadis.
 
-> [!info]+ **Sarcophage Est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-drizlash-the-nine-eyed-spider">Drizlash</a>)**
+> [!info]+ **Sarcophage est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-drizlash-the-nine-eyed-spider">Drizlash</a>)**
 > Si une créature touche ce sarcophage, lisez :
 > 
 > ---
@@ -882,7 +882,7 @@ Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appe
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33e. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-harkotha">Harkotha</a> (p. 193)</span> et <span class="citation">Sarcophages d'ambre (p. 191)</span>. Cependant, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Nord (Tombeau d'<a href="../Appendices/Amber%20Shards.md#en-yrrga-the-eye-of-shadows">Yrrga</a>).**
+> [!info]+ **Sarcophage nord (Tombeau d'<a href="../Appendices/Amber%20Shards.md#en-yrrga-the-eye-of-shadows">Yrrga</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -936,7 +936,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les attaques et capacités ***téméraire***, ***saut avec élan***, ***attaques multiples***, ***morsure*** et ***poing*** d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=barlgura">barlgura</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-barlgura-monstre"><sup>fiche</sup></a>**, ainsi que sa vitesse d’escalade et le défaut : « Je démembrerais quelqu’un à la moindre provocation. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=barlgura">barlgura</a>** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau d’Yog).**  
+> [!info]+ **Sarcophage sud (Tombeau d’Yog).**  
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -968,7 +968,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33f. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-thangob">Thangob</a> (p. 193)</span>. Cependant, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (<a href="../Appendices/Amber%20Shards.md#en-norganas-the-finger-of-oblivion">Norganas</a>).**
+> [!info]+ **Sarcophage ouest (<a href="../Appendices/Amber%20Shards.md#en-norganas-the-finger-of-oblivion">Norganas</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -995,7 +995,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les capacités ***déplacement intangible*** et ***absorption de vie*** d’une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wraith-monstre"><sup>fiche</sup></a>**, ainsi que le défaut : « Je méprise ce qui me rappelle ce que j’étais et ce que je suis devenu. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-vaund-the-evasive">Vaund</a>).**
+> [!info]+ **Sarcophage sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-vaund-the-evasive">Vaund</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1020,7 +1020,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les capacités ***forme d’air***, ***attaques multiples*** et ***balayage de vent*** d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-invisible-stalker-monstre"><sup>fiche</sup></a>** (2024), ainsi que le défaut : « Je méprise ce qui me rappelle ce que j’étais et ce que je suis devenu. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a>** sous le contrôle du MJ.  
 
-> [!info]+ **Sarcophage Est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-seriach-the-hell-hound-whisperer">Seriach</a>).**
+> [!info]+ **Sarcophage est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-seriach-the-hell-hound-whisperer">Seriach</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1321,7 +1321,7 @@ Cette zone est telle que décrite dans <span class="citation">X34. Chambre du ma
 
 Cette zone correspond en grande partie à <span class="citation">X33a. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-shalx">Shalx</a> (p. 193)</span> et <span class="citation">Sarcophages d’ambre (p. 191)</span>. Retirez toutefois les **crânefeux**. Le cadavre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-duras">Duras</a>, poussé par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a>, se trouve ici. Modifiez également les sarcophages de cette pièce et leurs dons sombres comme indiqué ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-sykane-the-soul-hungerer">Sykane</a>)**
+> [!info]+ **Sarcophage ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-sykane-the-soul-hungerer">Sykane</a>)**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1348,7 +1348,7 @@ Cette zone correspond en grande partie à <span class="citation">X33a. Caveau de
 > * **Cinquième stade.** Le joueur acquiert les capacités ***aura d’anéantissement***, ***nature inhabituelle*** et ***poing*** d’un **bodak**, ainsi que le défaut : « Je recherche les morts-vivants et j’évite les vivants. »
 > * **Sixième stade.** Le joueur se transforme en **bodak** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-zrin-hala-the-howling-storm">Zrin-Hala</a>)**  
+> [!info]+ **Sarcophage sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-zrin-hala-the-howling-storm">Zrin-Hala</a>)**  
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---

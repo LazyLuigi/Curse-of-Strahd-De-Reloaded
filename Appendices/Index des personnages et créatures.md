@@ -149,6 +149,7 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
+| <a id="de-rats-albinos"></a>Rats albinos | Rats albinos | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) |
 | <a id="ref-nom-the-bonegrinder-coven"></a>le convent du Broyeur d’os | The Bonegrinder Coven | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-the-lord-of-the-castle) |
 | <a id="ref-nom-the-nightmare-three"></a>le Trio du cauchemar | The Nightmare Three | [Section du guide](Non-Player%20Characters.md#en-morgantha-dream-peddler) |
 
@@ -796,6 +797,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-dnd-peryton-monstre"></a>Péryton | Peryton | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r4c-the-monument) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=peryton) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=peryton) |
 | <a id="ref-dnd-quasit-monstre"></a>Quasit | Quasit | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-dining-hall) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=quasit) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=quasit) |
 | <a id="ref-dnd-rat-monstre"></a>Rat | Rat | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rat) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=rat) |
+| <a id="ref-dnd-giant-rat-monstre"></a>Rat géant | Giant Rat | [Mention dans le guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rat-geant) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=giant-rat) |
 | <a id="ref-dnd-revenant-monstre"></a>Revenant | Revenant | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=revenant) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=revenant) |
 | <a id="ref-dnd-rhinoceros-monstre"></a>Rhinocéros | Rhinoceros | [Mention dans le guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t3h-goat-pen) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=rhinoceros) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=rhinoceros) |
 | <a id="ref-dnd-roc-monstre"></a>Roc | Roc | [Mention dans le guide](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c4b-madam-evas-tent) · [AideDD FR](https://www.aidedd.org/dnd/monstres.php?vf=roc) · [AideDD EN](https://www.aidedd.org/dnd/monstres.php?vo=roc) |

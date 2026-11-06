@@ -1168,7 +1168,7 @@ Près de l’entrée de l’anneau de rochers noirs formant le **cercle des <a h
 
 Les treize silhouettes autour du socle sont treize **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-druid-naturalist">druides naturalistes</a>**. Les quatre gardiens sont deux **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-druid-assailant">druides assaillants</a>** et deux **<a href="https://www.aidedd.org/dnd/monstres.php?vf=berserker">berserkers</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-berserker-monstre"><sup>fiche</sup></a>**. La femme est <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla Vilisevic</a>, l’une des épouses vampiriques de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>.
 
-> [!combat]- **Combat - Les Gardes du Rituel**  
+> [!combat]- **Combat : Les Gardes du Rituel**  
 > **Difficulté du combat** : éprouvante
 > **Niveau des personnages attendu** : 5
 > **Alliés :** <a href="../Appendices/Non-Player%20Characters.md#en-ireena-kolyana">Ireena Kolyana</a> (FP 2) et <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel Vinshaw</a> (FP 2)

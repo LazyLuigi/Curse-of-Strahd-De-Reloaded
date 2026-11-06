@@ -824,14 +824,14 @@ Cette zone est telle que décrite dans <span class="citation">K63. Cave à vin (
 ### Cuisine
 <span class="citation"><em>Cette scène se déroule au chapitre 4, zone K65.</em></span> 
 
-Cette zone correspond en grande partie à celle décrite dans <span class="citation">K65. Cuisine (p. 78)</span>. Cependant, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** affamé se cache dans les coins ombragés du plafond. Un joueur avec un score passif de Sagesse (Perception) de 16 ou plus remarque une silhouette s'agitant au-dessus d'une des étagères.
+Cette zone correspond en grande partie à celle décrite dans <span class="citation">K65. Cuisine (p. 78)</span>. Cependant, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** affamé se cache dans les coins ombragés du plafond. Un joueur dont la valeur de Sagesse (Perception) passive est de 16 ou plus remarque une silhouette s'agitant au-dessus d'une des étagères.
 
 Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-monstre"><sup>fiche</sup></a> attaque s'il est remarqué ou si un joueur entre seul dans cette zone.
 <a id="en-butlers-quarters" data-traduction="ancre"></a>
 ### Quartiers du majordome
 <span class="citation"><em>Cette scène se déroule au chapitre 4, zone K66.</em></span>
 
-Cette zone correspond en grande partie à celle décrite dans <span class="citation">K66. Quartiers du majordome (p. 78)</span>. Cependant, les objets qui encombrent la pièce n’ont pas été rassemblés par <a href="../Appendices/Non-Player%20Characters.md#en-cyrus-belview">Cyrus</a>, et un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** affamé se cache dans les coins sombres du plafond. Un joueur avec un score passif de Sagesse (Perception) de 16 ou plus remarque une silhouette qui bouge dans le coin sud-ouest.
+Cette zone correspond en grande partie à celle décrite dans <span class="citation">K66. Quartiers du majordome (p. 78)</span>. Cependant, les objets qui encombrent la pièce n’ont pas été rassemblés par <a href="../Appendices/Non-Player%20Characters.md#en-cyrus-belview">Cyrus</a>, et un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** affamé se cache dans les coins sombres du plafond. Un joueur dont la valeur de Sagesse (Perception) passive est de 16 ou plus remarque une silhouette qui bouge dans le coin sud-ouest.
 
 Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampire">vampire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-monstre"><sup>fiche</sup></a> attaque s'il est remarqué ou si un joueur entre seul dans cette zone.
 <a id="en-p6-kings-apartments" data-traduction="ancre"></a>
@@ -1216,7 +1216,7 @@ Cette zone est telle que décrite dans <span class="citation">K39. Salle des toi
 > |-|-|-|-|-|
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante">Araignée géante</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-giant-spider-monstre"><sup>fiche</sup></a> | 4 | 4 | 5 | 6 |
 
-Cette zone correspond en grande partie à celle décrite dans <span class="citation">K40. Beffroi (p. 67)</span>. Cependant, si les joueurs ont attiré l'attention du **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-invisible-stalker-monstre"><sup>fiche</sup></a>** en activant le piège à gaz somnifère dans [P7a. Faux trésor](#en-p7a-false-treasury), un joueur avec un score passif de Sagesse (Perception) de 16 ou plus remarque que la poussière et les toiles autour de la porte secrète ont été récemment dérangées.
+Cette zone correspond en grande partie à celle décrite dans <span class="citation">K40. Beffroi (p. 67)</span>. Cependant, si les joueurs ont attiré l'attention du **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-invisible-stalker-monstre"><sup>fiche</sup></a>** en activant le piège à gaz somnifère dans [P7a. Faux trésor](#en-p7a-false-treasury), un joueur dont la valeur de Sagesse (Perception) passive est de 16 ou plus remarque que la poussière et les toiles autour de la porte secrète ont été récemment dérangées.
 <a id="en-p7d-treasury" data-traduction="ancre"></a>
 ## P7d. Trésor
 <span class="citation"><em>Cette scène se déroule au chapitre 4, zone K41.</em></span> 
@@ -1524,7 +1524,7 @@ Un joueur qui examine le bureau de <a href="../Appendices/Non-Player%20Character
 </div> 
 
 > [!info]+ **La porte secrète**
-> Les joueurs qui trouvent et franchissent la porte secrète quittent la garnison et entrent dans les [P11. Les cachots](#en-p11-dungeons) par [P11f. Escalier ouest](#en-p11f-western-stair). Celui qui ouvre la porte aperçoit une silhouette humanoïde qui semble l’observer de l’autre côté du palier ; aussitôt repérée, elle se dérobe à sa vue. Il s’agit d’une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ombre">ombre</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-shadow-monstre"><sup>fiche</sup></a>**. Consultez [P11f. Escalier ouest](#en-p11f-western-stair) si les joueurs tentent de l’affronter ou de communiquer avec elle.
+> Les joueurs qui trouvent et franchissent la porte secrète quittent la garnison et entrent dans [P11. Les cachots](#en-p11-dungeons) par [P11f. Escalier ouest](#en-p11f-western-stair). Celui qui ouvre la porte aperçoit une silhouette humanoïde qui semble l’observer de l’autre côté du palier ; aussitôt repérée, elle se dérobe à sa vue. Il s’agit d’une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ombre">ombre</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-shadow-monstre"><sup>fiche</sup></a>**. Consultez [P11f. Escalier ouest](#en-p11f-western-stair) si les joueurs tentent de l’affronter ou de communiquer avec elle.
 <a id="en-p10b-garrison-first-floor" data-traduction="ancre"></a>
 ## P10b. Garnison, premier niveau
 <a id="en-first-floor-south-archers-post-access-hall" data-traduction="ancre"></a>
@@ -1590,7 +1590,7 @@ Cette zone correspond à <span class="citation">K12. Poste de la tourelle (p. 57
 Cette zone correspond à <span class="citation">K20. Cœur de douleur (p. 59)</span>. Monter les marches conduit au [Palier du roi](#en-kings-landing), et les descendre au [Vestibule de la tour nord](#en-north-tower-vestibule).
 
 > [!info]+ **La porte secrète**
-> Les joueurs qui trouvent et franchissent la porte secrète du mur nord-est quittent la garnison et entrent dans l’[P5. L’aile des serviteurs](#en-p5-servants-wing) par l’[Étage supérieur des serviteurs](#en-servants-upper-floor).
+> Les joueurs qui trouvent et franchissent la porte secrète du mur nord-est quittent la garnison et entrent dans [P5. L’aile des serviteurs](#en-p5-servants-wing) par l’[Étage supérieur des serviteurs](#en-servants-upper-floor).
 
 > [!info]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">Le Cœur de douleur</a>**
 > <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">Le Cœur de douleur</a> correspond en grande partie à <span class="citation">K20. Cœur de douleur (p. 59)</span>. Toutefois, il est immunisé contre tous les dégâts, et aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** ne vient attaquer ceux qui s’en prennent à lui. De plus, au lieu de secouer la tour au rang d’initiative 10 de chaque round, le Cœur la secoue chaque fois que les joueurs tentent de monter d’un niveau supplémentaire vers lui.
@@ -1603,7 +1603,7 @@ Cette zone correspond à <span class="citation">K20. Cœur de douleur (p. 59)</s
 Cette zone correspond à <span class="citation">K13. Couloir d’accès au poste de la tourelle (p. 57)</span>. 
 
 > [!info]+ **La porte secrète**
-> Les joueurs qui trouvent et franchissent la porte secrète du mur sud quittent la garnison et entrent dans les [P6. Les appartements du roi](#en-p6-kings-apartments) par l’[Escalier des appartements du roi](#en-kings-apartment-stair).
+> Les joueurs qui trouvent et franchissent la porte secrète du mur sud quittent la garnison et entrent dans [P6. Les appartements du roi](#en-p6-kings-apartments) par l’[Escalier des appartements du roi](#en-kings-apartment-stair).
 <a id="en-second-floor-north-archers-post" data-traduction="ancre"></a>
 ### Poste des archers nord, deuxième niveau
 <span class="citation"><em>Cette scène se déroule au chapitre 4, dans la zone K22.</em></span>
@@ -1633,7 +1633,7 @@ Cette zone correspond en grande partie à <span class="citation">K46. Parapets (
 
 Cette zone correspond en grande partie à <span class="citation">K20. Cœur de douleur (p. 59)</span>. Monter conduit au [Palier du général](#en-generals-landing) par l’[Escalier de la tour nord](#en-north-tower-stair), et descendre au [Palier des serviteurs](#en-servants-landing).
 
-Les joueurs qui franchissent l’arche occidentale quittent la garnison et entrent dans les [P6. Les appartements du roi](#en-p6-kings-apartments) par la [Salle des héros](#en-hall-of-heroes).
+Les joueurs qui franchissent l’arche occidentale quittent la garnison et entrent dans [P6. Les appartements du roi](#en-p6-kings-apartments) par la [Salle des héros](#en-hall-of-heroes).
 
 > [!info]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">Le Cœur de douleur</a>**
 > <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">Le Cœur de douleur</a> correspond en grande partie à <span class="citation">K20. Cœur de douleur (p. 59)</span>. Toutefois, il est immunisé contre tous les dégâts, et aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampirien</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a>** ne vient attaquer ceux qui s’en prennent à lui. De plus, au lieu de secouer la tour au rang d’initiative 10 de chaque round, le Cœur la secoue chaque fois que les joueurs tentent de monter d’un niveau supplémentaire vers lui.
