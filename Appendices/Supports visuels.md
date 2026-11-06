@@ -2,6 +2,11 @@
 
 Ces transcriptions permettent de remettre les documents aux joueurs en français. Les illustrations d’origine sont conservées ; leurs crédits figurent dans les pages de l’aventure. Les points d’interrogation des croquis restent des incertitudes de leurs auteurs, sans ajout d’informations que les joueurs ignorent.
 
+<a id="support-avis-expulsion"></a>
+## Avis d’expulsion de Loïc
+
+[Illustration](../images/Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes/Avis%20d%27expulsion%20de%20Loic.webp). Le document est rédigé en français ; son texte figure dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-piece-mandat), où les joueurs le reçoivent.
+
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup
 
