@@ -997,6 +997,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-soul-leech"></a>Sangsue des âmes | Soul Leech | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) |
 | <a id="ref-campagne-elder-shoosuva"></a>Shoosuva ancien | Elder Shoosuva | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
 | <a id="ref-campagne-forsaken-soldier"></a>Soldat abandonné | Forsaken Soldier | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
+| <a id="ref-campagne-giant-rat-skeleton"></a>Squelette de rat géant | Giant Rat Skeleton | [Section du guide](Bestiary.md#de-squelette-de-rat-geant) |
 | <a id="ref-campagne-greater-strix"></a>Strix majeur | Greater Strix | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20I%20-%20The%20Walls%20of%20Krezk.md#en-i3b-the-luna-river-path) |
 | <a id="ref-campagne-lesser-strix"></a>Strix mineur | Lesser Strix | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j3-the-wizard-of-wines) |
 | <a id="ref-campagne-rootspike-triad"></a>Triade de racines épineuses | Rootspike Triad | [Section du guide](Bestiary.md#en-rootspike-triad) |
