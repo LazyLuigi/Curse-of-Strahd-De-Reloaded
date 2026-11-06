@@ -5,7 +5,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 <a id="support-jamboree"></a>
 ## Affiche de la Fête de la Tête de Loup
 
-[Illustration d’origine](../images/Jamboree_Poster_Distressed.webp).
+[Illustration d’origine](../images/Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana/Jamboree_Poster_Distressed.webp).
 
 > Venez toutes et tous !
 >
@@ -24,14 +24,14 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 <a id="support-carnaval"></a>
 ## Affiche du carnaval de Rictavio
 
-[Illustration d’origine](../images/Carnival%20Poster.webp).
+[Illustration d’origine](../images/Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana/Carnival%20Poster.webp).
 
 > **Le Carnaval des merveilles de Rictavio**
 
 <a id="support-durst"></a>
 ## Invitation des Durst
 
-[Illustration d’origine](../images/Durst%20Invitation.jpg).
+[Illustration d’origine](../images/Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House/Durst%20Invitation.jpg).
 
 > Vous êtes cordialement invités à vous joindre à
 >
@@ -50,7 +50,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 <a id="support-espion"></a>
 ## Billet de l’espion
 
-[Illustration d’origine](../images/Spy%20Note.webp).
+[Illustration d’origine](../images/Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil/Spy%20Note.webp).
 
 > Espion au château.
 >
@@ -65,7 +65,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 <a id="support-khazan-1"></a>
 ## Premier feuillet de Khazan
 
-[Illustration d’origine](../images/Khazan%20notes%201.webp).
+[Illustration d’origine](../images/Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight/Khazan%20notes%201.webp).
 
 > Paramètre d’intégrité + runes de duplication + fonction d’inversion = demi-plan physique dissimulé au sein d’une manifestation psychique.
 >
@@ -76,7 +76,7 @@ Les trois dessins représentent, de gauche à droite, un arbre noueux entouré d
 <a id="support-khazan-2"></a>
 ## Second feuillet de Khazan
 
-[Illustration d’origine](../images/Khazan%20notes%202.webp).
+[Illustration d’origine](../images/Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight/Khazan%20notes%202.webp).
 
 > **Cœur de douleur**
 >
@@ -93,7 +93,7 @@ Dans l’original, la dernière question est soulignée trois fois.
 <a id="support-argynvost"></a>
 ## Journal d’Argynvost
 
-[Illustration d’origine](../images/Argynvost_Journal_RRL.jpg).
+[Illustration d’origine](../images/Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor/Argynvost_Journal_RRL.jpg).
 
 > Mes chevaliers sont tombés, et cette terre est perdue. Ni l’épée ni le sort, ni la griffe ni le croc n’arrêteront les armées de mon ennemi. Aujourd’hui, je mourrai, non pour venger ceux qui sont tombés, mais pour défendre ce que j’aime : cette vallée, ce foyer et les idéaux de l’ordre du Dragon d’argent.
 >
@@ -108,7 +108,7 @@ Dans l’original, la dernière question est soulignée trois fois.
 <a id="support-andral"></a>
 ## Lettre d’Andral à Argynvost
 
-[Illustration d’origine](../images/Andral_Scroll_RRL.jpg).
+[Illustration d’origine](../images/Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor/Andral_Scroll_RRL.jpg).
 
 > **Au seigneur Argynvost, protecteur des monts Balinok et fondateur de l’ordre du Dragon d’argent**
 >
@@ -125,7 +125,7 @@ Dans l’original, la dernière question est soulignée trois fois.
 <a id="support-plans"></a>
 ## Légende française des plans de Doru et de Van Richten
 
-Illustrations : [plan de Doru](../images/Dorus_Notes.webp), [plan complété par Van Richten](../images/Dorus_Notes_Plus_VR.webp), [plan étendu](../images/Dorus_Notes_Plus_VR_Expanded.webp).
+Illustrations : [plan de Doru](../images/Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist/Dorus_Notes.webp), [plan complété par Van Richten](../images/Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist/Dorus_Notes_Plus_VR.webp), [plan étendu](../images/Appendices/Supports%20visuels/Dorus_Notes_Plus_VR_Expanded.webp).
 
 | Inscription anglaise | Lecture française |
 |---|---|
@@ -183,7 +183,7 @@ Les flèches montantes et descendantes ainsi que les « ? » gardent le sens ind
 <a id="support-heinrich"></a>
 ## Légende française du plan d’Heinrich
 
-[Illustration d’origine](../images/Heinrichs_Map.webp).
+[Illustration d’origine](../images/Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight/Heinrichs_Map.webp).
 
 | Inscription anglaise | Lecture française |
 |---|---|
