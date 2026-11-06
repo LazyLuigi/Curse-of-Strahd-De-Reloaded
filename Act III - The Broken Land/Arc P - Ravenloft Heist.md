@@ -724,7 +724,7 @@ Cette zone est telle que décrite dans <span class="citation">K31b. Accès à la
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">K62. Salle des serviteurs (p. 76)</span>. Cependant, révisez la description de cette zone comme suit :
 
 <div class="description"> 
-<p>De lourdes poutres soutiennent le plafond affaissé de cette longue salle, haut de dix pieds. Ses murs maçonnés sont éclairés par des <a href="https://www.aidedd.org/regles/equipement/materiel/">torches</a> vacillantes. Le brouillard colle au sol et masque tout ce qui se trouve à moins de trois pieds de hauteur.</p>
+<p>De lourdes poutres soutiennent le plafond affaissé de cette longue salle, haut de dix pieds. Ses murs maçonnés sont éclairés par des torches vacillantes. Le brouillard colle au sol et masque tout ce qui se trouve à moins de trois pieds de hauteur.</p>
 <p> À l'extrémité gauche du hall se dressent deux portes en bois, leurs lourdes planches sont cerclées d'acier. À l’extrémité droite se tient une herse métallique relevée, au-delà de laquelle se trouve une sombre cave à vin. Trois portes s'alignent le long du mur opposé, à côté d'un escalier sombre et montant. La porte du milieu est ouverte, une lumière cramoisie vacillante se répandant sur le sol en pierre froide à côté d'elle.</p> 
 <p>Une ombre géante traverse le plafond alors qu'une silhouette sombre se traîne lentement dans le couloir vers vous.</p> 
 </div> 

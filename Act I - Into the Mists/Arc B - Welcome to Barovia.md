@@ -565,7 +565,7 @@ Peu après la défaite de la dernière vague, la **<a href="../Appendices/Index%
 <p>Une petite silhouette sombre plonge du ciel et prend les contours d'un <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> familier, les extrémités bleues de ses ailes brillant à la lumière des <a href="https://www.aidedd.org/regles/equipement/materiel/">torches</a>. Ses yeux sont écarquillés de panique, et son bec grand ouvert laisse échapper une succession de cris pressants et désespérés.</p>
 </div>
 
-Incapable de parler sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> <a href="https://www.aidedd.org/regles/equipement/materiel/">tente</a> de faire comprendre aux joueurs que la barricade occidentale est tombée, en tirant leurs cheveux et leurs vêtements vers la place du village. S'ils ne la suivent pas aussitôt, lisez :
+Incapable de parler sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> tente de faire comprendre aux joueurs que la barricade occidentale est tombée, en tirant leurs cheveux et leurs vêtements vers la place du village. S'ils ne la suivent pas aussitôt, lisez :
 
 <div class="description">
 <p>Vous entendez au loin des cris terrifiés et du bois qui se brise.</p>
