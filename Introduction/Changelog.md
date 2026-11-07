@@ -10,6 +10,8 @@ Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Rel
 * Ajout d’une courte section sur les hommes de main de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#de-gardes-de-valcroix)
 * Retrait de 75 liens posés sur des mots courants (bougies, tentes, coffres, gardes, etc.) ; le verbe « tente » ne renvoie plus à l’équipement, ni « lance » aux armes
 * Correction : Exethanter est une liche dans Résumé de l’aventure
+* Correction : le lien vers l’[arc U](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md) apparaissait en texte brut dans l’acte V de Résumé de l’aventure
+* Les notes de conception de [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) et d’[Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) exposent l’intention et non plus le déroulé
 * Dans l’[arc C](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale), le conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) renvoie au récit du [prologue](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-conte) et non plus à celui du livre
 
 <a id="de-retours-prologue-2026-11-05"></a>
