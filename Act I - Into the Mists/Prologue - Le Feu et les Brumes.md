@@ -11,7 +11,7 @@ Après cette soirée, les Brumes emportent les joueurs en Barovie. Le prologue s
 > [!design]+ **Note de conception : Le Feu et les Brumes**
 > **Constat.** Ce prologue remplace les accroches de Reloaded, qui n’offrent pas un sentiment de groupe suffisamment fort aux joueurs, et adoucit l’arc A, dont l’horreur crue ne préfigure pas la campagne à venir. Ce prologue donne au groupe un passé commun, une mission et offre l’occasion d’une première rencontre avec les Vistani.
 >
-> **Intention.** Cette ouverture part d’une mission ordinaire pour ancrer le groupe dans son pays avant de l’en arracher. Les plaintes des habitants installent la méfiance envers les voyageurs, puis l’attaque des pillards renverse leur compréhension de la situation. En protégeant la caravane, les joueurs gagnent la reconnaissance des Vistani et sont invités à partager leur feu. Par les yeux du rat d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) observe la scène ; intrigué, il les fait venir par les Brumes.
+> **Intention.** Cette ouverture vise à ancrer le groupe dans son pays avant de l’en arracher, à installer chez les joueurs un a priori sur les étrangers pour mieux le démentir, et à créer un premier lien de confiance avec les Vistani.
 
 <a id="de-preparer-arc-zero"></a>
 ## Préparer le départ
