@@ -149,6 +149,7 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
+| <a id="de-rats-albinos"></a>Rats albinos | Rats albinos | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies) |
 | <a id="ref-nom-the-bonegrinder-coven"></a>le convent du Broyeur d’os | The Bonegrinder Coven | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-the-lord-of-the-castle) |
 | <a id="ref-nom-the-nightmare-three"></a>le Trio du cauchemar | The Nightmare Three | [Section du guide](Non-Player%20Characters.md#en-morgantha-dream-peddler) |
 

@@ -7,7 +7,7 @@ Une fois à l’intérieur, les joueurs se retrouvent piégés et apprennent que
 Si les joueurs tuent <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a>, la brume se retire et ils peuvent enfin quitter la maison, qui s’effondre derrière eux.
 
 > [!design]+ **Note de conception : la Maison de la Mort**
-> **Intention.** Les joueurs arrivent en Barovie par le prologue et se réfugient dans la maison pour échapper à la meute. Le sous-sol disparaît : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> devient la menace de minuit, et l’enquête dans les étages prépare le combat contre elle.
+> **Intention.** Cet arc vise à introduire l’ambiance auprès des joueurs et à commencer à les faire basculer dans l’horreur, sans pour autant leur donner une première impression trop horrifique ou gore du ton de la campagne.
 
 > [!lore]+ **L’histoire de la Maison de la Mort**
 > Consultez [Les premiers fidèles de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-strahds-first-followers) pour découvrir toute l’histoire macabre de la Maison de la Mort.

@@ -1,5 +1,19 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-corrections-retablies-2026-11-06"></a>
+# Correctif 3.2.0.11 (6 novembre 2026)
+* Rétablissement de corrections perdues lors du retour au texte de Reloaded : fautes, tirets d’incise, parenthèses cassées, majuscules et calques, notamment dans les arcs O, P, R, S et T
+* Rétablissement des rats albinos, espions de Strahd, dans [Les alliés de Strahd](../Chapter%202%20-%20The%20Land%20of%20Barovia/Strahd%20von%20Zarovich.md#en-strahds-allies), Mener l’aventure et l’index
+* Les rats espions boivent le sang de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) et ont le profil du rat ; il ne mord que celui d’[Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-town-gates)
+* Les profils de [Personnages non joueurs](../Appendices/Non-Player%20Characters.md) nomment de nouveau leur arc en français
+* Retrait de la rubrique « Conséquences en jeu » de la note de conception sur le Djavo, dans [Traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#de-reloaded-djavo)
+* Ajout d’une courte section sur les hommes de main de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans [Création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#de-gardes-de-valcroix)
+* Retrait de 75 liens posés sur des mots courants (bougies, tentes, coffres, gardes, etc.) ; le verbe « tente » ne renvoie plus à l’équipement, ni « lance » aux armes
+* Correction : Exethanter est une liche dans Résumé de l’aventure
+* Correction : le lien vers l’[arc U](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md) apparaissait en texte brut dans l’acte V de Résumé de l’aventure
+* Les notes de conception de [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) et d’[Arc A : S’échapper de la Maison de la Mort](../Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House.md) exposent l’intention et non plus le déroulé
+* Dans l’[arc C](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-stanimirs-tale), le conte de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) renvoie au récit du [prologue](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-conte) et non plus à celui du livre
+
 <a id="de-retours-prologue-2026-11-05"></a>
 # Correctif 3.2.0.10 (5 novembre 2026)
 * Modification de l’invitation de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) dans [Prologue : Le Feu et les Brumes](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md) : il remercie les joueurs d’avoir veillé sur les siens et défendu leur honneur ; son invitation aux joueurs restés à l’écart devient un texte à lire

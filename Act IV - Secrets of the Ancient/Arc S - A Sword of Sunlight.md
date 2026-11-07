@@ -82,7 +82,7 @@ Tandis que les joueurs découvrent les secrets ancestraux du temple, une questio
 > *D’un seul mouvement brusque, il projette la tête vers <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et pousse un **cri strident** d’avertissement et de défi. Une vague de son tonitruante balaie la montagne ; le cri puissant et retentissant du <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> résonne dans vos oreilles.*
 > 
 > ![[The_Roc_of_Mt._Ghakis_night_hires.webp]] 
-> <span class="credit">"Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">Roc</a> du Mont Ghakis" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span> 
+> <span class="credit">"Le Roc du Mont Ghakis" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span> 
 > 
 > ---
 >
@@ -271,7 +271,7 @@ Si le moment opportun se présente, « <a href="../Appendices/Index%20des%20per
 >
 > Si possible, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> utilise sa vitesse de vol pour rester en vol stationnaire en permanence, préférant se tenir autant que possible près du plafond de la pièce où il se trouve.
 >
-> S'il est réduit à 62 points de vie ou moins, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> lance *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>* pour se téléporter dans les cieux au-dessus du Temple de l’Ambre, où il reste jusqu'à la tombée de la nuit. Cette nuit-là, si les joueurs commencent un repos long dans ou à proximité du temple, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> *<a href="https://www.aidedd.org/dnd/sorts.php?vf=invisibilite">invisibilité</a>* et s'approche de leur camp pour les affaiblir ou les détruire, préférant le faire sans s'engager dans un combat ouvert (par exemple, en lançant d'abord *<a href="https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique">force fantasmagorique</a>*, *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees">détection des pensées</a>* ou *<a href="https://www.aidedd.org/dnd/sorts.php?vf=suggestion">suggestion</a>*).
+> S'il est réduit à 62 points de vie ou moins, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> lance *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>* pour se téléporter dans les cieux au-dessus du Temple de l’Ambre, où il reste jusqu'à la tombée de la nuit. Cette nuit-là, si les joueurs commencent un repos long dans ou à proximité du temple, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> lance *<a href="https://www.aidedd.org/dnd/sorts.php?vf=invisibilite">invisibilité</a>* et s'approche de leur camp pour les affaiblir ou les détruire, préférant le faire sans s'engager dans un combat ouvert (par exemple, en lançant d'abord *<a href="https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique">force fantasmagorique</a>*, *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees">détection des pensées</a>* ou *<a href="https://www.aidedd.org/dnd/sorts.php?vf=suggestion">suggestion</a>*).
 >
 > <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> n'affronte jamais les joueurs sans réserver au moins un emplacement de sort de niveau 4 (pour lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>* et s'échapper) et un emplacement de sort de niveau 3 (pour lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=contresort">contresort</a>* si *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>* est contré).
 <a id="en-bloc-neferonstactics" data-traduction="ancre"></a>
@@ -296,14 +296,14 @@ Si les joueurs refusent d'accomplir la tâche de « <a href="../Appendices/Inde
 > Si les joueurs demandent à « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-heinrich">Heinrich</a> » s'il leur permettra de partir en paix, il promet qu'il « leur permettra de quitter le temple avec leurs affaires sans être inquiétés ». Si les joueurs demandent plutôt la permission de conserver les objets qu’ils trouvent, il promet sans hésiter de faire des « efforts raisonnables » pour négocier les termes d’un tel échange avant leur départ, « sous réserve, bien sûr, de divulgations raisonnables de la nature et de la valeur de l’objet ».
 
 > [!info]+ **Œil de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a>**
-> Grâce à l'utilisation de sa vision véritable et de sa *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>*, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> a déchiffré les <a href="https://www.aidedd.org/regles/equipement/materiel/">livres</a> de sorts contenus dans <span class="citation">X30. Bibliothèque préservée (p. 189)</span>, et a ainsi remplacé son sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=bannissement">bannissement</a>* (dont il a correctement déduit qu'il ne fonctionnerait pas en Barovie, surtout après qu'il n'a pas réussi à bannir le <a href="https://www.aidedd.org/dnd/monstres.php?vf=slaad-funeste">slaad funeste</a> dans son plan d'origine des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-limbo">Limbes</a>) par le sort *œil magique*.
+> Grâce à l'utilisation de sa vision véritable et de sa *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>*, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> a déchiffré les livres de sorts contenus dans <span class="citation">X30. Bibliothèque préservée (p. 189)</span>, et a ainsi remplacé son sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=bannissement">bannissement</a>* (dont il a correctement déduit qu'il ne fonctionnerait pas en Barovie, surtout après qu'il n'a pas réussi à bannir le <a href="https://www.aidedd.org/dnd/monstres.php?vf=slaad-funeste">slaad funeste</a> dans son plan d'origine des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-limbo">Limbes</a>) par le sort *œil magique*.
 >
 > S'il voit ou entend les joueurs entrer dans <span class="citation">X15. Annexe sud-ouest (p. 186)</span>, <span class="citation">X14. Escalier Nord (p. 186) </span>, ou n'importe quelle zone dans [S3. Catacombes](#en-s3-catacombs), [S6. Caveaux du temple](#en-s6-temple-vaults) ou [S7. Quartiers de l’archimage](#en-s7-archmages-quarters), <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> lance *œil magique* pour les suivre, en prenant soigneusement note de leurs forces, faiblesses, capacités, intérêts et découvertes. (Étant donné son score d'Intelligence de 20, son bonus de +7 aux tests de Perception et son bonus de +11 aux tests de Perspicacité, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> est capable d'utiliser son *œil magique* pour lire sur les lèvres, et peut donc « entendre » les paroles des joueurs si l'*œil magique* peut voir leurs lèvres.) <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> renouvelle le sort si nécessaire, mais ne le renouvelle pas pendant que les joueurs se reposent, ou s'il ne lui reste qu'un seul emplacement de sort de niveau 4.
 
 > [!lore]+ **Arrivée de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a>**
 > Originaire de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gehenna">Géhenne</a>, patrie des yugoloths, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> fut emporté en Barovie par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-mists">les Brumes</a> dix jours avant l’arrivée des joueurs au Temple de l’Ambre, alors qu’il voyageait de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gehenna">Géhenne</a> vers l’Averne pour une éventuelle affaire commerciale. Irrité par ce détour, mais décidé à saisir les occasions offertes par ce nouveau domaine, il s’empressa d’en explorer les environs, d’en découvrir les habitants et de s’approprier ses connaissances, ses richesses et sa magie.
 >
-> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> a parcouru aisément le Temple de l’Ambre, recensant mentalement chaque vestige, trésor et relique rencontré. Avec sa *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>*, aucune porte ne lui était fermée ; avec sa *vision véritable*, aucun <a href="https://www.aidedd.org/regles/equipement/materiel/">livre</a> de <span class="citation">X30. Bibliothèque préservée (p. 189)</span> n’était vierge à ses yeux. Il choisit pour repaire <span class="citation">X5a. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-god-of-secrets">Dieu des Secrets</a> (p. 184)</span>, dont il reconnaissait les avantages tactiques, et consacra une nuit entière à un rituel enveloppant la tête de la statue de ténèbres magiques.
+> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> a parcouru aisément le Temple de l’Ambre, recensant mentalement chaque vestige, trésor et relique rencontré. Avec sa *<a href="https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle">porte dimensionnelle</a>*, aucune porte ne lui était fermée ; avec sa *vision véritable*, aucun livre de <span class="citation">X30. Bibliothèque préservée (p. 189)</span> n’était vierge à ses yeux. Il choisit pour repaire <span class="citation">X5a. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-god-of-secrets">Dieu des Secrets</a> (p. 184)</span>, dont il reconnaissait les avantages tactiques, et consacra une nuit entière à un rituel enveloppant la tête de la statue de ténèbres magiques.
 > 
 > Bien que les **crânefeux** se soient d'abord montrés méfiants quant à sa présence, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-neferon">Neferon</a> a utilisé son éloquence (et son sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees">détection des pensées</a>*) pour les convaincre qu'il était l'héritier de <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina</a>, envoyé pour récupérer le temple en son nom après des siècles d'abandon. Il les informa solennellement qu'elle était décédée quelques années après s’être liée d’amitié avec lui, et leur présenta une copie créée par *<a href="https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure">illusion mineure</a>* de son « dernier testament », qui disait :
 >
@@ -663,7 +663,7 @@ Cette zone est telle que décrite dans <span class="citation">X19. Stockage des 
 ### Salle de l’architecte
 <span class="citation">Cette scène se déroule au chapitre 13, zone X20.</span> 
 
-Cette zone correspond pour l’essentiel à la description de <span class="citation">X20. Salle de l’architecte (p. 187)</span>. Toutefois, un joueur possédant une valeur passive de Sagesse (Perception) de 10 ou plus remarque de légères traces de frottement le long du bas du <a href="https://www.aidedd.org/regles/equipement/materiel/">coffre</a>. (Ces traces ont été laissées lors de l’ouverture du double fond.)
+Cette zone correspond pour l’essentiel à la description de <span class="citation">X20. Salle de l’architecte (p. 187)</span>. Toutefois, un joueur possédant une valeur passive de Sagesse (Perception) de 10 ou plus remarque de légères traces de frottement le long du bas du coffre. (Ces traces ont été laissées lors de l’ouverture du double fond.)
 
 De plus, remplacez le *<a href="https://www.aidedd.org/dnd/om.php?vf=traite-de-comprehension">traité de compréhension</a>* par une paire d’*<a href="https://www.aidedd.org/dnd/om.php?vf=yeux-grossissants">yeux grossissants</a>*, deux vieux rouleaux de parchemin, une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> d'encre moisie et trois plumes usées.
 
@@ -699,7 +699,7 @@ De plus, remplacez deux des **<a href="https://www.aidedd.org/dnd/monstres.php?v
 Les esprits émergent si un joueur ramasse l'aiguière ou salue la présence invisible et réussit un test de Charisme (Persuasion) DD 10. Un joueur effectue le test avec avantage s’il mentionne l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>* ou renonce à tout intérêt à accepter les dons des vestiges. Lorsque les esprits apparaissent, lisez :
 
 <div class="description"> 
-<p>Sept silhouettes fantomatiques émergent des murs. Chacune porte une robe simple, et plusieurs tiennent des <a href="https://www.aidedd.org/regles/equipement/materiel/">bâtons</a>, des <a href="https://www.aidedd.org/regles/equipement/materiel/">baguettes</a> ou des <a href="https://www.aidedd.org/regles/equipement/materiel/">livres</a> sous le bras. Des veines boursouflées saillent sous leur chair blafarde et translucide ; leurs visages sont affaissés ou figés dans une expression d’horreur macabre.</p>
+<p>Sept silhouettes fantomatiques émergent des murs. Chacune porte une robe simple, et plusieurs tiennent des bâtons, des baguettes ou des livres sous le bras. Des veines boursouflées saillent sous leur chair blafarde et translucide ; leurs visages sont affaissés ou figés dans une expression d’horreur macabre.</p>
 <p>Deux des personnages semblent plus sombres que les autres, leurs yeux brillant d'une lumière jaune pâle. L'un d'entre eux flotte en avant et demande d'une voix rauque : "Pourquoi pénétrez-vous dans la prison des damnés ?"</p> 
 </div> 
 
@@ -719,7 +719,7 @@ Les esprits sont prêts à partager les informations suivantes si on le leur dem
 * Le Temple de l’Ambre a été fondé par des <a href="https://www.aidedd.org/dnd/monstres.php?vf=mage">mages</a> qui ont vécu un siècle avant eux, qui cherchaient à emprisonner les vestiges d'êtres puissants et maléfiques afin qu'ils ne ressuscitent pas. (Les esprits peuvent confirmer que les restes de ces fondateurs sont scellés dans [S3. Catacombes](#en-s3-catacombs).)
 * Les esprits ont été assassinés par <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, l'apprenti du chef de l'ordre secret du Temple : un <a href="https://www.aidedd.org/dnd/monstres.php?vf=archimage">archimage</a> nommé <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a>. <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> l’a fait en empoisonnant le vin contenu dans l’aiguière d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a>. (Bien qu'<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a> ait également été victime de la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, son <a href="https://www.aidedd.org/dnd/monstres.php?vf=fantome">fantôme</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-ghost-monstre"><sup>fiche</sup></a> a disparu du temple environ un an après l'arrivée de la <a href="https://www.aidedd.org/dnd/monstres.php?vf=mage">mage</a> elfe du crépuscule <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina Velikovna</a>. Les esprits ne sont pas sûrs de ce qui lui est arrivé, mais soupçonnent <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina</a> d'en être responsable.)
 * Si on leur demande pourquoi <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> les a tués, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=spectre">spectres</a> expriment leur conviction qu'il a été corrompu par « l'appel de l'ambre », comme tant de leurs collègues l'étaient « dans ces derniers jours ».
-* Depuis la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, le temple est tombé aux mains des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a>, que les esprits croient nées des miasmes maléfiques que dégagent les vestiges. Les esprits ont ressenti ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> dans leurs cauchemars pendant qu’ils vivaient, et sentent maintenant la présence de ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> les piéger dans le temple. "Elles appartiennent aux brumes", grince une <a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>, "et les brumes leur appartiennent."
+* Depuis la trahison de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, le temple est tombé aux mains des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a>, que les esprits croient nées des miasmes maléfiques que dégagent les vestiges. Les esprits ont ressenti ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> dans leurs cauchemars pendant qu’ils vivaient, et sentent maintenant que la présence de ces <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> les piège dans le temple. "Elles appartiennent aux brumes", grince une <a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>, "et les brumes leur appartiennent."
 
 > [!abstract]+ **Les esprits de l'ambre**
 > Si un joueur possède un <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a>, ouvertement ou secrètement, les âmes en peine en sentent la présence, sans en connaître l’emplacement précis, et exigent que les joueurs expliquent pourquoi ils portent « un fragment de l’influence du mal ».
@@ -817,7 +817,7 @@ Cette zone est telle que décrite dans <span class="citation">X37. Chambre du ma
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33d. Caveau éventré (p. 192)</span> et <span class="citation">Sarcophages d'ambre (p. 191)</span>. Cependant, aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nothic">nothic</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-nothic-monstre"><sup>fiche</sup></a>** ne réside dans cette salle. De plus, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>).**
+> [!info]+ **Sarcophage ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 >
 > ---
@@ -842,7 +842,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 
 Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appendices/Amber%20Shards.md#en-delban-the-star-of-ice-and-hate">Delban</a>, la connexion télépathique prend fin et le joueur retrouve la perception de son environnement.
 
-> [!info]+ **Sarcophage Nord (Tombeau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a>).**
+> [!info]+ **Sarcophage nord (Tombeau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a>).**
 > Si un joueur s'approche de ce sarcophage alors qu'il est en possession de la statuette de papillon de [J4a. Le cairn de Kavan](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j4a-kavans-cairn), ou de l'*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-twilight-crest">emblème du crépuscule</a>* de [J6b. Le mur qui murmure](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j6b-the-whispering-wall), l'objet brille en violet et émet un bourdonnement doux et aigu.  (La lumière et le bourdonnement s'estompent après 1 minute ou si l'objet est retiré de la pièce.)
 
 > [!lore]+ **Le sarcophage brisé**
@@ -850,7 +850,7 @@ Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appe
 >
 > Depuis son enfermement, le vestige de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">la Dévoreuse</a> dormait silencieusement dans son sarcophage… jusqu’à ce que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a> vienne, il y a trois mois, rechercher son savoir sur la magie des âmes. Devant son refus de livrer ses secrets, il l’arracha au sarcophage et l’enferma dans <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-heart-of-sorrow">le Cœur de douleur</a>, au sommet du château Ravenloft, où il pouvait utiliser le pouvoir des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-fanes">Sanctuaires</a> pour la contraindre à répondre. Seules des bribes de sa puissance enveloppent aujourd’hui les débris de sa prison millénaire, portant un faible écho du manteau qu’elle revêtait jadis.
 
-> [!info]+ **Sarcophage Est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-drizlash-the-nine-eyed-spider">Drizlash</a>)**
+> [!info]+ **Sarcophage est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-drizlash-the-nine-eyed-spider">Drizlash</a>)**
 > Si une créature touche ce sarcophage, lisez :
 > 
 > ---
@@ -882,7 +882,7 @@ Si le joueur passe par l’arche d’ambre ou accepte le don de <a href="../Appe
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33e. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-harkotha">Harkotha</a> (p. 193)</span> et <span class="citation">Sarcophages d'ambre (p. 191)</span>. Cependant, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Nord (Tombeau d'<a href="../Appendices/Amber%20Shards.md#en-yrrga-the-eye-of-shadows">Yrrga</a>).**
+> [!info]+ **Sarcophage nord (Tombeau d'<a href="../Appendices/Amber%20Shards.md#en-yrrga-the-eye-of-shadows">Yrrga</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -936,7 +936,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les attaques et capacités ***téméraire***, ***saut avec élan***, ***attaques multiples***, ***morsure*** et ***poing*** d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=barlgura">barlgura</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-barlgura-monstre"><sup>fiche</sup></a>**, ainsi que sa vitesse d’escalade et le défaut : « Je démembrerais quelqu’un à la moindre provocation. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=barlgura">barlgura</a>** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau d’Yog).**  
+> [!info]+ **Sarcophage sud (Tombeau d’Yog).**  
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -968,7 +968,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">X33f. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-thangob">Thangob</a> (p. 193)</span>. Cependant, modifiez les sarcophages de cette pièce (et leurs dons sombres) comme décrit ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (<a href="../Appendices/Amber%20Shards.md#en-norganas-the-finger-of-oblivion">Norganas</a>).**
+> [!info]+ **Sarcophage ouest (<a href="../Appendices/Amber%20Shards.md#en-norganas-the-finger-of-oblivion">Norganas</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -995,7 +995,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les capacités ***déplacement intangible*** et ***absorption de vie*** d’une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wraith-monstre"><sup>fiche</sup></a>**, ainsi que le défaut : « Je méprise ce qui me rappelle ce que j’étais et ce que je suis devenu. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine">âme en peine</a>** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-vaund-the-evasive">Vaund</a>).**
+> [!info]+ **Sarcophage sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-vaund-the-evasive">Vaund</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1020,7 +1020,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > * **Cinquième stade.** Le joueur acquiert les capacités ***forme d’air***, ***attaques multiples*** et ***balayage de vent*** d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-invisible-stalker-monstre"><sup>fiche</sup></a>** (2024), ainsi que le défaut : « Je méprise ce qui me rappelle ce que j’étais et ce que je suis devenu. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible">traqueur invisible</a>** sous le contrôle du MJ.  
 
-> [!info]+ **Sarcophage Est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-seriach-the-hell-hound-whisperer">Seriach</a>).**
+> [!info]+ **Sarcophage est (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-seriach-the-hell-hound-whisperer">Seriach</a>).**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1120,7 +1120,7 @@ Lorsque les joueurs s'approchent de <a href="../Appendices/Non-Player%20Characte
 <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> se méfie des joueurs et de leurs intentions et se demande avec prudence s'ils sont "morts, comme les autres". Un test de Charisme (Persuasion) DD 10 réussi peut le convaincre de partager les informations suivantes :
 
 * Il s'agit de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, habitant du Temple de l’Ambre, et seul survivant d'une terrible calamité qui l'a frappé. (<a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> ne révèle pas la nature de la calamité et se contente de frissonner en secouant la tête si on lui demande de la raconter.)
-* Il est ici seul « depuis longtemps », survivant principalement en mangeant de la vermine. "Il n'y a plus eu beaucoup de <a href="https://www.aidedd.org/dnd/monstres.php?vf=rat">rats</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-rat-monstre"><sup>fiche</sup></a> depuis un moment", murmure <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, les mains tremblantes. "J'ai eu faim, tellement faim." (<a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> refuse toute nourriture que les joueurs cherchent à partager avec lui, craignant secrètement qu'elle ne contienne du poison.)
+* Il est ici seul « depuis longtemps », survivant principalement en mangeant de la vermine. "Il n'y a plus eu beaucoup de rats depuis un moment", murmure <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, les mains tremblantes. "J'ai eu faim, tellement faim." (<a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> refuse toute nourriture que les joueurs cherchent à partager avec lui, craignant secrètement qu'elle ne contienne du poison.)
 * Il croit que les créatures qui peuplent le reste du temple ont l'intention de le tuer. "Ce sont des choses mortes", murmure-t-il, "des démons qui portent des visages d'hommes. Si vous écoutez, vous pouvez entendre leurs vraies formes se déplacer sous leur peau."
 * Il n'ose pas sortir de cette salle sans le bâton de son maître, qui se trouve dans le sanctuaire nord-ouest du temple. "Sans cela", râle <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, "je mourrai sûrement dès que je quitterai cette pièce." (<a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> ne peut pas être convaincu du contraire.)
 * Le maître de <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> se nommait <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a>. « Il savait que je ne pourrais pas le suivre jusqu’au bâton, gronde <a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a>, le poing serré. Même mort, il a choisi de me faire souffrir, de me garder ici. » (<a href="../Appendices/Non-Player%20Characters.md#en-vilnius">Vilnius</a> prétend obstinément ignorer comment <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-exethanter">Exethanter</a> est mort, mais un test de Sagesse (Perspicacité) DD 11 révèle qu’il ment.)
@@ -1321,7 +1321,7 @@ Cette zone est telle que décrite dans <span class="citation">X34. Chambre du ma
 
 Cette zone correspond en grande partie à <span class="citation">X33a. Caveau de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-shalx">Shalx</a> (p. 193)</span> et <span class="citation">Sarcophages d’ambre (p. 191)</span>. Retirez toutefois les **crânefeux**. Le cadavre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-duras">Duras</a>, poussé par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a>, se trouve ici. Modifiez également les sarcophages de cette pièce et leurs dons sombres comme indiqué ci-dessous.
 
-> [!info]+ **Sarcophage Ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-sykane-the-soul-hungerer">Sykane</a>)**
+> [!info]+ **Sarcophage ouest (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-sykane-the-soul-hungerer">Sykane</a>)**
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---
@@ -1348,7 +1348,7 @@ Cette zone correspond en grande partie à <span class="citation">X33a. Caveau de
 > * **Cinquième stade.** Le joueur acquiert les capacités ***aura d’anéantissement***, ***nature inhabituelle*** et ***poing*** d’un **bodak**, ainsi que le défaut : « Je recherche les morts-vivants et j’évite les vivants. »
 > * **Sixième stade.** Le joueur se transforme en **bodak** sous le contrôle du MJ.
 
-> [!info]+ **Sarcophage Sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-zrin-hala-the-howling-storm">Zrin-Hala</a>)**  
+> [!info]+ **Sarcophage sud (Tombeau de <a href="../Appendices/Amber%20Shards.md#en-zrin-hala-the-howling-storm">Zrin-Hala</a>)**  
 > Si un joueur touche ce sarcophage, lisez :
 > 
 > ---

@@ -740,7 +740,7 @@ Comme un chat qui joue avec sa proie, <a href="../Appendices/Non-Player%20Charac
 
 <div class="description">
 <p>Le regard de <a href="../Appendices/Non-Player%20Characters.md#en-kiril-stoyanovich">Kiril</a> glisse vers l'homme à vos côtés et sa babine noire se retrousse. Il le fixe un instant, puis rejette la tête en arrière dans un rire tonitruant.</p>
-<p>« Vous avez ramené l'avorton ! tonne-t-il. Félicitations, mauviette. Qu'est-ce que ça fait de savoir qu'il t'a fallu ces <em>souris</em> pour te sauver ? Je suis impressionné, quand même. Comment <em>ont-elles</em> fait ?</p>
+<p>« Vous avez ramené l'avorton ! tonne-t-il. Félicitations, mauviette. Qu'est-ce que ça fait de savoir qu'il t'a fallu ces <em>souris</em> pour te sauver ? Je suis impressionné, quand même. Comment <em>ont-elles</em> fait ? »</p>
 </div>
 
 > [!abstract]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-emil-toranescu">Emil</a> emprisonné**
@@ -1187,7 +1187,7 @@ La première fois qu'un joueur dépose le crâne d'<a href="../Appendices/Index%
 
 ![[Argynvost_transparent.webp]]
 
-<span class="credit">« Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=fantome">fantôme</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-ghost-monstre"><sup>fiche</sup></a> d'<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-argynvost">Argynvost</a> » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+<span class="credit">« Le fantôme d'<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-argynvost">Argynvost</a> » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 À l'apparition de l'esprit d'<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-argynvost">Argynvost</a>, les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-phantom-warrior">guerriers fantomatiques</a> tombent à genoux et baissent la tête devant lui. S'il est encore en vie, <a href="../Appendices/Non-Player%20Characters.md#en-commander-vladimir-horngaard">Vladimir</a> cesse son assaut, laisse tomber son <a href="https://www.aidedd.org/regles/equipement/armes/">épée à deux mains</a> et regarde le dragon avec incrédulité. Lisez :
 
