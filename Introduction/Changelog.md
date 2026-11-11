@@ -1,5 +1,9 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-plein-ecran-joueurs-2026-11-11"></a>
+# Correctif 3.2.0.12 (11 novembre 2026)
+* Ajout d’un bouton Plein écran dans la fenêtre des joueurs du lecteur ; il réapparaît quand la souris bouge, puis s’efface
+
 <a id="de-corrections-retablies-2026-11-06"></a>
 # Correctif 3.2.0.11 (6 novembre 2026)
 * Rétablissement de corrections perdues lors du retour au texte de Reloaded : fautes, tirets d’incise, parenthèses cassées, majuscules et calques, notamment dans les arcs O, P, R, S et T
