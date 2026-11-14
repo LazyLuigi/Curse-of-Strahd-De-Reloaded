@@ -83,9 +83,9 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-the-ladies-of-the-fanes"></a>les Dames des Sanctuaires | The Ladies of the Fanes | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-rozana"></a>les Rozana | The Rozana | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-ladies-three"></a>les Trois Dames | The Ladies Three | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-faith-of-the-ladies-three) |
-| <a id="ref-nom-the-vampyr"></a>Lyubomora | The Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-the-vampyrs-sarcophagus) |
-| <a id="ref-nom-delban-the-star-of-ice-and-hate"></a>Mrynya, la haine froide | Delban, the Star of Ice and Hate | [Fiche de l’annexe](Amber%20Shards.md#en-delban-the-star-of-ice-and-hate) |
+| <a id="ref-nom-the-vampyr"></a>Lyubomora, la jalousie qui dure | The Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-the-vampyrs-sarcophagus) |
 | <a id="ref-nom-mother-night"></a>Mère Nuit | Mother Night | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-coven-of-mother-night) |
+| <a id="ref-nom-delban-the-star-of-ice-and-hate"></a>Mrynya, la haine froide | Delban, the Star of Ice and Hate | [Fiche de l’annexe](Amber%20Shards.md#en-delban-the-star-of-ice-and-hate) |
 | <a id="ref-nom-zantras-the-kingmaker"></a>Oholost, l’orgueil ultime | Zantras, the Kingmaker | [Fiche de l’annexe](Amber%20Shards.md#en-zantras-the-kingmaker) |
 | <a id="ref-nom-seriach-the-hell-hound-whisperer"></a>Osveta, la vengeance lente | Seriach, the Hell Hound Whisperer | [Fiche de l’annexe](Amber%20Shards.md#en-seriach-the-hell-hound-whisperer) |
 | <a id="ref-nom-fekre-queen-of-poxes"></a>Pakost, la malveillance vorace | Fekre, Queen of Poxes | [Fiche de l’annexe](Amber%20Shards.md#en-fekre-queen-of-poxes) |
@@ -97,8 +97,9 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-dahlver-nar-he-of-the-many-teeth"></a>Strah, la peur qui rôde | Dahlver-Nar, He of the Many Teeth | [Fiche de l’annexe](Amber%20Shards.md#en-dahlver-nar-he-of-the-many-teeth) |
 | <a id="ref-nom-yrrga-the-eye-of-shadows"></a>Sumnya, le soupçon qui voit | Yrrga, the Eye of Shadows | [Fiche de l’annexe](Amber%20Shards.md#en-yrrga-the-eye-of-shadows) |
 | <a id="ref-nom-zhudun-the-corpse-star"></a>Tcheynya, la nostalgie morbide | Zhudun, the Corpse Star | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
-| <a id="ref-nom-tenebrous"></a>Vlast | Tenebrous | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
+| <a id="ref-nom-tenebrous"></a>Vlast, le pouvoir qui écrase | Tenebrous | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
 | <a id="ref-nom-norganas-the-finger-of-oblivion"></a>Zaborav, l’oubli qui efface | Norganas, the Finger of Oblivion | [Fiche de l’annexe](Amber%20Shards.md#en-norganas-the-finger-of-oblivion) |
+| <a id="ref-nom-zavist"></a>Zavist, l’envie dévorante | Zavist | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-o10-exploring-the-castle) |
 
 ### entité
 

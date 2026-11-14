@@ -325,7 +325,7 @@ Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modi
 
 <div class="description">
 <p>Ma plus pitoyable servante,</p>
-<p>Je ne suis pas un messie que la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer">Dévoreuse</a> vous aurait envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez, sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre. Vous rêvez de partager mon éternité. Je décline : vous m’êtes insignifiante.</p>
+<p>Je ne suis pas un messie que les puissances que vous vénérez vous auraient envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez, sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre. Vous rêvez de partager mon éternité. Je décline : vous m’êtes insignifiante.</p>
 <p>Vous dites être maudite, votre fortune dilapidée. Votre mari a trouvé du réconfort dans les bras d’une autre femme, engendré un fils bâtard et vous a poussée à délaisser l’amour pour la folie. Maudite par les ténèbres ? Je n’en doute pas. Vous sauver de votre misère ? Je ne crois pas. Je vous préfère de loin telle que vous êtes.</p>
 <p>Votre redoutable seigneur et maître,</p>
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a></p>

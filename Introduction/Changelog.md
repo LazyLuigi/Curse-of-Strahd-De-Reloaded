@@ -1,5 +1,12 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-la-devoreuse-2026-11-14"></a>
+# Mise à jour 3.3 (14 novembre 2026)
+* Remaniement du lore autour de la [Dévoreuse](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer) : seules les quatre sœurs sont des divinités, et les Sombres Puissances, Mère Nuit et Ezra deviennent ses masques
+* Les vestiges du [Temple de l’Ambre](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md) deviennent les éclats de son esprit, chacun nommé d’après un de ses traits
+* Remplacement de la bénédiction de la Rêveuse par le *Sceau du Sphinx* : au [lac Zarovich](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md#en-u3i-lake-zarovich), la Rêveuse ne peut plus être rachetée
+* Suppression des *Talismans des Brumes*, de la Rêveuse rachetée de l’[Épilogue](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Epilogue.md) et de l’expédition finale
+
 <a id="de-plein-ecran-joueurs-2026-11-11"></a>
 # Correctif 3.2.0.12 (11 novembre 2026)
 * Ajout d’un bouton Plein écran dans la fenêtre des joueurs du lecteur ; il réapparaît quand la souris bouge, puis s’efface
