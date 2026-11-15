@@ -19,6 +19,8 @@ Si les joueurs tuent <a href="../Appendices/Index%20des%20personnages%20et%20cr%
 ## A1a. La meute
 Les joueurs sortent des Brumes de nuit, à la fin du [prologue](Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.
 
+![[Arc_A-Escape_From_Death_House_27a1726b.webp]]
+
 Après quelques minutes de marche, lisez :
 
 <div class="description">
@@ -52,6 +54,8 @@ Si des joueurs portent des [reliques baroviennes](../Chapter%203%20-%20Running%2
 ### Entrée
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 1.</em></span>
 
+![[Arc_A-Escape_From_Death_House_98877e9a.webp]]
+
 Lisez le texte suivant à tous les joueurs :
 
 <div class=description>
@@ -77,7 +81,6 @@ Le grand hall correspond dans l’ensemble à la description de <span class="cit
 À la place d’une épée longue, le portrait de la famille Durst décrit dans <span class="citation">Palier supérieur (p. 213)</span> est maintenant accroché au-dessus de la cheminée. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.webp]]
-<span class="credit">« La famille Durst », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 Peu après que tous les personnages sont entrés dans le grand hall, la porte d’entrée claque, éteignant toutes les lumières de la maison. Les bruits du dehors disparaissent entièrement, laissant la demeure dans un silence inquiétant.
 
@@ -100,6 +103,8 @@ Des lettres de sang commencent alors à apparaître sur le mur sud, juste au-des
 <br>
 <em>L’immonde fléchira, son pouvoir ébranlé.</em>
 </div>
+
+![[Arc_A-Escape_From_Death_House_089d9c89.webp]]
 
 L’horloge de parquet sonne alors dix heures.
 
@@ -153,7 +158,7 @@ pour célébrer le premier anniversaire du moulin Durst.
 <em>Un dîner et des rafraîchissements seront servis.</em>
 </div>
 
-![[Durst Invitation.jpg]]
+![[Durst Invitation.webp]]
 [Transcription française](../Appendices/Supports%20visuels.md#support-durst)
 <span class="credit">« Invitation des Durst », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
@@ -166,6 +171,8 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 <div class="description">
 <p>En entrouvrant la porte, vous apercevez quelque chose de sauvage : un œil ambré luisant dans l’obscurité et un museau bestial retroussé en un rictus menaçant.</p>
 </div>
+
+![[Arc_A-Escape_From_Death_House_811db78b.webp]]
 
 Si les joueurs poursuivent, lisez :
 
@@ -187,6 +194,8 @@ Un joueur réussissant un test d’Intelligence (Nature) DD 12 peut identifier l
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 5.</em></span>
 
 Les joueurs qui approchent de cette porte entendent les bruits étouffés d’un dîner animé : tintements de verres, rires discrets et conversations lointaines. Mais s’ils ouvrent la porte ou y frappent, le silence retombe, ne laissant que l’immobilité et la froide grandeur de la pièce.
+
+![[Arc_A-Escape_From_Death_House_5cde66a5.webp]]
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Salle à manger (p. 213)</span>. Lorsque les joueurs y entrent, lisez :
 

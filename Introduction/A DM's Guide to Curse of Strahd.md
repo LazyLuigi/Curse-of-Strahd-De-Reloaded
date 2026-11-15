@@ -3,8 +3,8 @@ description: "Bienvenue dans La Malédiction de Strahd : Reloaded, un guide comp
 keywords: guide de La Malédiction de Strahd, guide du MJ pour La Malédiction de Strahd, guide pour mener La Malédiction de Strahd, comment mener La Malédiction de Strahd, D&D, Dungeons and Dragons, La Malédiction de Strahd, guide du MJ, Barovie, jeu de rôle, conseils aux MJ, guide de campagne, Strahd Von Zarovich, jeux sur table
 cover: preview.webp
 ---
-<img class="image-dark" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-dark.png">
-<img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
+<img class="image-dark" src="../images/Introduction/A%20DM%27s%20Guide%20to%20Curse%20of%20Strahd/cover-dark.png">
+<img class="image-light" src="../images/Introduction/A%20DM%27s%20Guide%20to%20Curse%20of%20Strahd/cover-light.webp">
 
 
 **Des rencontres déséquilibrées. Des chapitres désordonnés. Une profusion de connaissances à assimiler. Et l'antagoniste le plus difficile à jouer de *Dungeons & Dragons*.** *La Malédiction de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>* a bien mérité sa réputation d'aventure la plus redoutable de la 5e édition, mais la campagne officielle peut souvent donner davantage de fil à retordre aux MJ qu'à leurs joueurs.

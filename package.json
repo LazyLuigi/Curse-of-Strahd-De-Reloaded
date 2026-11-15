@@ -1,0 +1,7 @@
+{
+  "name": "curse-of-strahd-de-reloaded",
+  "private": true,
+  "scripts": {
+    "dev": "\"$HOME/mambaforge/bin/python3\" lecteur/serveur.py --dev"
+  }
+}

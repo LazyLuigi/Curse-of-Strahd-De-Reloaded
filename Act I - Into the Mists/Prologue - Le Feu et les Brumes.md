@@ -2,6 +2,8 @@
 
 *Un prologue pour trois à six personnages de niveau 1, qui atteignent le niveau 2 avant leur arrivée en Barovie.*
 
+![[Prologue-Le_Feu_et_les_Brumes_bf934603.webp]]
+
 Les joueurs sont les hommes de main de **[Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**, seigneur de **Valcroix**, un petit domaine de la Côte des Épées. Le seigneur leur confie les affaires qu’il préfère régler en toute discrétion et sans sa garde. Ils travaillent ensemble depuis assez longtemps pour se faire confiance. Aujourd’hui, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) les charge de faire partir une caravane d’étrangers indésirables, accusés par la population de semer le trouble sur ses terres.
 
 Quelques témoignages les conduisent au camp de [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir). Le soir venu, des pillards attaquent les roulottes : ce sont eux qui suivent la caravane depuis plusieurs jours et volent les habitants, déguisés en Vistani. En défendant les étrangers, les joueurs découvrent le pacifisme et l’hospitalité de ceux qu’ils étaient venus chasser. [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) leur offre alors de partager le repas et le feu.
@@ -56,6 +58,8 @@ Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.
 <p>« Trouvez leur caravane et faites-la quitter mon domaine avant demain midi. Peu m’importe comment vous vous y prendrez. Je vous confie cette affaire parce que vous savez la régler discrètement. »</p>
 </div>
 
+![[Prologue-Le_Feu_et_les_Brumes_05cf4f18.webp]]
+
 [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) parle avec l’assurance d’un seigneur habitué à être obéi. Il estime ses hommes de main et leur laisse le choix des moyens, mais il ne parle des voyageurs qu’avec mépris : « ces gens-là », « cette vermine », « ces repaires de sorciers »… Il veut ramener le calme sur ses terres sans entacher sa réputation.
 
 > [!profile]+ **Profil : [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive)**
@@ -100,6 +104,8 @@ Remettez aux joueurs l’avis ci-dessous ; l’un d’eux le lira à voix haute 
 
 Sur la route, les joueurs peuvent interroger les plaignants ; deux ou trois échanges suffisent. Pour les habitants, les coupables sont « les étrangers » ou « les voyageurs ». Plusieurs personnes affirment avoir vu des suspects aux habits bariolés commettre les crimes reprochés, mais la majorité des plaintes reposent sur des rumeurs ou du racisme.
 
+![[Prologue-Le_Feu_et_les_Brumes_79b25253.webp]]
+
 ### La meunière
 
 Commencez par la meunière, qui a réellement été volée. Lorsque les joueurs l’interrogent, lisez :
@@ -108,6 +114,8 @@ Commencez par la meunière, qui a réellement été volée. Lorsque les joueurs 
 <p>La meunière essuie ses mains sur son tablier, mais la farine reste incrustée sous ses ongles. D’un geste, elle désigne l’enclos vide derrière le moulin.</p>
 <p>« Deux hommes et une femme, habillés de toutes les couleurs et qui parlaient bizarre. L’un tenait une arbalète et me regardait moche pendant que les autres faisaient la basse besogne. Deux sacs de farine, vindiou ! Vingt kilos chacun, et trois de mes poules ! » Elle croise les bras. « Qui va m’les rendre ? »</p>
 </div>
+
+![[Prologue-Le_Feu_et_les_Brumes_63a79d32.webp]]
 
 La meunière ne sait rien de plus. (Ce sont les pillards décrits dans [Les pillards au crépuscule](#de-brigands), déguisés en Vistani. La farine et les poules pourront être retrouvées dans leur charrette après l’attaque.)
 
@@ -118,6 +126,8 @@ Les joueurs peuvent croiser et interroger d’autres plaignants sur la route. Il
 * **« Ils ont emmené l’apprentie du potier ! »** Un voisin l’a vue monter dans une voiture le jour où les roulottes sont passées au bourg, et personne ne l’a revue depuis. En réalité, elle est partie rendre visite à sa sœur avec des marchands du pays. Si les joueurs fouillent l’atelier du potier, ils trouvent, tombée derrière l’établi, la lettre qu’elle a laissée à son maître : elle y annonce son voyage et la date de son retour.
 * **« On a ouvert une tombe depuis qu’ils sont là ! »** Le fossoyeur a trouvé une bordure affaissée, une tombe creusée et des os d’animaux mélangés à des restes humains. Si les joueurs interrogent le voisinage, plusieurs habitants haussent les épaules : ce n’est pas la première tombe ouverte, et le fossoyeur, qui néglige son cimetière, trouve toujours quelqu’un d’autre à accuser. Au cimetière, la clôture tombe en ruine. Un test de Sagesse (Survie) ou d’Intelligence (Nature) DD 10 y révèle de nombreuses empreintes de chiens, et un test de Sagesse (Perception) DD 10, des marques de griffes et de crocs dans la terre remuée de la tombe. (C’est en réalité une meute de chiens sauvages qui ont dérangé le sol.)
 * **« Leur vieillard fait de la sorcellerie. »** L’aubergiste dit avoir vu des nuées de corbeaux suivre la caravane, et d’étranges lueurs vertes le soir, aux abords de leur feu de camp. Pressé de questions, il admet n’avoir vu les lueurs et les corbeaux que de loin, un soir où il rentrait du marché. Il n’a rien vu d’autre, et personne n’a été menacé.
+
+![[Prologue-Le_Feu_et_les_Brumes_347a8e03.webp]]
 
 <a id="trouver-la-caravane"></a>
 ### Trouver le camp
@@ -137,6 +147,8 @@ Les joueurs atteignent la prairie des deux saules vers 16 h. À leur arrivée, l
 </div>
 
 [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) est le doyen et conteur de la caravane ; il traite avec les autorités au nom des familles. Il offre de l’eau aux joueurs et écoute l’ordre de [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) jusqu’au bout.
+
+![[Prologue-Le_Feu_et_les_Brumes_a101c50d.webp]]
 
 > [!profile]+ **Profil : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir)**
 >
@@ -182,6 +194,8 @@ Si les joueurs demandent la position de la charrette pour y mener l’enquête, 
 
 > [!lore]+ **Les faux Vistani**
 > Les pillards suivent la caravane depuis quelques jours déjà. Leurs déguisements leur permettent de se présenter comme des Vistani de la caravane venus acheter des provisions. Ils emportent les biens sous la menace et laissent les habitants se retourner contre les roulottes. Ce soir, ils veulent voler la caisse et les marchandises de la caravane avant de changer de route.
+
+![[Prologue-Le_Feu_et_les_Brumes_21ce8927.webp]]
 
 Lorsque le jour baisse, vers 17 h, les pillards approchent par la lisière. Laissez se terminer l’échange en cours, puis lisez :
 
@@ -242,6 +256,8 @@ La petite charrette des pillards attend à 30 m dans les arbres, au bout d’une
 <p>Sous une bâche mal tendue, vous trouvez deux sacs marqués du moulin et une cage où s’agitent trois poules. Une bourse tinte quand vous la soulevez. Au fond, pliés avec soin, des foulards et des gilets bariolés, ressemblant à s’y méprendre aux accoutrements des étrangers.</p>
 </div>
 
+![[Prologue-Le_Feu_et_les_Brumes_c0bc7a90.webp]]
+
 La bourse contient **7 pa**. Ces objets et les aveux des pillards prouvent qu’ils se faisaient passer pour les voyageurs. Les biens volés reviennent à leurs propriétaires.
 
 Les prisonniers passent la nuit ligotés au camp, sous la garde des voyageurs, afin d’être livrés à [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) le lendemain.
@@ -266,6 +282,8 @@ Mettez les fiches à jour **avant la meute**. Un gain de niveau n’est pas un r
 
 La femme au rat est [Eliza](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza), une Vistana joyeuse, toujours prompte à se mêler d’une conversation par une remarque effrontée. Elle est une espionne de [Strahd](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich) ; les joueurs la reverront dans [l’arc C](Arc%20C%20-%20Into%20the%20Valley.md#en-c4c-vistani-hospitality), à l’étang de Tser.
 
+![[Prologue-Le_Feu_et_les_Brumes_f21c092e.webp]]
+
 Pendant le repas, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) interroge chacun des joueurs : « Comment êtes-vous entré au service de votre seigneur ? » ou bien « Qu’aimez-vous retrouver, au retour d’une mission ? » ou encore « Pourquoi risquer votre vie pour des étrangers ? » Notez un détail confié par chaque joueur : [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) s’en souviendra lors de leurs retrouvailles.
 
 ### Des chansons autour du feu
@@ -284,6 +302,8 @@ Après le repas, quelqu’un frappe le rythme sur le fond d’une écuelle et le
 ## 0.6. Le prince et le feu
 
 Lorsque les chansons et les échanges s’apaisent, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) se rapproche du feu et propose aux joueurs de participer à une ancienne tradition : il leur racontera une histoire et les joueurs devront déterminer si elle est vraie ou fausse. Si les joueurs acceptent, lisez le texte suivant, ou racontez-le avec vos mots en les laissant l’interrompre :
+
+![[Prologue-Le_Feu_et_les_Brumes_3ec361c5.webp]]
 
 <div class="description">
 <p><a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> prend une gorgée de vin, la garde un instant en bouche, puis la souffle au-dessus des braises. Une flamme verte s’élève. Dans sa lumière apparaît une silhouette qui chancelle, une main pressée contre son flanc.</p>
@@ -349,6 +369,8 @@ Si aucun joueur ne veille, les dormeurs s’éveillent vers 6 h sur une terre in
 
 Dans les deux cas, les Brumes n’ont emporté que les joueurs, avec ce qu’ils portaient ou gardaient à portée de main ; les affaires laissées près des roulottes sont restées au camp. Sans interruption réelle, le repos s’achève à **6 h**.
 
+![[Prologue-Le_Feu_et_les_Brumes_0c05fcab.webp]]
+
 Au réveil du camp, ou plus tôt si un voyageur veillait, [Stanimir](../Appendices/Non-Player%20Characters.md#de-stanimir) trouve la tente vide et la brume qui se retire. Il y reconnaît celle que sa caravane traverse pour rentrer en Barovie, sans savoir pourquoi elle a pris ses invités. Poursuivez avec [l’arc A](Arc%20A%20-%20Escape%20From%20Death%20House.md).
 
 <a id="de-n2"></a>
@@ -363,6 +385,8 @@ Dans l’horaire de référence, ils partent vers **22 h, J0**. Décrivez d’ab
 <p>Du brouillard s’accroche à vos genoux. À l’endroit où se dressaient les deux saules, il n’y a plus qu’un seul arbre maladif, aux branches sèches et au tronc tordu.</p>
 <p>La lune baigne un paysage de plus en plus brumeux de sa lumière laiteuse. Le son même de la forêt semble avoir disparu. Devant vous, à environ 400 mètres, la masse d’une grande demeure aux fenêtres éclairées se découpe sur la brume pâle. Les lumières de Valcroix, qui devraient briller au bout du chemin, et son clocher ont disparu.</p>
 </div>
+
+![[Prologue-Le_Feu_et_les_Brumes_b8afa6a0.webp]]
 
 Il est environ **22 h 30, J0**. Revenir sur leurs pas ramène les joueurs au même arbre maladif, comme s’ils tournaient en rond, de plus en plus épuisés.
 
