@@ -1,5 +1,11 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-premier-peuple-goliath-2026-11-15"></a>
+# Mise à jour 3.4 (15 novembre 2026)
+* Le [Premier Peuple](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-first-folk) devient goliath : le Peuple des Forêts et le Peuple des Montagnes en descendent
+* Certains de ses clans quittent la vallée sous Kavan et après Dostron, bien avant Strahd ; nul ne sait ce qu’ils sont devenus
+* Burebis devient un lointain parent des Tauta, et les Martikov gardent de leurs ancêtres une taille et une carrure au-dessus de la moyenne
+
 <a id="de-la-devoreuse-2026-11-14"></a>
 # Mise à jour 3.3 (14 novembre 2026)
 * Remaniement du lore autour de la [Dévoreuse](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer) : seules les quatre sœurs sont des divinités, et les Sombres Puissances, Mère Nuit et Ezra deviennent ses masques

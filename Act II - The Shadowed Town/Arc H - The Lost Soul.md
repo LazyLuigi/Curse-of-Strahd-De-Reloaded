@@ -336,7 +336,7 @@ Le trajet entre Vallaki et le Vieux Broyeur d’os mesure cinq miles et trois qu
 À mi-chemin, un bruissement dans les arbres au-dessus d’eux attire l’attention des joueurs. Lisez :
 
 <div class="description">
-<p>Une silhouette décharnée aux cheveux hirsutes et aux pieds nus est accroupie sur une grosse branche noueuse au-dessus de vos têtes. Elle porte une robe en lambeaux faite de peaux animales cousues ensemble. Des traces rouges barrent ses joues ; deux autres, en forme de crocs, tachent sa peau sous les lèvres. Elle s’immobilise, renifle l’air et éclate d’un rire dément. « De petits oiseaux chanteurs égarés dans les bois obscurs ? » demande-t-elle en vous dévisageant avec un rictus.</p>
+<p>Une longue silhouette décharnée aux cheveux hirsutes et aux pieds nus est accroupie sur une grosse branche noueuse au-dessus de vos têtes. Elle porte une robe en lambeaux faite de peaux animales cousues ensemble. Des traces rouges barrent ses joues ; deux autres, en forme de crocs, tachent sa peau sous les lèvres. Elle s’immobilise, renifle l’air et éclate d’un rire dément. « De petits oiseaux chanteurs égarés dans les bois obscurs ? » demande-t-elle en vous dévisageant avec un rictus.</p>
 </div>
 
 Il s’agit d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=druide">druide</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-druid-monstre"><sup>fiche</sup></a>** de la colline d’Antan, espion de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=druide">druide</a> ne veut pas faire de mal aux joueurs, mais souhaite les provoquer de manière intéressante.
