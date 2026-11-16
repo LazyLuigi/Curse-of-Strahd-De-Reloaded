@@ -6,4 +6,4 @@
 
 ***Gêné.*** La créature est ralentie, peut utiliser une réaction de moins par round et ne peut pas utiliser son action Attaques multiples. Une créature peut être gênée plusieurs fois. Chaque fois supplémentaire qu’une créature est gênée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets de l’état gêné ne se cumulent pas.
 
-***Ralenti.*** La créature doit dépenser 1 pied de déplacement supplémentaire pour chaque pied qu’elle parcourt en utilisant sa vitesse. Les jets d’attaque contre elle ont l’avantage, et elle a un désavantage aux jets de sauvegarde de Dextérité.
+***Ralenti.*** La créature doit dépenser 1,50 m de déplacement supplémentaire pour chaque 1,50 m qu’elle parcourt en utilisant sa vitesse. Les jets d’attaque contre elle ont l’avantage, et elle a un désavantage aux jets de sauvegarde de Dextérité.

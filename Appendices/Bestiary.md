@@ -251,7 +251,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
   <br>
   <strong>Points de vie</strong> 22 (3d8 + 9)  
   <br>
-  <strong>Vitesse</strong> 20 pieds  
+  <strong>Vitesse</strong> 6 m  
   <hr>
   <table class="ability-table">
     <thead>
@@ -274,14 +274,14 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
   <strong>Jets de sauvegarde</strong> SAG +0  <br>
   <strong>Immunités aux dégâts</strong> poison  <br>
   <strong>Immunités aux états</strong> empoisonné  <br>
-  <strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 8  <br>
+  <strong>Sens</strong> vision dans le noir 18 m, Perception passive 8  <br>
   <strong>Langues</strong> comprend les langues qu’il connaissait de son vivant mais ne peut pas parler  <br>
   <strong>Facteur de puissance</strong> 1/4
   <hr>
   <p><strong><em>Robustesse de la non-vie.</em></strong> Si des dégâts réduisent le <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> <a href="Bestiary.md#en-zombie"><sup>fiche</sup></a> à 0 point de vie, il tombe à 1 point de vie à la place. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> ne peut pas utiliser cette aptitude si les dégâts sont radiants ou proviennent d’un coup critique, si les dégâts subis sont de 15 ou plus, ou s’il ne lui restait que 1 point de vie.</p>
 <a id="en-actions-14" data-traduction="ancre"></a>
   <h3 id="actions-13">Actions</h3>
-  <p><strong><em>Coup.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +3 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 4 (1d6 + 1) dégâts contondants.</p>
+  <p><strong><em>Coup.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +3 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 4 (1d6 + 1) dégâts contondants.</p>
 </div>
 
 
@@ -299,7 +299,7 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
   <br>
   <strong>Points de vie</strong> 78 (12d8 + 24)
   <br>
-  <strong>Vitesse</strong> 30 pieds  
+  <strong>Vitesse</strong> 9 m  
   <hr>
   <table class="ability-table">
     <thead>
@@ -322,17 +322,17 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
   <strong>Résistances aux dégâts</strong> nécrotiques<br>
   <strong>Immunités aux dégâts</strong> poison  <br>
   <strong>Immunités aux états</strong> charmé, épuisement, empoisonné  <br>
-  <strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 7  <br>
+  <strong>Sens</strong> vision dans le noir 18 m, Perception passive 7  <br>
   <strong>Langues</strong> comprend les langues qu’il connaissait de son vivant mais ne peut pas parler  <br>
   <strong>Facteur de puissance</strong> 4<br>
   <strong>Bonus de maîtrise</strong> +2  
   <hr>
   <p><strong><em>Robustesse de la non-vie.</em></strong> Si des dégâts réduisent le zombie à 0 point de vie, il doit effectuer un jet de sauvegarde de Constitution dont le DD est égal à 5 + les dégâts subis, sauf si les dégâts sont radiants ou proviennent d’un coup critique. En cas de réussite, le zombie tombe à 1 point de vie à la place.</p>
   <p><strong><em>Nature inhabituelle.</em></strong> Le zombie n’a pas besoin de respirer, de manger, de boire ni de dormir.</p>
-  <p><strong><em>Aura virale.</em></strong> Toute créature qui commence son tour à 10 pieds ou moins du propagateur de peste doit effectuer un jet de sauvegarde de Constitution DD 12. En cas d’échec, la créature est empoisonnée et ne peut pas récupérer de points de vie jusqu’à la fin de son prochain tour. En cas de réussite, la créature est immunisée contre l’Aura virale de ce propagateur de peste pendant 24 heures.</p>
+  <p><strong><em>Aura virale.</em></strong> Toute créature qui commence son tour à 3 m ou moins du propagateur de peste doit effectuer un jet de sauvegarde de Constitution DD 12. En cas d’échec, la créature est empoisonnée et ne peut pas récupérer de points de vie jusqu’à la fin de son prochain tour. En cas de réussite, la créature est immunisée contre l’Aura virale de ce propagateur de peste pendant 24 heures.</p>
 <a id="en-actions-15" data-traduction="ancre"></a>
   <h3 id="actions-14">Actions</h3>
   <p><strong><em>Attaques multiples.</em></strong> Le propagateur de peste effectue deux attaques de coup.</p>
-  <p><strong><em>Coup.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts contondants plus 9 (2d8) dégâts nécrotiques.</p>
-  <p><strong><em>Miasme virulent (1/jour).</em></strong> Le propagateur de peste libère un gaz toxique dans une sphère de 30 pieds de rayon centrée sur lui-même. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 12 et subit 14 (4d6) dégâts de poison en cas d’échec, ou la moitié en cas de réussite. Un humanoïde réduit à 0 point de vie par ces dégâts meurt et se relève sous la forme d’un <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> <a href="Bestiary.md#en-zombie"><sup>fiche</sup></a> (voir son profil dans le Manuel des Monstres) 1 minute plus tard. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> agit immédiatement après le propagateur de peste dans l’ordre d’initiative.</p>
+  <p><strong><em>Coup.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts contondants plus 9 (2d8) dégâts nécrotiques.</p>
+  <p><strong><em>Miasme virulent (1/jour).</em></strong> Le propagateur de peste libère un gaz toxique dans une sphère de 9 m de rayon centrée sur lui-même. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 12 et subit 14 (4d6) dégâts de poison en cas d’échec, ou la moitié en cas de réussite. Un humanoïde réduit à 0 point de vie par ces dégâts meurt et se relève sous la forme d’un <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> <a href="Bestiary.md#en-zombie"><sup>fiche</sup></a> (voir son profil dans le Manuel des Monstres) 1 minute plus tard. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> agit immédiatement après le propagateur de peste dans l’ordre d’initiative.</p>
 </div>

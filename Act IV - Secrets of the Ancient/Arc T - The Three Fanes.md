@@ -25,10 +25,10 @@ Cependant, pour que les nouvelles consécrations fonctionnent, les joueurs doive
 # T1. Retour à Soldav
 <a id="en-t1a-the-narrow-road" data-traduction="ancre"></a>
 ## T1a. Le chemin étroit
-Le trajet de retour à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> mesure trois miles et demi et prend deux heures et vingt minutes. Les joueurs ne rencontrent aucun obstacle en chemin.
+Le trajet de retour à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> mesure 5 km et prend deux heures et vingt minutes. Les joueurs ne rencontrent aucun obstacle en chemin.
 
 > [!warning]+ **Mise à jour de la distance**
-> Une version antérieure de [Arc R : Épreuves de la Montagne](Arc%20R%20-%20Trials%20of%20the%20Mountain.md) indiquait que le voyage de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> au Temple de l’Ambre était long d'un mile. Cette distance a été mise à jour uniquement pour les campagnes plus récentes.
+> Une version antérieure de [Arc R : Épreuves de la Montagne](Arc%20R%20-%20Trials%20of%20the%20Mountain.md) indiquait que le voyage de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> au Temple de l’Ambre était long de 1,5 km. Cette distance a été mise à jour uniquement pour les campagnes plus récentes.
 
 Les joueurs peuvent accéder à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> comme décrit dans [R5a. Les chutes jumelles](Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r5a-the-twin-falls). En entrant dans [R5b. Le tunnel](Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r5b-the-tunnel), ils sont accueillis par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-como">Como</a> et deux **<a href="https://www.aidedd.org/dnd/monstres.php?vf=eclaireur">éclaireurs</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-scout-monstre"><sup>fiche</sup></a>** gardant la porte secrète.
 
@@ -62,8 +62,8 @@ Lorsque les joueurs retournent au sanctuaire des <a href="../Appendices/Index%20
 Si les joueurs entrent dans le tunnel menant à la Caverne des Lumières, lisez :
 
 <div class="description">
-<p>Le passage serpente sur vingt pieds à travers la montagne, débouchant dans une chambre circulaire en pierre d'environ quarante pieds de diamètre.</p> 
-<p>Des cristaux vert pâle jaillissent de la roche sur les murs, le sol et le plafond. Leurs formations s’élèvent de six pouces à plus de six pieds. Quatre gravures occupent les parois entre elles, hautes chacune de plus de trois pieds : une araignée, un loup, un corbeau et un papillon.</p>
+<p>Le passage serpente sur 6 m à travers la montagne, débouchant dans une chambre circulaire en pierre d'environ 12 m de diamètre.</p> 
+<p>Des cristaux vert pâle jaillissent de la roche sur les murs, le sol et le plafond. Leurs formations s’élèvent de 15 cm à plus de 1,80 m. Quatre gravures occupent les parois entre elles, hautes chacune de plus de 90 cm : une araignée, un loup, un corbeau et un papillon.</p>
 </div> 
 
 > [!lore]+ **Le Papillon**
@@ -117,7 +117,7 @@ Une fois invoquées, <a href="../Appendices/Index%20des%20personnages%20et%20cr%
 >
 > La <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> perd alors les propriétés d'une *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-blood-spear">lance de sang</a>* et devient une *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-spear-of-warning">Lance d’alerte</a>* +2 avec les propriétés supplémentaires suivantes :
 > * Si vous lancez cette <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> lors d'une attaque à distance, elle revient dans votre main à la fin de votre tour.
-> * Vous pouvez utiliser une action bonus pour provoquer des flammes vert émeraude inoffensives autour de la lame de la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a>, ou pour éteindre ces flammes. Lorsqu'elle est enflammée, la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> projette une lumière vive dans un rayon de 20 pieds et une lumière faible sur 20 pieds supplémentaires.
+> * Vous pouvez utiliser une action bonus pour provoquer des flammes vert émeraude inoffensives autour de la lame de la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a>, ou pour éteindre ces flammes. Lorsqu'elle est enflammée, la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> projette une lumière vive dans un rayon de 6 m et une lumière faible sur 6 m supplémentaires.
 > * Lorsque vous enflammez la lame de la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a>, ou par une action bonus pendant que la lame de la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> est en feu, vous pouvez lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=marque-du-chasseur">marque du chasseur</a>*. Lorsqu’il est lancé de cette manière, le sort ne nécessite pas votre concentration. Vous pouvez lancer ce sort un nombre de fois égal à votre modificateur de Sagesse, et la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> récupère toutes les utilisations dépensées à l'aube.
 
 > [!info]+ **Reconsécration des sanctuaires**
@@ -140,12 +140,12 @@ Une fois invoquées, <a href="../Appendices/Index%20des%20personnages%20et%20cr%
 ## T1d. Le nid du roc
 Si les joueurs demandent à la famille de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-chief-diegia">cheffe Diegia</a> comment atteindre le sommet du mont Ghakis, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-como">Como</a> se fera un plaisir de leur servir de guide. (Si les joueurs se sont déjà liés d'amitié avec lui dans [Arc R : Épreuves de la Montagne](Arc%20R%20-%20Trials%20of%20the%20Mountain.md), <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-scorilo">Scorilo</a> insiste d'un ton bourru pour les accompagner également, notant que "quelqu'un doit empêcher mon frère de se faire tuer.") <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-como">Como</a> prévient cependant les joueurs que le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-roc-monstre"><sup>fiche</sup></a> du mont Ghakis est censé nicher au sommet de la montagne, et demande, anxieusement, s'ils ont l'intention de le mettre en colère ou de lui faire du mal.
 
-Le trajet de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> au sommet du mont Ghakis est long de quatre milles et demi et prend environ trois heures. Pendant que les joueurs font le voyage, lisez :
+Le trajet de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> au sommet du mont Ghakis est long de 7 km et prend environ trois heures. Pendant que les joueurs font le voyage, lisez :
 
 <div class="description">
-<p>Sur le premier mile, le trajet suit le chemin du Temple de l’Ambre, jusqu’à ce que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-como">Como</a> prenne un sentier secondaire à peine visible qui grimpe parmi les falaises. Le sentier serpente en lacets, épousant les pentes les plus raides tandis que la vallée s’étend en contrebas.</p>
-<p>Après avoir grimpé trois cents pieds, le sentier s'aplanit, puis tourne vers le sud, en gravissant le plateau incurvé juste sous le plus haut sommet de la montagne. L'air est raréfié ici, alors que les nuages bas roulent comme un brouillard ordinaire sur les pentes glaciales. Devant vous, une falaise abrupte s'élève jusqu'au sommet enneigé de la montagne, vous obligeant à grimper à la force des bras pour votre dernière ascension.</p> 
-<p>Lorsque vous franchissez la dernière crête, les rochers s’écartent et révèlent une dépression en forme de coupe, grande comme la place de Vallaki. De grands pins d’au moins trente pieds ont été déracinés et disposés sur ses bords ; des branches de chêne gelées et leurs feuilles en tapissent le fond. L’ensemble a été écrasé comme par un poids immense, et d’énormes plumes noires hautes comme un homme jonchent le sol.</p>
+<p>Sur le premier kilomètre et demi, le trajet suit le chemin du Temple de l’Ambre, jusqu’à ce que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-como">Como</a> prenne un sentier secondaire à peine visible qui grimpe parmi les falaises. Le sentier serpente en lacets, épousant les pentes les plus raides tandis que la vallée s’étend en contrebas.</p>
+<p>Après avoir grimpé 90 m, le sentier s'aplanit, puis tourne vers le sud, en gravissant le plateau incurvé juste sous le plus haut sommet de la montagne. L'air est raréfié ici, alors que les nuages bas roulent comme un brouillard ordinaire sur les pentes glaciales. Devant vous, une falaise abrupte s'élève jusqu'au sommet enneigé de la montagne, vous obligeant à grimper à la force des bras pour votre dernière ascension.</p> 
+<p>Lorsque vous franchissez la dernière crête, les rochers s’écartent et révèlent une dépression en forme de coupe, grande comme la place de Vallaki. De grands pins d’au moins 9 m ont été déracinés et disposés sur ses bords ; des branches de chêne gelées et leurs feuilles en tapissent le fond. L’ensemble a été écrasé comme par un poids immense, et d’énormes plumes noires hautes comme un homme jonchent le sol.</p>
 <p>Au centre du bassin, une petite lumière vert pâle scintille faiblement, nichée entre deux branches de chêne.</p> 
 </div> 
 
@@ -176,7 +176,7 @@ Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> attaque si l
 > * Il regagne 40 points de vie au début de chacun de ses tours s'il touche physiquement la pierre du Mont Ghakis. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> ne meurt que s’il commence son tour avec 0 point de vie et ne se régénère pas.
 > * Il peut effectuer jusqu’à trois réactions par round, mais une seule par tour. Si un effet ou un état devait l’empêcher d’effectuer des réactions, il perd plutôt une réaction.
 > * Il obtient la réaction suivante : ***Indomptable.*** **Déclencheur :** une créature hostile termine son tour. **Effet :** le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> peut retenter le jet de sauvegarde contre un effet ou un état qui l’affecte actuellement. (Cette réaction n’a aucun effet si l’effet ou l’état ne lui imposait pas initialement de rater un jet de sauvegarde.)
-> * Il obtient la réaction suivante : ***Bourrasque du corbeau (1/round).*** *Déclencheur :* Une créature hostile termine son tour à 10 pieds ou moins du <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a>. *Effet :* Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> bat de ses puissantes ailes ; chaque créature dans un cône de 30 pieds centré sur la première doit réussir un jet de sauvegarde de Force DD 21 ou être projetée à 20 pieds. Une créature qui échoue de 10 ou plus tombe aussi à terre.
+> * Il obtient la réaction suivante : ***Bourrasque du corbeau (1/round).*** *Déclencheur :* Une créature hostile termine son tour à 3 m ou moins du <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a>. *Effet :* Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> bat de ses puissantes ailes ; chaque créature dans un cône de 9 m centré sur la première doit réussir un jet de sauvegarde de Force DD 21 ou être projetée à 6 m. Une créature qui échoue de 10 ou plus tombe aussi à terre.
 
 Si les joueurs s’en montrent dignes, lisez :
 
@@ -199,11 +199,11 @@ Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=roc">roc</a> est prêt à
 <a id="en-t2-descending-the-mount" data-traduction="ancre"></a>
 # T2. La descente de la montagne
 > [!info]+ **Temps de trajet**
-> ***Le Magicien des Vins à Vallaki.*** Le trajet du Magicien des Vins vers et depuis Vallaki est long de six milles et quart et prend un peu plus de deux heures.
+> ***Le Magicien des Vins à Vallaki.*** Le trajet du Magicien des Vins vers et depuis Vallaki est long de 9 km et prend un peu plus de deux heures.
 >
-> ***Le Magicien des Vins à Berez.*** Le trajet du Magicien des Vins vers et depuis Berez est long de neuf milles et quart et prend un peu plus de trois heures.
+> ***Le Magicien des Vins à Berez.*** Le trajet du Magicien des Vins vers et depuis Berez est long de 14 km et prend un peu plus de trois heures.
 >
-> ***Vallaki à Berez.*** Le trajet de Vallaki à Berez est long de quatre milles et demi et prend une heure et demie.
+> ***Vallaki à Berez.*** Le trajet de Vallaki à Berez est long de 7 km et prend une heure et demie.
 
 > [!abstract]+ **Départ de <a href="../Appendices/Non-Player%20Characters.md#en-kasimir-velikov">Kasimir</a>**
 > Lorsque les joueurs descendent la montagne, <a href="../Appendices/Non-Player%20Characters.md#en-kasimir-velikov">Kasimir</a> explique qu'il doit retourner au campement des elfes du crépuscule à <span class="citation">N9. Campement vistani (p. 119)</span> pour veiller à ce que son peuple soit protégé. "Quand <a href="../Appendices/Non-Player%20Characters.md#en-patrina">Patrina</a> est apparue pour la première fois dans mes rêves, je n'ai jamais cru que j'étais celui qui brandirait l'arme du soleil contre Zarovich", dit-il. "Je savais que je la découvrirais et la garderais, si nécessaire, jusqu’à ce qu’elle trouve la main qui devait la manier. Mais ma place est avec mon peuple, et il est temps que je retourne vers lui."
@@ -247,7 +247,7 @@ Si les joueurs reviennent au <span class="citation">Chapitre 12: Le Magicien des
 > Désormais, <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> se cache dans les profondeurs de Berez, attendant que les joueurs viennent sauver leurs amis à plumes bien-aimés et finissent par mourir entre ses mains.
 
 > [!abstract]+ **Investigation sur le sentier**
-> Un joueur qui réussit un test de Sagesse (Survie) DD 13 identifie d'énormes entailles et tranchées grêlant la terre humide en une « piste » accidentée. Le sentier, laissé par la hutte rampante de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a>, mène au sud à travers les bois de Svalich jusqu'au lac <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, puis au nord sous le col de Tsolenka le long de la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, jusqu'à se terminer dans <span class="citation">Chapitre 10: Les ruines de Berez (p. 161)</span>. Si les joueurs suivent la piste, leur voyage jusqu'à Berez est long de huit milles et demi et prend cinq heures et un tiers.
+> Un joueur qui réussit un test de Sagesse (Survie) DD 13 identifie d'énormes entailles et tranchées grêlant la terre humide en une « piste » accidentée. Le sentier, laissé par la hutte rampante de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a>, mène au sud à travers les bois de Svalich jusqu'au lac <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, puis au nord sous le col de Tsolenka le long de la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, jusqu'à se terminer dans <span class="citation">Chapitre 10: Les ruines de Berez (p. 161)</span>. Si les joueurs suivent la piste, leur voyage jusqu'à Berez est long de 13 km et prend cinq heures et un tiers.
 
 Au total, sept **<a href="https://www.aidedd.org/dnd/monstres.php?vf=epouvantail">épouvantails</a>** se tiennent silencieusement autour du domaine viticole. Ils attaquent toute créature qui tente d'entrer dans le domaine viticole.
 
@@ -300,7 +300,7 @@ Si les joueurs tuent des <a href="https://www.aidedd.org/dnd/monstres.php?vf=gar
 > [!item]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-beacon-of-private-sanctum">Balise du sanctuaire privé</a>**
 > *Objet merveilleux, rare*
 >
-> Une fois par jour (utilisation récupérée à l’aube), le porteur de cette cage de fer de six pouces peut prononcer son mot de commande pour lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=sanctuaire-prive-de-mordenkainen">Sanctuaire privé de Mordenkainen</a>* sans composantes matérielles. Lancé ainsi à l’intérieur d’un bâtiment, le sort ne s’étend pas au-delà des murs qui le contiennent.
+> Une fois par jour (utilisation récupérée à l’aube), le porteur de cette cage de fer de 15 cm peut prononcer son mot de commande pour lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=sanctuaire-prive-de-mordenkainen">Sanctuaire privé de Mordenkainen</a>* sans composantes matérielles. Lancé ainsi à l’intérieur d’un bâtiment, le sort ne s’étend pas au-delà des murs qui le contiennent.
 
 <a id="en-st-andrals-church" data-traduction="ancre"></a>
 ### L’église Saint-Andral
@@ -319,7 +319,7 @@ Si les joueurs l'ont déjà rencontrée dans [Arc H : L'âme perdue](../Act%20II
 Si <a href="../Appendices/Non-Player%20Characters.md#en-milivoj">Milivoj</a> est vivant et à Vallaki, ajoutez :
 
 <div class="description"> 
-<p>À une douzaine de yards, <a href="../Appendices/Non-Player%20Characters.md#en-milivoj">Milivoj</a> est agenouillé dans le cimetière. Un petit tas de mauvaises herbes repose sous ses gants boueux et une cape brune couvre ses épaules. Il lance à la femme un regard noir et silencieux.</p>
+<p>À une dizaine de mètres, <a href="../Appendices/Non-Player%20Characters.md#en-milivoj">Milivoj</a> est agenouillé dans le cimetière. Un petit tas de mauvaises herbes repose sous ses gants boueux et une cape brune couvre ses épaules. Il lance à la femme un regard noir et silencieux.</p>
 </div> 
 
 Si les joueurs se font connaître, <a href="../Appendices/Non-Player%20Characters.md#en-milivoj">Milivoj</a> les accueille avec une gratitude anxieuse. Il peut partager les informations suivantes :
@@ -378,7 +378,7 @@ Un joueur qui réussit un test de Sagesse (Perception) DD 10 entend <a href="../
 
 <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> est heureux de revoir les joueurs, mais son air reste sombre et sa frustration évidente. Il peut partager les informations suivantes si on lui le demande :
 
-* Aucun de ses <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeaux</a> n'a pu apercevoir Berez, qui a été englouti par une énorme structure en forme de haie de vignes et d'épines de plusieurs centaines de pieds de hauteur.
+* Aucun de ses <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeaux</a> n'a pu apercevoir Berez, qui a été englouti par une énorme structure en forme de haie de vignes et d'épines de plusieurs dizaines de mètres de hauteur.
 * Des dizaines de <a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-chauves-souris">nuées de chauves-souris</a> ont élu domicile au dépôt Arasek, envahissant chaque nuit les rues de Vallaki, nombre d'entre elles étant suspendues aux toits ou écoutant par les fenêtres. Les <a href="https://www.aidedd.org/dnd/monstres.php?vf=chauve-souris">chauves-souris</a>, qui visitent souvent le Wachterhaus, sont hostiles aux <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeaux</a>, obligeant les <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeaux</a> espions d’<a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> à contourner les murs de la ville au lieu de les traverser. (Si on le lui demande, <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> peut préciser que les <a href="https://www.aidedd.org/dnd/monstres.php?vf=chauve-souris">chauves-souris</a> semblent dormir dans l'entrepôt immédiatement à gauche de <span class="citation">N6. Atelier du fabricant de cercueils (p. 116)</span>.)
 * Cependant, la nuit dernière, l’une des volées d’<a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> a aperçu un étrange individu drapé d’un manteau sortant du Wachterhaus par l'entrée arrière, puis disparaissant dans les ruelles de la ville. Cet individu ne correspond à aucune description connue de la famille Wachter ou de ses serviteurs, et <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> ne sait pas vraiment de qui il s'agit. (En raison de la présence des <a href="https://www.aidedd.org/dnd/monstres.php?vf=chauve-souris">chauves-souris</a>, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeaux</a> n’étaient pas en mesure de voir si l’individu était revenu.)
 
@@ -399,7 +399,7 @@ Un joueur qui réussit un test de Sagesse (Perception) DD 10 entend <a href="../
 <br> 
 <strong>Points de vie</strong> 63 (14d8)
 <br> 
-<strong>Vitesse</strong> 30 pieds (vol 50 pieds sous ses formes de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> et hybride)
+<strong>Vitesse</strong> 9 m (vol 15 m sous ses formes de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> et hybride)
 <hr> 
 <table class="ability-table"> 
 <thead> 
@@ -435,9 +435,9 @@ Un joueur qui réussit un test de Sagesse (Perception) DD 10 entend <a href="../
 <a id="en-actions" data-traduction="ancre"></a>
 <h3>Actions</h3> 
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> effectue deux attaques d’arme, dont une peut être une attaque d’<a href="https://www.aidedd.org/regles/equipement/armes/">arbalète lourde</a>.</p>
-<p><strong><em>Épée courte.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
-<p><strong><em>Arbalète lourde.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d’arme à distance :</em> +5 au toucher, portée 100/400 pieds, une cible. <em>Touché :</em> 8 (1d10 + 3) dégâts perforants.</p>
-    <p><strong><em>Bec.</em></strong> (Forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride uniquement) <em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 1 dégât perforant sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Une cible humanoïde doit réussir un jet de sauvegarde de Constitution DD 10 ou être maudite par la lycanthropie du <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-wereraven">corbeau-garou</a>.</p>
+<p><strong><em>Épée courte.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Arbalète lourde.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d’arme à distance :</em> +5 au toucher, portée 30/120 m, une cible. <em>Touché :</em> 8 (1d10 + 3) dégâts perforants.</p>
+    <p><strong><em>Bec.</em></strong> (Forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride uniquement) <em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 1 dégât perforant sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Une cible humanoïde doit réussir un jet de sauvegarde de Constitution DD 10 ou être maudite par la lycanthropie du <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-wereraven">corbeau-garou</a>.</p>
 <a id="en-bonus-actions" data-traduction="ancre"></a>
 <h3>Actions bonus</h3> 
 <p><strong><em>Changement de forme.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin</a> se métamorphose en un hybride corbeau-humanoïde ou en <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a>, ou reprend sa forme humaine. Ses statistiques, autres que sa taille, sont les mêmes dans chaque forme. Tout équipement qu'il porte ou transporte n'est pas transformé. Il reprend sa forme humaine s'il meurt.</p> 
@@ -529,13 +529,13 @@ Lors de son prochain tour, <a href="../Appendices/Index%20des%20personnages%20et
 L'approche des joueurs vers Berez est en grande partie celle décrite dans <span class="citation">Approcher des ruines (p. 161)</span>. Cependant, révisez la description de cette zone comme suit :
 
 <div class="description"> 
-<p>Le sentier longe la rivière sur plusieurs miles. La terre et l’herbe cèdent bientôt la place au marais ; le chemin se fond dans un sol spongieux semé de hauts roseaux et de mares stagnantes. Un épais voile de brouillard recouvre l’ensemble.</p>
-<p>Au bout du sentier, une énorme ombre s'élève dans le brouillard : une masse de lianes, d’épines et de branches de plus de deux cents pieds de hauteur. La structure s'étend sur un demi-mile de large et un demi-mile de profondeur, son bord sud-est épousant la rivière alors qu'elle coule lentement à travers le bassin. Un grand trou béant de trente pieds de large et trente pieds de haut s'ouvre à son coin nord-est, le sentier disparaissant dans ses profondeurs sombres.</p> 
+<p>Le sentier longe la rivière sur plusieurs kilomètres. La terre et l’herbe cèdent bientôt la place au marais ; le chemin se fond dans un sol spongieux semé de hauts roseaux et de mares stagnantes. Un épais voile de brouillard recouvre l’ensemble.</p>
+<p>Au bout du sentier, une énorme ombre s'élève dans le brouillard : une masse de lianes, d’épines et de branches de plus de 60 m de hauteur. La structure s'étend sur 750 m de large et 750 m de profondeur, son bord sud-est épousant la rivière alors qu'elle coule lentement à travers le bassin. Un grand trou béant de 9 m de large et 9 m de haut s'ouvre à son coin nord-est, le sentier disparaissant dans ses profondeurs sombres.</p> 
 </div> 
 
 La structure est un labyrinthe de haies géant créé par le _mirage_ de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a>. Pour préparer l'arrivée des joueurs, <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> a recouvert le marais de six sorts de _mirage_ identiques. (Un joueur doit réussir à lancer _Dissipation de la magie_ six fois consécutives pour dissiper les six sorts de _mirage_.)
 
-<a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> a aussi placé un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee">Illusion programmée</a>* sur le trou de trente pieds qui sert d’entrée au labyrinthe. Le sort se déclenche à la première entrée des joueurs et résonne dans tout Berez. Lisez :
+<a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> a aussi placé un sort d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee">Illusion programmée</a>* sur le trou de 9 m qui sert d’entrée au labyrinthe. Le sort se déclenche à la première entrée des joueurs et résonne dans tout Berez. Lisez :
 
 <div class="description"> 
 <p>Un vif éclat de lumière d’un vert maladif emplit l’air, projetant des ombres dures sur les murs épineux. Un profond ricanement féminin résonne alors, grondant comme le tonnerre à travers le brouillard.</p> 
@@ -564,9 +564,9 @@ Au-delà de l'entrée, le labyrinthe de haies se divise en deux couloirs : un v
 > * [T3j. Le manoir Ulrich](#en-t3j-ulrich-manor), comprenant <span class="citation">U2. Manoir Ulrich (p. 162)</span> (manoir uniquement)
 > * [T3k. La hutte de Baba Lysaga](#en-t3k-baba-lysagas-hut), comprenant <span class="citation">U3. Hutte de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> (p. 163)</span> 
 >
-> Les murs et les plafonds du labyrinthe de haies ont chacun cent pieds d'épaisseur et chaque pièce a cent pieds de hauteur. Chaque segment de cinq pieds de côté d'un mur ou d'un plafond a une CA de 15, 20 points de vie et une immunité contre les dégâts de poison et les dégâts psychiques.
+> Les murs et les plafonds du labyrinthe de haies ont chacun 30 m d'épaisseur et chaque pièce a 30 m de hauteur. Chaque segment de 1,50 m de côté d'un mur ou d'un plafond a une CA de 15, 20 points de vie et une immunité contre les dégâts de poison et les dégâts psychiques.
 >
-> Tous les couloirs du labyrinthe mesurent dix pieds de large et serpentent à travers les murs pour briser les lignes de vue.
+> Tous les couloirs du labyrinthe mesurent 3 m de large et serpentent à travers les murs pour briser les lignes de vue.
 
 > [!info]+ **Lumière dans le labyrinthe**
 > Sauf dans [T3k. La hutte de Baba Lysaga](#en-t3k-baba-lysagas-hut), aucune lumière naturelle ou artificielle n'éclaire l'intérieur du labyrinthe de haies, laissant toutes les pièces dans l'obscurité à moins d'être éclairées par les joueurs.
@@ -587,7 +587,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > | <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-greater-strix">Strix majeur</a> | 1 | 2 | 2 | 2 |
 
 
-Trois passages de dix pieds de large partent de cette salle :
+Trois passages de 3 m de large partent de cette salle :
 
 * Un au nord-est, qui mène à [T3a. Les abords de Berez](#en-t3a-berez-outskirts)
 * Un le long du mur sud-est, qui mène à [T3d. Le pré communal](#en-t3d-town-green) 
@@ -612,7 +612,7 @@ Cette zone correspond en grande partie à <span class="citation">U1. Chaumières
 > | <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-wensencia">Wensencia</a> | 1 | 1 | 1 | 1 |
 
 
-Trois passages de dix pieds de large partent de cette salle :
+Trois passages de 3 m de large partent de cette salle :
 
 * Un au nord-ouest, qui mène à [T3d. Le pré communal](#en-t3d-town-green)
 * Un au nord, qui mène à [T3a. Les abords de Berez](#en-t3a-berez-outskirts) 
@@ -623,15 +623,15 @@ Trois passages de dix pieds de large partent de cette salle :
 Lorsque les joueurs entrent dans cette zone, lisez :
 
 <div class="description"> 
-<p>Un marais sombre et lugubre s'étend sur des centaines de pieds dans l'obscurité.</p> 
+<p>Un marais sombre et lugubre s'étend sur des dizaines de mètres dans l'obscurité.</p> 
 </div> 
 
-Cette pièce est remplie d’un marais d’eau stagnante de deux pieds de profondeur. L'eau est un terrain difficile.
+Cette pièce est remplie d’un marais d’eau stagnante de 60 cm de profondeur. L'eau est un terrain difficile.
 
-Sept cadavres humains gonflés et distendus flottent dans la boue sombre, six étant répartis en cercle sur les bords de la pièce et un septième placé au centre. Un cadavre se trouve à cinquante pieds du couloir menant à [T3b. Les chaumières du nord](#en-t3b-northern-cottages), tandis qu'un autre se trouve à cinquante pieds du couloir menant à [T3c. Les chaumières du sud](#en-t3c-southern-cottages). Si la source de lumière ou la vision dans le noir des joueurs éclaire l’un de ces cadavres, lisez :
+Sept cadavres humains gonflés et distendus flottent dans la boue sombre, six étant répartis en cercle sur les bords de la pièce et un septième placé au centre. Un cadavre se trouve à 15 m du couloir menant à [T3b. Les chaumières du nord](#en-t3b-northern-cottages), tandis qu'un autre se trouve à 15 m du couloir menant à [T3c. Les chaumières du sud](#en-t3c-southern-cottages). Si la source de lumière ou la vision dans le noir des joueurs éclaire l’un de ces cadavres, lisez :
 
 <div class="description"> 
-<p>À cinquante pieds de là, quelque chose flotte dans l'eau fétide.</p> 
+<p>À 15 m de là, quelque chose flotte dans l'eau fétide.</p> 
 </div> 
 
 Si les joueurs s'approchent de l'un des cadavres, lisez :
@@ -642,7 +642,7 @@ Si les joueurs s'approchent de l'un des cadavres, lisez :
 
 Chaque **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-walking-corpse">cadavre ambulant</a>** est en grande partie tel que décrit dans <span class="citation">U5. Monument de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-marina-ulrich">Marina</a>, Prédictions de Ravenloft (p. 165)</span>. Cependant, plutôt que l'action ***gourdin*** d'un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=roturier">roturier</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-commoner-monstre"><sup>fiche</sup></a>**, chaque cadavre gagne l'action suivante :
 
-* ***Coup.*** *Jet d’attaque au corps à corps :* +2, allonge 5 pieds. *Touché :* 1 dégât contondant, et la cible est agrippée.
+* ***Coup.*** *Jet d’attaque au corps à corps :* +2, allonge 1,50 m. *Touché :* 1 dégât contondant, et la cible est agrippée.
 
 Un <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-walking-corpse">cadavre ambulant</a> surgit de la boue et attaque s'il est touché ou si les joueurs tentent de le dépasser. Au combat, un <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-walking-corpse">cadavre ambulant</a> tente d’abord d’attraper une cible en utilisant son ***coup***, puis tente de noyer la cible agrippée en la bousculant pour la mettre à terre sous les eaux du marais.
 
@@ -660,7 +660,7 @@ Les bruits du combat réveillent tous les autres <a href="../Appendices/Index%20
 > |-|-|-|-|-|
 > | <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-walking-corpse">Cadavres ambulants</a> | 5 | 6 | 7 | 8 |
 
-Deux passages de dix pieds de large partent de cette salle :
+Deux passages de 3 m de large partent de cette salle :
 
 * Un au nord-ouest, qui mène à [T3b. Les chaumières du nord](#en-t3b-northern-cottages) 
 * Un au sud-est, qui mène à [T3c. Les chaumières du sud](#en-t3c-southern-cottages) 
@@ -688,7 +688,7 @@ Si les feux follets détectent les joueurs, ils deviennent invisibles grâce à 
 > |-|-|-|-|-|
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=feu-follet">Feu follet</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-will-o-wisp-monstre"><sup>fiche</sup></a> | 2 | 3 | 3 | 4 |
 
-Trois passages de dix pieds de large partent de cette salle :
+Trois passages de 3 m de large partent de cette salle :
 
 * Un au nord, qui mène à [T3b. Les chaumières du nord](#en-t3b-northern-cottages) 
 * Un au sud, qui mène à [T3g. La cave du manoir](#en-t3g-manor-cellar)
@@ -698,7 +698,7 @@ Trois passages de dix pieds de large partent de cette salle :
 Cette zone correspond en grande partie à celle décrite dans <span class="citation">U5. Monument de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-marina-ulrich">Marina</a> (p. 164)</span>. Modifiez cependant la description de cette zone comme suit :
 
 <div class="description"> 
-<p>Dissimulée par le brouillard, une parcelle surélevée se dresse quelques pieds au-dessus du marais. Elle mesure à peine dix pieds de côté et une clôture de fer en ruine l’entoure. Un monument de pierre en occupe le centre.</p>
+<p>Dissimulée par le brouillard, une parcelle surélevée se dresse un mètre ou deux au-dessus du marais. Elle mesure à peine 3 m de côté et une clôture de fer en ruine l’entoure. Un monument de pierre en occupe le centre.</p>
 <p>Une silhouette éthérée et dorée s'agenouille devant le monument.</p> 
 </div> 
 
@@ -853,7 +853,7 @@ En cas de succès, si les joueurs ont précédemment demandé à <a href="../App
 Lorsque les joueurs entrent pour la première fois dans cette zone, lisez :
 
 <div class="description"> 
-<p>Cette petite salle mesure quinze pieds de diamètre. Le long du mur est, des portes de cave pourries sont suspendues de travers au-dessus d'un escalier en pierre jonché de débris, qui descend dans l'obscurité en contrebas.</p> 
+<p>Cette petite salle mesure 4,50 m de diamètre. Le long du mur est, des portes de cave pourries sont suspendues de travers au-dessus d'un escalier en pierre jonché de débris, qui descend dans l'obscurité en contrebas.</p> 
 <p>« Ohé ? appelle une voix d’enfant tendue et faible depuis l’obscurité. Il y a quelqu’un ? S’il vous plaît, aidez-nous ! »</p> 
 </div> 
 
@@ -870,9 +870,9 @@ Un joueur qui a déjà rencontré <a href="../Appendices/Index%20des%20personnag
 > La voix de l’enfant est une *<a href="https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee">illusion programmée</a>* préparée par <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a>. Elle s’active la première fois qu’un joueur entre dans cette salle.
 
 > [!info]+ **Parois minces**
-> La haie orientale qui sépare cette salle de [T3j. Le manoir Ulrich](#en-t3j-ulrich-manor) ne mesure que cinq pieds d’épaisseur. Un joueur qui l’examine et réussit un test de Sagesse (Perception) DD 15 aperçoit les vagues contours d’une salle emplie de brouillard de l’autre côté.
+> La haie orientale qui sépare cette salle de [T3j. Le manoir Ulrich](#en-t3j-ulrich-manor) ne mesure que 1,50 m d’épaisseur. Un joueur qui l’examine et réussit un test de Sagesse (Perception) DD 15 aperçoit les vagues contours d’une salle emplie de brouillard de l’autre côté.
 
-Deux passages de dix pieds de large partent de cette salle :
+Deux passages de 3 m de large partent de cette salle :
 
 * Un au sud, qui mène à [T3i. Le jardin](#en-t3i-garden).
 * Un au nord, qui mène à [T3e. Le cimetière](#en-t3e-churchyard).
@@ -938,13 +938,13 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 > |-|-|-|-|-|
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=chevre">Chèvre</a> | 6 | 7 | 9 | 10 |
 
-Deux passages de dix pieds de large partent de cette salle, dont les parois affleurent les bords de l'enclos des chèvres :
+Deux passages de 3 m de large partent de cette salle, dont les parois affleurent les bords de l'enclos des chèvres :
 
 * Un à l'est, qui mène à [T3c. Les chaumières du sud](#en-t3c-southern-cottages) 
 * Un au sud-ouest, qui mène à [T3i. Le jardin](#en-t3i-garden) 
 <a id="en-t3i-garden" data-traduction="ancre"></a>
 ## T3i. Le jardin
-Cette zone correspond en grande partie à <span class="citation">U2. Manoir Ulrich (p. 162)</span>. Toutefois, six **<a href="https://www.aidedd.org/dnd/monstres.php?vf=epouvantail">épouvantails</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-scarecrow-monstre"><sup>fiche</sup></a>** se mêlent aux statues de pierre du jardin. Ils attaquent avec les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux-geant">serpents venimeux géants</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-giant-poisonous-snake-monstre"><sup>fiche</sup></a>** tout personnage qui avance de plus de 20 pieds dans le jardin.
+Cette zone correspond en grande partie à <span class="citation">U2. Manoir Ulrich (p. 162)</span>. Toutefois, six **<a href="https://www.aidedd.org/dnd/monstres.php?vf=epouvantail">épouvantails</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-scarecrow-monstre"><sup>fiche</sup></a>** se mêlent aux statues de pierre du jardin. Ils attaquent avec les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux-geant">serpents venimeux géants</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-giant-poisonous-snake-monstre"><sup>fiche</sup></a>** tout personnage qui avance de plus de 6 m dans le jardin.
 
 > [!combat]- **Combat : Le Jardin**
 > **Difficulté du combat** : éprouvante
@@ -959,7 +959,7 @@ Cette zone correspond en grande partie à <span class="citation">U2. Manoir Ulri
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux-geant">Serpent venimeux géant</a> | 3 | 3 | 4 | 4 |
 > | <a href="https://www.aidedd.org/dnd/monstres.php?vf=epouvantail">Épouvantail</a> | 4 | 5 | 6 | 7 |
 
-Trois passages de dix pieds de large partent de cette salle :
+Trois passages de 3 m de large partent de cette salle :
 
 * Un au sud-ouest, qui mène à [T3g. La cave du manoir](#en-t3g-manor-cellar) 
 * Un au nord-ouest, qui mène à [T3j. Le manoir Ulrich](#en-t3j-ulrich-manor) 
@@ -972,7 +972,7 @@ Lorsque les joueurs entrent pour la première fois dans cette zone, lisez :
 <p>Un manoir en ruine se dresse ici, réduit à des amas de pierres et de bois pourri. Ses fenêtres cintrées et béantes vous dévisagent ; des vestiges de mobilier et de décor pourrissent contre les murs écroulés et sur le sol défoncé. D’épaisses volutes de brouillard traversent la carcasse du manoir et flottent paresseusement dans les airs.</p>
 </div> 
 
-Deux passages de dix pieds de large partent de cette salle, dont les murs affleurent les bords des ruines :
+Deux passages de 3 m de large partent de cette salle, dont les murs affleurent les bords des ruines :
 
 * Un au sud, qui mène à [T3i. Le jardin](#en-t3i-garden).
 * Un au nord, qui mène à [T3k. La hutte de Baba Lysaga](#en-t3k-baba-lysagas-hut).
@@ -1067,7 +1067,7 @@ Le candélabre, le pupitre et le buste en pierre ont chacun les statistiques d�
 <br> 
 <strong>Points de vie</strong> 10
 <br> 
-<strong>Vitesse</strong> 0 pied, vol 30 pieds (vol stationnaire)
+<strong>Vitesse</strong> 0 m, vol 9 m (vol stationnaire)
 <hr> 
 <table class="ability-table"> 
 <thead> 
@@ -1093,14 +1093,14 @@ Le candélabre, le pupitre et le buste en pierre ont chacun les statistiques d�
 </table> 
 <hr> 
 <strong>Immunités aux dégâts</strong> poison, psychique<br> 
-<strong>Sens</strong> vision aveugle 30 pieds, Perception passive 6<br> 
+<strong>Sens</strong> vision aveugle 9 m, Perception passive 6<br> 
 <strong>Langues</strong> —<br> 
 <strong>Facteur de puissance</strong> 2<br> 
 <strong> Bonus de maîtrise</strong> +4
 <a id="en-actions-2" data-traduction="ancre"></a>
 <h3>Actions</h3> 
 <p><strong><em>Attaques multiples.</em></strong> L’objet effectue deux attaques de <strong><em>coup</em></strong>.</p>
-<p><strong><em>Coup.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, une cible, allonge 5 pieds. <em>Touché :</em> 8 (1d10 + 3) dégâts contondants ; la cible doit réussir un jet de sauvegarde de Force DD 14 ou tomber à terre.</p>
+<p><strong><em>Coup.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, une cible, allonge 1,50 m. <em>Touché :</em> 8 (1d10 + 3) dégâts contondants ; la cible doit réussir un jet de sauvegarde de Force DD 14 ou tomber à terre.</p>
 </div> 
 <br> 
 
@@ -1135,7 +1135,7 @@ Cette zone correspond en grande partie à celle décrite dans <span class="citat
 Si les joueurs entrent dans la fausse hutte, lisez :
 
 <div class="description"> 
-<p>L’intérieur de la hutte mesure quinze pieds de côté. Le seul mobilier est une cage de fer suspendue au mur du fond. Devant elle, une lumière verte filtre par les fentes du plancher pourri.</p>
+<p>L’intérieur de la hutte mesure 4,50 m de côté. Le seul mobilier est une cage de fer suspendue au mur du fond. Devant elle, une lumière verte filtre par les fentes du plancher pourri.</p>
 <p>Un corbeau solitaire gît dans la cage. Des plumes lui manquent par endroits, laissant sa chair à vif. Celles qui lui restent sont tordues, brisées ou collées par le sang. Ses ailes traînent au fond de la cage et une entaille sanglante, couverte de croûtes, lui balafre le dessous d’un œil.</p>
 <p>Lorsque vous entrez, le corbeau se lève et roucoule avec enthousiasme, battant des ailes contre les barreaux de fer de la cage.</p> 
 </div> 
@@ -1202,7 +1202,7 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <hr> 
 <strong>Classe d'armure</strong> 15 (armure naturelle)<br> 
 <strong>Points de vie</strong> 135 (18d8 + 54)<br> 
-<strong>Vitesse</strong> 30 pieds, vol 30 pieds (dans son crâne volant)
+<strong>Vitesse</strong> 9 m, vol 9 m (dans son crâne volant)
 <hr> 
 <table class="ability-table"> 
 <thead> 
@@ -1229,27 +1229,27 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <hr> 
 <strong>Jets de sauvegarde</strong> Con +7, Sag +7<br> 
 <strong>Compétences</strong> Arcanes +13, Religion +13<br> 
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 13<br> 
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 13<br> 
 <strong>Langues</strong> Abyssal, commun, draconique, nain, géant<br> 
 <strong>Facteur de puissance</strong> 10<br> 
 <strong>Bonus de maîtrise</strong> +4
 <hr> 
 <p><strong><em>Bénédiction de Mère Nuit.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> est protégée contre la magie de divination, comme par un sort d’<em><a href="https://www.aidedd.org/dnd/sorts.php?vf=antidetection">Antidétection</a></em>.</p>
 <p><strong><em>Incantation experte.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> peut se concentrer sur jusqu’à trois sorts à la fois. Si elle perd sa concentration sur l’un, elle la perd sur tous.</p>
-<p><strong><em>Crâne volant.</em></strong> Lorsqu’elle chevauche son crâne volant de géant, <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> gagne une vitesse de vol de 30 pieds et bénéficie d’un abri partiel. Le crâne partage ses valeurs de Force, Dextérité et Constitution ainsi que ses jets de sauvegarde. Pour le reste, il correspond à <span class="citation">U3. Hutte de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> (p. 163)</span>.</p>
+<p><strong><em>Crâne volant.</em></strong> Lorsqu’elle chevauche son crâne volant de géant, <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> gagne une vitesse de vol de 9 m et bénéficie d’un abri partiel. Le crâne partage ses valeurs de Force, Dextérité et Constitution ainsi que ses jets de sauvegarde. Pour le reste, il correspond à <span class="citation">U3. Hutte de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> (p. 163)</span>.</p>
 <p><strong><em>Engloutie par le marais.</em></strong> Lorsque <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> est réduite à 0 point de vie, elle plonge ou s’enfonce dans le marais de Berez. Elle refait surface sur une tour de lianes marécageuses enroulées autour de la partie inférieure de son corps. Son profil est immédiatement remplacé par celui de sa seconde forme. Son rang d’initiative ne change pas, les dégâts excédentaires ne sont pas reportés, et elle ne conserve aucun des états qui l’affectaient sous sa forme précédente.</p>
 <a id="en-actions-3" data-traduction="ancre"></a>
 <h3>Actions</h3> 
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> utilise deux fois Lames de cheveux, ou Incantation pour lancer deux fois <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=aspersion-d-acide">Aspersion d’acide</a></em>.</p>
-<p><strong><em>Lames de cheveux.</em></strong> Attaque d’arme au corps à corps : +9 au toucher, allonge 5 pieds, une créature. Touché : <span class="highlight">9 (1d8 + 5)</span> dégâts tranchants plus <span class="highlight">4 (1d8)</span> dégâts de poison. La cible doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 17</span> ou être <span class="highlight">empoisonnée</span> pendant 1 minute ou jusqu’à ce qu’elle reçoive des soins magiques. Une créature ainsi empoisonnée doit effectuer un <span class="highlight">jet de sauvegarde de Constitution DD 17</span> à la fin de chacun de ses tours. À chaque échec, elle devient <span class="highlight">ralentie</span> si elle était empoisonnée, ou <span class="highlight">paralysée</span> si elle était ralentie. À chaque réussite, elle devient ralentie si elle était paralysée, empoisonnée si elle était ralentie, ou cesse d’être empoisonnée si elle l’était encore. Sur un 20 naturel, elle cesse d’être empoisonnée.</p>
+<p><strong><em>Lames de cheveux.</em></strong> Attaque d’arme au corps à corps : +9 au toucher, allonge 1,50 m, une créature. Touché : <span class="highlight">9 (1d8 + 5)</span> dégâts tranchants plus <span class="highlight">4 (1d8)</span> dégâts de poison. La cible doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 17</span> ou être <span class="highlight">empoisonnée</span> pendant 1 minute ou jusqu’à ce qu’elle reçoive des soins magiques. Une créature ainsi empoisonnée doit effectuer un <span class="highlight">jet de sauvegarde de Constitution DD 17</span> à la fin de chacun de ses tours. À chaque échec, elle devient <span class="highlight">ralentie</span> si elle était empoisonnée, ou <span class="highlight">paralysée</span> si elle était ralentie. À chaque réussite, elle devient ralentie si elle était paralysée, empoisonnée si elle était ralentie, ou cesse d’être empoisonnée si elle l’était encore. Sur un 20 naturel, elle cesse d’être empoisonnée.</p>
 <p><strong><em>Incantation.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> lance l’un des sorts suivants, avec l’Intelligence comme caractéristique d’incantation (DD de sauvegarde des sorts 17, +9 au toucher avec les attaques de sort) :<br>
 <em>À volonté</em> : Aspersion d’acide (3d6 dégâts), Main de mage, Détection de la magie, Projectile magique (version de niveau 2), Sommeil (version de niveau 2), Éclair<br>
 <em>3/jour chacun</em> : Tentacules noirs d’Evard, Métamorphose<br>
 <em>1/jour chacun</em> : Scrutation, Illusion programmée, Mirage</p>
-<p><strong><em>Mouches dévorantes.</em></strong> Des mouches grouillantes emplissent une sphère de <span class="highlight">10 pieds de rayon</span> centrée sur un point que <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> voit à 60 pieds ou moins. Chaque créature dans la sphère doit effectuer un jet de sauvegarde de Constitution DD 17, subissant <span class="highlight">11 (2d10)</span> dégâts perforants en cas d’échec, ou la moitié en cas de réussite. Quel que soit le résultat, tous les sorts de niveau 3 ou moins affectant cette créature prennent fin. Si elle se concentre sur un sort qui serait ainsi dissipé, elle peut utiliser sa réaction pour dépenser un emplacement de sort de niveau 1 ou plus. Dans ce cas, le sort ne prend pas fin.</p>
+<p><strong><em>Mouches dévorantes.</em></strong> Des mouches grouillantes emplissent une sphère de <span class="highlight">3 m de rayon</span> centrée sur un point que <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> voit à 18 m ou moins. Chaque créature dans la sphère doit effectuer un jet de sauvegarde de Constitution DD 17, subissant <span class="highlight">11 (2d10)</span> dégâts perforants en cas d’échec, ou la moitié en cas de réussite. Quel que soit le résultat, tous les sorts de niveau 3 ou moins affectant cette créature prennent fin. Si elle se concentre sur un sort qui serait ainsi dissipé, elle peut utiliser sa réaction pour dépenser un emplacement de sort de niveau 1 ou plus. Dans ce cas, le sort ne prend pas fin.</p>
 <a id="en-bonus-actions-2" data-traduction="ancre"></a>
 <h3>Actions bonus</h3> 
-<p><strong><em>Nuée.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> se métamorphose magiquement en <strong><a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-d-insectes">nuée d’insectes</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-insects-monstre"><sup>fiche</sup></a></strong> (mouches), vole jusqu’à 30 pieds, puis reprend sa vraie forme. Tout ce qu’elle porte ou transporte se transforme avec elle. Sous cette forme, les attaques d’arme au corps à corps contre elle ont un <span class="highlight">désavantage</span>.</p>
+<p><strong><em>Nuée.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> se métamorphose magiquement en <strong><a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-d-insectes">nuée d’insectes</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-insects-monstre"><sup>fiche</sup></a></strong> (mouches), vole jusqu’à 9 m, puis reprend sa vraie forme. Tout ce qu’elle porte ou transporte se transforme avec elle. Sous cette forme, les attaques d’arme au corps à corps contre elle ont un <span class="highlight">désavantage</span>.</p>
 <a id="en-reactions" data-traduction="ancre"></a>
 <h3>Réactions</h3> 
 <p><a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> peut effectuer jusqu’à cinq réactions par round, mais une seule par tour. Si un effet ou un état devait l’empêcher d’effectuer des réactions, elle perd plutôt une réaction.</p>
@@ -1268,7 +1268,7 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <hr> 
 <strong>Classe d'armure</strong> 15 (armure naturelle)<br> 
 <strong>Points de vie</strong> 135 (18d8 + 54)<br> 
-<strong>Vitesse</strong> 30 pieds.
+<strong>Vitesse</strong> 9 m.
 <hr> 
 <table class="ability-table"> 
 <thead> 
@@ -1295,7 +1295,7 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <hr> 
 <strong>Jets de sauvegarde</strong> Con +7, Sag +7<br> 
 <strong>Compétences</strong> Arcanes +13, Religion +13<br>
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 13<br> 
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 13<br> 
 <strong>Langues</strong> Abyssal, commun, draconique, nain, géant<br> 
 <strong>Facteur de puissance</strong> 10<br> 
 <strong>Bonus de maîtrise</strong> +4
@@ -1310,7 +1310,7 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <p><strong><em>Liane avide.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> lance <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=liane-avide">Liane avide</a></em> ou attaque avec elle, avec l’Intelligence comme caractéristique d’incantation (DD de sauvegarde des sorts 18, +10 au toucher). Lorsqu’elle lance le sort ainsi, elle doit utiliser une action pour répéter l’attaque lors de ses tours suivants.</p>
 <a id="en-bonus-actions-3" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
-<p><strong><em>Marche des marais.</em></strong> Si <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> est à Berez, elle s’enfonce dans l’eau ou la terre sous elle, puis ressort d’une zone d’eau ou de terre de 5 pieds de côté, à 30 pieds ou moins.</p>
+<p><strong><em>Marche des marais.</em></strong> Si <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> est à Berez, elle s’enfonce dans l’eau ou la terre sous elle, puis ressort d’une zone d’eau ou de terre de 1,50 m de côté, à 9 m ou moins.</p>
 <a id="en-reactions-2" data-traduction="ancre"></a>
 <h3>Réactions</h3> 
 <p><a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> peut effectuer jusqu’à cinq réactions par round, mais une seule par tour. Si un effet ou un état devait l’empêcher d’effectuer des réactions, elle perd plutôt une réaction.</p>
@@ -1330,7 +1330,7 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <hr> 
 <strong>Classe d'armure</strong> 16 (armure naturelle)<br> 
 <strong>Points de vie</strong> 263 (17d20 + 85)<br> 
-<strong>Vitesse</strong> 30 pieds.
+<strong>Vitesse</strong> 9 m.
 <hr> 
 <table class="ability-table"> 
 <thead> 
@@ -1359,25 +1359,25 @@ Chaque créature dans la hutte doit immédiatement réussir un jet de sauvegarde
 <strong>Résistances aux dégâts</strong> contondant, froid, perforant<br> 
 <strong>Immunités aux dégâts</strong> poison, psychique<br>
 <strong>Immunités aux états</strong> aveuglé, charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, à terre<br>
-<strong>Sens</strong> vision aveugle 120 pieds (aveugle au-delà de ce rayon), Perception passive 6<br> 
+<strong>Sens</strong> vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 6<br> 
 <strong>Langues</strong> —<br> 
 <strong>Facteur de puissance</strong> 15 (8 400 PX)<br> 
 <strong>Bonus de maîtrise</strong> +4
 <hr> 
-<p><strong><em>Combattant à bout portant.</em></strong> La hutte n’a pas de désavantage aux jets d’attaque à distance lorsqu’une créature hostile est à 5 pieds ou moins d’elle.</p>
+<p><strong><em>Combattant à bout portant.</em></strong> La hutte n’a pas de désavantage aux jets d’attaque à distance lorsqu’une créature hostile est à 1,50 m ou moins d’elle.</p>
 <p><strong><em>Forme immuable.</em></strong> La hutte est immunisée contre tout sort ou effet qui pourrait altérer sa forme.</p> 
 <p><strong><em>Monstre de siège.</em></strong> La hutte inflige le double de dégâts aux objets et aux structures.</p> 
 <p><strong><em>Gemme volée.</em></strong> La hutte est animée par une gemme magique en forme de pomme de pin viridienne, enchâssée dans la souche sous ses planches et retenue par une racine noire (CA 15, 10 points de vie, vulnérabilité aux dégâts de feu, immunité aux dégâts de poison et psychiques). Un joueur qui retire les planches comme indiqué dans <span class="citation">U3. Hutte de <a href="../Appendices/Non-Player%20Characters.md#en-baba-lysaga">Baba Lysaga</a> (p. 163)</span> expose la gemme. Il peut la retirer en détruisant la racine ou en réussissant un test de Force DD 15. La hutte meurt si la gemme est retirée.</p>
 <a id="en-actions-5" data-traduction="ancre"></a>
 <h3>Actions</h3>
-<p><strong><em>Racine.</em></strong> Attaque d’arme au corps à corps : +12 au toucher, allonge 20 pieds, une cible. Touché : <span class="highlight">24 (3d10 + 8)</span> dégâts contondants. La cible doit réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être <span class="highlight">jetée à terre</span> ou <span class="highlight">repoussée de 10 pieds maximum</span>. Si elle échoue de 10 ou plus, la hutte peut l’<span class="highlight">agripper</span> au lieu de la repousser ou de la jeter à terre (évasion DD 20).</p>
-<p><strong><em>Projection.</em></strong> Une créature agrippée par la hutte doit réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être <span class="highlight">projetée à 60 pieds</span>. Elle tombe de vingt pieds et atterrit <span class="highlight">à terre</span>.</p>
-<p><strong><em>Rocher.</em></strong> Attaque d’arme à distance : +12 au toucher, portée 120 pieds, une cible. Touché : <span class="highlight">21 (3d8 + 8)</span> dégâts contondants.</p>
+<p><strong><em>Racine.</em></strong> Attaque d’arme au corps à corps : +12 au toucher, allonge 6 m, une cible. Touché : <span class="highlight">24 (3d10 + 8)</span> dégâts contondants. La cible doit réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être <span class="highlight">jetée à terre</span> ou <span class="highlight">repoussée de 3 m maximum</span>. Si elle échoue de 10 ou plus, la hutte peut l’<span class="highlight">agripper</span> au lieu de la repousser ou de la jeter à terre (évasion DD 20).</p>
+<p><strong><em>Projection.</em></strong> Une créature agrippée par la hutte doit réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être <span class="highlight">projetée à 18 m</span>. Elle tombe de 6 m et atterrit <span class="highlight">à terre</span>.</p>
+<p><strong><em>Rocher.</em></strong> Attaque d’arme à distance : +12 au toucher, portée 36 m, une cible. Touché : <span class="highlight">21 (3d8 + 8)</span> dégâts contondants.</p>
 <a id="en-reactions-3" data-traduction="ancre"></a>
 <h3>Réactions</h3> 
 <p>La hutte peut effectuer jusqu’à <strong>trois réactions par round</strong>, mais une seule par tour. Si un effet ou un état devait l’empêcher d’effectuer des réactions, elle perd plutôt une réaction.</p>
 <p><strong><em>Indomptable.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour. <strong>Effet :</strong> La hutte peut répéter le jet de sauvegarde contre un effet ou un état qui l’affecte actuellement. (Cette réaction n’a aucun effet si l’effet ou l’état ne nécessitait pas initialement un échec à un jet de sauvegarde.)</p>
-<p><strong><em>Racine.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour à 20 pieds ou moins de la hutte. <strong>Effet :</strong> La hutte l’attaque avec sa Racine.</p>
+<p><strong><em>Racine.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour à 6 m ou moins de la hutte. <strong>Effet :</strong> La hutte l’attaque avec sa Racine.</p>
 <p><strong><em>Morsure.</em></strong> <strong>Déclencheur :</strong> Une créature tente de récupérer la gemme dans la souche. <strong>Effet :</strong> La hutte tente de mordre son bras ou son corps avec ses planches. La créature doit réussir un jet de sauvegarde de Dextérité DD 20 ou subir 9 (2d8) dégâts perforants et être agrippée (évasion DD 20). Tant qu’elle est ainsi agrippée, elle a un désavantage aux tests pour récupérer la gemme.</p>
 </div> 
 
@@ -1440,7 +1440,7 @@ Un joueur peut recevoir sa *<a href="../Appendices/Index%20des%20personnages%20e
 </div> 
 
 > [!item]+ **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-boon-of-the-weaver">Bénédiction de la Tisseuse</a>**
-> Un personnage qui reçoit la *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-boon-of-the-weaver">Bénédiction de la Tisseuse</a>* récupère immédiatement tous ses points de vie et son maximum de points de vie. De plus, en Barovie, il peut utiliser sa réaction pour accorder à une autre créature à 30 pieds ou moins l’avantage à un jet de sauvegarde.
+> Un personnage qui reçoit la *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-boon-of-the-weaver">Bénédiction de la Tisseuse</a>* récupère immédiatement tous ses points de vie et son maximum de points de vie. De plus, en Barovie, il peut utiliser sa réaction pour accorder à une autre créature à 9 m ou moins l’avantage à un jet de sauvegarde.
 
 > [!info]+ **Le jeune arbre**
 > Un joueur qui réussit un test d'Intelligence (Nature) DD 10 identifie le jeune arbre comme étant un sorbier.
@@ -1695,7 +1695,7 @@ Si on l’approche, <a href="../Appendices/Non-Player%20Characters.md#en-ezmerel
 > Il peut aussi préciser ce qu’en dit <a href="../Appendices/Non-Player%20Characters.md#en-madam-eva">madame Eva</a>. « Depuis son réveil, dit <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a>, il a fermé les frontières. Nul ne peut désormais s’échapper sans sa permission. »
 <a id="en-t4c-the-radanavich-caravan" data-traduction="ancre"></a>
 ## T4c. La caravane Radanavich
-<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> et <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peuvent conduire les joueurs aux débris de la caravane Radanavich, dans une clairière boisée à un mille au sud-ouest du village de Krezk, sur les berges de la rivière du Corbeau. Le trajet entre le campement vistani et la caravane mesure sept milles et prend deux heures et vingt minutes.
+<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> et <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peuvent conduire les joueurs aux débris de la caravane Radanavich, dans une clairière boisée à 1,5 km au sud-ouest du village de Krezk, sur les berges de la rivière du Corbeau. Le trajet entre le campement vistani et la caravane mesure 11 km et prend deux heures et vingt minutes.
 
 
 À l’arrivée des joueurs, lisez :
@@ -1837,7 +1837,7 @@ Les morts-vivants concentrent leurs attaques sur <a href="../Appendices/Index%20
 <br>
 <strong>Points de vie</strong> 77 (14d8 + 14)
 <br>
-<strong>Vitesse</strong> 30 pieds
+<strong>Vitesse</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -1870,12 +1870,12 @@ Les morts-vivants concentrent leurs attaques sur <a href="../Appendices/Index%20
 <strong>Bonus de maîtrise</strong> +3
 <hr>
 <p><strong><em>Équipement spécial.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> porte un <em><a href="https://www.aidedd.org/dnd/om.php?vf=chapeau-de-deguisement">Chapeau de déguisement</a></em> et un <em><a href="https://www.aidedd.org/dnd/om.php?vf=anneau-de-barriere-mentale">Anneau de barrière mentale</a></em>.</p>
-<p><strong><em>Attaque sournoise.</em></strong> Une fois par tour, <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peut infliger 17 (5d6) dégâts supplémentaires à une créature qu’il touche avec une attaque s’il a l’avantage au jet d’attaque. Il n’a pas besoin de cet avantage si la cible est un mort-vivant ; ou si au moins un de ses alliés se trouve à 5 pieds ou moins de la cible, que cet allié n’est pas neutralisé et que <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> n’a pas de désavantage au jet d’attaque.</p>
+<p><strong><em>Attaque sournoise.</em></strong> Une fois par tour, <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peut infliger 17 (5d6) dégâts supplémentaires à une créature qu’il touche avec une attaque s’il a l’avantage au jet d’attaque. Il n’a pas besoin de cet avantage si la cible est un mort-vivant ; ou si au moins un de ses alliés se trouve à 1,50 m ou moins de la cible, que cet allié n’est pas neutralisé et que <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> n’a pas de désavantage au jet d’attaque.</p>
 <a id="en-actions-6" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue deux attaques avec sa canne-épée argentée ou son arbalète argentée.</p>
-<p><strong><em>Canne-épée argentée.</em></strong> Attaque d’arme au corps à corps : +5 au toucher, allonge 5 pieds, une cible. Touché : 5 (1d6 + 2) dégâts perforants.</p>
-<p><strong><em>Arbalète argentée.</em></strong> Attaque d’arme à distance : +5 au toucher, portée 80/320 pieds, une cible. Touché : 6 (1d8 + 2) dégâts perforants.</p>
+<p><strong><em>Canne-épée argentée.</em></strong> Attaque d’arme au corps à corps : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.</p>
+<p><strong><em>Arbalète argentée.</em></strong> Attaque d’arme à distance : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.</p>
 <p><strong><em>Bracelet à breloques.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise son <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-charm-bracelet">bracelet à breloques</a> pour lancer l’un des sorts suivants, avec la Sagesse comme caractéristique d’incantation (DD de sauvegarde des sorts 15) :<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>1/jour chacun</strong> Cécité/Surdité, Protection contre la mort, Liberté de mouvement</p>
 <p><strong><em>Chapeau de déguisement.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise son <em><a href="https://www.aidedd.org/dnd/om.php?vf=chapeau-de-deguisement">Chapeau de déguisement</a></em> pour lancer <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=deguisement">Déguisement</a></em>.</p>
@@ -1884,7 +1884,7 @@ Les morts-vivants concentrent leurs attaques sur <a href="../Appendices/Index%20
 <a id="en-bonus-actions-4" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 <p><strong><em>Ruse.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue l’action Foncer, Se désengager ou Se cacher.</p>
-<p><strong><em>Maître tacticien (Aider).</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise l’action Aider pour assister l’attaque d’un allié contre une créature située à 30 pieds ou moins de lui et capable de le voir ou de l’entendre.</p>
+<p><strong><em>Maître tacticien (Aider).</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise l’action Aider pour assister l’attaque d’un allié contre une créature située à 9 m ou moins de lui et capable de le voir ou de l’entendre.</p>
 <p><strong><em>Combat intuitif.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue un test de Sagesse (Perspicacité) opposé au Charisme (Tromperie) d’une créature qu’il peut voir et qui n’est pas neutralisée. En cas de réussite, il a l’avantage aux attaques contre cette créature, et celle-ci a un désavantage aux attaques contre lui pendant 1 minute. Ce bénéfice dure 1 minute ou jusqu’à ce qu’il utilise avec succès cette capacité contre une autre cible.</p>
 <a id="en-reactions-4" data-traduction="ancre"></a>
 <h3>Réactions</h3>
@@ -1906,7 +1906,7 @@ Les morts-vivants concentrent leurs attaques sur <a href="../Appendices/Index%20
 <br>
 <strong>Points de vie</strong> 52 (8d8 + 16)
 <br>
-<strong>Vitesse</strong> 30 pieds
+<strong>Vitesse</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -1941,7 +1941,7 @@ Les morts-vivants concentrent leurs attaques sur <a href="../Appendices/Index%20
 <a id="en-actions-7" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> effectue deux attaques avec sa <a href="https://www.aidedd.org/regles/equipement/armes/">dague</a>.</p>
-<p><strong><em>Dague.</em></strong> <em>Attaque au corps à corps ou à distance</em> : +5, allonge 5 pieds ou portée 20/60 pieds. <em>Touché :</em> 5 (1d4 + 3) dégâts perforants.</p>
+<p><strong><em>Dague.</em></strong> <em>Attaque au corps à corps ou à distance</em> : +5, allonge 1,50 m ou portée 6/18 m. <em>Touché :</em> 5 (1d4 + 3) dégâts perforants.</p>
 <a id="en-reactions-5" data-traduction="ancre"></a>
 <h3>Réactions</h3>
 <p><strong><em>Parade.</em></strong> Lorsqu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> est touché par une attaque au corps à corps alors qu’il manie une arme, il ajoute 2 à sa CA contre cette attaque, ce qui peut la faire échouer.</p>
@@ -1979,7 +1979,7 @@ La malédiction de <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudol
 Sauf intervention des joueurs, la conversation se poursuit ainsi :
 
 
-* <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> se tourne, puis se fige, les yeux écarquillés. Comme envoûté, il avance lentement vers le <a href="https://www.aidedd.org/dnd/monstres.php?vf=fantome">fantôme</a>, d’un pas, puis d’un autre, jusqu’à se trouver à un pied à peine de lui.
+* <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> se tourne, puis se fige, les yeux écarquillés. Comme envoûté, il avance lentement vers le <a href="https://www.aidedd.org/dnd/monstres.php?vf=fantome">fantôme</a>, d’un pas, puis d’un autre, jusqu’à se trouver à 30 cm à peine de lui.
 * « Est-ce toi ? murmure <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> en tendant une main hésitante. Est-ce vraiment toi ? »
 * <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten">Erasmus</a> lève les yeux vers lui et acquiesce timidement. <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> tombe à genoux en sanglotant, les larmes coulant sur ses joues.
 * « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten">Erasmus</a>, parvient-il à dire, mon fils, mon *garçon*. Je suis tellement désolé de ce que je les ai laissés te faire, de ce que *j’ai* fait. Je n’ai su protéger ni toi ni ta mère. Je t’en supplie, pardonne-moi. »
@@ -2051,7 +2051,7 @@ Un joueur peut recevoir sa *<a href="../Appendices/Index%20des%20personnages%20e
 >
 > La <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> perd alors les propriétés d’une *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-blood-spear">Lance de sang</a>* et devient une *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-spear-of-warning">Lance d’alerte</a>* +2, avec les propriétés supplémentaires suivantes :
 > * Si vous la lancez pour effectuer une attaque à distance, elle revient dans votre main à la fin de votre tour.
-> * Par une action bonus, vous pouvez envelopper sa pointe de flammes vert émeraude inoffensives, ou les éteindre. Tant qu’elle brûle ainsi, la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> émet une lumière vive dans un rayon de 20 pieds et une lumière faible sur 20 pieds supplémentaires.
+> * Par une action bonus, vous pouvez envelopper sa pointe de flammes vert émeraude inoffensives, ou les éteindre. Tant qu’elle brûle ainsi, la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> émet une lumière vive dans un rayon de 6 m et une lumière faible sur 6 m supplémentaires.
 > * Quand vous allumez sa pointe, ou par une action bonus tant qu’elle est enflammée, vous pouvez lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=marque-du-chasseur">Marque du chasseur</a>*. Lancé ainsi, ce sort ne demande pas de concentration. Vous pouvez le lancer un nombre de fois égal à votre modificateur de Sagesse ; la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> récupère toutes les utilisations dépensées à l’aube.
 
 
@@ -2181,7 +2181,7 @@ Un joueur qui réussit un test de Sagesse (Perspicacité) DD 12 comprend qu’el
 <br>
 <strong>Points de vie</strong> 67 (9d10 + 18)
 <br>
-<strong>Vitesse</strong> 40 pieds.
+<strong>Vitesse</strong> 12 m.
 <hr>
 <table class="ability-table">
 <thead>
@@ -2209,36 +2209,36 @@ Un joueur qui réussit un test de Sagesse (Perspicacité) DD 12 comprend qu’el
 <strong>Vulnérabilités aux dégâts</strong> Contondants<br>
 <strong>Immunités aux dégâts</strong> Poison<br>
 <strong>Immunités aux états</strong> Épuisement, empoisonné<br>
-<strong>Sens</strong> Vision dans le noir 60 pieds, perception passive 9<br>
+<strong>Sens</strong> Vision dans le noir 18 m, perception passive 9<br>
 <strong>Langues</strong> Comprend le commun mais ne peut pas parler<br>
 <strong>Facteur de puissance</strong> 2<br>
 <strong>Bonus de maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>Charge.</em></strong> Si le squelette se déplace d'au moins 10 pieds en ligne droite vers une cible, puis la touche avec sa morsure calamiteuse dans le même tour, la cible subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 ou être repoussée de 10 pieds et tomber à terre.</p>
+<p><strong><em>Charge.</em></strong> Si le squelette se déplace d'au moins 3 m en ligne droite vers une cible, puis la touche avec sa morsure calamiteuse dans le même tour, la cible subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 ou être repoussée de 3 m et tomber à terre.</p>
 <p><strong><em>Monture d'Eliza.</em></strong> Quand <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> le monte, le squelette agit comme une monture indépendante : il garde sa propre initiative et attaque.</p>
 <h3>Actions</h3>
-<p><strong><em>Griffes.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 17 (2d12 + 4) dégâts tranchants.</p>
-<p><strong><em>Morsure calamiteuse.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 5 pieds, une créature. <em>Touché :</em> 21 (4d8 + 3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14, sinon son maximum de points de vie diminue d'un montant égal aux dégâts subis. Cette diminution dure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 17 (2d12 + 4) dégâts tranchants.</p>
+<p><strong><em>Morsure calamiteuse.</em></strong> <em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 1,50 m, une créature. <em>Touché :</em> 21 (4d8 + 3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14, sinon son maximum de points de vie diminue d'un montant égal aux dégâts subis. Cette diminution dure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
 </div>
 
 <a id="en-t5c-arasek-stockyard" data-traduction="ancre"></a>
 ## T5c. Le dépôt Arasek
-Cette zone correspond en grande partie à <span class="citation">N5. Dépôt Arasek (p. 115)</span>. L’entrepôt mesure quarante pieds de long, soixante pieds de large et vingt pieds de haut. Il se dresse immédiatement à gauche de <span class="citation">N6. Atelier du fabricant de cercueils (p. 116)</span> et présente les caractéristiques suivantes :
+Cette zone correspond en grande partie à <span class="citation">N5. Dépôt Arasek (p. 115)</span>. L’entrepôt mesure 12 m de long, 18 m de large et 6 m de haut. Il se dresse immédiatement à gauche de <span class="citation">N6. Atelier du fabricant de cercueils (p. 116)</span> et présente les caractéristiques suivantes :
 
 
 * **Portes de façade.** De hautes doubles portes en bois, à l’avant. Une chaîne de fer (CA 19, 10 points de vie, immunité aux dégâts de poison, psychiques et perforants) les ferme de l’intérieur, attachée et cadenassée. Des fils fixés à chaque battant sont reliés à des clochettes, à gauche et à droite des portes, qui sonnent à leur ouverture. (Un test d’Intelligence (Investigation) DD 10 réussi permet de repérer les clochettes ; on peut les neutraliser en réussissant un test de Dextérité (<a href="https://www.aidedd.org/regles/equipement/outils/">Outils de voleur</a>) DD 12.)
 * **Porte arrière.** Une simple porte en bois, verrouillée. Il faut réussir un test de Dextérité (<a href="https://www.aidedd.org/regles/equipement/outils/">Outils de voleur</a>) DD 15 pour l’ouvrir. Un fil fixé à la porte est aussi relié à une clochette placée juste au-dessus, qui sonne lorsqu’on ouvre. (Un test d’Intelligence (Investigation) DD 10 réussi permet de la repérer ; un test de Dextérité (<a href="https://www.aidedd.org/regles/equipement/outils/">Outils de voleur</a>) DD 12 réussi permet de la neutraliser.)
 * **Fenêtres condamnées.** Deux fenêtres extérieures couvertes de planches donnent sur l’angle arrière droit de l’entrepôt, autrefois occupé par le bureau.
 
-* **Fosses piégées.** Juste derrière les portes avant et arrière, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a> ont creusé sous le plancher deux <span class="citation">Fosses piégées (Guide complet de Xanathar, p. 114)</span> de dix pieds de large et de 10 pieds de profondeur. Des planches fragiles et à moitié pourries les recouvrent et s’effondrent sous un poids d’au moins 100 livres. Chaque fosse contient deux <span class="citation"><a href="https://www.aidedd.org/regles/equipement/materiel/">pièges à mâchoires</a> (Manuel des joueurs, p. 152)</span>.
-* **Caisses.** Des rangées de caisses et de tonneaux s’empilent sur cinq à quinze pieds de haut. Le cadavre exsangue de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gunter-arasek">Gunther Arasek</a> repose entre les deux rangées les plus à l’ouest.
+* **Fosses piégées.** Juste derrière les portes avant et arrière, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-vampire-spawn-monstre"><sup>fiche</sup></a> ont creusé sous le plancher deux <span class="citation">Fosses piégées (Guide complet de Xanathar, p. 114)</span> de 3 m de large et de 3 m de profondeur. Des planches fragiles et à moitié pourries les recouvrent et s’effondrent sous un poids d’au moins 50 kg. Chaque fosse contient deux <span class="citation"><a href="https://www.aidedd.org/regles/equipement/materiel/">pièges à mâchoires</a> (Manuel des joueurs, p. 152)</span>.
+* **Caisses.** Des rangées de caisses et de tonneaux s’empilent sur 1,50 à 4,50 m de haut. Le cadavre exsangue de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gunter-arasek">Gunther Arasek</a> repose entre les deux rangées les plus à l’ouest.
 * **Grue à poulies.** Un système de poulies occupe le centre de l’entrepôt, portant actuellement une lourde caisse en guise de contrepoids.
 
-* **Collets.** Deux fils de détente relient un pilier en bois aux deux côtés de la porte du bureau. Chacun se trouve à trois pouces du sol et se repère avec un test de Sagesse (Perception) DD 10 réussi, effectué avec désavantage en lumière faible et échouant automatiquement dans l’obscurité. Chaque fil peut être neutralisé par un test de Dextérité (<a href="https://www.aidedd.org/regles/equipement/outils/">Outils de voleur</a>) DD 15 ; un échec déclenche le piège. Sinon, quand une créature déclenche un fil, chaque créature située à cinq pieds ou moins des fils doit réussir un jet de sauvegarde de Dextérité DD 15 ou être hissée par une corde épaisse (CA 11, 5 points de vie, immunité aux dégâts de poison et psychiques), suspendue la tête en bas à 10 pieds au-dessus du sol. Une créature ainsi suspendue est entravée.
+* **Collets.** Deux fils de détente relient un pilier en bois aux deux côtés de la porte du bureau. Chacun se trouve à 8 cm du sol et se repère avec un test de Sagesse (Perception) DD 10 réussi, effectué avec désavantage en lumière faible et échouant automatiquement dans l’obscurité. Chaque fil peut être neutralisé par un test de Dextérité (<a href="https://www.aidedd.org/regles/equipement/outils/">Outils de voleur</a>) DD 15 ; un échec déclenche le piège. Sinon, quand une créature déclenche un fil, chaque créature située à 1,50 m ou moins des fils doit réussir un jet de sauvegarde de Dextérité DD 15 ou être hissée par une corde épaisse (CA 11, 5 points de vie, immunité aux dégâts de poison et psychiques), suspendue la tête en bas à 3 m au-dessus du sol. Une créature ainsi suspendue est entravée.
 * **Porte du bureau.** Une simple porte en bois, condamnée par des planches à l’intérieur. Une créature peut la défoncer en réussissant un test de Force DD 25 ou en la détruisant (CA 15, 15 points de vie, immunité aux dégâts de poison, psychiques et perforants).
-* **Bureau.** Une petite pièce de quinze pieds sur dix, dans l’angle arrière de l’entrepôt. Elle contient un bureau et une chaise en bois, trois cercueils et un classeur rempli de rouleaux de parchemin divers. Le cadavre exsangue de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-yelena-arasek">Yelena Arasek</a> est affaissé contre le mur de droite.
+* **Bureau.** Une petite pièce de 4,50 m sur 3, dans l’angle arrière de l’entrepôt. Elle contient un bureau et une chaise en bois, trois cercueils et un classeur rempli de rouleaux de parchemin divers. Le cadavre exsangue de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-yelena-arasek">Yelena Arasek</a> est affaissé contre le mur de droite.
 
-* **Ouvertures pour ramper.** Trois trous de cinq pieds de large sont percés dans les murs gauche et avant du bureau et dans le mur extérieur arrière de l’entrepôt, à quinze pieds du sol. (Les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> s’en servent pour passer du bureau à la salle principale, puis de celle-ci au toit.)
+* **Ouvertures pour ramper.** Trois trous de 1,50 m de large sont percés dans les murs gauche et avant du bureau et dans le mur extérieur arrière de l’entrepôt, à 4,50 m du sol. (Les <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> s’en servent pour passer du bureau à la salle principale, puis de celle-ci au toit.)
 
 À l’arrivée des joueurs, deux **<a href="https://www.aidedd.org/dnd/monstres.php?vf=necrophage">nécrophages</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wight-monstre"><sup>fiche</sup></a>** patrouillent dans l’entrepôt. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-karl-wachter">Karl</a>, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-nikolai">Nikolai</a> et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-stella-wachter">Stella Wachter</a> sont bâillonnés, les yeux bandés et ligotés au centre du bureau. Le jour, six **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-chauves-souris">nuées de chauves-souris</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-bats-monstre"><sup>fiche</sup></a>** dorment au plafond et trois **<a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a>** dans les cercueils du bureau. La nuit, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=chauve-souris">chauves-souris</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-bat-monstre"><sup>fiche</sup></a> ont quitté l’entrepôt ; deux <a href="https://www.aidedd.org/dnd/monstres.php?vf=vampirien">vampiriens</a> patrouillent sur les plafonds de la salle principale et le troisième garde les enfants dans le bureau.
 
@@ -2261,7 +2261,7 @@ Quand les joueurs approchent de <span class="citation">Les mégalithes (p. 128)<
 <p>Un cercle de hauts et minces mégalithes se dresse dans d’épais nuages de brouillard, à l’orée de la forêt en contrebas. Seules leurs pointes déchiquetées dépassent de la brume.</p>
 </div>
 
-Dans le nuage de brouillard, la visibilité est limitée à 10 pieds. Les joueurs qui y entrent attirent l’attention de quatre **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-vampiric-mist">brumes vampiriques</a>** (<span class="citation">Mordenkainen présente : Les Monstres du multivers, p. 250</span>). Elles tourbillonnent paresseusement autour d’eux pendant trois rounds, puis l’une tente une seule attaque d’absorption de vie sur le joueur le plus proche, tel un requin mordillant sa proie par curiosité. Si les joueurs restent dans le brouillard, toutes les brumes attaquent au round suivant.
+Dans le nuage de brouillard, la visibilité est limitée à 3 m. Les joueurs qui y entrent attirent l’attention de quatre **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-vampiric-mist">brumes vampiriques</a>** (<span class="citation">Mordenkainen présente : Les Monstres du multivers, p. 250</span>). Elles tourbillonnent paresseusement autour d’eux pendant trois rounds, puis l’une tente une seule attaque d’absorption de vie sur le joueur le plus proche, tel un requin mordillant sa proie par curiosité. Si les joueurs restent dans le brouillard, toutes les brumes attaquent au round suivant.
 
 > [!info]+ **La peur du soleil**
 > Les **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-vampiric-mist">brumes vampiriques</a>** qui hantent le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mountain-fane">sanctuaire de la Montagne</a> craignent le soleil. Elles fuient définitivement dans le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">Plan Éthéré</a> si la lumière de l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>* les atteint.
@@ -2313,7 +2313,7 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <br>
 <strong>Points de vie</strong> 180 (24d8 + 72)
 <br>
-<strong>Vitesse</strong> 35 pieds, vol 35 pieds
+<strong>Vitesse</strong> 10,50 m, vol 10,50 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -2341,12 +2341,12 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <strong>Jets de sauvegarde</strong> Dex +12, Sag +9<br>
 <strong>Compétences</strong> Acrobaties +12, Tromperie +10, Perspicacité +9, Intimidation +16, Perception +15, Discrétion +18<br>
 <strong>Résistances</strong> dégâts contondants, perforants et tranchants
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 23<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 23<br>
 <strong>Langues</strong> commun, elfique<br>
 <strong>Facteur de puissance</strong> 19<br>
 <strong>Bonus de maîtrise</strong> +6<br>
 <hr>
-<p><strong><em>Cris des morts.</em></strong> Toute créature à 20 pieds ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par un sort d’<em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> entend dans son esprit les cris des milliers de personnes qu’il a tuées.</p>
+<p><strong><em>Cris des morts.</em></strong> Toute créature à 6 m ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par un sort d’<em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> entend dans son esprit les cris des milliers de personnes qu’il a tuées.</p>
 <p><strong><em>Ascendance féerique.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> a l’avantage aux jets de sauvegarde contre l’état charmé, et la magie ne peut pas l’endormir.</p>
 <p><strong><em>Masque de la nature.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut tenter de se cacher même lorsqu’il n’est que légèrement dissimulé par du feuillage, une forte pluie, des chutes de neige, de la brume ou d’autres phénomènes naturels.</p>
 <p><strong><em>Corruption de l’ambre.</em></strong> Lorsque <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> est réduit à 0 point de vie, une longue queue osseuse terminée par un dard jaillit de sa colonne vertébrale ; ses doigts se prolongent en longues griffes d’os ; ses ailes doublent de taille ; sa bouche devient une gueule hérissée de crocs ; et sa chair devient translucide et voilée d’ombre. Son profil est alors immédiatement remplacé par celui de sa seconde forme. Son rang d’initiative ne change pas, les dégâts excédentaires ne sont pas reportés, et il ne conserve aucun des états qui l’affectaient sous sa forme précédente.</p>
@@ -2354,13 +2354,13 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <h3>Actions</h3>
 
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> effectue trois attaques avec ses <a href="https://www.aidedd.org/regles/equipement/armes/">cimeterres</a> <strong><em>Épine</em></strong> et/ou <strong><em>Chaîne</em></strong>. Il peut remplacer une attaque par sa capacité de <strong><em>hantise</em></strong>.</p>
-<p><strong><em>Épine.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants plus 7 (2d6) dégâts nécrotiques. <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut obliger la cible à réussir un jet de sauvegarde de Constitution DD 20 ou à saigner pendant 1 minute. (Au début de chacun de ses tours, une cible qui saigne doit réussir un jet de sauvegarde de Constitution DD 20 ou subir 1d6 dégâts tranchants supplémentaires. En cas de réussite, ou si elle reçoit des soins magiques, elle cesse de saigner.)</p>
-<p><strong><em>Chaîne.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants plus 7 (2d6) dégâts nécrotiques. <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut obliger la cible à réussir un jet de sauvegarde de Constitution DD 20 ou voir sa vitesse réduite à 0 jusqu’à la fin de son prochain tour. Si elle échoue de 5 ou plus, elle tombe aussi à terre.</p>
-<p><strong><em>Hantise.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> oblige une créature qu’il voit à 30 pieds ou moins à réussir un jet de sauvegarde de Sagesse DD 18 ou à subir 14 (4d6) dégâts psychiques et à être effrayée et assourdie par des âmes hurlantes jusqu’au début de son prochain tour à lui.</p>
+<p><strong><em>Épine.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants plus 7 (2d6) dégâts nécrotiques. <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut obliger la cible à réussir un jet de sauvegarde de Constitution DD 20 ou à saigner pendant 1 minute. (Au début de chacun de ses tours, une cible qui saigne doit réussir un jet de sauvegarde de Constitution DD 20 ou subir 1d6 dégâts tranchants supplémentaires. En cas de réussite, ou si elle reçoit des soins magiques, elle cesse de saigner.)</p>
+<p><strong><em>Chaîne.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants plus 7 (2d6) dégâts nécrotiques. <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut obliger la cible à réussir un jet de sauvegarde de Constitution DD 20 ou voir sa vitesse réduite à 0 jusqu’à la fin de son prochain tour. Si elle échoue de 5 ou plus, elle tombe aussi à terre.</p>
+<p><strong><em>Hantise.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> oblige une créature qu’il voit à 9 m ou moins à réussir un jet de sauvegarde de Sagesse DD 18 ou à subir 14 (4d6) dégâts psychiques et à être effrayée et assourdie par des âmes hurlantes jusqu’au début de son prochain tour à lui.</p>
 <a id="en-bonus-actions-5" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 
-<p><strong><em>Chœur funèbre.</em></strong> Chaque créature à 20 pieds ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> doit effectuer un jet de sauvegarde de Sagesse DD 18. Elle subit 18 (4d8) dégâts psychiques en cas d’échec, ou la moitié en cas de réussite. Si elle échoue de 5 ou plus, elle est aussi effrayée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>.</p>
+<p><strong><em>Chœur funèbre.</em></strong> Chaque créature à 6 m ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> doit effectuer un jet de sauvegarde de Sagesse DD 18. Elle subit 18 (4d8) dégâts psychiques en cas d’échec, ou la moitié en cas de réussite. Si elle échoue de 5 ou plus, elle est aussi effrayée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>.</p>
 <p><strong><em>Pas vif.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> effectue l’action Foncer ou Se désengager.</p>
 <a id="en-reactions-6" data-traduction="ancre"></a>
 <h3>Réactions</h3>
@@ -2368,7 +2368,7 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <p><strong><em>Indomptable.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut répéter le jet de sauvegarde contre un effet ou un état qui l’affecte actuellement. (Cette réaction est sans effet si cet effet ou cet état ne nécessitait pas initialement qu’il rate un jet de sauvegarde.)</p>
 
 <p><strong><em>Parade.</em></strong> <strong>Déclencheur :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> est touché par une attaque au corps à corps ou à distance, rate un jet de sauvegarde de Dextérité ou subit des dégâts de <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique">Projectile magique</a></em>. <strong>Effet :</strong> Il ajoute +6 à sa classe d’armure contre cette attaque ou au résultat de son jet de sauvegarde, ou ne subit aucun dégât de <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique">Projectile magique</a></em> pendant ce tour. S’il fait ainsi échouer une attaque au corps à corps, il peut immédiatement dépenser une autre réaction, s’il lui en reste, pour utiliser sa Riposte contre l’attaquant.</p>
-<p><strong><em>Riposte.</em></strong> <strong>Déclencheur :</strong> Un ennemi manque <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> avec une attaque au corps à corps. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> se déplace jusqu’à sa vitesse vers un espace inoccupé à 5 pieds ou moins de cet ennemi, sans provoquer d’attaques d’opportunité. Il peut ensuite immédiatement effectuer une attaque d’<strong><em>Épine</em></strong> ou de <strong><em>Chaîne</em></strong> contre cet ennemi avec avantage.</p>
+<p><strong><em>Riposte.</em></strong> <strong>Déclencheur :</strong> Un ennemi manque <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> avec une attaque au corps à corps. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> se déplace jusqu’à sa vitesse vers un espace inoccupé à 1,50 m ou moins de cet ennemi, sans provoquer d’attaques d’opportunité. Il peut ensuite immédiatement effectuer une attaque d’<strong><em>Épine</em></strong> ou de <strong><em>Chaîne</em></strong> contre cet ennemi avec avantage.</p>
 </div>
 
 <div class="statblock">
@@ -2380,7 +2380,7 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <br>
 <strong>Points de vie</strong> 225 (30d8 + 90)
 <br>
-<strong>Vitesse</strong> 35 pieds, vol 60 pieds
+<strong>Vitesse</strong> 10,50 m, vol 18 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -2409,25 +2409,25 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <strong>Compétences</strong> Acrobaties +12, Tromperie +10, Perspicacité +9, Intimidation +16, Perception +15, Discrétion +18<br>
 <strong>Résistances</strong> dégâts contondants, de froid, de feu, de foudre, perforants et tranchants
 <strong>Immunités</strong> poison, charmé, effrayé, empoisonné
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 23<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 23<br>
 <strong>Langues</strong> commun, elfique<br>
 <strong>Facteur de puissance</strong> 19<br>
 <strong>Bonus de maîtrise</strong> +6<br>
 <hr>
-<p><strong><em>Cris des morts.</em></strong> Toute créature à 20 pieds ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par un sort d’<em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> entend dans son esprit les cris des milliers de personnes qu’il a tuées.</p>
+<p><strong><em>Cris des morts.</em></strong> Toute créature à 6 m ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> qui n’est pas protégée par un sort d’<em><a href="https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable">Esprit impénétrable</a></em> entend dans son esprit les cris des milliers de personnes qu’il a tuées.</p>
 <p><strong><em>Ascendance féerique.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> a l’avantage aux jets de sauvegarde contre l’état charmé, et la magie ne peut pas l’endormir.</p>
 <p><strong><em>Résistance à la magie.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> a l’avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>
 <p><strong><em>Vision du diable.</em></strong> Les ténèbres magiques n’entravent pas la vision dans le noir de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>.</p>
 <a id="en-actions-9" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> effectue une attaque de dard caudal, une attaque de coup nécrotique et deux attaques de griffes.</p>
-<p><strong><em>Dard caudal.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 5 pieds, une créature. <em>Touché :</em> 15 (2d8 + 6) dégâts perforants plus 4 (1d8) dégâts de poison. La cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être empoisonnée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. Tant qu’elle est empoisonnée, elle ne peut pas récupérer de points de vie.</p>
-<p><strong><em>Coup nécrotique.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 5 pieds, une créature. <em>Touché :</em> 13 (2d8 + 4) dégâts contondants plus 9 (2d8) dégâts nécrotiques. Si la cible est une créature, son maximum de points de vie diminue d’un montant égal aux dégâts nécrotiques subis. Cette réduction dure jusqu’à la fin de son prochain repos long.</p>
-<p><strong><em>Griffes.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 5 pieds, une créature. <em>Touché :</em> 13 (2d8 + 4) dégâts tranchants.</p>
+<p><strong><em>Dard caudal.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 1,50 m, une créature. <em>Touché :</em> 15 (2d8 + 6) dégâts perforants plus 4 (1d8) dégâts de poison. La cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être empoisonnée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. Tant qu’elle est empoisonnée, elle ne peut pas récupérer de points de vie.</p>
+<p><strong><em>Coup nécrotique.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 1,50 m, une créature. <em>Touché :</em> 13 (2d8 + 4) dégâts contondants plus 9 (2d8) dégâts nécrotiques. Si la cible est une créature, son maximum de points de vie diminue d’un montant égal aux dégâts nécrotiques subis. Cette réduction dure jusqu’à la fin de son prochain repos long.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d’arme au corps à corps :</em> +12 au toucher, allonge 1,50 m, une créature. <em>Touché :</em> 13 (2d8 + 4) dégâts tranchants.</p>
 <a id="en-bonus-actions-6" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 
-<p><strong><em>Résonance hurlante.</em></strong> Les cris des morts de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> poussent un hurlement qui fait résonner tous les <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a></em> dans un rayon de soixante pieds. Chaque créature de la zone portant un <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a></em> doit réussir un jet de sauvegarde de Constitution DD 18 ou être hébétée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. (Une créature hébétée peut se déplacer ou effectuer une action à son tour, pas les deux. Elle ne peut effectuer ni action bonus ni réaction.) Si elle échoue de 10 ou plus, elle est plutôt étourdie jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>.</p>
+<p><strong><em>Résonance hurlante.</em></strong> Les cris des morts de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> poussent un hurlement qui fait résonner tous les <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a></em> dans un rayon de 18 m. Chaque créature de la zone portant un <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a></em> doit réussir un jet de sauvegarde de Constitution DD 18 ou être hébétée jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. (Une créature hébétée peut se déplacer ou effectuer une action à son tour, pas les deux. Elle ne peut effectuer ni action bonus ni réaction.) Si elle échoue de 10 ou plus, elle est plutôt étourdie jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>.</p>
 <p><strong><em>Ordre corrompu.</em></strong> Chaque créature blessée par <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> pendant ce tour doit réussir un jet de sauvegarde de Charisme DD 18 ou subir les effets d’un sort de <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=couronne-du-dement">Couronne du dément</a></em> jusqu’au début du prochain tour de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. Lorsqu’une créature est ainsi charmée, <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut la faire se déplacer jusqu’à la moitié de sa vitesse avant qu’elle n’attaque.</p>
 <p><strong><em>Doigt de mort (1/jour)</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> lance <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort">Doigt de mort</a></em>.</p>
 <a id="en-reactions-7" data-traduction="ancre"></a>
@@ -2435,7 +2435,7 @@ S’ils approchent ou signalent leur présence, <a href="../Appendices/Non-Playe
 <p><a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut effectuer jusqu’à cinq réactions par round, mais une seule par tour. Si un effet ou un état devait l’empêcher d’effectuer des réactions, il perd plutôt une réaction.</p>
 
 <p><strong><em>Indomptable.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> peut répéter le jet de sauvegarde contre un effet ou un état qui l’affecte actuellement. (Cette réaction est sans effet si cet effet ou cet état ne nécessitait pas initialement qu’il rate un jet de sauvegarde.)</p>
-<p><strong><em>Griffes.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour à 5 pieds ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> l’attaque avec ses griffes.</p>
+<p><strong><em>Griffes.</em></strong> <strong>Déclencheur :</strong> Une créature hostile termine son tour à 1,50 m ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>. <strong>Effet :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> l’attaque avec ses griffes.</p>
 <p><strong><em>Saccage.</em></strong> <strong>Déclencheur :</strong> <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> réduit une créature à 0 point de vie avec une attaque au corps à corps. <strong>Effet :</strong> Il peut se déplacer jusqu’à la moitié de sa vitesse et effectuer une attaque.</p></strong>
 </div>
 
@@ -2448,8 +2448,8 @@ Si dame Wachter enterre la gemme vert sauge de <a href="../Appendices/Index%20de
 <p>Lentement, en tremblant, ce trait s’élargit dans sa dimension la plus étroite. Des motifs en spirale emplissent l’espace entre ses extrémités. C’est un œil, l’œil d’un Titan, qui s’ouvre, brûlant d’une puissance débridée.</p>
 
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-mists">Les brumes</a> dansent et tourbillonnent lorsque l’œil atteint sa pleine ouverture. Un pilier de lumière viridienne jaillit de ses bords, scintillant jusqu’aux cieux.</p>
-<p>Dans cette lumière, vous voyez les racines des montagnes, celles du mont Ghakis au sud et du mont Baratok au nord, s’entrelacer à des lieues sous terre, engorgées de ténèbres et d’ichor. Vous sentez la chose sombre et haineuse qui les enserre : une racine gris cendre, forgée de corruption et d’orgueil malfaisant, qui se tord à présent sous la lumière de l’œil et saigne un ichor noir et venimeux en mourant.</p>
-<p>La racine parcourt la terre sur des milles et des milles, jusqu’à une puissante forteresse de pierre noire, aux flèches perçant le ciel orageux, et jusqu’à deux yeux familiers d’un rouge brûlant qui sondent votre âme. Puis l’œil cligne, et la racine est séparée des montagnes. Un lointain cri de rage et de fureur résonne à vos oreilles. Les racines respirent comme un être vivant ; le miasme de leurs veines se consume sous le regard fixe de l’œil.</p>
+<p>Dans cette lumière, vous voyez les racines des montagnes, celles du mont Ghakis au sud et du mont Baratok au nord, s’entrelacer à des kilomètres sous terre, engorgées de ténèbres et d’ichor. Vous sentez la chose sombre et haineuse qui les enserre : une racine gris cendre, forgée de corruption et d’orgueil malfaisant, qui se tord à présent sous la lumière de l’œil et saigne un ichor noir et venimeux en mourant.</p>
+<p>La racine parcourt la terre sur des kilomètres et des kilomètres, jusqu’à une puissante forteresse de pierre noire, aux flèches perçant le ciel orageux, et jusqu’à deux yeux familiers d’un rouge brûlant qui sondent votre âme. Puis l’œil cligne, et la racine est séparée des montagnes. Un lointain cri de rage et de fureur résonne à vos oreilles. Les racines respirent comme un être vivant ; le miasme de leurs veines se consume sous le regard fixe de l’œil.</p>
 
 <p>Au-dessus de vous, le ciel gronde et une pluie fraîche et pure commence à tomber sur la colline. Tandis que le brouillard se dissipe, de petites tiges et des pétales colorés percent la boue gris cendre : des fleurs sauvages violettes, jaunes, bleues et rouges prennent leur premier souffle dans les fissures de l’antique cercle de pierres. Un instant, très haut dans le ciel, les nuages s’écartent comme un voile. La pluie s’interrompt et un bleu d’une pureté absolue contemple la colline.</p>
 <p>Dans un coup de tonnerre, la pluie cesse et le ciel gris revient. Mais l’air est frais et pur, une brise légère murmure au sommet. Les pierres dressées brillent d’un éclat minéral et éthéré ; chaleur et paix emplissent le cercle. Une jeune pousse grandit au centre, ses branches fines oscillant dans le vent.</p>

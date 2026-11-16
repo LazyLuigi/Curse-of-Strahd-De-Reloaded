@@ -1,5 +1,10 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-systeme-metrique-2026-11-16"></a>
+# Mise à jour 3.5 (16 novembre 2026)
+* Le guide passe au système métrique : 5 pieds = 1,50 m, comme les fiches AideDD et les cases de battle map ; les miles deviennent des kilomètres, les pouces des centimètres, les yards des mètres et les livres des kilogrammes
+* Les trajets sont arrondis au kilomètre ; leurs durées ne changent pas
+
 <a id="de-premier-peuple-goliath-2026-11-15"></a>
 # Mise à jour 3.4 (15 novembre 2026)
 * Le [Premier Peuple](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-first-folk) devient goliath : le Peuple des Forêts et le Peuple des Montagnes en descendent
@@ -774,7 +779,7 @@ Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas 
 * Ajout d’une référence aux plumes bleues de <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> pendant sa transformation
 * Ajout de fiches de PNJ pour <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> et <a href="../Appendices/Non-Player%20Characters.md#en-ludmilla-vilisevic">Ludmilla</a>
 * Précision sur ce que savent <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-martikovs">les Martikov</a> du monument de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-huntress">la Chasseresse</a>
-* Réduction à 30 pieds de la portée des éclairs après le rituel
+* Réduction à 9 m de la portée des éclairs après le rituel
 * Clarification et modification des règles liées à l’escalade de la statue
 * Ajout d’un encadré conseillant aux MJ de demander aux joueurs à quoi rêvent leurs personnages avant de jouer le Mur des Murmures
 * Suppression de la garantie du pari de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>
@@ -866,7 +871,7 @@ Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas 
 • Ajout de la maîtrise d’Acrobaties à <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a>, réduction à 1 réaction du coût de sa réaction ***Désarmement*** et modification de l’état **Saignement** qu’il inflige, désormais soigné par la guérison magique  
 • Définition d’« ensanglanté » dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)  
 • Précision sur la durée de la conversation avec l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-gallows-speaker">Orateur des potences</a> dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)  
-• Précision sur les tactiques de l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-gallows-speaker">Orateur des potences</a> dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) et augmentation de sa vitesse de vol (vol stationnaire) à 40 pieds.  
+• Précision sur les tactiques de l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-gallows-speaker">Orateur des potences</a> dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) et augmentation de sa vitesse de vol (vol stationnaire) à 12 m.  
 • Révision de l’action d’antre ***Cacophonie amphibie*** dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) pour imposer un déplacement pendant le tour de la cible, plutôt qu’en réaction.  
 • Remplacement de la décision de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> de lancer *<a href="https://www.aidedd.org/dnd/sorts.php?vf=vol">vol</a>* pendant le combat contre les guenaudes dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md) par le lancement d’*<a href="https://www.aidedd.org/dnd/sorts.php?vf=invisibilite-superieure">invisibilité supérieure</a>*
 • Précision sur la façon dont les joueurs peuvent obtenir les connaissances d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-erasmus-van-richten">Erasmus</a> sur les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-gallows-speaker">Orateurs des potences</a> dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)  

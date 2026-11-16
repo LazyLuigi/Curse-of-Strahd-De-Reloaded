@@ -16,7 +16,7 @@ Si les joueurs sont chargés d’escorter <a href="../Appendices/Non-Player%20Ch
 
 > [!warning]+ **La route depuis l’étang de Tser**
 >
-> La carte de Barovie du module représente un tracé en pointillés qui semble relier le campement de l’étang de Tser aux chutes de Tser. Malgré les apparences, <span class="citation">Chutes de Tser (p. 37)</span> précise qu’il ne s’agit pas d’un raccourci. Ce tracé indique un sentier menant au pied des chutes de Tser, mille pieds sous le pont qui les surplombe. Il ne rejoint à aucun moment la route principale.
+> La carte de Barovie du module représente un tracé en pointillés qui semble relier le campement de l’étang de Tser aux chutes de Tser. Malgré les apparences, <span class="citation">Chutes de Tser (p. 37)</span> précise qu’il ne s’agit pas d’un raccourci. Ce tracé indique un sentier menant au pied des chutes de Tser, 300 m sous le pont qui les surplombe. Il ne rejoint à aucun moment la route principale.
 >
 > Pour rejoindre Vallaki depuis le campement de l’étang de Tser, les joueurs doivent donc repartir vers le sud jusqu’à la croisée de l’Ivlis, puis emprunter la vieille route de Svalich vers l’ouest.
 
@@ -35,7 +35,7 @@ Si les joueurs sont chargés d’escorter <a href="../Appendices/Non-Player%20Ch
 > * Le stratagème a fonctionné et leurs chemins se sont séparés peu après. <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> a aussitôt commencé à préparer son retour en Barovie pour tuer <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a> avant qu’<a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> ne puisse le faire, quitte à mourir pour expier ses fautes.
 <a id="en-c1-the-svalich-woods" data-traduction="ancre"></a>
 # C1. Les bois de Svalich
-Le trajet du village de Barovie à la croisée de l’Ivlis fait trois milles et prend une heure.
+Le trajet du village de Barovie à la croisée de l’Ivlis fait 5 km et prend une heure.
 <a id="en-c1a-the-barovian-scouts" data-traduction="ancre"></a>
 ## C1a. Les éclaireurs baroviens
 Pendant le trajet, lisez :
@@ -164,7 +164,7 @@ Qu’<a href="../Appendices/Non-Player%20Characters.md#en-ireena-kolyana">Ireena
 > 
 > Derrière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, vous entendez un chœur de grondements sourds et sauvages. Plusieurs paires d’yeux brillent dans les broussailles, chacune à hauteur d’épaule d’un homme.
 > 
-> Une meute de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> massifs sort lentement de l’ombre. Chacun est aussi haut qu’un cheval, deux fois plus musclé et mesure neuf pieds de la tête à la croupe. Leur fourrure épaisse est d’un gris tacheté et la salive coule de leurs crocs jaunis et acérés.
+> Une meute de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> massifs sort lentement de l’ombre. Chacun est aussi haut qu’un cheval, deux fois plus musclé et mesure 2,70 m de la tête à la croupe. Leur fourrure épaisse est d’un gris tacheté et la salive coule de leurs crocs jaunis et acérés.
 > 
 > Ils prennent position derrière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et autour de lui, tels la garde d’honneur d’un noble.
 > 
@@ -299,7 +299,7 @@ Si elle est sauvée, <a href="../Appendices/Non-Player%20Characters.md#en-muriel
 <br> 
 <strong>Points de vie</strong> 63 (14d8) 
 <br> 
-<strong>Vitesse</strong> 30 pieds, vol 50 pieds sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride
+<strong>Vitesse</strong> 9 m, vol 15 m sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride
 <hr> 
 <table class="ability-table"> 
   <thead> 
@@ -337,19 +337,19 @@ Si elle est sauvée, <a href="../Appendices/Non-Player%20Characters.md#en-muriel
 <hr> 
 <p><strong><em>Régénération.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> récupère 10 points de vie au début de son tour si, depuis son dernier tour, elle n’a subi ni dégâts nécrotiques ni dégâts contondants, perforants ou tranchants infligés par une arme argentée.</p>
 <p><strong><em>Imitation.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> peut imiter des sons simples qu’elle a entendus, tels le chuchotement d’une personne, les pleurs d’un bébé ou les cris d’un animal. Une créature qui les entend peut reconnaître ces imitations en réussissant un test de Sagesse (Perspicacité) DD 10.</p>
-<p><strong><em>Piqué.</em></strong> Si <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> vole d’au moins 20 pieds en ligne droite vers une cible tout en descendant d’au moins cinq pieds vers le sol, puis touche cette cible avec une attaque d’<a href="https://www.aidedd.org/regles/equipement/armes/">épée courte</a> au cours du même tour, la cible subit 7 (2d6) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 12 sous peine d’être jetée à terre.</p>
+<p><strong><em>Piqué.</em></strong> Si <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> vole d’au moins 6 m en ligne droite vers une cible tout en descendant d’au moins 1,50 m vers le sol, puis touche cette cible avec une attaque d’<a href="https://www.aidedd.org/regles/equipement/armes/">épée courte</a> au cours du même tour, la cible subit 7 (2d6) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 12 sous peine d’être jetée à terre.</p>
 <a id="en-actions" data-traduction="ancre"></a>
 <h3>Actions</h3> 
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> effectue deux attaques avec une arme, dont une peut être faite avec son <a href="https://www.aidedd.org/regles/equipement/armes/">arbalète de poing</a>.</p>
-<p><strong><em>Épée courte.</em></strong> (Sous forme humanoïde ou hybride uniquement) <em>Attaque au corps à corps avec une arme</em> : +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
-<p><strong><em>Arbalète de poing.</em></strong> (Sous forme humanoïde ou hybride uniquement) <em>Attaque à distance avec une arme</em> : +5 au toucher, portée 30/120 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
-<p><strong><em>Bec.</em></strong> (Sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride uniquement) <em>Attaque au corps à corps avec une arme</em> : +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 1 dégât perforant sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 10 sous peine de contracter la malédiction de lycanthropie des corbeaux-garous.</p>
+<p><strong><em>Épée courte.</em></strong> (Sous forme humanoïde ou hybride uniquement) <em>Attaque au corps à corps avec une arme</em> : +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Arbalète de poing.</em></strong> (Sous forme humanoïde ou hybride uniquement) <em>Attaque à distance avec une arme</em> : +5 au toucher, portée 9/36 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Bec.</em></strong> (Sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a> ou hybride uniquement) <em>Attaque au corps à corps avec une arme</em> : +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 1 dégât perforant sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a>, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 10 sous peine de contracter la malédiction de lycanthropie des corbeaux-garous.</p>
 <a id="en-bonus-actions" data-traduction="ancre"></a>
 <h3>Actions bonus</h3> 
 <p><strong><em>Changement de forme.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> se transforme en hybride corbeau-humanoïde, en <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a>, ou reprend sa forme humaine. Hormis sa taille, ses caractéristiques sont identiques sous toutes ses formes. Son équipement porté ou transporté ne se transforme pas. Elle reprend sa forme humaine si elle meurt.</p>
 <a id="en-reactions" data-traduction="ancre"></a>
 <h3>Réactions</h3> 
-<p><strong><em>Interposition.</em></strong> Lorsqu’une créature que <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> voit touche avec une attaque une autre cible située à 5 pieds ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a>, celle-ci peut utiliser sa réaction pour subir les dégâts à sa place.</p>
+<p><strong><em>Interposition.</em></strong> Lorsqu’une créature que <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> voit touche avec une attaque une autre cible située à 1,50 m ou moins de <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a>, celle-ci peut utiliser sa réaction pour subir les dégâts à sa place.</p>
 </div>
 
 Si elle apprend que les joueurs comptent aller à Vallaki, <a href="../Appendices/Non-Player%20Characters.md#en-muriel-vinshaw">Muriel</a> les accompagne en conservant son apparence de <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a>. Elle espère trouver la sécurité dans le nombre jusqu’à ce qu’elle puisse rapporter ses découvertes à <a href="../Appendices/Non-Player%20Characters.md#en-urwin-martikov">Urwin Martikov</a>, à l’auberge de l’Eau bleue. Elle ne révèle volontairement sa véritable nature aux joueurs sous aucun prétexte à ce stade.
@@ -370,7 +370,7 @@ Si elle apprend que les joueurs comptent aller à Vallaki, <a href="../Appendice
 # C4. L’étang de Tser
 <span class="citation"><em>Cette scène se déroule dans le chapitre 2 : Zone G.</em></span>
 
-Le trajet de la croisée de l’Ivlis au campement de l’étang de Tser fait un mille et demi et prend trente minutes.
+Le trajet de la croisée de l’Ivlis au campement de l’étang de Tser fait 2 km et prend trente minutes.
 
 <a id="en-c4a-arrival-at-tser-pool" data-traduction="ancre"></a>
 ## C4a. Arrivée à l’étang de Tser
@@ -573,7 +573,7 @@ Une fois le jeu terminé, <a href="../Appendices/Index%20des%20personnages%20et%
 
 Un joueur réussissant un test de Charisme (Persuasion) DD 12 peut convaincre <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> d’avouer que les morts-vivants le poursuivent partout et le hantent chaque nuit depuis dix-huit ans. « Un homme a jadis juré que les morts-vivants m’emporteraient, dit-il. Ils n’y sont pas encore parvenus, mais n’ont jamais cessé d’essayer. » Il refuse d’en dire plus, ajoutant tristement : « Certains récits blessent le conteur. Je vous en prie, ne posez plus de questions. »
 
-<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> refuse toute offre de protection et se glisse dans la nuit. Il finit par s’installer dans les branches d’un grand arbre à deux milles du campement. Les morts-vivants apparaissent alors comme suit :
+<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arturi-radanavich">Arturi</a> refuse toute offre de protection et se glisse dans la nuit. Il finit par s’installer dans les branches d’un grand arbre à 3 km du campement. Les morts-vivants apparaissent alors comme suit :
 
 * Trente minutes après son arrivée, douze **<a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombis</a> <a href="../Appendices/Bestiary.md#en-zombie"><sup>fiche</sup></a>** surgissent et errent au pied de l’arbre.
 * Deux heures plus tard, cinq **<a href="https://www.aidedd.org/dnd/monstres.php?vf=goule">goules</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-ghoul-monstre"><sup>fiche</sup></a>** arrivent, griffent le tronc et hurlent.
@@ -583,7 +583,7 @@ Un joueur réussissant un test de Charisme (Persuasion) DD 12 peut convaincre <a
 Les morts-vivants disparaissent dans les bois peu avant l'aube.
 <a id="en-c4e-return-to-the-river-ivlis-crossroads" data-traduction="ancre"></a>
 ## C4e. Retour à la croisée de l’Ivlis
-Le trajet du campement de l’étang de Tser à la croisée de l’Ivlis fait un mille et demi et prend trente minutes. Pour dissimuler leurs mouvements à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>, l’espionne de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dans le camp, les joueurs doivent réussir un test de Dextérité (Discrétion) DD 11 ou prendre d’autres précautions furtives.
+Le trajet du campement de l’étang de Tser à la croisée de l’Ivlis fait 2 km et prend trente minutes. Pour dissimuler leurs mouvements à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>, l’espionne de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dans le camp, les joueurs doivent réussir un test de Dextérité (Discrétion) DD 11 ou prendre d’autres précautions furtives.
 <a id="en-traveling-to-the-crossroads" data-traduction="ancre"></a>
 ### Le trajet jusqu’à la croisée
 Pendant le trajet vers la croisée, lisez :
@@ -618,7 +618,7 @@ Le buisson cache <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A
 * Remplacez la ruée d’animaux effrayés par une ruée d’**<a href="https://www.aidedd.org/dnd/monstres.php?vf=elan">élans</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-elk-monstre"><sup>fiche</sup></a>** affolés.
 * Utilisez une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante">araignée géante</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-giant-spider-monstre"><sup>fiche</sup></a>** comme créature indigène de la région.
 
-Dans les bois, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> bénéficie d’un abri partiel contre tout joueur situé à au moins 30 pieds d’elle, et d’un abri important contre tout joueur situé à au moins 60 pieds d’elle.
+Dans les bois, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> bénéficie d’un abri partiel contre tout joueur situé à au moins 9 m d’elle, et d’un abri important contre tout joueur situé à au moins 18 m d’elle.
 
 **Si les joueurs tentent de dissimuler leur piste à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>**, ils peuvent quitter la route et réussir un test de Dextérité (Discrétion) DD 11, suivi d’un test de Sagesse (Survie) DD 11. Ceux qui quittent ainsi la route rencontrent un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=feu-follet">feu follet</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-will-o-wisp-monstre"><sup>fiche</sup></a>**, comme décrit dans <span class="citation"><a href="https://www.aidedd.org/dnd/monstres.php?vf=feu-follet">Feu follet</a> (p. 33)</span>.
 <a id="en-the-march-of-the-dead" data-traduction="ancre"></a>
@@ -635,12 +635,12 @@ La silhouette est <a href="../Appendices/Non-Player%20Characters.md#en-madam-eva
 > [!abstract]+ **La fuite d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>**
 > Si les joueurs n’ont pas empêché <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> de les suivre, elle se cache dans les fourrés au nord de la croisée et les observe en silence. Les yeux de <a href="../Appendices/Non-Player%20Characters.md#en-madam-eva">madame Eva</a> s’écarquillent et elle expire brusquement : « Imbéciles ! souffle-t-elle. On vous a suivis ! Éliminez-la, ou tout est perdu ! » Elle désigne alors la cachette d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a>.
 > 
-> Dès qu’elle est repérée, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> tente de s’enfuir dans les bois avec 30 pieds d’avance. Si elle y parvient, elle part aussitôt pour le château Ravenloft et ne revient pas à l’étang de Tser cette nuit-là. Si les joueurs la poursuivent, utilisez les règles de <span class="citation">Poursuites (<em>Guide du maître</em>, p. 252)</span> et la table des **Complications des poursuites en milieu sauvage**, avec les modifications suivantes :
+> Dès qu’elle est repérée, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> tente de s’enfuir dans les bois avec 9 m d’avance. Si elle y parvient, elle part aussitôt pour le château Ravenloft et ne revient pas à l’étang de Tser cette nuit-là. Si les joueurs la poursuivent, utilisez les règles de <span class="citation">Poursuites (<em>Guide du maître</em>, p. 252)</span> et la table des **Complications des poursuites en milieu sauvage**, avec les modifications suivantes :
 > * Remplacez la **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nuee-d-insectes">nuée d’insectes</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-swarm-of-insects-monstre"><sup>fiche</sup></a>** par une **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-swarm-of-biting-midges">nuée de moucherons piqueurs</a>** (utilisant le profil d’une **nuée de guêpes**).
 > * Remplacez la ruée d’animaux effrayés par une ruée d’**<a href="https://www.aidedd.org/dnd/monstres.php?vf=elan">élans</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-elk-monstre"><sup>fiche</sup></a>** affolés.
 > * Utilisez une **<a href="https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante">araignée géante</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-giant-spider-monstre"><sup>fiche</sup></a>** comme créature indigène de la région.
 > 
-> Dans les bois, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> bénéficie d’un abri partiel contre tout joueur situé à au moins 30 pieds d’elle, et d’un abri important contre tout joueur situé à au moins 60 pieds d’elle.
+> Dans les bois, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> bénéficie d’un abri partiel contre tout joueur situé à au moins 9 m d’elle, et d’un abri important contre tout joueur situé à au moins 18 m d’elle.
 > 
 > Si <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-eliza">Eliza</a> est capturée, <a href="../Appendices/Non-Player%20Characters.md#en-madam-eva">madame Eva</a> insiste pour qu’on la tue et qu’on la jette dans l’Ivlis, « de peur qu’elle ne rapporte à son maître ce qu’elle a vu et entendu ». Si on la conteste, <a href="../Appendices/Non-Player%20Characters.md#en-madam-eva">madame Eva</a> répond froidement : « Nul ne peut tergiverser lorsque le Destin lui-même vacille au bord du précipice. »
 
@@ -685,7 +685,7 @@ Si les joueurs acceptent la mission, <a href="../Appendices/Non-Player%20Charact
 <p>La vieille femme approche sa main ridée de la première carte, tout à gauche. Elle ferme les yeux et penche la tête, comme à l’écoute de paroles inexprimées. Les lumières magiques tourbillonnent, puis prennent un bleu profond et perçant.</p>
 <p>« Cette carte parle de l’histoire. La connaissance du passé vous aidera à mieux comprendre votre ennemi. »</p>
 <p>Elle retourne la carte.</p>
-<p>La lueur des bougies devient azurée et danse sur la carte. Elle révèle un garde au sourire narquois qui lève les yeux vers un prêtre hautain. Les doigts pointés du prêtre sont à quelques pouces de son nez, tandis qu’il prépare dans son dos une dague à la courbe cruelle. « Le Neuf de Glyphes, le Traître. » Les pupilles sombres d’Eva vont et viennent comme si elle lisait un texte invisible. « Je vois l’antique ennemi d’une vieille et noble maison. L’âme perdue vous mènera à lui. » (Voir <a href="obsidian://open?vault=Curse-of-Strahd-Reloaded&file=Act%20II%20-%20The%20Shadowed%20Town%2FArc%20H%20-%20The%20Lost%20Soul">Arc H : L’âme perdue</a> pour davantage d’informations sur cette prédiction.)</p>
+<p>La lueur des bougies devient azurée et danse sur la carte. Elle révèle un garde au sourire narquois qui lève les yeux vers un prêtre hautain. Les doigts pointés du prêtre sont à quelques centimètres de son nez, tandis qu’il prépare dans son dos une dague à la courbe cruelle. « Le Neuf de Glyphes, le Traître. » Les pupilles sombres d’Eva vont et viennent comme si elle lisait un texte invisible. « Je vois l’antique ennemi d’une vieille et noble maison. L’âme perdue vous mènera à lui. » (Voir <a href="obsidian://open?vault=Curse-of-Strahd-Reloaded&file=Act%20II%20-%20The%20Shadowed%20Town%2FArc%20H%20-%20The%20Lost%20Soul">Arc H : L’âme perdue</a> pour davantage d’informations sur cette prédiction.)</p>
 <p>Elle approche la main de la deuxième carte, au sommet de la croix. Alors qu’elle ferme les yeux et écoute de nouveau, les bougies flamboient d’un jaune vif et joyeux.</p>
 <p>« Cette carte évoque une puissante force de bien et de protection, un symbole sacré porteur d’un grand espoir. » Elle retourne la carte.</p>
 <p>La lumière révèle cette fois un guerrier en armure tenant une épée de fer fêlée et un bouclier de bois recouvert de cuir. Un lourd casque de fer lui cache le visage. « Le Cinq d’Épées, le Myrmidon. » Son regard plonge dans les ténèbres qui rôdent au-delà des bougies. (Voir <span class="citation">Épées (piques), p. 12</span>, pour la prédiction de cette carte.)</p>
@@ -769,7 +769,7 @@ De petits cailloux disposés sur la terre de chaque tombe dessinent un soleil le
 Le cadavre est celui d’un loup tué à coups de <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> et de carreaux d’arbalète, désormais presque entièrement décomposé. Les réfugiés l’ont laissé là après l’avoir tué et avoir chassé les autres membres de la meute.
 <a id="en-c7-the-high-road" data-traduction="ancre"></a>
 # C7. La grande route
-Le trajet de la croisée de l’Ivlis aux chutes de Tser fait sept milles et demi et prend deux heures et demie.
+Le trajet de la croisée de l’Ivlis aux chutes de Tser fait 11 km et prend deux heures et demie.
 <a id="en-c7a-the-ravine" data-traduction="ancre"></a>
 ## C7a. Le ravin
 Alors que les joueurs continuent sur la route, lisez :
@@ -781,11 +781,11 @@ Si un joueur possède une Sagesse (Perception) passive de 14 ou plus, ou réussi
 
 <div class="description"><p>Alors que vos pas s’enfoncent dans la boue de la vieille route, vous apercevez un mouvement furtif dans les sous-bois : un éclair de fourrure grise, des yeux ambrés et des crocs blancs acérés. La silhouette disparaît aussitôt et se glisse dans l’ombre.</p></div>
 
-Il s’agit d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** qui se retire rapidement dans les bois. Les cinq autres **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a>** de sa meute restent proches et suivent les joueurs à deux cents pieds de distance à travers les bois.
+Il s’agit d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** qui se retire rapidement dans les bois. Les cinq autres **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a>** de sa meute restent proches et suivent les joueurs à 60 m de distance à travers les bois.
 
 Si les joueurs continuent, lisez :
 
-<div class="description"><p>Alors que la route contourne la montagne, les falaises à droite s’effacent pour laisser place à une chute à pic vers un ravin boisé. La route, désormais large d’à peine dix pieds, tourne plus loin et revient sur elle-même autour du ravin, puis plonge brusquement et serpente autour d’un pic plus petit. </p>
+<div class="description"><p>Alors que la route contourne la montagne, les falaises à droite s’effacent pour laisser place à une chute à pic vers un ravin boisé. La route, désormais large d’à peine 3 m, tourne plus loin et revient sur elle-même autour du ravin, puis plonge brusquement et serpente autour d’un pic plus petit. </p>
 </div>
 
 Si un joueur possède une Sagesse (Perception) passive de 14 ou plus, ou réussit un test de Sagesse (Perception) DD 14, ajoutez :
@@ -797,7 +797,7 @@ Si un joueur possède une Sagesse (Perception) passive de 14 ou plus, ou réussi
 Si un joueur possède une Sagesse (Perception) passive de 18 ou plus, ou réussit un test de Sagesse (Perception) DD 18, ajoutez :
 
 <div class="description">
-<p>Deux autres rôdent dans le ravin, près de cinquante pieds plus bas. Ils suivent votre progression en restant dans l’ombre des rochers.</p>
+<p>Deux autres rôdent dans le ravin, près de 15 m plus bas. Ils suivent votre progression en restant dans l’ombre des rochers.</p>
 </div>
 
 Que les joueurs s’arrêtent, poursuivent ou attaquent, les six <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> des bois passent à l’assaut. Lisez :
@@ -832,17 +832,17 @@ Que les joueurs s’arrêtent, poursuivent ou attaquent, les six <a href="https:
 
 Remplacez l’attaque de ***morsure*** des <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> par les actions suivantes :
 
-* ***Mâchoires.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 5 pieds, une cible. *Touché :* 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> peut agripper la cible (évasion DD 11).
-* ***Griffes.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 5 pieds, une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit effectuer un jet de sauvegarde de Force DD 11. En cas d’échec, elle est jetée à terre ou repoussée de 5 pieds, au choix du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>.
+* ***Mâchoires.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 1,50 m, une cible. *Touché :* 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> peut agripper la cible (évasion DD 11).
+* ***Griffes.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 1,50 m, une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit effectuer un jet de sauvegarde de Force DD 11. En cas d’échec, elle est jetée à terre ou repoussée de 1,50 m, au choix du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>.
 
 Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a>** commencent du côté de la montagne, les joueurs se trouvant entre eux et le ravin. Au combat, les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a>** concentrent leurs attaques de ***griffes*** sur un joueur à la fois, bénéficiant de l’avantage aux jets d’attaque grâce à leur ***tactique de groupe*** et espérant le projeter dans le ravin.
 
-Un joueur projeté dans le ravin chute de 50 pieds, subit 17 (5d6) dégâts contondants et tombe à terre. Les deux <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> au fond attaquent toute créature qui y tombe avec leurs ***mâchoires***, puis l’entraînent au loin dans l’espoir d’un repas facile. Une créature qui se blottit contre la paroi rocheuse au fond du ravin bénéficie d’un abri partiel contre les créatures situées en haut.
+Un joueur projeté dans le ravin chute de 15 m, subit 17 (5d6) dégâts contondants et tombe à terre. Les deux <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> au fond attaquent toute créature qui y tombe avec leurs ***mâchoires***, puis l’entraînent au loin dans l’espoir d’un repas facile. Une créature qui se blottit contre la paroi rocheuse au fond du ravin bénéficie d’un abri partiel contre les créatures situées en haut.
 
 Dès qu’un joueur tombe dans le ravin, le reste de la meute s’enfuit dans les bois, puis descend par un autre chemin pour aider le sixième <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> à entraîner sa proie. La meute prend la fuite si six des huit <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> sont tués.
 
 > [!info]+ **Descendre dans le ravin**
-> Un joueur tentant de monter ou de descendre la paroi du ravin doit effectuer un test de Force (Athlétisme) DD 10. En cas de réussite, il monte ou descend à demi-vitesse, à son gré. Sur un résultat de 6-9, il ne progresse ni ne recule ; sur 5 ou moins, il chute et subit 1d6 dégâts contondants par tranche de 10 pieds de chute, puis atterrit à terre au fond du ravin.
+> Un joueur tentant de monter ou de descendre la paroi du ravin doit effectuer un test de Force (Athlétisme) DD 10. En cas de réussite, il monte ou descend à demi-vitesse, à son gré. Sur un résultat de 6-9, il ne progresse ni ne recule ; sur 5 ou moins, il chute et subit 1d6 dégâts contondants par tranche de 3 m de chute, puis atterrit à terre au fond du ravin.
 
 Quand les joueurs quittent la zone, un joueur dont la Sagesse (Perception) passive atteint 13 ou plus remarque deux <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> un peu plus gros que les autres. Ils observent le groupe depuis un rocher montagneux à l’est, au-dessus de la cime des arbres. Un test de Sagesse (Perspicacité) DD 20 réussi révèle une intelligence patiente inhabituelle chez un <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>. S’ils sont repérés ou qu’on interagit avec eux, ils se retournent et disparaissent.
 
@@ -902,7 +902,7 @@ Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=revenant">revenant</a> ne
 # C8. La croisée de Ravenloft
 <span class="citation"><em>Cette scène se déroule dans le chapitre 2 : Zone I.</em></span>
 
-Le trajet des chutes de Tser à la croisée de Ravenloft fait un mille et demi et prend trente minutes. Pendant ce voyage, lisez :
+Le trajet des chutes de Tser à la croisée de Ravenloft fait 2 km et prend trente minutes. Pendant ce voyage, lisez :
 
 <div class="description"><p>Vous suivez la route sinueuse, qui monte brièvement vers le nord avant de tourner à l’ouest pour éviter, sur la droite, un pic dénudé. Ses falaises escarpées portent des rochers acérés qui surplombent la chaussée.</p>
 <p>La route oblique bientôt de nouveau au nord, tandis qu’une deuxième colline surgit du brouillard à votre gauche. Des arbres tordus parsèment ses pentes raides, leurs branches tendues comme des doigts noueux.</p>
@@ -910,18 +910,18 @@ Le trajet des chutes de Tser à la croisée de Ravenloft fait un mille et demi e
 
 Cette zone correspond à <span class="citation">Carrosse noir (p. 37)</span>. (Le carrosse de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> est absent, mais de profondes ornières quittent la vieille route de Svalich pour emprunter la vieille voie pavée menant au château Ravenloft.)
 
-Le trajet de la croisée de Ravenloft aux **portes de Barovie** occidentales fait un quart de mille et prend cinq minutes. Cette zone correspond à <span class="citation">Portes de Barovie (p. 33)</span>, vues depuis l’autre côté.
+Le trajet de la croisée de Ravenloft aux **portes de Barovie** occidentales fait 400 m et prend cinq minutes. Cette zone correspond à <span class="citation">Portes de Barovie (p. 33)</span>, vues depuis l’autre côté.
 
 > [!abstract]+ **Visite du château Ravenloft**
-> Si les joueurs décident de visiter le château Ravenloft, par exemple pour enquêter sur la disparition de <a href="../Appendices/Non-Player%20Characters.md#en-gertruda">Gertruda</a>, le trajet depuis la croisée fait deux milles et demi et prend cinquante minutes. L’extérieur du château correspond à la description d’[Arc P : Cambriolage à Ravenloft](../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-p2b-approaching-the-castle).
+> Si les joueurs décident de visiter le château Ravenloft, par exemple pour enquêter sur la disparition de <a href="../Appendices/Non-Player%20Characters.md#en-gertruda">Gertruda</a>, le trajet depuis la croisée fait 4 km et prend cinquante minutes. L’extérieur du château correspond à la description d’[Arc P : Cambriolage à Ravenloft](../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md#en-p2b-approaching-the-castle).
 <a id="en-c9-old-bonegrinder" data-traduction="ancre"></a>
 # C9. Le Vieux Broyeur d’os
 <span class="citation"><em>Cette scène se déroule dans le chapitre 6 : Zone O.</em></span>
 
-Le trajet des portes de Barovie au **Vieux Broyeur d’os** fait deux milles et demi et prend quarante-cinq minutes. Pendant ce voyage, lisez :
+Le trajet des portes de Barovie au **Vieux Broyeur d’os** fait 4 km et prend quarante-cinq minutes. Pendant ce voyage, lisez :
 
 <div class="description"><p>La route poursuit son cours à travers un bosquet sombre. L’air est aussi calme que dans une tombe ; les arbres sont parfaitement immobiles dans ce silence inquiétant.</p>
-<p>Non loin de la route, dans les fourrés envahissants, se dresse une stèle de pierre moussue haute d’un peu moins de six pieds. Elle est entourée d’un cercle de vieux pavés fissurés et semble porter une gravure.</p></div>
+<p>Non loin de la route, dans les fourrés envahissants, se dresse une stèle de pierre moussue haute d’un peu moins de 1,80 m. Elle est entourée d’un cercle de vieux pavés fissurés et semble porter une gravure.</p></div>
 
 Marquez une courte pause pour laisser les joueurs agir ou réagir. S’ils examinent la stèle, ils découvrent un corbeau grossièrement gravé au-dessus d’une étoile à trois branches. Du lichen et de la mousse tapissent les rainures. (La stèle est un ancien monument à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-seeker">la Chercheuse</a> et l’étoile à trois branches le symbole des Trois Dames.)
 
@@ -979,7 +979,7 @@ Avant de partir, <a href="../Appendices/Non-Player%20Characters.md#en-morgantha-
 > Si les joueurs approchent du moulin, elle prévient <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-bella-sunbane">Bella</a> et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-offalia-wormwiggle">Offalia</a>, qui la rejoignent dans le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ethereal-plane">plan Éthéré</a>. S’ils tentent de l’endommager ou de le détruire, les guenaudes reviennent dans le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-material-plane">plan Matériel</a> et leur ordonnent de cesser sous peine de mort. Voir [Les soupçons de Morgantha](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-morgantha-gets-suspicious) pour davantage d’informations sur les conflits avec les guenaudes. (Le moulin ne contient aucun enfant et n’en contiendra pas avant le début d’[Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md).)
 <a id="en-c10-the-deep-woods" data-traduction="ancre"></a>
 # C10. Les bois profonds
-Le trajet du Vieux Broyeur d’os à la **ville de Vallaki** fait cinq milles et trois quarts et prend deux heures. Pendant ce voyage, lisez :
+Le trajet du Vieux Broyeur d’os à la **ville de Vallaki** fait 9 km et prend deux heures. Pendant ce voyage, lisez :
 
 <div class="description"><p>La route sinueuse de la vallée longe la montagne en remontant vers le nord. De l’autre côté s’accrochent les bois sombres ; les grands arbres noueux rampent aussi près qu’ils l’osent. Vous entendez le vent bruire dans les feuilles et, parfois, des branches grincer. Par moments, on croirait entendre les arbres murmurer entre eux ou remuer leurs racines antiques dans l’humus pourrissant.</p>
 <p>Plus loin, la forêt engloutit les deux côtés de la route. Les arbres vous dominent et ne laissent filtrer que de rares lueurs grises. L’air devient lourd, chargé d’odeurs de mousse et de feuilles en décomposition. Au loin retentit le croassement rauque d’un <a href="https://www.aidedd.org/dnd/monstres.php?vf=corbeau">corbeau</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-raven-monstre"><sup>fiche</sup></a>, puis un battement d’ailes.</p>
@@ -1030,7 +1030,7 @@ Modifiez les profils des <a href="https://www.aidedd.org/dnd/monstres.php?vf=lou
 <br>
 <strong>Points de vie</strong> 84 (13d8 + 26)
 <br>
-<strong>Vitesse</strong> 30 pieds (40 pieds sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
+<strong>Vitesse</strong> 9 m (12 m sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
 <hr>
 <table class="ability-table">
   <thead>
@@ -1057,20 +1057,20 @@ Modifiez les profils des <a href="https://www.aidedd.org/dnd/monstres.php?vf=lou
 <hr>
 <strong>Jets de sauvegarde</strong> For +5<br>
 <strong>Compétences</strong> Perception +4, Discrétion +3<br>
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 14<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 14<br>
 <strong>Langues</strong> commun (ne peut pas parler sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)<br>
 <strong>Facteur de puissance</strong> 3, ou 2 sans sa régénération<br>
 <strong>Bonus de maîtrise.</strong> +2<br>
 <hr>
 <p><strong><em>Ouïe et odorat aiguisés.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> bénéficie de l’avantage aux tests de Sagesse (Perception) faisant appel à l’ouïe ou à l’odorat.</p>
-<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> bénéficie de l’avantage à ses jets d’attaque contre une créature si au moins un de ses alliés se trouve à 5 pieds ou moins de celle-ci et que cet allié n’est pas neutralisé.</p>
+<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> bénéficie de l’avantage à ses jets d’attaque contre une créature si au moins un de ses alliés se trouve à 1,50 m ou moins de celle-ci et que cet allié n’est pas neutralisé.</p>
 <p><strong><em>Régénération.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> récupère 10 points de vie au début de son tour. S’il subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants d’une arme argentée, ce trait ne fonctionne pas au début de son prochain tour. Il ne meurt que s’il commence son tour à 0 point de vie et ne se régénère pas.</p>
 <a id="en-actions-2" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> effectue deux attaques : deux de <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> sous forme humanoïde, ou une de morsure et une de griffes sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> ou hybride.</p>
-<p><strong><em>Morsure (sous forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 5 pieds, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> peut agripper la cible (évasion DD 11). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
-<p><strong><em>Griffes (sous forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 5 pieds, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d’être jetée à terre.</p>
-<p><strong><em>Lance (sous forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 5 pieds ou portée 20/60 pieds, une créature. Touché : 6 (1d6 + 3) dégâts perforants, ou 7 (1d8 + 3) dégâts perforants si la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> est tenue à deux mains pour une attaque au corps à corps.</p>
+<p><strong><em>Morsure (sous forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> peut agripper la cible (évasion DD 11). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
+<p><strong><em>Griffes (sous forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d’être jetée à terre.</p>
+<p><strong><em>Lance (sous forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants, ou 7 (1d8 + 3) dégâts perforants si la <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> est tenue à deux mains pour une attaque au corps à corps.</p>
 <a id="en-bonus-actions-2" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 <p><strong><em>Changement de forme.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> se transforme en hybride loup-humanoïde, en <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>, ou reprend sa véritable forme humanoïde. Hormis sa CA, ses caractéristiques sont identiques sous toutes ses formes. Son équipement porté ou transporté fusionne avec sa nouvelle forme. Il reprend sa véritable forme à sa mort.</p>
@@ -1432,7 +1432,7 @@ S’il ne repère personne, <a href="../Appendices/Non-Player%20Characters.md#en
 Lors de leur premier matin à Vallaki, les joueurs quittent l’auberge de l’Eau bleue et trouvent la rue pleine d’habitants. S’ils n’interviennent pas, la scène suivante se déroule :
 
 * Un cheval hennit plus bas dans la rue ; les habitants se figent et se taisent. Au sud se tient une petite procession : le <a href="../Appendices/Non-Player%20Characters.md#en-baron-vargas-vallakovich">baron Vargas Vallakovich</a> (voir <span class="citation">Interpréter la famille Vallakovich, p. 105</span>) monte un cheval alezan, encadré de ses deux **<a href="https://www.aidedd.org/dnd/monstres.php?vf=molosse">molosses</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-mastiff-monstre"><sup>fiche</sup></a>**, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-claw">Griffe</a> et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-fang">Croc</a>, et suivi de trois **<a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">gardes</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-guard-monstre"><sup>fiche</sup></a>**. <a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek Strazni</a> ouvre la marche.
-* Une vieille femme effrayée, aux vêtements de roturière élimés, vient de trébucher loin du cheval et de tomber dans une flaque boueuse à quelques pieds de lui. L’animal s’est brusquement arrêté, ainsi que la procession. Le bras diabolique d’<a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek</a> est tendu : il semble avoir poussé, voire projeté, la femme dans la boue. (C’est <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-willemina-rikalova">Willemina Rikalova</a>, mère du cordonnier emprisonné <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-udo-lukovich">Udo Lukovich</a>.)
+* Une vieille femme effrayée, aux vêtements de roturière élimés, vient de trébucher loin du cheval et de tomber dans une flaque boueuse à un mètre ou deux de lui. L’animal s’est brusquement arrêté, ainsi que la procession. Le bras diabolique d’<a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek</a> est tendu : il semble avoir poussé, voire projeté, la femme dans la boue. (C’est <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-willemina-rikalova">Willemina Rikalova</a>, mère du cordonnier emprisonné <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-udo-lukovich">Udo Lukovich</a>.)
 * Le baron lui reproche avec colère d’avoir sali son manteau avec ses « mains de paysanne crasseuses ». D’une voix tremblante, elle s’excuse et supplie qu’on libère son fils Udo : sa « plaisanterie stupide » ne visait aucun mal.
 * Le baron insiste : Udo doit être « rééduqué » pour son « mécontentement malveillant », et sa mère aussi, semble-t-il. Il ordonne à <a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek</a> de la saisir et de la mettre au pilori : « Quelques jours au pilori devraient lui apprendre à tenir sa langue. » <a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek</a> s’avance en fléchissant son bras diabolique, une lueur cruelle dans les yeux.
 * <a href="../Appendices/Non-Player%20Characters.md#en-izek-strazni">Izek</a> la saisit, la remet debout et la pousse brutalement dans les bras des <a href="https://www.aidedd.org/dnd/monstres.php?vf=garde">gardes</a>. Deux d’entre eux lui tordent les bras dans le dos et l’entraînent au sud tandis qu’elle se débat, pleure et supplie pour son fils. Aucun habitant n’ose l’aider.

@@ -307,12 +307,12 @@ La porte donne sur un escalier de pierre qui descend dans la cave à vin. Lorsqu
 
 <div class="description">
 <p>Il fait froid dans cette pièce, dont les murs sont bordés de casiers en bois vides qui contenaient autrefois des <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteilles</a> de vin. L’odeur de terre humide est omniprésente.</p>
-<p>Une piste de profondes entailles et de marques de griffes sillonne le sol. Ces traces mènent à un espace nu entre deux casiers en bois et couvrent une portion du mur de pierre opposé d’environ trois pieds de large.</p>
+<p>Une piste de profondes entailles et de marques de griffes sillonne le sol. Ces traces mènent à un espace nu entre deux casiers en bois et couvrent une portion du mur de pierre opposé d’environ 90 cm de large.</p>
 </div>
 
 Un test de Sagesse (Nature) DD 12 révèle que les marques et les entailles ont été laissées par une grande bête lupine.
 
-L’espace nu sur le mur dissimule une porte secrète. Aucun test n’est nécessaire pour la repérer : les dégâts causés par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> l’empêchent de se fermer complètement, laissant une mince fissure dans le mur, du sol jusqu’à six pieds de haut.
+L’espace nu sur le mur dissimule une porte secrète. Aucun test n’est nécessaire pour la repérer : les dégâts causés par <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> l’empêchent de se fermer complètement, laissant une mince fissure dans le mur, du sol jusqu’à 1,80 m de haut.
 
 Un joueur peut forcer la porte secrète en réussissant un test de Force DD 20. Il peut aussi trouver le mécanisme qui la déverrouille, un levier camouflé sur le casier à vin, avec un test d’Intelligence (Investigation) DD 15 réussi, et le trouve automatiquement après 1 minute entière de recherche. Une fois le levier actionné, le verrou se libère et la porte avance légèrement, révélant sur son côté des prises permettant de l’ouvrir complètement.
 
@@ -555,7 +555,7 @@ Tandis que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9ature
 <a href="../Appendices/Non-Player%20Characters.md#en-the-abbot">L’Abbé</a> guide les joueurs jusqu’à la porte du vestibule de l’aile est, décrit dans <span class="citation">S14. Vestibule (p. 151)</span>. Lorsqu’il ouvre la porte, le **<a href="https://www.aidedd.org/dnd/monstres.php?vf=golem-de-chair">golem de chair</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-flesh-golem-monstre"><sup>fiche</sup></a>** les attend. Lisez :
 
 <div class="description">
-<p>Juste au-delà du chambranle se dresse une silhouette de plus de sept pieds de haut, aux épaules larges et massives. Un assemblage de peaux de couleurs, textures et âges variés recouvre son corps, grossièrement cousu d’un épais fil sombre qui zigzague sur sa forme comme le cauchemar d’un cartographe. Ses muscles saillent anormalement, comme trop rembourrés ; par endroits, les coutures sont si tendues que la peau semble sur le point de se déchirer.</p>
+<p>Juste au-delà du chambranle se dresse une silhouette de plus de 2,10 m de haut, aux épaules larges et massives. Un assemblage de peaux de couleurs, textures et âges variés recouvre son corps, grossièrement cousu d’un épais fil sombre qui zigzague sur sa forme comme le cauchemar d’un cartographe. Ses muscles saillent anormalement, comme trop rembourrés ; par endroits, les coutures sont si tendues que la peau semble sur le point de se déchirer.</p>
 <p>Ses yeux sont de profondes orbites creuses, remplies d’une matière sombre et lisse qui ne réfléchit aucune lumière. Ses bras pendent le long de son corps, et chacun de ses doigts allongés se termine par un ongle irrégulier évoquant davantage les griffes d’une bête que les mains d’un homme.</p>
 </div>
 
@@ -571,8 +571,8 @@ La porte du casernement est entrouverte, et on entend de l’autre côté le fro
 Le casernement correspond pour l’essentiel à <span class="citation">S19. Casernement (p. 154)</span>. Toutefois, ajoutez ce qui suit à la fin de la description de cette zone :
 
 <div class="description">
-<p>Au centre de la pièce, un carré de dix pieds de côté débarrassé de ses moisissures contraste fortement avec la pourriture environnante. Un couchage déroulé repose sur ce petit îlot de propreté, accompagné d’un <a href="https://www.aidedd.org/regles/equipement/materiel/">sac à dos</a> usé et de trois armes dans leurs fourreaux, posées tout près.</p>
-<p>À côté de ce campement, un cercle de craie inachevé de près de dix pieds de diamètre porte une étoile à cinq branches. Une femme vistana à la peau olivâtre est accroupie sur son bord, ses longs cheveux noirs et crépus retenus par un large bandeau rouge orangé.</p>
+<p>Au centre de la pièce, un carré de 3 m de côté débarrassé de ses moisissures contraste fortement avec la pourriture environnante. Un couchage déroulé repose sur ce petit îlot de propreté, accompagné d’un <a href="https://www.aidedd.org/regles/equipement/materiel/">sac à dos</a> usé et de trois armes dans leurs fourreaux, posées tout près.</p>
+<p>À côté de ce campement, un cercle de craie inachevé de près de 3 m de diamètre porte une étoile à cinq branches. Une femme vistana à la peau olivâtre est accroupie sur son bord, ses longs cheveux noirs et crépus retenus par un large bandeau rouge orangé.</p>
 <p>Elle porte un long manteau maculé de boue de la même couleur, sous lequel une armure de <a href="https://www.aidedd.org/regles/equipement/armures/">cuir clouté</a> bien huilée accroche la lumière. Elle semble chaussée de bottes de deux couleurs différentes : l’une d’un brun ordinaire, l’autre d’un cuivre métallique terne. Elle fixe d’un regard noir un morceau de craie blanche cassé dans sa main.</p>
 </div>
 
@@ -587,7 +587,7 @@ Il s’agit d’<a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-d
     <br>
     <strong>Points de vie</strong> 82 (11d8 + 33)
     <br>
-    <strong>Vitesse</strong> 30 pieds
+    <strong>Vitesse</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
@@ -630,10 +630,10 @@ Il s’agit d’<a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-d
 <a id="en-actions" data-traduction="ancre"></a>
     <h3>Actions</h3>
     <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> effectue trois attaques au corps à corps : deux avec sa <a href="https://www.aidedd.org/regles/equipement/armes/">rapière</a> +1 et une avec sa <a href="https://www.aidedd.org/regles/equipement/armes/">hachette</a> +1 ou son <a href="https://www.aidedd.org/regles/equipement/armes/">épée courte</a> argentée. Elle peut remplacer deux attaques par une attaque avec son <a href="https://www.aidedd.org/regles/equipement/armes/">arbalète de poing</a>.</p>
-    <p><strong><em>Rapière +1.</em></strong> <em>Attaque d’arme au corps à corps :</em> +7 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 9 (1d8 + 5) dégâts perforants.</p>
-    <p><strong><em>Hachette +1.</em></strong><em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 5 pieds ou portée 20/60 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants.</p>
-    <p><strong><em>Épée courte argentée.</em></strong><em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 7 (1d6 + 4) dégâts perforants.</p>
-    <p><strong><em>Arbalète de poing.</em></strong><em>Attaque d’arme à distance :</em> +6 au toucher, portée 30/120 pieds, une cible. <em>Touché :</em> 7 (1d6 + 4) dégâts perforants. Si elle possède encore un carreau d’arbalète argenté, <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> peut choisir de l’utiliser à la place d’un carreau ordinaire lorsqu’elle tire.</p>
+    <p><strong><em>Rapière +1.</em></strong> <em>Attaque d’arme au corps à corps :</em> +7 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 9 (1d8 + 5) dégâts perforants.</p>
+    <p><strong><em>Hachette +1.</em></strong><em>Attaque d’arme au corps à corps :</em> +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants.</p>
+    <p><strong><em>Épée courte argentée.</em></strong><em>Attaque d’arme au corps à corps :</em> +6 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 7 (1d6 + 4) dégâts perforants.</p>
+    <p><strong><em>Arbalète de poing.</em></strong><em>Attaque d’arme à distance :</em> +6 au toucher, portée 9/36 m, une cible. <em>Touché :</em> 7 (1d6 + 4) dégâts perforants. Si elle possède encore un carreau d’arbalète argenté, <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> peut choisir de l’utiliser à la place d’un carreau ordinaire lorsqu’elle tire.</p>
     <p><strong><em>Incantation.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> lance <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee">grande foulée</a></em>, <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=vision-dans-le-noir">vision dans le noir</a></em> ou <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=cordon-de-fleches">cordon de flèches</a></em>.</p>
 <a id="en-bonus-actions" data-traduction="ancre"></a>
     <h3>Actions bonus</h3>

@@ -31,7 +31,7 @@ Avant de les conduire à l’antre, <a href="../Appendices/Non-Player%20Characte
 <a id="en-l2-lake-baratok" data-traduction="ancre"></a>
 # L2. Le lac Baratok
 
-Le trajet du village de Krezk au lac Baratok est long de trois miles et demi et prend une heure et dix minutes.
+Le trajet du village de Krezk au lac Baratok est long de 5 km et prend une heure et dix minutes.
 
 Si les joueurs acceptent d’accompagner <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> au lac Baratok afin de récupérer du matériel dans son <a href="https://www.aidedd.org/regles/equipement/montures-et-marchandises/">chariot</a>, les lieux sont tels que décrits dans [l’arc E : La Vistana disparue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md).
 
@@ -179,7 +179,7 @@ Une fois le matériel utile récupéré dans son <a href="https://www.aidedd.org
 <a id="en-l3-svalich-woods" data-traduction="ancre"></a>
 # L3. Les bois de Svalich
 
-Le trajet du lac Baratok à l’antre des <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loups-garous</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> est long de trois miles et prend une heure.
+Le trajet du lac Baratok à l’antre des <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loups-garous</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> est long de 5 km et prend une heure.
 
 À l’approche du crépuscule, <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> peut conduire les joueurs jusqu’à un creux sombre et paisible des bois de Svalich, à l’ouest du lac Baratok. Lisez :
 
@@ -198,7 +198,7 @@ Le feu ne produit aucune fumée et sa lumière ne dépasse pas les bords du creu
 > [!item]+ **Briquet furtif**
 > *Objet merveilleux, peu commun*
 >
-> Ce nécessaire à feu finement ouvragé, composé d’un silex et d’un briquet, porte de petites runes gravées sur les côtés de ses deux éléments. Lorsqu’il sert à enflammer une matière combustible, la flamme produite diffuse une lumière vive dans un rayon de 10 pieds, ne diffuse aucune lumière faible et ne produit aucune fumée. Lorsqu’il se trouve à trente pieds ou moins d’une flamme ainsi créée, l’utilisateur peut prononcer un mot de commande pour l’éteindre instantanément.
+> Ce nécessaire à feu finement ouvragé, composé d’un silex et d’un briquet, porte de petites runes gravées sur les côtés de ses deux éléments. Lorsqu’il sert à enflammer une matière combustible, la flamme produite diffuse une lumière vive dans un rayon de 3 m, ne diffuse aucune lumière faible et ne produit aucune fumée. Lorsqu’il se trouve à 9 m ou moins d’une flamme ainsi créée, l’utilisateur peut prononcer un mot de commande pour l’éteindre instantanément.
 
 <a href="../Appendices/Non-Player%20Characters.md#en-ezmerelda-davenir">Ezmerelda</a> conseille au groupe de poster une personne au bord du creux pour guetter le départ de la meute. Si les joueurs ne le proposent pas eux-mêmes, elle suggère de se relayer toutes les heures pour éviter la fatigue.
 <a id="en-l3a-campfire-tales" data-traduction="ancre"></a>
@@ -259,7 +259,7 @@ Une heure après la tombée de la nuit, la majeure partie de la meute de <a href
 Un test réussi de Sagesse (Médecine) DD 12 révèle que la gorge de l’élan a été arrachée par une seule mâchoire massive, assez grande pour engloutir d’un seul coup le torse d’un humanoïde.
 
 > [!info]+ **Éclairage intérieur**
-> Aucune torche ne borde les parois de la grotte. À la place, de petites grappes de champignons jaunes lumineux les parsèment, chacune diffusant une lumière faible dans un rayon de 5 pieds.
+> Aucune torche ne borde les parois de la grotte. À la place, de petites grappes de champignons jaunes lumineux les parsèment, chacune diffusant une lumière faible dans un rayon de 1,50 m.
 <a id="en-l4a-cave-mouth-guard-post" data-traduction="ancre"></a>
 ## L4a. Entrée de la grotte et poste de garde
 <span class="citation"><em>Cette zone correspond à Z1. Entrée de la grotte (p. 203) et Z2. Poste de garde (p. 203).</em></span>
@@ -267,8 +267,8 @@ Un test réussi de Sagesse (Médecine) DD 12 révèle que la gorge de l’élan 
 Cette zone correspond pour l’essentiel aux descriptions de <span class="citation">Z1. Entrée de la grotte (p. 203)</span> et <span class="citation">Z2. Poste de garde (p. 203)</span>. Remplacez toutefois sa description par la suivante :
 
 <div class="description">
-<p>Les mâchoires ouvertes de la tête de loup forment un auvent rocheux de quinze pieds de haut au-dessus de l’entrée de la grotte, soutenu par des piliers de roche naturels. À l’intérieur, le plafond s’élève à vingt pieds. De petites grappes de lumière ambrée ponctuent les parois, diffusant une faible lueur sur le sol de la caverne.</p>
-<p>Devant vous, la grotte se divise en deux passages, à gauche et à droite. Vous entendez le faible écho d’un ruissellement venir du passage de droite. Accroupies sur une corniche de cinq pieds de haut, entre les deux passages, deux femmes à l’allure sauvage portent des vêtements déchirés et serrent des <a href="https://www.aidedd.org/regles/equipement/armes/">lances</a> dans leurs mains.</p>
+<p>Les mâchoires ouvertes de la tête de loup forment un auvent rocheux de 4,50 m de haut au-dessus de l’entrée de la grotte, soutenu par des piliers de roche naturels. À l’intérieur, le plafond s’élève à 6 m. De petites grappes de lumière ambrée ponctuent les parois, diffusant une faible lueur sur le sol de la caverne.</p>
+<p>Devant vous, la grotte se divise en deux passages, à gauche et à droite. Vous entendez le faible écho d’un ruissellement venir du passage de droite. Accroupies sur une corniche de 1,50 m de haut, entre les deux passages, deux femmes à l’allure sauvage portent des vêtements déchirés et serrent des <a href="https://www.aidedd.org/regles/equipement/armes/">lances</a> dans leurs mains.</p>
 </div>
 
 <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-azianka">Azianka</a> et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davanka">Davanka</a> s’ennuient, sont distraites et irritées de ne pas pouvoir accompagner <a href="../Appendices/Non-Player%20Characters.md#en-kiril-stoyanovich">Kiril</a> au-delà des Brumes. Elles se disputent actuellement pour déterminer si les chèvres ont meilleur goût que les élans. (Si les joueurs les écoutent, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-azianka">Azianka</a> et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-davanka">Davanka</a> finissent par convenir que les hommes ont meilleur goût que les chèvres *et* les élans.)
@@ -279,8 +279,8 @@ Si les joueurs entrent dans la grotte en présence d’<a href="../Appendices/In
 
 Remplacez l’attaque de ***morsure*** des <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> par les actions suivantes :
 
-* ***Mâchoires.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 5 pieds, une cible. *Touché :* 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> peut agripper la cible (évasion DD 11).
-* ***Griffes.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 5 pieds, une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit effectuer un jet de sauvegarde de Force DD 11. En cas d’échec, elle est jetée à terre ou repoussée de 5 pieds, au choix du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>.
+* ***Mâchoires.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 1,50 m, une cible. *Touché :* 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> peut agripper la cible (évasion DD 11).
+* ***Griffes.*** *Attaque au corps à corps avec une arme :* +4 au toucher, allonge 1,50 m, une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit effectuer un jet de sauvegarde de Force DD 11. En cas d’échec, elle est jetée à terre ou repoussée de 1,50 m, au choix du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>.
 
 <a id="en-l4b-underground-spring" data-traduction="ancre"></a>
 ## L4b. Source souterraine
@@ -353,7 +353,7 @@ Pour se faufiler dans cette zone sans déranger les <a href="https://www.aidedd.
 <br>
 <strong>Points de vie</strong> 142 (20d8 + 60)
 <br>
-<strong>Vitesse</strong> 30 pieds (40 pieds sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
+<strong>Vitesse</strong> 9 m (12 m sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
 <hr>
 <table class="ability-table">
   <thead>
@@ -380,23 +380,23 @@ Pour se faufiler dans cette zone sans déranger les <a href="https://www.aidedd.
 <hr>
 <strong>Jets de sauvegarde</strong> For +6, Con +6<br>
 <strong>Compétences</strong> Athlétisme +6, Intimidation +4, Perception +6, Discrétion +4<br>
-<strong>Sens</strong> vision dans le noir à 60 pieds, Perception passive 16<br>
+<strong>Sens</strong> vision dans le noir à 18 m, Perception passive 16<br>
 <strong>Langues</strong> commun (ne peut pas parler sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)<br>
 <strong>Facteur de puissance</strong> 7, ou 6 sans sa régénération<br>
 <strong>Bonus de maîtrise</strong> +3<br>
 <hr>
 <p><strong><em>Ouïe et odorat aiguisés.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> a l’avantage aux tests de Sagesse (Perception) qui font appel à l’ouïe ou à l’odorat.</p>
-<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> a l’avantage aux jets d’attaque contre une créature si au moins un de ses alliés se trouve à 5 pieds ou moins de cette créature et si cet allié n’est pas neutralisé.</p>
+<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> a l’avantage aux jets d’attaque contre une créature si au moins un de ses alliés se trouve à 1,50 m ou moins de cette créature et si cet allié n’est pas neutralisé.</p>
 <p><strong><em>Régénération.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> récupère 10 points de vie au début de son tour. S’il subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants d’une arme argentée, ce trait ne fonctionne pas au début de son prochain tour. Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> meurt uniquement s’il commence son tour avec 0 point de vie et ne se régénère pas.</p>
 <p><strong><em>Brute.</em></strong> Une arme de corps à corps inflige un dé supplémentaire de ses dégâts lorsque le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> touche avec elle (inclus dans l’attaque).</p>
 <p><strong><em>Défense sans armure.</em></strong> Tant que le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> ne porte pas d’armure, sa CA inclut son modificateur de Constitution.</p>
 <a id="en-actions" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> effectue deux attaques avec sa <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> (forme humanoïde) ou une attaque de morsure et deux attaques de griffes (forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> ou hybride). Il peut remplacer une attaque de griffes par une projection.</p>
-<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +6 au toucher, allonge 5 pieds, une cible. Touché : 14 (2d10 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Force DD 14 sous peine d’être jetée à terre. De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
-<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +6 au toucher, allonge 5 pieds, une créature. Touché : 12 (2d8 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 sous peine d’être agrippée.</p>
-<p><strong><em>Lance (forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 5 pieds ou portée 20/60 pieds, une créature. Touché : 10 (2d6 + 3) dégâts perforants, ou 12 (2d8 + 3) dégâts perforants si elle est utilisée à deux mains pour effectuer une attaque au corps à corps.</p>
-<p><strong><em>Projection.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> oblige une créature qu’il agrippe à réussir un jet de sauvegarde de Force DD 14. En cas d’échec, elle est projetée de 10 pieds et tombe à terre. Si la cible ne peut pas parcourir toute la distance, elle subit 1d6 dégâts contondants supplémentaires par tranche de 5 pieds non parcourue.</p>
+<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d10 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Force DD 14 sous peine d’être jetée à terre. De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
+<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 12 (2d8 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 sous peine d’être agrippée.</p>
+<p><strong><em>Lance (forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 10 (2d6 + 3) dégâts perforants, ou 12 (2d8 + 3) dégâts perforants si elle est utilisée à deux mains pour effectuer une attaque au corps à corps.</p>
+<p><strong><em>Projection.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> oblige une créature qu’il agrippe à réussir un jet de sauvegarde de Force DD 14. En cas d’échec, elle est projetée de 3 m et tombe à terre. Si la cible ne peut pas parcourir toute la distance, elle subit 1d6 dégâts contondants supplémentaires par tranche de 1,50 m non parcourue.</p>
 <a id="en-bonus-actions" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 <p><strong><em>Métamorphose.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> se métamorphose en hybride loup-humanoïde ou en <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>, ou reprend sa véritable forme, qui est humanoïde. Ses statistiques, à l’exception de sa CA, sont les mêmes sous toutes ses formes. Tout l’équipement qu’il porte ou transporte fusionne avec sa nouvelle forme. Il reprend sa véritable forme s’il meurt.</p>
@@ -447,7 +447,7 @@ Les joueurs qui ont vu le croquis de <a href="../Appendices/Index%20des%20person
 > Un _collier d’épine d’argent_ est affecté normalement par <span class="citation">Absorption des sorts de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-khazan">Khazan</a> (p. 167)</span>, au <span class="citation">chapitre 11 : La Tour de <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> (p. 167)</span>. Si on lui retire son collier, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-zuleika-toranescu">Zuleika</a> sera heureuse d’aider les joueurs à délivrer <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-emil-toranescu">Emil</a> du château Ravenloft dans [l’arc P : Cambriolage à Ravenloft](Arc%20P%20-%20Ravenloft%20Heist.md).
 
 > [!info]+ **Les Chaînes**
-> Les chaînes qui relient les colliers d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-zuleika-toranescu">Zuleika</a> à la paroi de la caverne ont les statistiques d’une *chaîne (10 pieds)*, décrite dans le <span class="citation">Manuel des joueurs (p. 151)</span>, avec une CA de 19.
+> Les chaînes qui relient les colliers d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-zuleika-toranescu">Zuleika</a> à la paroi de la caverne ont les statistiques d’une *chaîne (3 m)*, décrite dans le <span class="citation">Manuel des joueurs (p. 151)</span>, avec une CA de 19.
 
 Lorsque les deux prisonniers aperçoivent les joueurs, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> se presse contre le fond de sa cage, manifestement terrifié, tandis que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-zuleika-toranescu">Zuleika</a> les observe en silence. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-ilya-krezkov">Ilya</a> exige de savoir qui ils sont et s’ils font partie de la meute de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loups-garous</a>.
 
@@ -524,11 +524,11 @@ Si les joueurs acceptent de prêter le serment de <a href="../Appendices/Index%2
 > 
 > Le symbole sacré possède 5 charges pour les propriétés suivantes. Il récupère 1d4 + 1 charges chaque jour à l’aube.
 > 
-> **_Étreinte de l’aube._** Par une réaction, lorsqu’une créature que vous voyez à 30 pieds ou moins de vous devrait tomber à 0 point de vie, vous pouvez dépenser 2 charges pour qu’elle tombe à 1 point de vie à la place. Cette créature devient immunisée contre tous les dégâts jusqu’au début de son prochain tour.
+> **_Étreinte de l’aube._** Par une réaction, lorsqu’une créature que vous voyez à 9 m ou moins de vous devrait tomber à 0 point de vie, vous pouvez dépenser 2 charges pour qu’elle tombe à 1 point de vie à la place. Cette créature devient immunisée contre tous les dégâts jusqu’au début de son prochain tour.
 > 
-> **_Lumière d’espoir._** Par une action, vous pouvez dépenser 1 charge et choisir une créature que vous voyez à 30 pieds ou moins de vous. Tous les états suivants qui l’affectent prennent fin : aveuglé, charmé, assourdi, effrayé, paralysé, empoisonné et étourdi.
+> **_Lumière d’espoir._** Par une action, vous pouvez dépenser 1 charge et choisir une créature que vous voyez à 9 m ou moins de vous. Tous les états suivants qui l’affectent prennent fin : aveuglé, charmé, assourdi, effrayé, paralysé, empoisonné et étourdi.
 > 
-> **_Bénédiction du soleil._** Par une action, vous pouvez dépenser 2 charges pour faire rayonner une puissance sacrée depuis le symbole dans un rayon de 30 pieds pendant 1 minute. Les créatures non hostiles dans ce rayon infligent 1d4 dégâts radiants supplémentaires lorsqu’elles touchent avec une attaque avec une arme.
+> **_Bénédiction du soleil._** Par une action, vous pouvez dépenser 2 charges pour faire rayonner une puissance sacrée depuis le symbole dans un rayon de 9 m pendant 1 minute. Les créatures non hostiles dans ce rayon infligent 1d4 dégâts radiants supplémentaires lorsqu’elles touchent avec une attaque avec une arme.
 > 
 > Vous pouvez également utiliser le symbole sacré comme focaliseur d’incantation pour vos sorts de clerc et de paladin. Vous bénéficiez d’un bonus de +1 aux jets d’attaque de sort et aux DD des jets de sauvegarde de vos sorts de clerc et de paladin.
 <a id="en-biancas-return" data-traduction="ancre"></a>

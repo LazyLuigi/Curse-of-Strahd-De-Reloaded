@@ -89,7 +89,7 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 ## Prezir, le profond mépris
 ***Sort.*** _Vol._
 
-***Bienfait.*** Lorsque vous êtes dans les airs, vous gagnez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez toutefois pas utiliser cette vitesse pour prendre de l’altitude et vous descendez de 1 pied pour chaque tranche de 10 pieds de distance horizontale parcourue.
+***Bienfait.*** Lorsque vous êtes dans les airs, vous gagnez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez toutefois pas utiliser cette vitesse pour prendre de l’altitude et vous descendez de 30 cm pour chaque tranche de 3 m de distance horizontale parcourue.
 
 ***Altération.*** Des ailes squelettiques difformes poussent dans votre dos. Vous devez manger des os ou de la terre de tombe pour survivre. À l’aube, si vous n’avez pas mangé au moins 1 livre d’os ou de terre de tombe au cours des 24 dernières heures, vous gagnez 1 niveau d’épuisement.
 <a id="en-shami-amourae-the-lady-of-delights" data-traduction="ancre"></a>
@@ -167,7 +167,7 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Sort.*** _Malédiction (au niveau 5)._
 
-***Bienfait.*** Lorsqu’une créature que vous pouvez voir dans un rayon de 30 pieds autour de vous est réduite à 0 point de vie, vous pouvez utiliser votre réaction pour gagner un nombre de points de vie temporaires égal à votre bonus de maîtrise.
+***Bienfait.*** Lorsqu’une créature que vous pouvez voir dans un rayon de 9 m autour de vous est réduite à 0 point de vie, vous pouvez utiliser votre réaction pour gagner un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
 ***Altération.*** Votre sang devient noir comme la poix et visqueux comme du goudron. Lorsque vous devriez récupérer des dés de vie après avoir terminé un repos long, vous récupérez un dé de vie de moins.
 <a id="en-vaund-the-evasive" data-traduction="ancre"></a>

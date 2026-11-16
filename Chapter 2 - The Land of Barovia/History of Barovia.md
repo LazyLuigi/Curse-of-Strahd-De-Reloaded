@@ -3,7 +3,7 @@
 # L’ère antique (3,000 BU–0 BC)
 <a id="en-origins-of-the-valley" data-traduction="ancre"></a>
 ## Les origines de la vallée
-Il y a près de quatre millénaires, la Barovie était une vallée paisible habitée par le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-first-folk">Premier Peuple</a> : une société nomade de chasseurs-cueilleurs goliaths, hauts de sept à huit pieds et lointains descendants des géants. À leur arrivée dans la vallée, qu’ils appelaient « Girvisa », c’est-à-dire « terre fertile », les membres du <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-first-folk">Premier Peuple</a> apportèrent avec eux le culte de quatre déesses féeriques mineures qu’ils nommaient les *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-rozana">Rozana</a>* : les Dames.
+Il y a près de quatre millénaires, la Barovie était une vallée paisible habitée par le <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-first-folk">Premier Peuple</a> : une société nomade de chasseurs-cueilleurs goliaths, hauts de 2,10 à 2,40 m et lointains descendants des géants. À leur arrivée dans la vallée, qu’ils appelaient « Girvisa », c’est-à-dire « terre fertile », les membres du <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-first-folk">Premier Peuple</a> apportèrent avec eux le culte de quatre déesses féeriques mineures qu’ils nommaient les *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-rozana">Rozana</a>* : les Dames.
 
 Chacune des quatre déesses sœurs veillait sur une saison particulière :
 
@@ -225,7 +225,7 @@ En un instant, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9a
 
 <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna">Tatyana</a> s’enfuit, et <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> la poursuivit.
 
-Il la pourchassa à travers les jardins du château Ravenloft, lui ordonnant et la suppliant de s’arrêter. Enfin, il l’accula en <span class="citation">K6. Belvédère (p. 54)</span> et implora son amour. Horrifiée par le monstre qu’il était devenu et cherchant désespérément à s’enfuir, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna">Tatyana</a> recula ; elle sentit derrière elle le gouffre de mille pieds qui attendait silencieusement sous les falaises de la montagne.
+Il la pourchassa à travers les jardins du château Ravenloft, lui ordonnant et la suppliant de s’arrêter. Enfin, il l’accula en <span class="citation">K6. Belvédère (p. 54)</span> et implora son amour. Horrifiée par le monstre qu’il était devenu et cherchant désespérément à s’enfuir, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna">Tatyana</a> recula ; elle sentit derrière elle le gouffre de 300 m qui attendait silencieusement sous les falaises de la montagne.
 
 À cet instant, alors que <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> avançait lentement, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-tatyana-federovna">Tatyana</a> entendit une voix : une voix de femme, trop agréable et bienveillante pour qu’elle remarque la cacophonie de murmures qui se cachait juste sous la surface.
 

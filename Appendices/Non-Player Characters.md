@@ -91,7 +91,7 @@
 
 > [!info]+ **Ireena rejoint le groupe**
 >
-> Ireena possède les caractéristiques d’un **acolyte expert (Le Chaudron des merveilles de Tasha, p. 142)**, en prenant pour base le profil d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=noble">noble</a>**, et porte une <a href="https://www.aidedd.org/regles/equipement/armes/">arbalète légère</a> (+3 au toucher, portée 80/320 pieds, une cible. _Touché :_ 5 (1d8 + 1) dégâts perforants). Elle possède également le don <span class="citation">Guérisseur (Manuel des joueurs, p. 167)</span> et commence avec deux *<a href="https://www.aidedd.org/regles/equipement/materiel/">trousses de soins</a>*.
+> Ireena possède les caractéristiques d’un **acolyte expert (Le Chaudron des merveilles de Tasha, p. 142)**, en prenant pour base le profil d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=noble">noble</a>**, et porte une <a href="https://www.aidedd.org/regles/equipement/armes/">arbalète légère</a> (+3 au toucher, portée 24/96 m, une cible. _Touché :_ 5 (1d8 + 1) dégâts perforants). Elle possède également le don <span class="citation">Guérisseur (Manuel des joueurs, p. 167)</span> et commence avec deux *<a href="https://www.aidedd.org/regles/equipement/materiel/">trousses de soins</a>*.
 >
 > Le niveau initial d’Ireena est égal au niveau moyen du groupe lorsqu’elle le rejoint pour la première fois. Elle possède en outre la maîtrise d’Histoire, d’Investigation, de Médecine, de Perception et de Discrétion, ainsi que la maîtrise des jets de sauvegarde de Dextérité. Si elle rejoint le groupe au niveau 3, elle possède 25 (5d8) points de vie.
 >
