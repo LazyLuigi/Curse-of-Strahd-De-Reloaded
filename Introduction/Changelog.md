@@ -1,5 +1,18 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-premier-peuple-goliath-2026-11-15"></a>
+# Mise à jour 3.4 (15 novembre 2026)
+* Le [Premier Peuple](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-first-folk) devient goliath : le Peuple des Forêts et le Peuple des Montagnes en descendent
+* Certains de ses clans quittent la vallée sous Kavan et après Dostron, bien avant Strahd ; nul ne sait ce qu’ils sont devenus
+* Burebis devient un lointain parent des Tauta, et les Martikov gardent de leurs ancêtres une taille et une carrure au-dessus de la moyenne
+
+<a id="de-la-devoreuse-2026-11-14"></a>
+# Mise à jour 3.3 (14 novembre 2026)
+* Remaniement du lore autour de la [Dévoreuse](../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-devourer) : seules les quatre sœurs sont des divinités, et les Sombres Puissances, Mère Nuit et Ezra deviennent ses masques
+* Les vestiges du [Temple de l’Ambre](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md) deviennent les éclats de son esprit, chacun nommé d’après un de ses traits
+* Remplacement de la bénédiction de la Rêveuse par le *Sceau du Sphinx* : au [lac Zarovich](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md#en-u3i-lake-zarovich), la Rêveuse ne peut plus être rachetée
+* Suppression des *Talismans des Brumes*, de la Rêveuse rachetée de l’[Épilogue](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Epilogue.md) et de l’expédition finale
+
 <a id="de-plein-ecran-joueurs-2026-11-11"></a>
 # Correctif 3.2.0.12 (11 novembre 2026)
 * Ajout d’un bouton Plein écran dans la fenêtre des joueurs du lecteur ; il réapparaît quand la souris bouge, puis s’efface
@@ -225,7 +238,7 @@ Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas 
 * Ajout d’une illustration du monument de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-marina-ulrich">Marina</a> dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
 * Précision sur la visibilité du brouillard qui entoure <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
 * Ajout d’une illustration de <a href="../Appendices/Non-Player%20Characters.md#en-rahadin">Rahadin</a> dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
-* Ajout dans [Traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md) d’une précision : les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a>, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loups-garous</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> et, lorsque <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dort, les personnes munies de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-mist-talisman">talismans des Brumes</a> peuvent traverser <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-mists">les Brumes</a> dans les deux sens
+* Ajout dans [Traditions et secrets de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md) d’une précision : les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a>, les <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loups-garous</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> et, lorsque <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dort, les personnes munies de talismans des Brumes peuvent traverser <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-the-mists">les Brumes</a> dans les deux sens
 <a id="en-patch-20114-april-9-2026" data-traduction="ancre"></a>
 # Correctif 2.0.1.14 (9 avril 2026)
 * Correction de diverses coquilles, de liens défectueux et d’erreurs de mise en forme
@@ -401,7 +414,7 @@ Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas 
 * Ajout d’[Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
 <a id="en-hotfix-20112-march-23-2025" data-traduction="ancre"></a>
 # Correctif urgent 2.0.11.2 (23 mars 2025)
-* Ajustement de l’histoire du Temple de l’Ambre et de la réponse à l’énigme de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a> dans [Arc S : Une épée de lumière solaire](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md), pour préciser que les vestiges de l’Ambre ne sont pas les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a>.
+* Ajustement de l’histoire du Temple de l’Ambre et de la réponse à l’énigme de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a> dans [Arc S : Une épée de lumière solaire](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md), pour préciser que les vestiges de l’Ambre ne sont pas les Sombres Puissances.
 <a id="en-hotfix-20111-march-22-2025" data-traduction="ancre"></a>
 # Correctif urgent 2.0.11.1 (22 mars 2025)
 * Ajout d’*Indomptable* au profil de <a href="../Appendices/Non-Player%20Characters.md#en-commander-vladimir-horngaard">Vladimir</a> dans l’arc M

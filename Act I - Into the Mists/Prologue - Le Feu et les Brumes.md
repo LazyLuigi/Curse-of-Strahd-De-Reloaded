@@ -55,7 +55,7 @@ Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.
 <p>Le greffier referme la porte derrière vous. Plusieurs rapports de la garde se chevauchent sur la table devant vous, chacun d’une écriture différente. <a href="../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive">Loïc de Hauterive</a> se tient debout de l’autre côté, une main posée à plat sur le bois massif de la table.</p>
 <p>« Des vivres volés. Une disparition. Des tombes profanées. » Son index tapote chaque feuillet à mesure qu’il énonce les méfaits. « Et maintenant, de la sorcellerie ! Depuis que ces étrangers traînent sur nos chemins, chacun vient se plaindre à ma porte. »</p>
 <p>Il appuie sa chevalière dans la cire d’un avis d’expulsion déjà rédigé, puis vous le tend.</p>
-<p>« Trouvez leur caravane et faites-la quitter mon domaine avant demain midi. Peu m’importe comment vous vous y prendrez. Je vous confie cette affaire parce que vous savez la régler discrètement. »</p>
+<p>« Trouvez leur caravane et faites-la quitter mon domaine avant demain midi. Peu m’importe comment vous vous y prendrez. Usez de la force si nécessaire, je veux qu’ils aient quitté mon domaine au plus vite ! »</p>
 </div>
 
 ![[Prologue-Le_Feu_et_les_Brumes_05cf4f18.webp]]
@@ -82,7 +82,7 @@ Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.
 
 Si les joueurs veulent lire les plaintes, le greffier les leur présente une à une : le vol au moulin, l’apprentie du potier disparue, la tombe ouverte et les lueurs vues par l’aubergiste (voir [Ce que disent les habitants](#de-plaintes)). Chaque feuillet porte le nom du plaignant.
 
-[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) n’attend pas de discussion. Si les joueurs posent des questions, il les balaie d’un revers de main : « Je n’ai que faire des détails. Usez de la force s’il le faut. Cela devrait être dans vos cordes. »
+[Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) n’attend pas de discussion. Si les joueurs posent des questions, il les balaie d’un revers de main : « Je n’ai que faire des détails. Voyez avec Maître (dit-il en montrant le greffier de la main). Débarrassez-moi de ces parasites, cela devrait être dans vos cordes il me semble. »
 
 Remettez aux joueurs l’avis ci-dessous ; l’un d’eux le lira à voix haute devant les Vistani, en 0.3. Il dit ceci :
 
