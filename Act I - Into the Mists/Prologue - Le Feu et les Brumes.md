@@ -69,7 +69,7 @@ Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.
 >
 > ***Émotions.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) se montre le plus souvent assuré, impatient, méprisant ou soucieux de sa réputation.
 >
-> ***Motivations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) veut ramener le calme sur ses terres sans entacher sa réputation.
+> ***Motivations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) veut ramener le calme sur ses terres sans entacher sa réputation, et laisser le souvenir d’un seigneur qui savait protéger les siens.
 >
 > ***Inspirations.*** Pour interpréter [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive), inspirez-vous de Tywin Lannister (*Game of Thrones*) et de Denethor (*Le Seigneur des anneaux*).
 >
@@ -78,7 +78,18 @@ Le jour J0, à midi, [Loïc de Hauterive](../Appendices/Non-Player%20Characters.
 >
 > ***Moral.*** En cas de conflit, [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) ne se battrait pas lui-même : il enverrait ses hommes de main ou sa garde.
 >
-> ***Relations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) est le seigneur de Valcroix ; les joueurs sont ses hommes de main. Il ignore que des pillards se font passer pour des Vistani.
+> ***Relations.*** [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) est le seigneur de Valcroix ; les joueurs sont ses hommes de main. Veuf de dame Aliénor, il n’a pas d’héritier. Il ignore que des pillards se font passer pour des Vistani.
+
+> [!lore]+ **L’histoire de Loïc**
+> [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) a une soixantaine d’années. Il est veuf et n’a jamais eu d’enfants. Son épouse, dame Aliénor, est morte d’une maladie il y a une dizaine d’années. Il n’a jamais cherché à se remarier et accueille assez froidement les suggestions à ce sujet.
+>
+> Aliénor avait du caractère. Elle savait lui tenir tête en privé, lui faire entendre une objection et, parfois, le faire rire (chose que ses serviteurs les plus récents auraient du mal à imaginer). Ils ont partagé près de trente ans de vie commune. [Loïc](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) parle rarement d’elle, mais il porte toujours son alliance.
+>
+> Il était déjà fier et autoritaire du vivant d’Aliénor. Depuis son veuvage, il s’est davantage refermé et consacre presque toute son attention aux affaires de Valcroix. Faute de descendance, il tient particulièrement à ce qu’on se souvienne de son règne. Il veut laisser des terres prospères, un domaine respecté et la réputation d’un seigneur qui savait protéger les siens. L’idée qu’on puisse le considérer comme un vieil homme dépassé lui est insupportable.
+>
+> Cela explique aussi l’importance qu’il accorde à ses hommes de main : il compte sur leur efficacité et leur loyauté pour maintenir son autorité. Sa confiance est réelle, ses compliments beaucoup plus rares.
+>
+> Au château, chacun connaît deux sujets qu’il vaut mieux le laisser aborder lui-même : sa femme et sa succession.
 
 Si les joueurs veulent lire les plaintes, le greffier les leur présente une à une : le vol au moulin, l’apprentie du potier disparue, la tombe ouverte et les lueurs vues par l’aubergiste (voir [Ce que disent les habitants](#de-plaintes)). Chaque feuillet porte le nom du plaignant.
 

@@ -1,5 +1,9 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-histoire-loic-2026-11-17"></a>
+# Correctif 3.5.0.1 (17 novembre 2026)
+* Ajout de l’histoire de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans le [prologue](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) : son veuvage, sa succession et ce qu’il attend de ses hommes de main
+
 <a id="de-systeme-metrique-2026-11-16"></a>
 # Mise à jour 3.5 (16 novembre 2026)
 * Le guide passe au système métrique : 5 pieds = 1,50 m, comme les fiches AideDD et les cases de battle map ; les miles deviennent des kilomètres, les pouces des centimètres, les yards des mètres et les livres des kilogrammes
