@@ -183,6 +183,8 @@ Si les joueurs restent fouiller les roulottes, les pillards attaquent pendant qu
 
 Si les joueurs demandent la position de la charrette pour y mener l’enquête, les Vistani leur diront l’avoir vue sur le chemin, à l’est, il y a quelques heures. Elle est cachée à une trentaine de mètres en remontant le chemin. Les pillards qui la gardent attaquent les joueurs dès que ceux-ci arrivent à 9 m de la charrette (voir [Les pillards au crépuscule](#de-brigands)) ; elle contient leurs déguisements, des armes et le butin de leurs vols. Le nombre de pillards qui la gardent, et l’attaque éventuelle du camp par le reste de la bande, sont laissés à votre discrétion.
 
+![[Prologue-Le_Feu_et_les_Brumes_82f517f6_BattleMap_24x16.jpg]]
+
 **Si les joueurs repartent avant le crépuscule.** Un voyageur les rattrape, hors d’haleine, à la sortie de la prairie : « La petite charrette s’est arrêtée dans les arbres. Il y a des hommes armés autour ; il se prépare quelque chose ! » Les joueurs ont le temps de revenir et d’organiser la protection du camp ; jouez alors la confrontation ci-dessous en adaptant l’horaire à ce qu’ils ont fait entre-temps. S’ils poursuivent malgré l’alerte, les pillards attaquent les étrangers. Ils entendront alors des bruits de combat et des hurlements d’enfants provenir de la caravane.
 
 <a id="sils-exigent-un-départ-immédiat"></a>
@@ -216,6 +218,8 @@ Trois roulottes bordent une clairière d’environ 24 m sur 18 m. Le foyer est a
 * **Le butin visé.** Les sacs de vivres et le petit coffre sont au pied de la roulotte qui borde la droite du passage, à 3 m à l’intérieur du camp. Le mulet chargé est attaché à cette même roulotte, 3 m plus loin. Depuis le foyer, les défenseurs voient les deux approches ; annoncez ces positions avant l’initiative.
 
 Utilisez le profil des [bandits](https://www.aidedd.org/dnd/monstres.php?vf=bandit) de l’édition jouée, y compris pour leur meneur. La bande compte **un pillard par joueur, plus deux**.
+
+![[Prologue-Le_Feu_et_les_Brumes_57504a1f_BattleMap_16x12.jpg]]
 
 **Initiative.** Dès qu’un joueur attaque, qu’un pillard se précipite sur les vivres ou qu’une arme est utilisée, lancez l’initiative depuis les positions choisies. Si les pillards attaquent les joueurs près de la charrette, comparez leurs tests de Dextérité (Discrétion) à la Sagesse (Perception) passive de chaque joueur : un joueur qui ne les a pas remarqués est surpris au premier round.
 
