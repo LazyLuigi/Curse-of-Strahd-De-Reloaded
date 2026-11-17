@@ -109,7 +109,7 @@ En sortant de Jouets <a href="../Appendices/Non-Player%20Characters.md#en-gadof-
 # E2. Campement vistani
 <span class="citation"><em>Cette scène se déroule au chapitre 5 : zone N9.</em></span>
 
-Le chemin entre Vallaki et le campement vistani est décrit dans <span class="citation">N9. Campement vistani (p. 119)</span>. Le trajet mesure un demi-mile et prend environ dix minutes.
+Le chemin entre Vallaki et le campement vistani est décrit dans <span class="citation">N9. Campement vistani (p. 119)</span>. Le trajet mesure 750 m et prend environ dix minutes.
 
 À leur arrivée au camp, les joueurs peuvent monter au sommet de la colline jusqu’au cercle de roulottes (voir [E2a. Le campement vistani](#en-e2a-the-vistani-encampment)) ou parler à l’un des elfes du crépuscule qui gardent les masures au pied de la colline (voir [E2b. Les masures des elfes du crépuscule](#en-e2b-dusk-elf-hovels)).
 <a id="en-e2a-the-vistani-encampment" data-traduction="ancre"></a>
@@ -123,7 +123,7 @@ Lorsque les joueurs entrent pour la première fois dans la <a href="https://www.
 <div class="description">
 <p>Alors que vous vous baissez pour entrer dans la <a href="https://www.aidedd.org/regles/equipement/materiel/">tente</a>, vous entendez du bois éclater et de la céramique se briser. Clignant des yeux à travers la fumée qui emplit l’intérieur, vous distinguez trois feux de camp qui crépitent faiblement sur leurs braises. Six <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-vistani">Vistani</a> sont assis autour des foyers et regardent la source du vacarme d’un air grave et compatissant.</p>
 <p>Un jeune homme torse nu est agenouillé dans l’herbe morte, près du centre de la <a href="https://www.aidedd.org/regles/equipement/materiel/">tente</a>, les yeux baissés et le visage pâle. À côté de lui, une caisse en bois brisée gît au milieu d’un tas de tessons de poterie dont plusieurs oscillent encore sous la force du choc.</p>
-<p>À une douzaine de pieds du jeune homme se tient un homme plus âgé et plus imposant, portant une armure de <a href="https://www.aidedd.org/regles/equipement/armures/">cuir clouté</a> et une épaisse barbe bien taillée. Ses yeux sont injectés de sang et sa main droite tremble. Il semble s’appuyer de tout son poids sur une béquille de fortune en bois ; en baissant les yeux, vous constatez que le bas de sa jambe droite est enveloppé de bandages tachés de sang.</p>
+<p>À trois ou quatre mètres du jeune homme se tient un homme plus âgé et plus imposant, portant une armure de <a href="https://www.aidedd.org/regles/equipement/armures/">cuir clouté</a> et une épaisse barbe bien taillée. Ses yeux sont injectés de sang et sa main droite tremble. Il semble s’appuyer de tout son poids sur une béquille de fortune en bois ; en baissant les yeux, vous constatez que le bas de sa jambe droite est enveloppé de bandages tachés de sang.</p>
 <p>« Tu devais veiller sur elle ! » rugit-il d’une voix rauque. Il pivote, la main cherchant à l’aveuglette quelque autre objet à lancer. La sueur perle sur son front et il étouffe un sanglot de rage. « Ma petite fille ! Et maintenant… »</p>
 <p>Il vacille et trébuche. En un éclair, un troisième homme, également vêtu de <a href="https://www.aidedd.org/regles/equipement/armures/">cuir clouté</a> et portant une barbiche soigneusement taillée, sort de son ombre et le soutient de son épaule avant qu’il ne tombe. « Doucement, mon frère, murmure-t-il. Tu as perdu beaucoup de sang. » Il relève les yeux et vous aperçoit, fronçant les sourcils de façon presque imperceptible. « Et il semblerait que nous ayons de la compagnie. »</p>
 </div>
@@ -184,9 +184,9 @@ Si les joueurs ne prennent pas la parole, <a href="../Appendices/Non-Player%20Ch
 Si les joueurs acceptent sa mission, <a href="../Appendices/Non-Player%20Characters.md#en-luvash">Luvash</a> les envoie en **E2b. Masures des elfes du crépuscule** pour rencontrer <a href="../Appendices/Non-Player%20Characters.md#en-kasimir-velikov">Kasimir</a>.
 
 > [!abstract]+ **Sur la piste d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a>**
-> Si les joueurs proposent de suivre la piste d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> depuis le lieu de sa disparition, <a href="../Appendices/Non-Player%20Characters.md#en-luvash">Luvash</a> peut leur indiquer un endroit près de la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, à environ un mile au sud de <span class="citation">P. Croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> (p. 40)</span>. Pour s’y rendre, les joueurs passent par [E5a. Pont de la Luna](#en-e5a-luna-river-bridge) et [E5b. Croisée de la Luna](#en-e5b-luna-river-crossroads).
+> Si les joueurs proposent de suivre la piste d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> depuis le lieu de sa disparition, <a href="../Appendices/Non-Player%20Characters.md#en-luvash">Luvash</a> peut leur indiquer un endroit près de la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, à environ 1,5 km au sud de <span class="citation">P. Croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> (p. 40)</span>. Pour s’y rendre, les joueurs passent par [E5a. Pont de la Luna](#en-e5a-luna-river-bridge) et [E5b. Croisée de la Luna](#en-e5b-luna-river-crossroads).
 > 
-> Un joueur qui fouille les environs du lieu où <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> a disparu et réussit un test de Sagesse (Survie) DD 15 peut identifier trois séries d’empreintes de taille adulte dans l’herbe boueuse à proximité. La première vient du nord et s’arrête dans l’herbe ; la deuxième vient du nord, continue vers le sud-ouest et s’arrête au pied d’un arbre à trente pieds de là ; la troisième vient des bois à l’ouest et continue vers la berge, où elle s’arrête. Aucune trace ne se poursuit sur l’autre rive.
+> Un joueur qui fouille les environs du lieu où <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> a disparu et réussit un test de Sagesse (Survie) DD 15 peut identifier trois séries d’empreintes de taille adulte dans l’herbe boueuse à proximité. La première vient du nord et s’arrête dans l’herbe ; la deuxième vient du nord, continue vers le sud-ouest et s’arrête au pied d’un arbre à 9 m de là ; la troisième vient des bois à l’ouest et continue vers la berge, où elle s’arrête. Aucune trace ne se poursuit sur l’autre rive.
 > 
 > Un joueur qui examine les empreintes et réussit un test d’Intelligence (Investigation) DD 15 peut déduire des déplacements et des taches de sang sur l’herbe que le premier et le troisième individu se sont brièvement battus et que le premier est mort. Le deuxième s’est ensuite enfui et a disparu dans la canopée. Le troisième, portant quelque chose de lourd, peut-être du poids d’un enfant, est alors entré dans la rivière.
 > 
@@ -396,7 +396,7 @@ S’il accepte de leur communiquer des informations sur son <a href="https://www
 ## E3c. Parler à Victor
 <span class="citation"><em>Cette scène se déroule au chapitre 5 : zone N3t.</em></span>
 
-L’atelier de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> correspond dans l’ensemble à la description de <span class="citation">N3t. Atelier de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> (p. 109)</span>, sauf que le *<a href="https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection">glyphe de protection</a>* de la porte, au lieu d’infliger des dégâts de foudre, lance _peur_ dans un cône de 30 pieds orienté à l’opposé de la porte lorsqu’il est déclenché. De plus, le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> contient les sorts *<a href="https://www.aidedd.org/dnd/sorts.php?vf=communication-a-distance">communication à distance</a>* et *<a href="https://www.aidedd.org/dnd/sorts.php?vf=peur">peur</a>*, mais pas *<a href="https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions">délivrance des malédictions</a>*.
+L’atelier de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> correspond dans l’ensemble à la description de <span class="citation">N3t. Atelier de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> (p. 109)</span>, sauf que le *<a href="https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection">glyphe de protection</a>* de la porte, au lieu d’infliger des dégâts de foudre, lance _peur_ dans un cône de 9 m orienté à l’opposé de la porte lorsqu’il est déclenché. De plus, le <a href="https://www.aidedd.org/regles/equipement/materiel/">grimoire</a> de <a href="../Appendices/Non-Player%20Characters.md#en-victor-vallakovich">Victor</a> contient les sorts *<a href="https://www.aidedd.org/dnd/sorts.php?vf=communication-a-distance">communication à distance</a>* et *<a href="https://www.aidedd.org/dnd/sorts.php?vf=peur">peur</a>*, mais pas *<a href="https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions">délivrance des malédictions</a>*.
 
 > [!Warning]+ Contresort 2024
 > 
@@ -494,12 +494,12 @@ Lorsque les joueurs quittent la cabane de <a href="../Appendices/Index%20des%20p
 Il s’agit d’<a href="../Appendices/Non-Player%20Characters.md#en-arrigal">Arrigal</a>, qui a décidé d’espionner les joueurs pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> et de veiller à ce qu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> soit ramenée saine et sauve s’ils la trouvent. Bien qu’il reste hors de vue pour le reste du voyage, il continue à les suivre de loin.
 <a id="en-e5a-luna-river-bridge" data-traduction="ancre"></a>
 ## E5a. Pont de la Luna
-Le trajet de Vallaki à la croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> mesure un mile et dure vingt minutes. Lorsque les joueurs franchissent le pont sur la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, lisez :
+Le trajet de Vallaki à la croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> mesure 2 km et dure vingt minutes. Lorsque les joueurs franchissent le pont sur la rivière <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a>, lisez :
 
 <div class="description">
 <p>Le chemin se rétrécit entre des arbres hauts et serrés. Devant vous apparaît un vieux pont de bois dont les planches usées enjambent une rivière impétueuse. En approchant, vous voyez ses eaux sombres rouler sur les pierres lisses du lit, entre deux rives bordées d’arbres et de buissons noueux.</p>
 <p>Lorsque vous posez le pied sur le pont, vos bottes résonnent sur le vieux bois humide. Au nord, la rivière serpente en amont le long des arbres avant de disparaître dans un méandre. Au sud, elle s’étire comme un ruban entre ses rives, puis se perd peu à peu dans la brume.</p>
-<p>À mi-chemin, vous remarquez quelque chose d’étrange : un petit morceau d’étoffe blanche flotte à la surface près de la rive opposée, accroché à une racine d’arbre une douzaine de yards en aval.</p>
+<p>À mi-chemin, vous remarquez quelque chose d’étrange : un petit morceau d’étoffe blanche flotte à la surface près de la rive opposée, accroché à une racine d’arbre une dizaine de mètres en aval.</p>
 </div>
 
 Si les joueurs récupèrent le morceau d’étoffe, ils découvrent un petit mouchoir blanc trempé, brodé des initiales rouges « R.V.R. ». (<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-arabelle">Arabelle</a> a laissé cet indice pendant son trajet vers Vallaki avec <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a>.)
@@ -537,7 +537,7 @@ Si les joueurs s’approchent du panneau brisé ou s’apprêtent à quitter le 
 
 <a id="en-e6-lake-baratok" data-traduction="ancre"></a>
 # E6. Lac Baratok
-Le trajet de la croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> au lac Baratok par le sentier du nord-ouest mesure deux miles et quart et dure quarante-cinq minutes.
+Le trajet de la croisée de la <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-luna">Luna</a> au lac Baratok par le sentier du nord-ouest mesure 3 km et dure quarante-cinq minutes.
 
 Le lac Baratok est décrit dans <span class="citation">Approcher de la tour (p. 167)</span>. La tour elle-même correspond dans l’ensemble à la description du <span class="citation">chapitre 11 : La tour de <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> (p. 167)</span>.
 <a id="en-e6a-ezmereldas-wagon" data-traduction="ancre"></a>
@@ -599,7 +599,7 @@ La porte de la tour correspond dans l’ensemble à la description de <span clas
 <p>La porte de la tour est en fer, sans poignée ni charnières visibles. En son centre se trouve un grand sceau rouge en relief, vierge. Un mot est gravé dans le linteau au-dessus : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-khazan">Khazan</a>.</p>
 </div>
 
-Le sceau paraît vierge. Toutefois, si un personnage s’approche à 5 pieds ou moins de la porte, huit boutons gros comme le poing émergent de sa surface cireuse, aux mêmes emplacements que les bonshommes dessinés dans <span class="citation">V2. Porte de la tour (p. 169)</span>. Si le personnage s’éloigne, les boutons disparaissent. Ils surgissent à des endroits différents chaque fois, mais leur ordre autour du sceau reste toujours identique.
+Le sceau paraît vierge. Toutefois, si un personnage s’approche à 1,50 m ou moins de la porte, huit boutons gros comme le poing émergent de sa surface cireuse, aux mêmes emplacements que les bonshommes dessinés dans <span class="citation">V2. Porte de la tour (p. 169)</span>. Si le personnage s’éloigne, les boutons disparaissent. Ils surgissent à des endroits différents chaque fois, mais leur ordre autour du sceau reste toujours identique.
 ![[Tower Door.webp]]
 Chacun des huit boutons porte une rune arcanique différente. Un joueur qui maîtrise les Arcanes, ou réussit un test d’Intelligence (Arcanes) DD 10, reconnaît les symboles des huit écoles de magie. Leur ordre dans le sens antihoraire autour du sceau est toujours : illusion, abjuration, nécromancie, invocation, divination, enchantement, transmutation, évocation.
 
@@ -612,7 +612,7 @@ Les deux séquences correctes sont :
 
 Chaque fois qu’un bouton est pressé, son symbole brille de la couleur de son école : évocation (rouge), divination (argent), illusion (violet), transmutation (vert), invocation (brun), abjuration (jaune), enchantement (rose) et nécromancie (bleu).
 
-Une créature qui touche une partie de la porte autre que les boutons sans l’avoir d’abord déverrouillée reçoit une décharge électrique légère mais douloureuse. Une créature qui tente d’enfoncer la porte doit réussir un test de Force DD 25 ; en cas d’échec, un éclair jaillit en ligne droite de la porte sur 100 pieds de long et 5 pieds de large. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 8d6 dégâts de foudre en cas d’échec, ou la moitié en cas de réussite. (Déclencher l’éclair plusieurs fois ne fait pas s’effondrer la porte.)
+Une créature qui touche une partie de la porte autre que les boutons sans l’avoir d’abord déverrouillée reçoit une décharge électrique légère mais douloureuse. Une créature qui tente d’enfoncer la porte doit réussir un test de Force DD 25 ; en cas d’échec, un éclair jaillit en ligne droite de la porte sur 30 m de long et 1,50 m de large. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 8d6 dégâts de foudre en cas d’échec, ou la moitié en cas de réussite. (Déclencher l’éclair plusieurs fois ne fait pas s’effondrer la porte.)
 
 Si huit symboles différents sont pressés dans un ordre incorrect, leurs lumières vacillent brièvement puis s’éteignent. La première fois, les statues de griffons sur le toit de la tour, quatre **<a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouilles</a> <a href="../Appendices/Bestiary.md#en-gargoyle"><sup>fiche</sup></a>** déguisées, s’animent et attaquent. Elles se battent jusqu’à la mort.
 
@@ -653,7 +653,7 @@ L’échafaudage est décrit dans <span class="citation">V3. Échafaudage branla
 <br>
 <strong>Points de vie</strong> 37 (5d8 + 15)
 <br>
-<strong>Vitesse</strong> 15 pieds, vol 30 pieds
+<strong>Vitesse</strong> 4,50 m, vol 9 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -682,7 +682,7 @@ L’échafaudage est décrit dans <span class="citation">V3. Échafaudage branla
 <strong>Vulnérabilités aux dégâts</strong> tonnerre<br>
 <strong>Immunités aux dégâts</strong> poison<br>
 <strong>Immunités aux états</strong> épuisement, pétrifié, empoisonné<br>
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 10<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 10<br>
 <strong>Langues</strong> terreux<br>
 <strong>Facteur de puissance</strong> 2<br>
 <strong>Bonus de maîtrise</strong> +2<br>
@@ -695,11 +695,11 @@ L’échafaudage est décrit dans <span class="citation">V3. Échafaudage branla
 <a id="en-actions" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> La <a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouille</a> <a href="../Appendices/Bestiary.md#en-gargoyle"><sup>fiche</sup></a> effectue deux attaques : une de morsure et une de griffes.</p>
-<p><strong><em>Morsure.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
-<p><strong><em>Griffes.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 5 pieds, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants. Au lieu d’infliger des dégâts, la <a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouille</a> peut agripper la cible (DD 13 pour s’échapper).</p>
+<p><strong><em>Morsure.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 au toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants. Au lieu d’infliger des dégâts, la <a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouille</a> peut agripper la cible (DD 13 pour s’échapper).</p>
 </div>
 
-Si elle le peut, une <a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouille</a> ayant agrippé un joueur s’élève en vol de 15 pieds pendant son tour et utilise son action pour lui infliger une ***morsure***.
+Si elle le peut, une <a href="https://www.aidedd.org/dnd/monstres.php?vf=gargouille">gargouille</a> ayant agrippé un joueur s’élève en vol de 4,50 m pendant son tour et utilise son action pour lui infliger une ***morsure***.
 <a id="en-3-inside-the-tower" data-traduction="ancre"></a>
 ### 3. À l’intérieur de la tour
 <span class="citation"><em>Cette scène se déroule au chapitre 11 : zones V4, V5, V6, V7 et V8.</em></span>
@@ -721,11 +721,11 @@ Un test d’Intelligence (Investigation) DD 15 réussi ou dix minutes de fouille
 [Transcription française](../Appendices/Supports%20visuels.md#support-carnaval)
 <span class="credit">« Affiche du cirque de <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Rictavio</a> » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-Pendant que les joueurs fouillent la pièce, tout personnage qui regarde par une fenêtre vers le lac Baratok remarque quelque chose d’étrange : un groupe de nénuphars à environ quinze pieds de la rive est taché de jaune vif et éclatant, contrastant nettement avec les verts ternes des plantes voisines.
+Pendant que les joueurs fouillent la pièce, tout personnage qui regarde par une fenêtre vers le lac Baratok remarque quelque chose d’étrange : un groupe de nénuphars à environ 4,50 m de la rive est taché de jaune vif et éclatant, contrastant nettement avec les verts ternes des plantes voisines.
 
 > [!abstract]+ **Les nénuphars**
 >
-> Un joueur qui examine les nénuphars tachés peut trouver trois pots de céramique immergés à dix pieds sous la surface. Chacun est à moitié rempli de cailloux ; deux portent des traces de peinture jaune séchée sur leur bord et à l’intérieur, et le troisième des traces de peinture blanche séchée aux mêmes endroits.
+> Un joueur qui examine les nénuphars tachés peut trouver trois pots de céramique immergés à 3 m sous la surface. Chacun est à moitié rempli de cailloux ; deux portent des traces de peinture jaune séchée sur leur bord et à l’intérieur, et le troisième des traces de peinture blanche séchée aux mêmes endroits.
 >
 > Si le joueur a déjà vu la roulotte de <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Rictavio</a> au dépôt Arasek, il reconnaît la même nuance de jaune que celle du panneau de la roulotte.
 
@@ -797,7 +797,7 @@ Utilisez le profil ci-dessous pour les **<a href="https://www.aidedd.org/dnd/mon
 <br>
 <strong>Points de vie</strong> 84 (13d8 + 26)
 <br>
-<strong>Vitesse</strong> 30 pieds (40 pieds sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
+<strong>Vitesse</strong> 9 m (12 m sous forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a>)
 <hr>
 <table class="ability-table">
   <thead>
@@ -830,14 +830,14 @@ Utilisez le profil ci-dessous pour les **<a href="https://www.aidedd.org/dnd/mon
 <strong>Bonus de maîtrise</strong> +2<br>
 <hr>
 <p><strong><em>Ouïe et odorat aiguisés.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> a l’avantage aux tests de Sagesse (Perception) faisant appel à l’ouïe ou à l’odorat.</p>
-<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> a l’avantage au jet d’attaque contre une créature si au moins un de ses alliés est à 5 pieds ou moins de celle-ci et n’est pas neutralisé.</p>
+<p><strong><em>Tactique de groupe.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> a l’avantage au jet d’attaque contre une créature si au moins un de ses alliés est à 1,50 m ou moins de celle-ci et n’est pas neutralisé.</p>
 <p><strong><em>Régénération.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> récupère 10 points de vie au début de son tour. S’il subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants d’une arme argentée, ce trait ne fonctionne pas au début de son prochain tour. Il ne meurt que s’il commence son tour avec 0 point de vie et ne se régénère pas.</p>
 <a id="en-actions-2" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> effectue deux attaques : deux de <a href="https://www.aidedd.org/regles/equipement/armes/">lance</a> (forme humanoïde) ou une de morsure et une de griffes (forme de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> ou hybride).</p>
-<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 5 pieds, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> peut agripper la cible (DD 11 pour s’échapper). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
-<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 5 pieds, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d’être jetée à terre.</p>
-<p><strong><em>Lance (forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 5 pieds ou portée 20/60 pieds, une créature. Touché : 6 (1d6 + 3) dégâts perforants, ou 6 (1d8 + 3) dégâts perforants si elle est maniée à deux mains pour une attaque au corps à corps.</p>
+<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d’infliger des dégâts, le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> peut agripper la cible (DD 11 pour s’échapper). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 sous peine de contracter la malédiction de lycanthropie du <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a>.</p>
+<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d’être jetée à terre.</p>
+<p><strong><em>Lance (forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants, ou 6 (1d8 + 3) dégâts perforants si elle est maniée à deux mains pour une attaque au corps à corps.</p>
 <a id="en-bonus-actions" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 <p><strong><em>Changement de forme.</em></strong> Le <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-garou">loup-garou</a> <a href="../Appendices/Bestiary.md#en-werewolf"><sup>fiche</sup></a> se transforme en hybride de <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a> et d’humanoïde, en <a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loup</a> ou reprend sa forme véritable, humanoïde. Ses statistiques, à l’exception de sa CA, sont identiques sous toutes ses formes. Tout l’équipement qu’il porte ou transporte fusionne avec sa nouvelle forme. Il reprend sa forme véritable à sa mort.</p>
@@ -851,7 +851,7 @@ Les joueurs ne font aucune autre rencontre durant le trajet jusqu’à Vallaki.
 > Si un joueur contracte la lycanthropie, consultez l’encadré **La lycanthropie en Barovie** dans [Arc C : Dans la vallée](../Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#en-c11-the-werewolves-hunt) pour en savoir plus sur la malédiction.
 <a id="en-e8-return-to-vallaki" data-traduction="ancre"></a>
 # E8. Retour à Vallaki
-Le retour des joueurs du lac Baratok à Vallaki mesure trois miles et quart et dure environ une heure.
+Le retour des joueurs du lac Baratok à Vallaki mesure 5 km et dure environ une heure.
 
 À leur retour, ils peuvent suivre leurs pistes en cherchant <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Rictavio</a> à l’auberge de l’Eau bleue ou en examinant directement sa roulotte au dépôt Arasek.
 
@@ -898,7 +898,7 @@ Une fois seul avec les joueurs dans sa suite, <a href="../Appendices/Non-Player%
 <br>
 <strong>Points de vie</strong> 77 (14d8 + 14)
 <br>
-<strong>Vitesse</strong> 30 pieds
+<strong>Vitesse</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -931,12 +931,12 @@ Une fois seul avec les joueurs dans sa suite, <a href="../Appendices/Non-Player%
 <strong>Bonus de maîtrise</strong> +3
 <hr>
 <p><strong><em>Équipement spécial.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> porte une <em><a href="https://www.aidedd.org/dnd/om.php?vf=amulette-d-antidetection">amulette d’antidétection</a></em>, un <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-charm-bracelet">Bracelet à breloques</a></em>, un <em><a href="https://www.aidedd.org/dnd/om.php?vf=chapeau-de-deguisement">chapeau de déguisement</a></em>, un <em><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-lucid-lens">Monocle de lucidité</a></em> et un <em><a href="https://www.aidedd.org/dnd/om.php?vf=anneau-de-barriere-mentale">anneau de barrière mentale</a></em>.</p>
-<p><strong><em>Attaque sournoise.</em></strong> Une fois par tour, <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peut infliger 17 (5d6) dégâts supplémentaires à une créature qu’il touche avec une attaque s’il a l’avantage au jet d’attaque. Il n’a pas besoin de cet avantage si la cible est un mort-vivant ; ou si au moins un de ses alliés se trouve à 5 pieds ou moins de la cible, que cet allié n’est pas neutralisé et que <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> n’a pas de désavantage au jet d’attaque.</p>
+<p><strong><em>Attaque sournoise.</em></strong> Une fois par tour, <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> peut infliger 17 (5d6) dégâts supplémentaires à une créature qu’il touche avec une attaque s’il a l’avantage au jet d’attaque. Il n’a pas besoin de cet avantage si la cible est un mort-vivant ; ou si au moins un de ses alliés se trouve à 1,50 m ou moins de la cible, que cet allié n’est pas neutralisé et que <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> n’a pas de désavantage au jet d’attaque.</p>
 <a id="en-actions-3" data-traduction="ancre"></a>
 <h3>Actions</h3>
 <p><strong><em>Attaques multiples.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue deux attaques avec sa canne-épée argentée ou son arbalète argentée.</p>
-<p><strong><em>Canne-épée argentée.</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 5 pieds, une cible. Touché : 5 (1d6 + 2) dégâts perforants.</p>
-<p><strong><em>Arbalète argentée.</em></strong> Attaque à distance avec une arme : +5 au toucher, portée 80/320 pieds, une cible. Touché : 6 (1d8 + 2) dégâts perforants.</p>
+<p><strong><em>Canne-épée argentée.</em></strong> Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.</p>
+<p><strong><em>Arbalète argentée.</em></strong> Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.</p>
 <p><strong><em>Bracelet à breloques.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise son <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-charm-bracelet">Bracelet à breloques</a> pour lancer l’un des sorts suivants, la Sagesse étant sa caractéristique d’incantation (DD de sauvegarde des sorts 15) :<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>1/jour chacun</strong> cécité/surdité, protection contre la mort, liberté de mouvement</p>
 <p><strong><em>Chapeau de déguisement.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise son <em><a href="https://www.aidedd.org/dnd/om.php?vf=chapeau-de-deguisement">chapeau de déguisement</a></em> pour lancer <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=deguisement">déguisement</a></em>.</p>
@@ -944,7 +944,7 @@ Une fois seul avec les joueurs dans sa suite, <a href="../Appendices/Non-Player%
 <a id="en-bonus-actions-2" data-traduction="ancre"></a>
 <h3>Actions bonus</h3>
 <p><strong><em>Ruse.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue l’action Foncer, Se désengager ou Se cacher.</p>
-<p><strong><em>Maître tacticien (Aider).</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise l’action Aider pour soutenir l’attaque d’un allié contre une créature à 30 pieds ou moins de lui qui peut le voir ou l’entendre.</p>
+<p><strong><em>Maître tacticien (Aider).</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> utilise l’action Aider pour soutenir l’attaque d’un allié contre une créature à 9 m ou moins de lui qui peut le voir ou l’entendre.</p>
 <p><strong><em>Combat perspicace.</em></strong> <a href="../Appendices/Non-Player%20Characters.md#en-dr-rudolph-van-richten">Van Richten</a> effectue un test de Sagesse (Perspicacité) contre une créature qu’il voit et qui n’est pas neutralisée, opposé au Charisme (Tromperie) de la cible. S’il réussit, il a l’avantage pour l’attaquer et elle a le désavantage à ses attaques contre lui pendant 1 minute. Ce bénéfice dure 1 minute ou jusqu’à ce qu’il utilise avec succès cette aptitude contre une autre cible.</p>
 <a id="en-reactions" data-traduction="ancre"></a>
 <h3>Réactions</h3>

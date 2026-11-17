@@ -17,7 +17,7 @@ Si les joueurs tuent <a href="../Appendices/Index%20des%20personnages%20et%20cr%
 
 <a id="de-meute"></a>
 ## A1a. La meute
-Les joueurs sortent des Brumes de nuit, à la fin du [prologue](Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À un quart de mille environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.
+Les joueurs sortent des Brumes de nuit, à la fin du [prologue](Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md). Ils se tiennent à l’orée des bois de Svalich, au commencement de la vieille route. À 400 m environ, les fenêtres éclairées d’un grand manoir percent la brume ; c’est la seule construction en vue. Si le groupe s’est partagé, les Brumes déposent tout le monde au même moment.
 
 ![[Arc_A-Escape_From_Death_House_27a1726b.webp]]
 
@@ -30,7 +30,7 @@ Après quelques minutes de marche, lisez :
 <p>Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le cercle se resserre, mais du côté du manoir une lumière semble s’être allumée.</p>
 </div>
 
-Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à trente pieds. Tant que les joueurs avancent vers le manoir, la meute les escorte sans attaquer. Si un joueur s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les joueurs ont repris le chemin du manoir, et aucun ne franchit la grille du portique.
+Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à 9 m. Tant que les joueurs avancent vers le manoir, la meute les escorte sans attaquer. Si un joueur s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les joueurs ont repris le chemin du manoir, et aucun ne franchit la grille du portique.
 
 Si des joueurs portent des [reliques baroviennes](../Chapter%203%20-%20Running%20the%20Game/Running%20the%20Adventure.md#en-adventure-hooks), elles perçoivent la présence de la Maison de la Mort à l’approche du manoir et réagissent comme décrit dans [Motivations](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#en-motivations). Si certaines reliques volent ou roulent jusqu’à la Maison de la Mort, comme l’*écharpe du Voyageur* ou la *pièce d’électrum*, elles se posent sur le seuil, juste après le portique.
 
@@ -221,7 +221,7 @@ Si les joueurs examinent les ustensiles de cuisine, ils constatent que le plus g
 
 Un joueur qui entre dans le garde-manger découvre sur une étagère un service de belles assiettes décoratives peintes de moulins à vent. L’une d’elles semble être tombée et gît en morceaux sur le sol, laissant un vide dans la rangée.
 
-Quelques pouces derrière cet emplacement vide se trouve une vieille marmite en cuivre au couvercle légèrement entrouvert. Sous ce dernier dépasse le bouchon de ce qui semble être une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin.
+Quelques centimètres derrière cet emplacement vide se trouve une vieille marmite en cuivre au couvercle légèrement entrouvert. Sous ce dernier dépasse le bouchon de ce qui semble être une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin.
 
 Un joueur qui ouvre la marmite y découvre une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin, un morceau de dentelle fine plié, une <a href="https://www.aidedd.org/regles/equipement/materiel/">fiole</a> contenant une poudre brunâtre séchée et un bouquet de tournesols fanés attaché à un petit rouleau de parchemin.
 
@@ -334,7 +334,7 @@ Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modi
 
 <div class="description">
 <p>Ma plus pitoyable servante,</p>
-<p>Je ne suis pas un messie que les <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-dark-powers">Sombres Puissances</a> de cette contrée vous auraient envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez, sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre. Vous rêvez de partager mon éternité. Je décline : vous m’êtes insignifiante.</p>
+<p>Je ne suis pas un messie que les puissances que vous vénérez vous auraient envoyé. Je ne suis pas venu vous mener sur la voie de l’immortalité. Quels que soient les fidèles que vous réunissez sous votre toit, quelles que soient les prières que vous m’adressez, sachez que ce n’est pas vous qui m’avez attiré dans ce beau pays. Vous n’êtes qu’un ver se tortillant dans ma terre. Vous rêvez de partager mon éternité. Je décline : vous m’êtes insignifiante.</p>
 <p>Vous dites être maudite, votre fortune dilapidée. Votre mari a trouvé du réconfort dans les bras d’une autre femme, engendré un fils bâtard et vous a poussée à délaisser l’amour pour la folie. Maudite par les ténèbres ? Je n’en doute pas. Vous sauver de votre misère ? Je ne crois pas. Je vous préfère de loin telle que vous êtes.</p>
 <p>Votre redoutable seigneur et maître,</p>
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd von Zarovich</a></p>
@@ -361,9 +361,9 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 
 Lorsqu’elle s’anime, **l’<a href="https://www.aidedd.org/dnd/monstres.php?vf=armure-animee">armure animée</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-animated-armor-monstre"><sup>fiche</sup></a>** utilise une ou deux des attaques de ses **_Attaques multiples_** pour tenter de faire passer un joueur par-dessus la balustrade en le ***bousculant***, ou cherche à agripper la cible la plus proche avant de la bousculer pour la jeter à terre.
 
-Si l’armure est précipitée au premier niveau et que les joueurs ne révèlent pas leur présence sur le balcon, elle ne peut pas les percevoir avec sa vision aveugle de soixante pieds et n’est pas assez intelligente pour penser à remonter.
+Si l’armure est précipitée au premier niveau et que les joueurs ne révèlent pas leur présence sur le balcon, elle ne peut pas les percevoir avec sa vision aveugle de 18 m et n’est pas assez intelligente pour penser à remonter.
 
-Une créature poussée par-dessus le bord du balcon tombe de deux niveaux, soit vingt pieds, et subit 2d6 dégâts contondants. Elle doit réussir un test de Dextérité (Acrobaties) DD 15 sous peine d’atterrir à terre.
+Une créature poussée par-dessus le bord du balcon tombe de deux niveaux, soit 6 m, et subit 2d6 dégâts contondants. Elle doit réussir un test de Dextérité (Acrobaties) DD 15 sous peine d’atterrir à terre.
 
 > [!combat]- **Combat : <a href="https://www.aidedd.org/dnd/monstres.php?vf=armure-animee">Armure animée</a>**  
 > **Difficulté du combat** : légère
@@ -393,7 +393,7 @@ Lorsqu’un joueur approche de cette porte pour la première fois, lisez :
 
 <div class="description">
 <p>Ces grandes portes se dressent devant vous, leurs cadres de bois sombre enserrant deux vitraux poussiéreux. Chaque panneau est gravé de motifs complexes évoquant des moulins à vent ; leurs couleurs autrefois vives sont maintenant ternies et cachées sous un épais voile de crasse.</p>
-<p>À travers la poussière qui vous pique les yeux, vous distinguez quelque chose derrière les vitres : une silhouette, à quelques pouces du verre, éclairée par-derrière d’une faible lueur ambrée. Elle ne bouge pas, mais sa simple vue serre vos muscles dans un étau ; vos membres refusent d’obéir à votre volonté.</p>
+<p>À travers la poussière qui vous pique les yeux, vous distinguez quelque chose derrière les vitres : une silhouette, à quelques centimètres du verre, éclairée par-derrière d’une faible lueur ambrée. Elle ne bouge pas, mais sa simple vue serre vos muscles dans un étau ; vos membres refusent d’obéir à votre volonté.</p>
 <p>L’air s’épaissit autour de vous et sa température chute jusqu’à vous glacer les os. Votre souffle embue les vitres, qu’un délicat givre commence à recouvrir, tandis qu’un lourd silence engloutit les craquements et les murmures lointains de la maison.</p>
 <p>L’ombre derrière la porte est presque informe, immatérielle, mais sa présence éveille une terreur primordiale au plus profond de votre être. Votre cœur accélère, la sueur perle sur votre front, votre pouls s’emballe. Lentement, la silhouette commence à tourner la tête vers vous.</p>
 <p>Puis, aussi brusquement qu’elle est apparue, l’ombre s’évapore. Le froid mordant se dissipe, et les bruits discrets de la maison reviennent.</p>
@@ -432,7 +432,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 <p>Des étagères poussiéreuses bordent les murs. Certaines portent des draps pliés, des couvertures et de vieux pains de savon. Un balai couvert de toiles d’araignée est appuyé contre le mur du fond.</p>
 </div>
 
-Lorsqu’un joueur approche pour la première fois à 5 pieds ou moins du **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-broom-of-animated-attack">balai animé d’attaque</a>**, celui-ci attaque par surprise dès qu’il détourne les yeux ou se retourne, lui assénant un coup sur la tête. Il reprend immédiatement sa position initiale, désormais débarrassé de ses toiles d’araignée. Aux tours suivants, il utilise ses **_Attaques multiples_** pour continuer de frapper tout joueur qui ne le regarde pas et reste à 5 pieds ou moins, renonçant aux attaques d’opportunité contre ceux qui s’éloignent.
+Lorsqu’un joueur approche pour la première fois à 1,50 m ou moins du **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-broom-of-animated-attack">balai animé d’attaque</a>**, celui-ci attaque par surprise dès qu’il détourne les yeux ou se retourne, lui assénant un coup sur la tête. Il reprend immédiatement sa position initiale, désormais débarrassé de ses toiles d’araignée. Aux tours suivants, il utilise ses **_Attaques multiples_** pour continuer de frapper tout joueur qui ne le regarde pas et reste à 1,50 m ou moins, renonçant aux attaques d’opportunité contre ceux qui s’éloignent.
 <a id="en-nursemaids-suite" data-traduction="ancre"></a>
 ### Suite de la nourrice
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 15.</em></span>
@@ -633,12 +633,12 @@ Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20c
 <hr>
 <strong>Classe d’armure</strong> 15<br>
 <strong>Points de vie</strong> 93 pour cinq joueurs ; 56 / 75 / 112 pour trois / quatre / six joueurs<br>
-<strong>Vitesse</strong> 20 pieds ; <strong>Initiative</strong> +1
+<strong>Vitesse</strong> 6 m ; <strong>Initiative</strong> +1
 <hr>
 <table class="ability-table"><thead><tr><th>FOR</th><th>DEX</th><th>CON</th><th>INT</th><th>SAG</th><th>CHA</th></tr></thead><tbody><tr><td>16 (+3)</td><td>12 (+1)</td><td>14 (+2)</td><td>13 (+1)</td><td>12 (+1)</td><td>14 (+2)</td></tr></tbody></table>
 <hr>
 <strong>Compétences</strong> Intimidation +4, Intuition +3, Perception +3<br>
-<strong>Sens</strong> vision dans le noir 60 pieds, Perception passive 13<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 13<br>
 <strong>Langues</strong> commun<br>
 <strong>Facteur de puissance</strong> 4 ; aucun PX de combat à cumuler au jalon
 <hr>
@@ -646,13 +646,13 @@ Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20c
 <p><strong><em>Déchirure.</em></strong> À 0 PV, Elisabeth passe immédiatement à sa seconde forme, à la même place et au même rang d’initiative. Aucun tour, mouvement, attaque ni réaction supplémentaire n’est accordé. Les effets et états qui l’affectent conservent leurs durées et leurs conditions de fin. Ses tissus relâchent toute cible agrippée ou entravée par ses propres capacités. Les dégâts excédentaires ne débordent pas sur la seconde réserve ; une attaque suivante de la même action peut atteindre la nouvelle forme. Aucun repos ne sépare les phases.</p>
 <h3>Actions</h3>
 <p><strong><em>Autorité domestique.</em></strong> Elisabeth effectue deux attaques, au choix Poigne impérieuse ou Éclat du foyer. Elle peut remplacer l’une d’elles par le Drap mortuaire.</p>
-<p><strong><em>Poigne impérieuse.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 10 pieds, une cible. Touché : 14 (2d10 + 3) dégâts contondants. Une cible de taille M ou inférieure est agrippée (évasion DD 13). Elisabeth ne peut agripper ainsi qu’une seule créature à la fois ; elle doit la relâcher avant d’en agripper une autre. La cible, ou un joueur au contact, peut utiliser son action pour tenter un test de Force (Athlétisme) ou de Dextérité (Acrobaties) DD 13 ; en cas de réussite, la cible est libérée. L’agrippement cesse aussi si la cible est à plus de 10 pieds d’Elisabeth, ou si Elisabeth est incapable d’agir.</p>
-<p><strong><em>Éclat du foyer.</em></strong> Attaque à distance : +5 au toucher, portée 30 pieds, jusqu’à deux cibles situées à 5 pieds ou moins l’une de l’autre. Touché : 5 (1d4 + 3) dégâts perforants. Elle n’a pas de désavantage à cette attaque quand un ennemi se trouve à son contact.</p>
+<p><strong><em>Poigne impérieuse.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 3 m, une cible. Touché : 14 (2d10 + 3) dégâts contondants. Une cible de taille M ou inférieure est agrippée (évasion DD 13). Elisabeth ne peut agripper ainsi qu’une seule créature à la fois ; elle doit la relâcher avant d’en agripper une autre. La cible, ou un joueur au contact, peut utiliser son action pour tenter un test de Force (Athlétisme) ou de Dextérité (Acrobaties) DD 13 ; en cas de réussite, la cible est libérée. L’agrippement cesse aussi si la cible est à plus de 3 m d’Elisabeth, ou si Elisabeth est incapable d’agir.</p>
+<p><strong><em>Éclat du foyer.</em></strong> Attaque à distance : +5 au toucher, portée 9 m, jusqu’à deux cibles situées à 1,50 m ou moins l’une de l’autre. Touché : 5 (1d4 + 3) dégâts perforants. Elle n’a pas de désavantage à cette attaque quand un ennemi se trouve à son contact.</p>
 <p><strong><em>Drap mortuaire.</em></strong> À la place d’une de ses attaques, Elisabeth cible la créature qu’elle agrippe. Celle-ci effectue une sauvegarde de Force DD 13. Échec : 8 (2d4 + 3) dégâts contondants et état entravé jusqu’au début du prochain tour d’Elisabeth. Réussite : aucun dégât et fin de l’agrippement. Mettre fin à la Poigne met également fin à cette entrave.</p>
 <h3>Action bonus</h3>
-<p><strong><em>À genoux (une fois dans cette phase).</em></strong> Jusqu’à deux créatures choisies par Elisabeth à 10 pieds ou moins d’elle effectuent une sauvegarde de Force DD 13. En cas d’échec, elles tombent à terre. Aucun dégât.</p>
+<p><strong><em>À genoux (une fois dans cette phase).</em></strong> Jusqu’à deux créatures choisies par Elisabeth à 3 m ou moins d’elle effectuent une sauvegarde de Force DD 13. En cas d’échec, elles tombent à terre. Aucun dégât.</p>
 <h3>Réaction</h3>
-<p><strong><em>Démarche impossible.</em></strong> Après avoir subi les dégâts d’une attaque à distance ou d’un sort, Elisabeth peut se déplacer d’au plus 10 pieds, sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
+<p><strong><em>Démarche impossible.</em></strong> Après avoir subi les dégâts d’une attaque à distance ou d’un sort, Elisabeth peut se déplacer d’au plus 3 m, sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
 </div>
 
 Lorsque la première forme tombe à 0 point de vie, lisez :
@@ -669,12 +669,12 @@ Lorsque la première forme tombe à 0 point de vie, lisez :
 <hr>
 <strong>Classe d’armure</strong> 15<br>
 <strong>Points de vie</strong> 93 pour cinq joueurs ; 56 / 75 / 112 pour trois / quatre / six joueurs<br>
-<strong>Vitesse</strong> 30 pieds ; <strong>Initiative</strong> rang conservé de la première forme
+<strong>Vitesse</strong> 9 m ; <strong>Initiative</strong> rang conservé de la première forme
 <hr>
 <table class="ability-table"><thead><tr><th>FOR</th><th>DEX</th><th>CON</th><th>INT</th><th>SAG</th><th>CHA</th></tr></thead><tbody><tr><td>14 (+2)</td><td>16 (+3)</td><td>16 (+3)</td><td>13 (+1)</td><td>10 (+0)</td><td>8 (-1)</td></tr></tbody></table>
 <hr>
 <strong>Compétences</strong> Arcanes +3, Discrétion +5, Intuition +4, Perception +2<br>
-<strong>Sens</strong> vision véritable 120 pieds, Perception passive 12<br>
+<strong>Sens</strong> vision véritable 36 m, Perception passive 12<br>
 <strong>Langues</strong> commun, commun des profondeurs<br>
 <strong>Facteur de puissance</strong> 4 ; aucun PX de combat à cumuler au jalon
 <hr>
@@ -682,12 +682,12 @@ Lorsque la première forme tombe à 0 point de vie, lisez :
 <p><strong><em>Œil béant.</em></strong> Après avoir utilisé Regard de corruption ou Lecture de secret, Elisabeth expose son œil jusqu’au début de son prochain tour. La première attaque qui la touche pendant cette ouverture lui inflige 1d6 dégâts supplémentaires du même type que l’attaque, puis l’ouverture cesse. Décrivez aux joueurs l’œil grand ouvert et humide, pour qu’ils comprennent qu’il faut frapper maintenant. Plusieurs expositions avant le même début de tour ne cumulent pas les dés.</p>
 <h3>Actions</h3>
 <p><strong><em>Griffes.</em></strong> Elisabeth effectue trois attaques de Griffe.</p>
-<p><strong><em>Griffe.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 5 pieds, une cible. Touché : 14 (2d10 + 3) dégâts tranchants.</p>
-<p><strong><em>Regard de corruption.</em></strong> À la place des Griffes, Elisabeth choisit une créature qu’elle voit à 30 pieds ou moins. La cible effectue une sauvegarde de Constitution DD 13. Échec : 14 (4d6) dégâts nécrotiques ; réussite : aucun dégât. Cette action expose son œil.</p>
+<p><strong><em>Griffe.</em></strong> Attaque au corps à corps : +5 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d10 + 3) dégâts tranchants.</p>
+<p><strong><em>Regard de corruption.</em></strong> À la place des Griffes, Elisabeth choisit une créature qu’elle voit à 9 m ou moins. La cible effectue une sauvegarde de Constitution DD 13. Échec : 14 (4d6) dégâts nécrotiques ; réussite : aucun dégât. Cette action expose son œil.</p>
 <h3>Action bonus</h3>
-<p><strong><em>Lecture de secret (une fois dans cette phase).</em></strong> Elisabeth choisit une créature qu’elle voit à 30 pieds ou moins. Elle oppose son test de Sagesse (Intuition) +4 au test de Charisme (Tromperie) de la cible. Si elle l’emporte, elle apprend un secret réel du personnage et le dit à voix haute, devant ses compagnons. Une cible immunisée à l’état charmé gagne automatiquement cette opposition. Le fait révélé existe dans l’histoire du personnage ou est choisi avec son joueur ; n’inventez pas de crime à sa place. Aucun dégât ni désavantage additionnel. Cette lecture expose l’œil, qu’elle réussisse ou non.</p>
+<p><strong><em>Lecture de secret (une fois dans cette phase).</em></strong> Elisabeth choisit une créature qu’elle voit à 9 m ou moins. Elle oppose son test de Sagesse (Intuition) +4 au test de Charisme (Tromperie) de la cible. Si elle l’emporte, elle apprend un secret réel du personnage et le dit à voix haute, devant ses compagnons. Une cible immunisée à l’état charmé gagne automatiquement cette opposition. Le fait révélé existe dans l’histoire du personnage ou est choisi avec son joueur ; n’inventez pas de crime à sa place. Aucun dégât ni désavantage additionnel. Cette lecture expose l’œil, qu’elle réussisse ou non.</p>
 <h3>Réaction</h3>
-<p><strong><em>Recul convulsif.</em></strong> Après avoir subi des dégâts, Elisabeth peut se déplacer d’au plus 10 pieds sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
+<p><strong><em>Recul convulsif.</em></strong> Après avoir subi des dégâts, Elisabeth peut se déplacer d’au plus 3 m sans provoquer d’attaque d’opportunité, le long d’un passage libre. Ce déplacement est impossible si sa vitesse est réduite à 0.</p>
 </div>
 
 <a id="de-melodie"></a>

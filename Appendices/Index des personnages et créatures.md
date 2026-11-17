@@ -67,40 +67,39 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
-| <a id="ref-nom-dahlver-nar-he-of-the-many-teeth"></a>Dahlver-Nar, Celui aux nombreuses dents | Dahlver-Nar, He of the Many Teeth | [Fiche de l’annexe](Amber%20Shards.md#en-dahlver-nar-he-of-the-many-teeth) |
+| <a id="ref-nom-zrin-hala-the-howling-storm"></a>Bijes, la fureur hurlante | Zrin-Hala, the Howling Storm | [Fiche de l’annexe](Amber%20Shards.md#en-zrin-hala-the-howling-storm) |
 | <a id="ref-nom-lady-winter"></a>Dame Hiver | Lady Winter | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-origins-of-the-valley) |
-| <a id="ref-nom-delban-the-star-of-ice-and-hate"></a>Delban, l’Étoile de glace et de haine | Delban, the Star of Ice and Hate | [Fiche de l’annexe](Amber%20Shards.md#en-delban-the-star-of-ice-and-hate) |
-| <a id="ref-nom-god-of-secrets"></a>dieu des Secrets | God of Secrets | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s2b-atrium) |
-| <a id="ref-nom-drizlash-the-nine-eyed-spider"></a>Drizlash, l’Araignée aux neuf yeux | Drizlash, the Nine-Eyed Spider | [Fiche de l’annexe](Amber%20Shards.md#en-drizlash-the-nine-eyed-spider) |
 | <a id="ref-nom-ezra"></a>Ezra | Ezra | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-cult-of-ezra) |
-| <a id="ref-nom-fekre-queen-of-poxes"></a>Fekre, Reine des pustules | Fekre, Queen of Poxes | [Fiche de l’annexe](Amber%20Shards.md#en-fekre-queen-of-poxes) |
-| <a id="ref-nom-khirad-the-star-of-secrets"></a>Khirad, l’Étoile des secrets | Khirad, the Star of Secrets | [Fiche de l’annexe](Amber%20Shards.md#en-khirad-the-star-of-secrets) |
+| <a id="ref-nom-sykane-the-soul-hungerer"></a>Glad, la faim éternelle | Sykane, the Soul Hungerer | [Fiche de l’annexe](Amber%20Shards.md#en-sykane-the-soul-hungerer) |
+| <a id="ref-nom-great-taar-haak-the-five-headed-destroyer"></a>Gnyev, la colère qui consume | Great Taar Haak, the Five-Headed Destroyer | [Fiche de l’annexe](Amber%20Shards.md#en-great-taar-haak-the-five-headed-destroyer) |
+| <a id="ref-nom-drizlash-the-nine-eyed-spider"></a>Gortchina, l’amertume qui ronge | Drizlash, the Nine-Eyed Spider | [Fiche de l’annexe](Amber%20Shards.md#en-drizlash-the-nine-eyed-spider) |
+| <a id="ref-nom-yog-the-invincible"></a>Inat, l’obstination aveugle | Yog the Invincible | [Fiche de l’annexe](Amber%20Shards.md#en-yog-the-invincible) |
 | <a id="ref-nom-the-huntress"></a>la Chasseresse | The Huntress | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-seeker"></a>la Chercheuse | The Seeker | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-devourer"></a>la Dévoreuse | The Devourer | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-origins-of-the-valley) |
 | <a id="ref-nom-the-dreamer"></a>la Rêveuse | The Dreamer | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-origins-of-the-valley) |
 | <a id="ref-nom-the-weaver"></a>la Tisseuse | The Weaver | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
-| <a id="ref-nom-great-taar-haak-the-five-headed-destroyer"></a>le Grand Taar Haak, le Destructeur à cinq têtes | Great Taar Haak, the Five-Headed Destroyer | [Fiche de l’annexe](Amber%20Shards.md#en-great-taar-haak-the-five-headed-destroyer) |
-| <a id="ref-nom-the-vampyr"></a>le Vampyr | The Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-the-vampyrs-sarcophagus) |
+| <a id="ref-nom-shami-amourae-the-lady-of-delights"></a>Laskavost, la flatterie douce | Shami-Amourae, the Lady of Delights | [Fiche de l’annexe](Amber%20Shards.md#en-shami-amourae-the-lady-of-delights) |
 | <a id="ref-nom-the-ladies-of-the-fanes"></a>les Dames des Sanctuaires | The Ladies of the Fanes | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-rozana"></a>les Rozana | The Rozana | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-ladies-of-the-fanes) |
 | <a id="ref-nom-the-ladies-three"></a>les Trois Dames | The Ladies Three | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-faith-of-the-ladies-three) |
+| <a id="ref-nom-the-vampyr"></a>Lyubomora, la jalousie qui dure | The Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-the-vampyrs-sarcophagus) |
 | <a id="ref-nom-mother-night"></a>Mère Nuit | Mother Night | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-coven-of-mother-night) |
-| <a id="ref-nom-norganas-the-finger-of-oblivion"></a>Norganas, le Doigt de l’oubli | Norganas, the Finger of Oblivion | [Fiche de l’annexe](Amber%20Shards.md#en-norganas-the-finger-of-oblivion) |
-| <a id="ref-nom-orcus"></a>Orcus | Orcus | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
-| <a id="ref-nom-savnok-the-inscrutable"></a>Savnok, l’Impénétrable | Savnok, the Inscrutable | [Fiche de l’annexe](Amber%20Shards.md#en-savnok-the-inscrutable) |
+| <a id="ref-nom-delban-the-star-of-ice-and-hate"></a>Mrynya, la haine froide | Delban, the Star of Ice and Hate | [Fiche de l’annexe](Amber%20Shards.md#en-delban-the-star-of-ice-and-hate) |
+| <a id="ref-nom-zantras-the-kingmaker"></a>Oholost, l’orgueil ultime | Zantras, the Kingmaker | [Fiche de l’annexe](Amber%20Shards.md#en-zantras-the-kingmaker) |
+| <a id="ref-nom-seriach-the-hell-hound-whisperer"></a>Osveta, la vengeance lente | Seriach, the Hell Hound Whisperer | [Fiche de l’annexe](Amber%20Shards.md#en-seriach-the-hell-hound-whisperer) |
+| <a id="ref-nom-fekre-queen-of-poxes"></a>Pakost, la malveillance vorace | Fekre, Queen of Poxes | [Fiche de l’annexe](Amber%20Shards.md#en-fekre-queen-of-poxes) |
+| <a id="ref-nom-khirad-the-star-of-secrets"></a>Pohlepa, la curiosité avide | Khirad, the Star of Secrets | [Fiche de l’annexe](Amber%20Shards.md#en-khirad-the-star-of-secrets) |
+| <a id="ref-nom-tarakamedes-the-grave-wyrm"></a>Prezir, le profond mépris | Tarakamedes, the Grave Wyrm | [Fiche de l’annexe](Amber%20Shards.md#en-tarakamedes-the-grave-wyrm) |
+| <a id="ref-nom-savnok-the-inscrutable"></a>Samotcha, la solitude aliénante | Savnok, the Inscrutable | [Fiche de l’annexe](Amber%20Shards.md#en-savnok-the-inscrutable) |
 | <a id="ref-nom-morninglord"></a>Seigneur de l'Aube | Morninglord | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-church-of-the-morninglord) |
-| <a id="ref-nom-seriach-the-hell-hound-whisperer"></a>Seriach, Celui qui murmure aux chiens infernaux | Seriach, the Hell Hound Whisperer | [Fiche de l’annexe](Amber%20Shards.md#en-seriach-the-hell-hound-whisperer) |
-| <a id="ref-nom-shami-amourae-the-lady-of-delights"></a>Shami-Amourae, la Dame des délices | Shami-Amourae, the Lady of Delights | [Fiche de l’annexe](Amber%20Shards.md#en-shami-amourae-the-lady-of-delights) |
-| <a id="ref-nom-sykane-the-soul-hungerer"></a>Sykane, l’Affamé des âmes | Sykane, the Soul Hungerer | [Fiche de l’annexe](Amber%20Shards.md#en-sykane-the-soul-hungerer) |
-| <a id="ref-nom-tarakamedes-the-grave-wyrm"></a>Tarakamedes, le Ver des tombes | Tarakamedes, the Grave Wyrm | [Fiche de l’annexe](Amber%20Shards.md#en-tarakamedes-the-grave-wyrm) |
-| <a id="ref-nom-tenebrous"></a>Ténébreux | Tenebrous | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
-| <a id="ref-nom-vaund-the-evasive"></a>Vaund l’Insaisissable | Vaund the Evasive | [Fiche de l’annexe](Amber%20Shards.md#en-vaund-the-evasive) |
-| <a id="ref-nom-yog-the-invincible"></a>Yog l’Invincible | Yog the Invincible | [Fiche de l’annexe](Amber%20Shards.md#en-yog-the-invincible) |
-| <a id="ref-nom-yrrga-the-eye-of-shadows"></a>Yrrga, l’Œil des ombres | Yrrga, the Eye of Shadows | [Fiche de l’annexe](Amber%20Shards.md#en-yrrga-the-eye-of-shadows) |
-| <a id="ref-nom-zantras-the-kingmaker"></a>Zantras, le Faiseur de rois | Zantras, the Kingmaker | [Fiche de l’annexe](Amber%20Shards.md#en-zantras-the-kingmaker) |
-| <a id="ref-nom-zhudun-the-corpse-star"></a>Zhudun, l’Étoile cadavérique | Zhudun, the Corpse Star | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
-| <a id="ref-nom-zrin-hala-the-howling-storm"></a>Zrin-Hala, la Tempête hurlante | Zrin-Hala, the Howling Storm | [Fiche de l’annexe](Amber%20Shards.md#en-zrin-hala-the-howling-storm) |
+| <a id="ref-nom-vaund-the-evasive"></a>Sram, la honte cachée | Vaund the Evasive | [Fiche de l’annexe](Amber%20Shards.md#en-vaund-the-evasive) |
+| <a id="ref-nom-dahlver-nar-he-of-the-many-teeth"></a>Strah, la peur qui rôde | Dahlver-Nar, He of the Many Teeth | [Fiche de l’annexe](Amber%20Shards.md#en-dahlver-nar-he-of-the-many-teeth) |
+| <a id="ref-nom-yrrga-the-eye-of-shadows"></a>Sumnya, le soupçon qui voit | Yrrga, the Eye of Shadows | [Fiche de l’annexe](Amber%20Shards.md#en-yrrga-the-eye-of-shadows) |
+| <a id="ref-nom-zhudun-the-corpse-star"></a>Tcheynya, la nostalgie morbide | Zhudun, the Corpse Star | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
+| <a id="ref-nom-tenebrous"></a>Vlast, le pouvoir qui écrase | Tenebrous | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s6c-amber-vault) |
+| <a id="ref-nom-norganas-the-finger-of-oblivion"></a>Zaborav, l’oubli qui efface | Norganas, the Finger of Oblivion | [Fiche de l’annexe](Amber%20Shards.md#en-norganas-the-finger-of-oblivion) |
+| <a id="ref-nom-zavist"></a>Zavist, l’envie dévorante | Zavist | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-o10-exploring-the-castle) |
 
 ### entité
 
@@ -127,7 +126,6 @@ Cet index rassemble les fiches disponibles et les renvois vers les descriptions 
 | <a id="ref-nom-werewolf-pack"></a>meute de loups-garous | Werewolf Pack | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-werewolf-pack) |
 | <a id="ref-nom-order-of-the-silver-dragon"></a>ordre du Dragon d’argent | Order of the Silver Dragon | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-the-binding-ritual) |
 | <a id="ref-nom-priests-of-osybus"></a>prêtres d’Osybus | Priests of Osybus | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md#en-interacting-with-the-townsfolk) |
-| <a id="ref-nom-dark-powers"></a>Sombres Puissances | Dark Powers | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-dark-powers) |
 | <a id="ref-nom-witches-of-mother-night"></a>sorcières de Mère Nuit | Witches of Mother Night | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-witches-of-mother-night) |
 | <a id="ref-nom-amber-vestiges"></a>vestiges de l’Ambre | Amber Vestiges | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-amber-vestiges) |
 | <a id="ref-nom-church-of-the-morninglord"></a>Église du Seigneur de l’Aube | Church of the Morninglord | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/Lore%20of%20Barovia.md#en-the-church-of-the-morninglord) |
@@ -874,10 +872,10 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 |---|---|---|
 | <a id="ref-campagne-boon-of-the-huntress"></a>Bénédiction de la Chasseresse | Boon of the Huntress | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t4d-the-forest-fane) |
 | <a id="ref-campagne-boon-of-the-seeker"></a>Bénédiction de la Chercheuse | Boon of the Seeker | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-reconsecrating-the-fane) |
-| <a id="ref-campagne-boon-of-the-dreamer"></a>Bénédiction de la Rêveuse | Boon of the Dreamer | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md#en-persuading-the-dreamers-heart) |
 | <a id="ref-campagne-boon-of-the-weaver"></a>Bénédiction de la Tisseuse | Boon of the Weaver | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-t3m-the-swamp-fane) |
 | <a id="ref-campagne-charm-of-the-seekers-familiar"></a>Charme du familier de la Chercheuse | Charm of the Seeker's Familiar | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-burebiss-request) |
 | <a id="ref-campagne-charm-of-mass-heroism"></a>Charme d’héroïsme de groupe | Charm of Mass Heroism | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-h7a-raiding-the-windmill) |
+| <a id="ref-campagne-boon-of-the-dreamer"></a>Sceau du Sphinx | Boon of the Dreamer | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md#en-fighting-the-dreamers-heart) |
 
 ### capacité de guenaude nocturne
 
@@ -1020,7 +1018,6 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-lucid-lens"></a>Monocle de lucidité | Lucid Lens | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20E%20-%20The%20Missing%20Vistana.md#en-rudolph-van-richten) |
 | <a id="ref-campagne-dream-pastry"></a>Pâtisserie onirique | Dream Pastry | [Section du guide](Non-Player%20Characters.md#en-morgantha-dream-peddler) |
 | <a id="ref-campagne-holy-symbol-of-ravenkind"></a>Symbole sacré du corbeau | Holy Symbol of Ravenkind | [Section du guide](../Chapter%203%20-%20Running%20the%20Game/Running%20the%20Adventure.md#en-the-holy-symbol-of-ravenkind) |
-| <a id="ref-campagne-mist-talisman"></a>Talisman des Brumes | Mist Talisman | [Section du guide](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md#en-a-new-generation) |
 | <a id="ref-campagne-pale-tincture"></a>Teinture pâle | Pale Tincture | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md#en-morgantha-gets-suspicious) |
 | <a id="ref-campagne-poison-razorvine"></a>Vigne rasoir empoisonnée | Poison Razorvine | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md#en-j3b-into-the-winery) |
 | <a id="ref-campagne-sunsword"></a>Épée solaire | Sunsword | [Section du guide](../Chapter%203%20-%20Running%20the%20Game/Running%20the%20Adventure.md#en-the-sunsword) |
@@ -1078,11 +1075,11 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | <a id="ref-campagne-dragons-scale"></a>Écaille de dragon | Dragon's Scale | [Section du guide](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#en-inheritancethe-dragons-scale) |
 | <a id="ref-campagne-wanderers-scarf"></a>Écharpe du Voyageur | Wanderer's Scarf | [Section du guide](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md#en-familythe-wanderers-scarf) |
 | <a id="ref-campagne-amber-shard"></a>éclat d’ambre | amber shard | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20M%20-%20The%20Dragon%27s%20Manor.md#en-godfrey-the-amber-shards) |
-| <a id="ref-campagne-amber-shard-of-khirad"></a>éclat d’ambre de Khirad | amber shard of Khirad | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s1b-fissure) |
-| <a id="ref-campagne-amber-shard-of-sykane"></a>éclat d’ambre de Sykane | amber shard of Sykane | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-amber-shrine) |
-| <a id="ref-campagne-amber-shard-of-yog-the-invincible"></a>éclat d’ambre de Yog l’Invincible | amber shard of Yog the Invincible | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
-| <a id="ref-campagne-amber-shard-of-zrin-hala"></a>éclat d’ambre de Zrin-Hala | amber shard of Zrin-Hala | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-boasting-match) |
-| <a id="ref-campagne-amber-shard-of-the-vampyr"></a>éclat d’ambre du Vampyr | amber shard of the Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r4i-the-avalanche) |
+| <a id="ref-campagne-amber-shard-of-zrin-hala"></a>éclat d’ambre de Bijes | amber shard of Zrin-Hala | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-boasting-match) |
+| <a id="ref-campagne-amber-shard-of-sykane"></a>éclat d’ambre de Glad | amber shard of Sykane | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-amber-shrine) |
+| <a id="ref-campagne-amber-shard-of-the-vampyr"></a>éclat d’ambre de Lyubomora | amber shard of the Vampyr | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-r4i-the-avalanche) |
+| <a id="ref-campagne-amber-shard-of-khirad"></a>éclat d’ambre de Pohlepa | amber shard of Khirad | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md#en-s1b-fissure) |
+| <a id="ref-campagne-amber-shard-of-yog-the-invincible"></a>éclat d’ambre d’Inat, l’obstination aveugle | amber shard of Yog the Invincible | [Section du guide](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) |
 | <a id="ref-campagne-silverthorn"></a>épine d’argent | Silverthorn | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20L%20-%20The%20Den%20of%20Wolves.md#en-l4e-shrine-of-mother-night) |
 
 ### ouvrage fictif

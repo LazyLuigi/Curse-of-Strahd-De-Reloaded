@@ -5,12 +5,12 @@ Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index
 > [!info]+ **Trouver des <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclats d’ambre</a>**
 > Les joueurs ont l’occasion d’obtenir un <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> :
 > * lors de la [création des personnages](../Chapter%201%20-%20Beginning%20the%20Campaign/Character%20Creation.md) ;
-> * après avoir vaincu <a href="Non-Player%20Characters.md#en-izek-strazni">Izek Strazni</a> dans [l’arc F : Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md) / [l’arc G : La fratrie Strazni](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md) (voir [Seriach, Celui qui murmure aux chiens infernaux](#en-seriach-the-hell-hound-whisperer)) ;
-> * après avoir pillé le trésor du château Ravenloft dans [l’arc P : Le cambriolage de Ravenloft](../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md) (voir [le Grand Taar Haak, le Destructeur à cinq têtes](#en-great-taar-haak-the-five-headed-destroyer)) ;
-> * en suivant <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-scorilo">Scorilo</a> s’il perd le concours de vantardise dans [l’arc R : Les épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) (voir [Zrin-Hala, la Tempête hurlante](#en-zrin-hala-the-howling-storm)) ;
-> * après avoir vaincu les bodaks dans [l’arc R : Les épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) (voir [Sykane, l’Affamé des âmes](#en-sykane-the-soul-hungerer)) ;
-> * dans la [caverne des Dagues](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) (voir [Yog l’Invincible](#en-yog-the-invincible)) ;
-> * auprès du **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nothic">nothic</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-nothic-monstre"><sup>fiche</sup></a>** <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a> dans [l’arc S : Une épée de lumière solaire](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md) (voir [Khirad, l’Étoile des secrets](#en-khirad-the-star-of-secrets)).
+> * après avoir vaincu <a href="Non-Player%20Characters.md#en-izek-strazni">Izek Strazni</a> dans [l’arc F : Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md) / [l’arc G : La fratrie Strazni](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20G%20-%20The%20Strazni%20Siblings.md) (voir [Osveta, la vengeance lente](#en-seriach-the-hell-hound-whisperer)) ;
+> * après avoir pillé le trésor du château Ravenloft dans [l’arc P : Le cambriolage de Ravenloft](../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md) (voir [Gnyev, la colère qui consume](#en-great-taar-haak-the-five-headed-destroyer)) ;
+> * en suivant <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-scorilo">Scorilo</a> s’il perd le concours de vantardise dans [l’arc R : Les épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) (voir [Bijes, la fureur hurlante](#en-zrin-hala-the-howling-storm)) ;
+> * après avoir vaincu les bodaks dans [l’arc R : Les épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) (voir [Glad, la faim éternelle](#en-sykane-the-soul-hungerer)) ;
+> * dans la [caverne des Dagues](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md#en-the-cave-of-daggers) (voir [Inat, l’obstination aveugle](#en-yog-the-invincible)) ;
+> * auprès du **<a href="https://www.aidedd.org/dnd/monstres.php?vf=nothic">nothic</a> <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-nothic-monstre"><sup>fiche</sup></a>** <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-meda">Meda</a> dans [l’arc S : Une épée de lumière solaire](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md) (voir [Pohlepa, la curiosité avide](#en-khirad-the-star-of-secrets)).
 > 
 > Vous ne devez toutefois pas ajouter d’autres éclats que les joueurs pourraient obtenir.
 
@@ -45,7 +45,7 @@ Le joueur peut communier avec le vestige en méditant pendant 1 minute tout en c
 Si le joueur accepte, les effets suivants s’appliquent :
 
 * Il obtient un bienfait particulier, comme indiqué dans la section **Corruption de l’ambre** ci-dessous.
-* Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu’il le fait, il gagne un nombre de niveaux d’épuisement égal au nombre de fois où il a lancé le sort. Ce nombre n’est réinitialisé que si le joueur passe trois jours entiers sans lancer le sort du vestige. (Par exemple, si un joueur lance le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond">nuage nauséabond</a>* de Fekre deux jours de suite, il reçoit un niveau d’épuisement le premier jour et deux niveaux d’épuisement le deuxième jour. Si le joueur attend trois jours avant de lancer de nouveau le sort, il ne reçoit qu’un niveau d’épuisement en le faisant ; sinon, il reçoit trois niveaux d’épuisement supplémentaires.)
+* Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu’il le fait, il gagne un nombre de niveaux d’épuisement égal au nombre de fois où il a lancé le sort. Ce nombre n’est réinitialisé que si le joueur passe trois jours entiers sans lancer le sort du vestige. (Par exemple, si un joueur lance le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond">nuage nauséabond</a>* de Pakost deux jours de suite, il reçoit un niveau d’épuisement le premier jour et deux niveaux d’épuisement le deuxième jour. Si le joueur attend trois jours avant de lancer de nouveau le sort, il ne reçoit qu’un niveau d’épuisement en le faisant ; sinon, il reçoit trois niveaux d’épuisement supplémentaires.)
 * Il subit une altération particulière, comme indiqué dans la même section ci-dessous. Cette altération est incurable sans l’aide d’un sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure">restauration supérieure</a>* ou d’une magie similaire. (Un joueur peut également recevoir les soins de <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-saint-markovia">sainte Markovia</a> dans [l’arc Q : Un phare éclatant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md).) Si l’altération est guérie, le joueur perd aussi tous les dons du vestige, y compris son sort et son bienfait.
 
 Si le joueur interroge le vestige au sujet de l’altération, celui-ci lui explique qu’elle résulte du lien imparfait établi par les éclats. Il invite le joueur au Temple de l’Ambre pour recevoir l’intégralité du don du vestige et achever sa transformation.
@@ -54,14 +54,14 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 <a id="en-amber-corruption" data-traduction="ancre"></a>
 # Corruption de l’ambre
 <a id="en-fekre-queen-of-poxes" data-traduction="ancre"></a>
-## Fekre, Reine des pustules
+## Pakost, la malveillance vorace
 ***Sort.*** _Nuage nauséabond._
 
 ***Bienfait.*** Lorsque vous portez un coup critique, vous pouvez obliger la cible à réussir un jet de sauvegarde de Constitution sous peine d’être empoisonnée. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l’effet en cas de réussite.
 
 ***Altération.*** Votre corps est couvert de furoncles et de pustules. Les autres créatures ont un désavantage aux tests de Sagesse (Médecine) effectués pour vous stabiliser.
 <a id="en-zrin-hala-the-howling-storm" data-traduction="ancre"></a>
-## Zrin-Hala, la Tempête hurlante
+## Bijes, la fureur hurlante
 *Emplacement de l’éclat : <a href="Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a>*
 
 ***Sort.*** _Éclair._
@@ -70,7 +70,7 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Altération.*** Un côté de votre visage s’affaisse et perd toute sensibilité. Vous avez un désavantage aux tests de Charisme (Persuasion).
 <a id="en-sykane-the-soul-hungerer" data-traduction="ancre"></a>
-## Sykane, l’Affamé des âmes
+## Glad, la faim éternelle
 *Emplacement de l’éclat : col de Tsolenka*
 
 ***Sort.*** _Esprits gardiens (dégâts nécrotiques)._
@@ -79,56 +79,56 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Altération.*** Vos yeux brillent d’un jaune maladif. Vous avez un désavantage aux tests de Charisme (Tromperie).
 <a id="en-savnok-the-inscrutable" data-traduction="ancre"></a>
-## Savnok, l’Impénétrable
+## Samotcha, la solitude aliénante
 ***Sort.*** _Invisibilité supérieure._
 
 ***Bienfait.*** Vous avez un avantage aux tests de Charisme (Tromperie).
 
 ***Altération.*** Vos yeux fondent, laissant des orbites vides qui peuvent encore voir. Vous avez un désavantage aux tests de Sagesse (Perception).
 <a id="en-tarakamedes-the-grave-wyrm" data-traduction="ancre"></a>
-## Tarakamedes, le Ver des tombes
+## Prezir, le profond mépris
 ***Sort.*** _Vol._
 
-***Bienfait.*** Lorsque vous êtes dans les airs, vous gagnez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez toutefois pas utiliser cette vitesse pour prendre de l’altitude et vous descendez de 1 pied pour chaque tranche de 10 pieds de distance horizontale parcourue.
+***Bienfait.*** Lorsque vous êtes dans les airs, vous gagnez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez toutefois pas utiliser cette vitesse pour prendre de l’altitude et vous descendez de 30 cm pour chaque tranche de 3 m de distance horizontale parcourue.
 
 ***Altération.*** Des ailes squelettiques difformes poussent dans votre dos. Vous devez manger des os ou de la terre de tombe pour survivre. À l’aube, si vous n’avez pas mangé au moins 1 livre d’os ou de terre de tombe au cours des 24 dernières heures, vous gagnez 1 niveau d’épuisement.
 <a id="en-shami-amourae-the-lady-of-delights" data-traduction="ancre"></a>
-## Shami-Amourae, la Dame des délices
+## Laskavost, la flatterie douce
 ***Sort.*** _Suggestion._
 
 ***Bienfait.*** Vous avez un avantage aux tests de Charisme (Persuasion).
 
 ***Altération.*** Un doigt supplémentaire pousse à chacune de vos mains. Vous avez un désavantage aux jets de sauvegarde de Constitution contre le poison, les sorts et les effets magiques.
 <a id="en-drizlash-the-nine-eyed-spider" data-traduction="ancre"></a>
-## Drizlash, l’Araignée aux neuf yeux
+## Gortchina, l’amertume qui ronge
 ***Sort.*** _Toile d’araignée._
 
 ***Bienfait.*** Vous pouvez escalader des surfaces difficiles, y compris la tête en bas au plafond, sans avoir à effectuer de test de caractéristique.
 
 ***Altération.*** Un œil supplémentaire pousse quelque part sur votre corps ; il est aveugle et ne s’ouvre jamais. Vous avez un désavantage aux tests de Sagesse (Perspicacité).
 <a id="en-dahlver-nar-he-of-the-many-teeth" data-traduction="ancre"></a>
-## Dahlver-Nar, Celui aux nombreuses dents
+## Strah, la peur qui rôde
 ***Sort.*** _Métamorphose._
 
 ***Bienfait.*** Lorsque vous devriez être réduit à 0 point de vie, vous pouvez utiliser votre réaction pour tomber à 1 point de vie à la place et gagner 1 niveau d’épuisement.
 
 ***Altération.*** Vous perdez toutes vos dents. Vous avez un désavantage aux tests de Charisme (Persuasion).
 <a id="en-zantras-the-kingmaker" data-traduction="ancre"></a>
-## Zantras, le Faiseur de rois
+## Oholost, l’orgueil ultime
 ***Sort.*** _Charme-monstre._
 
 ***Bienfait.*** Vous avez un avantage aux tests de Charisme (Persuasion).
 
 ***Altération.*** Votre peau devient rouge et vos dents prennent la forme de pointes limées. Vous avez un désavantage aux jets de sauvegarde de Sagesse.
 <a id="en-delban-the-star-of-ice-and-hate" data-traduction="ancre"></a>
-## Delban, l’Étoile de glace et de haine
+## Mrynya, la haine froide
 ***Sort.*** _Voracité de Hadar._
 
 ***Bienfait.*** Lorsque vous portez un coup critique, vous pouvez obliger la cible à réussir un jet de sauvegarde de Force sous peine d’être entravée par la glace jusqu’à la fin de son prochain tour.
 
 ***Altération.*** Votre peau devient bleu glacier et cassante. Vous avez un désavantage aux tests de Force.
 <a id="en-khirad-the-star-of-secrets" data-traduction="ancre"></a>
-## Khirad, l’Étoile des secrets
+## Pohlepa, la curiosité avide
 *Emplacement de l’éclat : le Temple de l’Ambre*
 
 ***Sort.*** _Assassin imaginaire._
@@ -137,14 +137,14 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Altération.*** Votre voix devient un murmure sourd et votre bouche se fige en un sourire perpétuel. Vous êtes incapable de crier ou de parler fort.
 <a id="en-yrrga-the-eye-of-shadows" data-traduction="ancre"></a>
-## Yrrga, l’Œil des ombres
+## Sumnya, le soupçon qui voit
 ***Sort.*** _Cécité/Surdité._
 
 ***Bienfait.*** Lorsque vous portez un coup critique, vous pouvez obliger la cible à réussir un jet de sauvegarde de Constitution sous peine d’être aveuglée. La cible peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l’effet en cas de réussite.
 
 ***Altération.*** Vos yeux deviennent des vides étoilés. Vous avez un désavantage aux tests de Sagesse (Perception).
 <a id="en-great-taar-haak-the-five-headed-destroyer" data-traduction="ancre"></a>
-## Le Grand Taar Haak, le Destructeur à cinq têtes
+## Gnyev, la colère qui consume
 *Emplacement de l’éclat : château Ravenloft*
 
 ***Sort.*** _Secousse sismique (au niveau 5)._
@@ -153,7 +153,7 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Altération.*** Votre tête devient bosselée et difforme. Vous avez un désavantage aux tests d’Intelligence.
 <a id="en-yog-the-invincible" data-traduction="ancre"></a>
-## Yog l’Invincible
+## Inat, l’obstination aveugle
 *Emplacement de l’éclat : col de Tsolenka*
 
 ***Sort.*** _Peau de pierre._
@@ -162,23 +162,23 @@ Si le joueur refuse l’offre de la voix, il peut de nouveau communier avec le v
 
 ***Altération.*** Une fourrure noire et huileuse recouvre votre visage et votre corps. Vous avez un désavantage aux tests effectués pour vous libérer lorsque vous êtes agrippé.
 <a id="en-norganas-the-finger-of-oblivion" data-traduction="ancre"></a>
-## Norganas, le Doigt de l’oubli
+## Zaborav, l’oubli qui efface
 *Emplacement de l’éclat : Maison de la Mort*
 
 ***Sort.*** _Malédiction (au niveau 5)._
 
-***Bienfait.*** Lorsqu’une créature que vous pouvez voir dans un rayon de 30 pieds autour de vous est réduite à 0 point de vie, vous pouvez utiliser votre réaction pour gagner un nombre de points de vie temporaires égal à votre bonus de maîtrise.
+***Bienfait.*** Lorsqu’une créature que vous pouvez voir dans un rayon de 9 m autour de vous est réduite à 0 point de vie, vous pouvez utiliser votre réaction pour gagner un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
 ***Altération.*** Votre sang devient noir comme la poix et visqueux comme du goudron. Lorsque vous devriez récupérer des dés de vie après avoir terminé un repos long, vous récupérez un dé de vie de moins.
 <a id="en-vaund-the-evasive" data-traduction="ancre"></a>
-## Vaund l’Insaisissable
+## Sram, la honte cachée
 ***Sort.*** _Flou._
 
 ***Bienfait.*** Vous avez un avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges et les sorts.
 
 ***Altération.*** Vous devenez agité et nerveux. Vous avez un désavantage aux tests de Charisme (Tromperie).
 <a id="en-seriach-the-hell-hound-whisperer" data-traduction="ancre"></a>
-## Seriach, Celui qui murmure aux chiens infernaux
+## Osveta, la vengeance lente
 *Emplacement de l’éclat : <a href="Non-Player%20Characters.md#en-izek-strazni">Izek Strazni</a>*
 
 ***Sort.*** _Rayon ardent._
