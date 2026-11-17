@@ -10,20 +10,20 @@
       [5, 5]
     ],
     "pions": [
-      {"camp": "ennemi", "nom": "Meneur", "col": 13, "row": 6, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 1", "col": 13, "row": 8, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 2", "col": 14, "row": 5, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 3", "col": 10, "row": 1, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 4", "col": 11, "row": 5, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 5", "col": 11, "row": 4, "pv": 11},
-      {"camp": "pnj", "nom": "Stanimir", "col": 4, "row": 5, "pv": 18},
-      {"camp": "pnj", "nom": "Vistani 1", "col": 3, "row": 7, "pv": 8},
-      {"camp": "pnj", "nom": "Vistani 2", "col": 3, "row": 6, "pv": 8},
-      {"camp": "pnj", "nom": "Vistani 3", "col": 4, "row": 8, "pv": 8},
+      {"camp": "ennemi", "nom": "Meneur", "col": 13, "row": 6, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Pillard 1", "col": 13, "row": 8, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Pillard 2", "col": 14, "row": 5, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Pillard 3", "col": 10, "row": 1, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Pillard 4", "col": 11, "row": 5, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Pillard 5", "col": 11, "row": 4, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "pnj", "nom": "Stanimir", "col": 4, "row": 5, "pv": 18, "init": 0, "vitesse": 9.0, "groupe": "Familles vistani"},
+      {"camp": "pnj", "nom": "Vistani 1", "col": 3, "row": 7, "pv": 8, "init": 0, "vitesse": 9.0, "groupe": "Familles vistani"},
+      {"camp": "pnj", "nom": "Vistani 2", "col": 3, "row": 6, "pv": 8, "init": 0, "vitesse": 9.0, "groupe": "Familles vistani"},
+      {"camp": "pnj", "nom": "Vistani 3", "col": 4, "row": 8, "pv": 8, "init": 0, "vitesse": 9.0, "groupe": "Familles vistani"},
       {"camp": "objet", "nom": "Butin", "col": 8, "row": 7, "couleur": 0},
       {"camp": "objet", "nom": "Mulet", "col": 9, "row": 8, "couleur": 2},
-      {"camp": "pnj", "nom": "Vistani 4", "col": 2, "row": 4, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 6", "col": 13, "row": 2}
+      {"camp": "pnj", "nom": "Vistani 4", "col": 2, "row": 4, "pv": 11, "init": 0, "vitesse": 9.0, "groupe": "Familles vistani"},
+      {"camp": "ennemi", "nom": "Pillard 6", "col": 13, "row": 2, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0}
     ],
     "obstacles": [
       {"nom": "Roulotte nord", "vue": true, "difficile": true, "pts": [[269, 176], [546, 132], [553, 243], [283, 275]]},
