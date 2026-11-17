@@ -3,54 +3,55 @@
     "grille": {"cols": 16, "rows": 12, "x": 0.0, "y": 0.0, "l": 1448.0, "h": 1086.0},
     "lumiere": "penombre",
     "joueurs": [
-      [5, 9],
-      [6, 9],
-      [7, 9],
-      [6, 10],
-      [5, 10],
-      [7, 10]
+      [6, 5],
+      [5, 8],
+      [6, 7],
+      [6, 6],
+      [5, 5]
     ],
     "pions": [
-      {"camp": "ennemi", "nom": "Meneur", "col": 12, "row": 5, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 1", "col": 12, "row": 6, "pv": 11},
-      {"camp": "ennemi", "nom": "Pillard 2", "col": 14, "row": 3, "pv": 11, "cache": true},
-      {"camp": "ennemi", "nom": "Pillard 3", "col": 14, "row": 5, "pv": 11, "cache": true},
-      {"camp": "ennemi", "nom": "Pillard 4", "col": 15, "row": 7, "pv": 11, "cache": true},
-      {"camp": "ennemi", "nom": "Pillard 5", "col": 14, "row": 9, "pv": 11, "cache": true},
-      {"camp": "pnj", "nom": "Stanimir", "col": 6, "row": 6},
-      {"camp": "pnj", "nom": "Vistana", "col": 3, "row": 7},
-      {"camp": "pnj", "nom": "Enfant 1", "col": 3, "row": 6},
-      {"camp": "pnj", "nom": "Enfant 2", "col": 4, "row": 8},
-      {"camp": "objet", "nom": "Sacs de vivres", "col": 8, "row": 7, "couleur": 1},
-      {"camp": "objet", "nom": "Coffre", "col": 8, "row": 8, "couleur": 0},
-      {"camp": "objet", "nom": "Mulet chargé", "col": 10, "row": 8, "couleur": 2},
-      {"camp": "objet", "nom": "Foyer", "col": 4, "row": 7, "couleur": 6, "lumiere": {"vive": 6.0, "faible": 6.0}}
+      {"camp": "ennemi", "nom": "Meneur", "col": 13, "row": 6, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 1", "col": 13, "row": 8, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 2", "col": 14, "row": 5, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 3", "col": 10, "row": 1, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 4", "col": 11, "row": 5, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 5", "col": 11, "row": 4, "pv": 11},
+      {"camp": "pnj", "nom": "Stanimir", "col": 4, "row": 5, "pv": 18},
+      {"camp": "pnj", "nom": "Vistani 1", "col": 3, "row": 7, "pv": 8},
+      {"camp": "pnj", "nom": "Vistani 2", "col": 3, "row": 6, "pv": 8},
+      {"camp": "pnj", "nom": "Vistani 3", "col": 4, "row": 8, "pv": 8},
+      {"camp": "objet", "nom": "Butin", "col": 8, "row": 7, "couleur": 0},
+      {"camp": "objet", "nom": "Mulet", "col": 9, "row": 8, "couleur": 2},
+      {"camp": "pnj", "nom": "Vistani 4", "col": 2, "row": 4, "pv": 11},
+      {"camp": "ennemi", "nom": "Pillard 6", "col": 13, "row": 2}
     ],
     "obstacles": [
-      {"nom": "Roulotte nord", "vue": true, "difficile": true, "pts": [[262, 108], [560, 100], [568, 300], [470, 345], [262, 330]]},
-      {"nom": "Roulotte est", "vue": true, "difficile": true, "pts": [[770, 345], [930, 340], [948, 420], [945, 620], [880, 660], [760, 640], [742, 420]]},
-      {"nom": "Roulotte sud", "vue": true, "difficile": true, "pts": [[95, 760], [330, 730], [395, 860], [380, 960], [160, 1010], [95, 950]]},
-      {"nom": "Fossé", "vue": false, "difficile": true, "pts": [[959, 0], [1032, 217], [1104, 362], [1152, 507], [1189, 652], [1176, 845], [1140, 1086], [1201, 1086], [1237, 845], [1249, 652], [1213, 507], [1164, 362], [1092, 217], [1026, 0]]}
+      {"nom": "Roulotte nord", "vue": true, "difficile": true, "pts": [[269, 176], [546, 132], [553, 243], [283, 275]]},
+      {"nom": "Roulotte est", "vue": true, "difficile": true, "pts": [[745, 343], [921, 333], [955, 595], [784, 628]]},
+      {"nom": "Roulotte sud", "vue": true, "difficile": true, "pts": [[157, 730], [411, 861], [331, 989], [79, 849]]},
+      {"nom": "Fossé", "vue": false, "difficile": true, "pts": [[1189, 652], [1176, 845], [1140, 1086], [1201, 1086], [1237, 845], [1249, 652]]},
+      {"nom": "Foret", "vue": true, "difficile": true, "pts": [[800, 12], [1108, 177], [1260, 336], [1365, 529], [1257, 870], [1270, 1084], [1445, 1081], [1440, 1]]},
+      {"nom": "Fossé2", "vue": false, "difficile": true, "pts": [[1145, 454], [1198, 448], [1108, 184], [969, 12], [919, 8], [1050, 217]]}
     ]
   },
   "images/Act I - Into the Mists/Prologue - Le Feu et les Brumes/Prologue-Le_Feu_et_les_Brumes_82f517f6_BattleMap_24x16.jpg": {
     "grille": {"cols": 24, "rows": 16, "x": 45.0, "y": 17.1, "l": 1446.0, "h": 974.0},
     "lumiere": "penombre",
     "joueurs": [
-      [2, 3],
-      [0, 3],
-      [2, 2],
-      [1, 2],
-      [1, 3]
+      [3, 7],
+      [1, 6],
+      [3, 6],
+      [1, 5],
+      [2, 5]
     ],
     "pions": [
-      {"camp": "ennemi", "nom": "Meneur", "col": 15, "row": 3, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 1", "col": 16, "row": 6, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 2", "col": 14, "row": 4, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 3", "col": 20, "row": 4, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 4", "col": 20, "row": 3, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 5", "col": 19, "row": 2, "pv": 11},
-      {"camp": "ennemi", "nom": "Bandit 6", "col": 16, "row": 3, "pv": 11}
+      {"camp": "ennemi", "nom": "Meneur", "col": 15, "row": 3, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 1", "col": 13, "row": 4, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 2", "col": 14, "row": 4, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 3", "col": 18, "row": 2, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 4", "col": 16, "row": 3, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 5", "col": 19, "row": 3, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
+      {"camp": "ennemi", "nom": "Bandit 6", "col": 20, "row": 4, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0}
     ],
     "obstacles": [
       {"nom": "Charette", "vue": true, "difficile": true, "pts": [[1074, 280], [1101, 345], [1219, 307], [1194, 226], [1072, 259]]},

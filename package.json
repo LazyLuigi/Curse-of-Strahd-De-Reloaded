@@ -2,6 +2,7 @@
   "name": "curse-of-strahd-de-reloaded",
   "private": true,
   "scripts": {
-    "dev": "\"$HOME/mambaforge/bin/python3\" lecteur/serveur.py --dev"
+    "dev": "\"$HOME/mambaforge/bin/python3\" lecteur/serveur.py --dev",
+    "joueurs": "open -na \"Google Chrome\" --args --app=http://127.0.0.1:8013/#joueurs"
   }
 }
