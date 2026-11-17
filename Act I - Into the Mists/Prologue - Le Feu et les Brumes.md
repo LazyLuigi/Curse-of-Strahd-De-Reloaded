@@ -321,6 +321,7 @@ Lorsque les chansons et les échanges s’apaisent, [Stanimir](../Appendices/Non
 ![[Prologue-Le_Feu_et_les_Brumes_3ec361c5.webp]]
 
 <div class="description">
+<p><audio src="../audio/Stanimir_zic.mp3" title="Stanimir raconte, en vistani"></audio></p>
 <p><a href="../Appendices/Non-Player%20Characters.md#de-stanimir">Stanimir</a> prend une gorgée de vin, la garde un instant en bouche, puis la souffle au-dessus des braises. Une flamme verte s’élève. Dans sa lumière apparaît une silhouette qui chancelle, une main pressée contre son flanc.</p>
 <p>« Nous venons d’une terre ancienne, la terre des rois, dont le nom a été oublié depuis bien longtemps. Nos ennemis nous ont jadis obligés à abandonner nos demeures et nous errons à présent sur des routes elles aussi oubliées.</p>
 <p>« Il y a longtemps, les nôtres ont trouvé un jeune prince au bord d’un champ de bataille. Il était seul, ses ennemis le cherchaient. Il avait encore son épée, mais plus la force de la lever. »</p>
