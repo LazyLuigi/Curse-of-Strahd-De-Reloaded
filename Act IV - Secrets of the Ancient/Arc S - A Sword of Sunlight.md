@@ -1573,7 +1573,7 @@ Si les joueurs répondent à son énigme, <a href="../Appendices/Index%20des%20p
 > * **Cinquième stade.** Le joueur acquiert la capacité ***rayon de feu*** d’un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=cambion">cambion</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-cambion-monstre"><sup>fiche</sup></a>** et le défaut : « Je jubile à chaque occasion de commettre une vilenie ou une perversion. »
 > * **Sixième stade.** Le joueur se transforme en **<a href="https://www.aidedd.org/dnd/monstres.php?vf=cambion">cambion</a>** sous le contrôle du MJ.  
 
-> [!info]+ **Sarcophage est (tombe de <a href="../Appendices/Amber%20Shards.md#en-khirad-the-star-of-secrets">Pohlepa</a>).**  
+> [!info]+ **Sarcophage nord (tombe de <a href="../Appendices/Amber%20Shards.md#en-khirad-the-star-of-secrets">Pohlepa</a>).**  
 > Si un joueur touche ce sarcophage, lisez :  
 >  
 > ---  
@@ -1939,7 +1939,7 @@ En revanche, si les joueurs accumulent trois échecs avant trois réussites, <a 
 <h2>Patrina, âme en peine vengeresse</h2>
 <em>Mort-vivant de taille Moyenne, neutre mauvais</em>
 <hr>
-<strong>Classe d’armure</strong> 13  
+<strong>Classe d’armure</strong> 14  
 <br>
 <strong>Points de vie</strong> 285 (38d8 + 48)  
 <br>
@@ -1968,7 +1968,7 @@ En revanche, si les joueurs accumulent trois échecs avant trois réussites, <a 
   </tbody>
 </table>
 <hr>
-<strong>Jets de sauvegarde</strong> Con +9, Int +11, Sag +8, Cha +9  
+<strong>Jets de sauvegarde</strong> Con +10, Int +12, Sag +9, Cha +10  
 <br>
 <strong>Compétences</strong> Arcanes +17, Histoire +11, Perspicacité +8, Perception +8  
 <br>
@@ -2298,7 +2298,7 @@ Sous l’apparence d’« <a href="../Appendices/Index%20des%20personnages%20et%
 
 « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-heinrich">Heinrich</a> » accepte de laisser les joueurs quitter le Temple de l’Ambre avec un objet magique en échange d’un objet magique « de valeur égale ou supérieure » ou d’un « secret d’une grande puissance ». (Les joueurs pourraient, par exemple, révéler l’existence et la véritable nature des <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-keepers-of-the-feather">Gardiens de la Plume</a>, ou l’existence du *<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-tome-of-strahd">Grimoire de Strahd</a>*. En raison du sort de *<a href="https://www.aidedd.org/dnd/sorts.php?vf=modification-de-memoire">modification de mémoire</a>* de l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elder-burebis">Ancien Burebis</a>, ils ne pourront pas offrir l’emplacement de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-soldav">Soldav</a> comme secret.)
 
-Toutefois, « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-heinrich">Heinrich</a> » ne les laissera pas partir avec l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>* s’il connaît ses propriétés radiantes. « Vous pouvez partir en paix, remarque-t-il solennellement, mais je crains que cet objet ne soit un trésor trop précieux pour que je m’en sépare. »
+Toutefois, « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-heinrich">Heinrich</a> » ne les laissera pas partir avec l’*<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-sunsword">Épée solaire</a>* s’il sait qu’elle peut produire la lumière du soleil (par le sort *<a href="https://www.aidedd.org/dnd/sorts.php?vf=identification">identification</a>*, parce qu’elle a été allumée, ou par tout autre moyen). « Vous pouvez partir en paix, remarque-t-il solennellement, mais je crains que cet objet ne soit un trésor trop précieux pour que je m’en sépare. »
 
 Si les joueurs refusent de révéler la valeur d’un objet, ou si les négociations échouent, « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-heinrich">Heinrich</a> » secoue tristement la tête et déplore qu’« on ne puisse tout simplement plus faire confiance aux gens, de nos jours ». Il utilise alors son action de ***téléportation*** pour disparaître à leur vue, préférant réapparaître à l’intérieur ou près de la tête de <span class="citation">X5a. Dieu des Secrets (p. 184)</span>. Lui et les **crânefeux** attaquent ensuite comme décrit dans <span class="citation">X5. Temple des Secrets perdus (p. 183)</span>, ainsi que dans [La discipline d’Heinrich](#en-bloc-heinrichsdiscipline) et [La tactique de Neferon](#en-bloc-neferonstactics) ci-dessus.
 

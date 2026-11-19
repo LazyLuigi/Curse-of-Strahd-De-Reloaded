@@ -1,5 +1,14 @@
 Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Reloaded**, par **LazyLuigi**. Le journal original de **DragnaCarta**, traduit en français, est conservé ensuite sans modification de ses dates.
 
+<a id="de-reloaded-20117-2026-11-17"></a>
+# Correctif 3.5.0.2 (17 novembre 2026)
+* Intégration du [correctif 2.0.1.17](#en-patch-20117-november-15-2026) de DragnaCarta
+* Les mêmes corrections s’appliquent au [Résumé de l’aventure](../Chapter%203%20-%20Running%20the%20Game/Adventure%20Summary.md) et à la seconde description de la *Lance de la Chasseresse*, dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
+* Précision dans la note de conception « Les fantômes du passé » de l’[Histoire de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md) : la mort de Patrina est la seule différence avec le module d’origine
+* Précision dans l’[Histoire de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md) : ce sont des personnes mal intentionnées qui convoitent le pouvoir des vestiges
+* Précision dans l’[Histoire de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md) et dans [Arc R : Les Épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) : le mensonge de Kasimir fait de Patrina une martyre, et c’est le défi des elfes du crépuscule qui déclenche la vengeance de Strahd
+* Précision dans [Arc R : Les Épreuves de la montagne](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20R%20-%20Trials%20of%20the%20Mountain.md) : Patrina a sacrifié huit Vallakiens, sept adultes et un enfant
+
 <a id="de-histoire-loic-2026-11-17"></a>
 # Correctif 3.5.0.1 (17 novembre 2026)
 * Ajout de l’histoire de [Loïc de Hauterive](../Appendices/Non-Player%20Characters.md#de-loic-de-hauterive) dans le [prologue](../Act%20I%20-%20Into%20the%20Mists/Prologue%20-%20Le%20Feu%20et%20les%20Brumes.md#de-mandat) : son veuvage, sa succession et ce qu’il attend de ses hommes de main
@@ -230,6 +239,24 @@ Les versions 3.0 et suivantes décrivent les travaux de **Curse of Strahd De-Rel
 
 Les entrées suivantes appartiennent au guide original. Elles ne décrivent pas les ajouts propres à De-Reloaded.
 
+<a id="en-patch-20117-november-15-2026" data-traduction="ancre"></a>
+# Correctif 2.0.1.17 (15 novembre 2026)
+* Correction de diverses coquilles, de liens défectueux et d’erreurs de mise en forme
+* Correction d’une mention dépassée dans le [Résumé de l’acte I](../Act%20I%20-%20Into%20the%20Mists/Act%20I%20Summary.md) : ce n’est plus madame Eva qui invite les joueurs à l’étang de Tser
+* L’invitation de Strahd à dîner figure désormais dans le [Résumé de l’acte II](../Act%20II%20-%20The%20Shadowed%20Town/Act%20II%20Summary.md) plutôt que dans celui de l’acte III
+* Précision : les huit squelettes animés de la cave de Wachterhaus ne sont pas présents dans [Arc F : Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md)
+* Ajout du passage d’Izek aux Jouets Blinsky dans son emploi du temps, dans [Arc F : Le souhait de dame Wachter](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20F%20-%20Lady%20Wachter%27s%20Wish.md)
+* Précision : si le combat commence dans le moulin, les guenaudes cherchent à le porter dehors, dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)
+* Précision : les guenaudes sont immunisées contre leur propre *cacophonie amphibienne*, dans [Arc H : L’âme perdue](../Act%20II%20-%20The%20Shadowed%20Town/Arc%20H%20-%20The%20Lost%20Soul.md)
+* Précision sur la position des **berserkers** et des **druides assaillants** au début de la cérémonie, dans [Arc J : La gemme volée](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md)
+* Précision : la crypte 9 ne contient aucun trésor, le fantôme de Pidlwick n’étant plus invoqué, dans [Arc P : Le cambriolage de Ravenloft](../Act%20III%20-%20The%20Broken%20Land/Arc%20P%20-%20Ravenloft%20Heist.md)
+* Précision : les loups autrefois fidèles à Kiril fuient la meute à sa mort, dans [Arc Q : Un phare resplendissant](../Act%20III%20-%20The%20Broken%20Land/Arc%20Q%20-%20A%20Shining%20Beacon.md)
+* Ajout : la *marque du chasseur* de la *Lance de la Chasseresse* s’utilise au moins une fois par jour, même si le modificateur de Sagesse du porteur est de 0 ou moins
+* Précision : les sorts qui cibleraient une créature peuvent cibler une *chaîne d’épine d’argent*, pour que les dégâts radiants l’affectent
+* Ajout d’une distance d’apparition aux hordes de morts-vivants pendant le dernier rite d’Arturi et de Van Richten, dans [Arc T : Les Trois Sanctuaires](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md)
+* Ajout d’une illustration de Strahd le soldat dans [Arc U : Les rêves de l’aube](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20U%20-%20Dreams%20of%20Dawn.md)
+* Précision : à la première résurrection par un éclat d’ambre, le joueur comprend que ce pouvoir vient de l’éclat, dans [Éclats d’ambre](../Appendices/Amber%20Shards.md)
+* Mise à jour de la mort de Patrina dans l’[Histoire de la Barovie](../Chapter%202%20-%20The%20Land%20of%20Barovia/History%20of%20Barovia.md), pour l’accorder avec [Arc S : Une épée de lumière solaire](../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20S%20-%20A%20Sword%20of%20Sunlight.md)
 <a id="en-hotfix-20116-october-14-2026" data-traduction="ancre"></a>
 # Correctif urgent 2.0.1.16 (14 octobre 2026)
 * Correction de liens défectueux

@@ -26,7 +26,7 @@ Bien qu’il ne renferme pas toute l’essence du vestige, chaque <a href="Index
 
 La première fois que le joueur est réduit à 0 point de vie et tombe inconscient alors qu’il possède l’éclat, une silhouette sombre lui apparaît dans une vision et lui propose de l’aider à échapper au spectre de la mort et à reprendre le combat. La silhouette ne précise aucun prix et garde le silence tant que le joueur n’accepte pas son offre.
 
-Si le joueur accepte, il récupère tous ses points de vie. Il passe alors au deuxième stade de la corruption de l’éclat. S’il refuse, le vestige ne lui apparaît plus, à moins que le joueur ne tombe inconscient dans une situation particulièrement désespérée.
+Si le joueur accepte, il récupère tous ses points de vie et sent que le pouvoir surnaturel de l’éclat est la source de ce retour à la vie. Il passe alors au deuxième stade de la corruption de l’éclat. S’il refuse, le vestige ne lui apparaît plus, à moins que le joueur ne tombe inconscient dans une situation particulièrement désespérée.
 <a id="en-stage-two" data-traduction="ancre"></a>
 # Deuxième stade
 À ce stade, le joueur connaît le pouvoir surnaturel de l’éclat, mais ne peut pas contacter le vestige pour obtenir une aide supplémentaire.

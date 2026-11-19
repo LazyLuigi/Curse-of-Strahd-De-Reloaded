@@ -980,6 +980,9 @@ Lorsque la phase de magicien de <a href="../Appendices/Index%20des%20personnages
 <p>« Vous voulez danser ? dit-il. Alors dansons. »</p>
 </div>
 
+![[Strahd_Soldier.webp]]
+<span class="credit">"<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> le soldat" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
 Dans sa phase de soldat, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> se déplace librement entre <span class="citation">K20. Cœur de douleur (p. 59)</span> et <span class="citation">K57. Toit de la tour (p. 72)</span>, mais préfère rester sur <span class="citation">K58. Pont (p. 73)</span> et utiliser ses aptitudes ***Épée longue*** et ***Vague tonitruante*** pour pousser les joueurs hors du pont et les faire tomber sur <span class="citation">K53. Toit (p. 71)</span>.
 
 > [!info]+ **Escalader les murs**
