@@ -38,11 +38,11 @@
     "grille": {"cols": 24, "rows": 16, "x": 45.0, "y": 17.1, "l": 1446.0, "h": 974.0},
     "lumiere": "penombre",
     "joueurs": [
-      [3, 7],
-      [1, 6],
-      [3, 6],
+      [0, 4],
       [1, 5],
-      [2, 5]
+      [2, 5],
+      [1, 4],
+      [0, 5]
     ],
     "pions": [
       {"camp": "ennemi", "nom": "Meneur", "col": 15, "row": 3, "pv": 11, "ca": 12, "init": 1, "vitesse": 9.0},
