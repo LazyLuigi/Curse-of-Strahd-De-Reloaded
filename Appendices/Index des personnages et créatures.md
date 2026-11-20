@@ -938,7 +938,7 @@ Ces noms appartiennent aux œuvres citées pour aider à interpréter les PNJ. I
 | Français | Anglais | Fiche ou renvoi vérifié |
 |---|---|---|
 | <a id="ref-campagne-tree-blight"></a>Arbre flétri | Tree Blight | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20J%20-%20The%20Stolen%20Gem.md) |
-| <a id="ref-campagne-broom-of-animated-attack"></a>Balai animé d’attaque | Broom of Animated Attack | [Section du guide](../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-o6g-the-broken-drawbridge) |
+| <a id="ref-campagne-broom-of-animated-attack"></a>Balai animé d’attaque | Broom of Animated Attack | [Section du guide](Bestiary.md#de-balai-anime-d-attaque) |
 | <a id="ref-campagne-wereraven"></a>Corbeau-garou | Wereraven | [Section du guide](Non-Player%20Characters.md#en-urwin-martikov) |
 | <a id="ref-campagne-poltergeist"></a>Esprit frappeur | Poltergeist | [Section du guide](../Act%20II%20-%20The%20Shadowed%20Town/Act%20II%20Summary.md#en-neyavr-5) |
 | <a id="ref-campagne-phantom-warrior"></a>Guerrier fantomatique | Phantom Warrior | [Section du guide](Non-Player%20Characters.md#en-commander-vladimir-horngaard) |

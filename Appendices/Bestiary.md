@@ -1,4 +1,4 @@
-Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. Quand plusieurs rencontres possèdent leur propre profil, choisissez la version de l’arc concerné. Les deux profils conservés dans cette annexe disposent également d’un bouton **Ouvrir la fiche**.
+Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. Quand plusieurs rencontres possèdent leur propre profil, choisissez la version de l’arc concerné. Les trois profils conservés dans cette annexe disposent également d’un bouton **Ouvrir la fiche**.
 
 <a id="en-animated-major-object" data-traduction="ancre"></a>
 ### Objet animé majeur
@@ -31,6 +31,55 @@ Les liens **Voir la fiche** ouvrent les statistiques de la créature en modale. 
 <li><a href="../Act%20III%20-%20The%20Broken%20Land/Arc%20O%20-%20Dinner%20with%20the%20Devil.md#en-animated-minor-object">Voir la fiche</a> : O · Dîner avec le Djavo</li>
 <li><a href="../Act%20IV%20-%20Secrets%20of%20the%20Ancient/Arc%20T%20-%20The%20Three%20Fanes.md#en-animated-minor-object">Voir la fiche</a> : T · Les trois sanctuaires</li>
 </ul>
+</div>
+
+<a id="de-balai-anime-d-attaque"></a>
+### Balai animé d’attaque
+
+<div style="clear: both; padding-top: 0.8rem;"></div>
+
+<div class="statblock">
+<a id="de-balai-anime-d-attaque-2"></a>
+  <h2 id="balai-animé-d-attaque-1">Balai animé d’attaque</h2>
+  <em>Artificiel de taille P, non-aligné</em>
+  <hr>
+  <strong>Classe d’armure</strong> 15 (armure naturelle)  
+  <br>
+  <strong>Points de vie</strong> 17 (5d6)  
+  <br>
+  <strong>Vitesse</strong> 0 m, vol 15 m (vol stationnaire)  
+  <hr>
+  <table class="ability-table">
+    <thead>
+      <tr>
+        <th>FOR</th><th>DEX</th><th>CON</th><th>INT</th><th>SAG</th><th>CHA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td data-label="STR">10 (+0)</td>
+        <td data-label="DEX">17 (+3)</td>
+        <td data-label="CON">10 (+0)</td>
+        <td data-label="INT">1 (–5)</td>
+        <td data-label="WIS">5 (–3)</td>
+        <td data-label="CHA">1 (–5)</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <strong>Immunités aux dégâts</strong> poison, psychique  <br>
+  <strong>Immunités aux états</strong> à terre, assourdi, aveuglé, charmé, effrayé, empoisonné, épuisement, paralysé, pétrifié  <br>
+  <strong>Sens</strong> vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 7  <br>
+  <strong>Langues</strong> —  <br>
+  <strong>Facteur de puissance</strong> 1/4 (50 PX)
+  <hr>
+  <p><strong><em>Faux semblant.</em></strong> Tant que le balai reste immobile et ne vole pas, il est impossible de le distinguer d’un balai ordinaire.</p>
+  <p><strong><em>Vulnérabilité à l’antimagie.</em></strong> Le balai est neutralisé quand il se trouve à l’intérieur d’un <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=champ-antimagie">champ antimagie</a></em>. Ciblé par une <em><a href="https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie">dissipation de la magie</a></em>, le balai doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur pour ne pas tomber inconscient pendant 1 minute.</p>
+  <h3>Actions</h3>
+  <p><strong><em>Attaques multiples.</em></strong> Le balai effectue deux attaques au corps à corps.</p>
+  <p><strong><em>Coup de balai.</em></strong> <em>Attaque d’arme au corps à corps :</em> +5 pour toucher, allonge 1,50 m, une cible. <em>Touché :</em> 5 (1d4 + 3) dégâts contondants.</p>
+  <h3>Réactions</h3>
+  <p><strong><em>Attaque animée.</em></strong> Si le balai est immobile et qu’une créature s’en empare, il effectue un test de Dextérité opposé au résultat du test de Force de la créature. Si le balai remporte l’opposition, il échappe en volant à la poigne de la créature et effectue contre elle une attaque au corps à corps en bénéficiant d’un avantage lors du jet d’attaque.</p>
 </div>
 
 <a id="en-castle-gargoyle" data-traduction="ancre"></a>
