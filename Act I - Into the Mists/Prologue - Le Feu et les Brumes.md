@@ -145,6 +145,8 @@ Les joueurs peuvent croiser et interroger d’autres plaignants sur la route. Il
 
 Le berger qui vient de vendre du lait aux voyageurs indique le chemin sans se faire prier : « La prairie des deux saules, trois kilomètres après le pont des Aulnes. Prenez le chemin des bergers depuis le pont. » « Braves gens, ajoute-t-il. Ils m’ont payé sans marchander, et leurs gamins m’ont aidé à rassembler mes bêtes. »
 
+![[Prologue-Le_Feu_et_les_Brumes_a411afeb.webp]]
+
 <a id="04-les-voyageurs-de-la-prairie"></a>
 <a id="de-camp"></a>
 ## 0.3. Les voyageurs de la prairie
