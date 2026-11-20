@@ -569,7 +569,6 @@ Lorsque les joueurs y entrent pour la première fois, lisez :
 </div>
 
 ![[Rose and Thorn.webp]]
-<span class="credit">« <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 > [!profile]+ **Profil : <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda « Rose » Durst</a>**
 >
