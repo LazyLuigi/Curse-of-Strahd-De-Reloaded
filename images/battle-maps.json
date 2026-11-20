@@ -1,12 +1,123 @@
 {
-  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp": {
-    "grille": {"cols": 25, "rows": 14, "x": 18.9, "y": 21.5, "l": 1613.4, "h": 887.0},
+  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_1d24b933_BattleMap_22x12.jpg": {
+    "nom": "01-Premier-Etage",
+    "grille": {"cols": 22, "rows": 12, "x": 81.8, "y": 79.4, "l": 1436.5, "h": 767.5},
     "lumiere": "penombre",
+    "penombre": 0.7,
     "joueurs": [
+      [9, 2],
+      [10, 0],
+      [9, 1],
+      [11, 0],
+      [8, 2]
+    ],
+    "portes": [
+      {"id": "pa1-1795213147044", "type": "porte", "x": 584, "y": 248, "w": 40, "h": 48},
+      {"id": "pa2-1795213147044", "type": "porte", "x": 512, "y": 316, "w": 48, "h": 36},
+      {"id": "pa3-1795213147044", "type": "porte", "x": 584, "y": 532, "w": 40, "h": 112},
+      {"id": "pa4-1795213147044", "type": "porte", "x": 976, "y": 532, "w": 44, "h": 108},
+      {"id": "p1795213218768", "type": "porte", "x": 588, "y": 96, "w": 28, "h": 28},
+      {"id": "s1795213232534", "type": "secret", "x": 140, "y": 328, "w": 68, "h": 52}
+    ],
+    "portesStyle": {"mode": "originaux", "sol": "#2a2018", "porte": "#7a4b25"},
+    "grilleStyle": {"visible": false, "nettete": 60, "couleur": "#ffffff", "epaisseur": 6.0},
+    "murs": {"format": "deflate", "empreinte": "3d612d3e", "e": {"auto": true, "tolerance": 20, "taille": 16, "boites": [], "exclus": []}, "detecte": "7Zq9jtQ6FMePCSgUCFNQgLSS6WiRaLYYEd4ECp7gVhSrTaSLRIV4AArEU1CSjpIXQDCioyLc5g66mTlXSezk2BN/7uwywFgrrT2O/cvfH8cfOQCHcAhpIS8Rl9GlEHETXYhjNOpOGIpz/Afg0vPbXYLdBRCI2ADAZeDykQxjQitLiahSdQpqJVHFxaHiVFWzqB/Dv7bvVURc48dXM6jiO25ETXqqLvrMfHyI4djDCsW65GoqBE/Z0CU9axxLQyPkI6oG4BVFieFhNRj6sSS7tlSqWgPVMqm4VKgcqywA1SgxA0o03Z8P1UqCRAEO2j2osRcHAG9ALL0o2QkTqvKh8krIrEyhrmzg1sNtVENQ95gEgFAovsrAi1KDRKEYvpDGwqrqJFOpTKFEW8oa1RTeQqlHuxeUL/7vs9qDKkfLxabyqkaqSmgo9RLAsTFKUVSmo6opGo4a68+cKEPVGBVOlN6AkxHfQhXqJbZQY1MAj0BNiTJc1ZTII1BERDhqagrm7itiA3OyngkXSnv7ktTgRNGGyqdW78xEKIq0S+lELWcyurgNxbZQlrhWozBVkXjmRNGdA62+MArpKKIqo/FgVacpqJzEmQvFSKdqKGFDbQ12MpacKG2wHztQY9uYqIzEt1CF1bKnqOIhDbi1XtEhcg4oquqA+s1RQfMqM3e3rnk1oZbGvEqawknzKk1VEEpoqnDFg1R1praFq+w1luv1Z/xA7aEdhYjvZ45QHhTihhYKRmEsSj9fRaj6lhfr7Ga/gHgacDrKkR8XwcOCLoV1zLDYZxTdmP0+qnaDWgSh6GasDjRMu1GVhgpTtRPULz0sMAXFk+bV2VBRfbVDVLd2RaMKxP9cln0e5VtEbCjnerVD1M1P9x9Fo/qMaBR4Dj1WVPwIhJRhcd6oWs9wGyb1UAxq1lr4UTZV0eYWoracNCSpSkPRPTs38uwNSDbVYH4JKec2ZxCsynhzeujRbhfBpUqzHpWeZ1W1d6jWyAhCiYtTte8othNU2B2Tawrbb84cqvKkBixTRuABFYASxnp1nqocNtCOMs1tEursi8h1I8+KCltELnBp3Ml6tfcLvgs1XX4n2UBzvTo/VU5zG4wKu6TT5pHhxOG8Dxx/DL6kM1FhN2c/C9WKBFQLIgGlfzUMRC31HVQYqtUtvfXQw0zzGo9qUgb7acp9YPdFLv7Qc+I59GSzqrx3TMrjR0dddZ+vRicIDcWqeNRTWMBRNKrKaxaOunH5aEA9GFT9+Huz9KKkH1Fes+NeVTlMSjeKS7+mE2D1QhqA2oUSGgqu9ajCh0JZ9YCCxwt5weJW1RDUEvJcqtoEqzoFOD6R6MaJqgmqgexbPTk+WVH9vBKywcpqqI3LWpwNyKU7WTfZOnRvdpc+lPIUK+uhNrWY2KdwIz/B1IOvCSp0M3PoUbaYaZ9fVh53vHn/wIY7C82jfOFMroh7jzpCfNl1KL550v370EX7NId369fYfn7716Ovwy+TK+L4kt08uiHTFu9S/uWh1t36kj15+bkC13cH/bj1O7LOoPw+syYqQ9zEu+cewp8d/gc=", "ajouts": "7dW9DYMwEEDhsyhcegRGYTQYLaMwQkqKyI4INna6OxcoKO/rT49fnwgAAAAAAAA+QtdUWqwTwyohHZ7qIRdF8lB6qKemmnrpr69JrT2p+Isp15XaP4t4zhv44yWNplRmTGVXpvTfbZNKPanQk5IrU+b/f09tpO6S8vrUmMTno3ZWp3zdBYZUOcoWS6qcmlt3Sr1I2pT+yJ2/U7rfeGgeoGGpuvNO9KmGJVVNpp1V2JY+AAAAAAAAAOA/vQE=", "retraits": "7ZpBcsMgDEVhWNAdNygX6QxX6U3o0XqUHqHLLjJVB9t1EpwQ9KZ1Zlr+Klkoz0jISCLGDA0NDQ0dFV+BkT3cF+XeCCoTVHjXo7zIxw2rrZyI3FrWVlnkU23kReTWsrYSEVEbBYTCq9LvsCe1xQ8o6V1SXAnyJ4u8qI2iiD7BHXI/jjRKFf2q2KZKZNM7EqoSK2BFvF58ofe6SQRlEcoTlMkE5cBeKsECsTKZnJtXhd49Tv/mH6iBGmoqIPeBo0WDiie/342yJ6XhQIEAWVBb/02UHAAKneGRlAuOlHYm71dvkSq3tGmoimQoUM/sgMpLYLOmef8uv51mpzu0mkwc5ylKvx3Q1ANnBkLt6UB96sbdemErZFWJ9MIeobKAHcjGWuktgWHdamIVD/q4fsrwdYbOA5Bg+6LQeXAetLNO5Nqz+zpWp01PuPbsiaA2lU8XKlT7twtlUvVzXahafagNeqAGaqDug0rVGdKFCnXl1IOy9Tu6C7Xpr3pmTGzyi1o5hgr7DZkZ6vdXtY6xNUf3evh6Te2+tgeae7qAenRSchbUXq2cQ+VVJNvBIxS6lQsEZdGtXKTX8ugCkK1qp67xGCuN8Tq3SJr8CscRiSK//JJWc6f00G9o1slZ3RqX/yK0HmG6qbTV3xym740UdxMjVq1n+d6KZSwMdwnVCsfk9qREeYSaGPGSAxvJMK3K1P4qvXwj75ZTuP53g2tvsTgz6sik9hRuDr8S5ZdE0aFmKVGLcuWu2JOjm7u45w6joaGhoX+pLw=="},
+    "notes": [
+      {"id": "n1795216189141", "x": 801, "y": 746, "texte": "Palier supérieur"},
+      {"id": "n1795216208019", "x": 421, "y": 205, "texte": "Chambre des domestiques"},
+      {"id": "n1795216217656", "x": 1342, "y": 345, "texte": "Salon de musique"},
+      {"id": "n1795216228556", "x": 393, "y": 563, "texte": "Bibliothèque"}
+    ],
+    "lumieres": [
+      {"id": "l1795213604267", "x": 285, "y": 803, "vive": 2.0, "faible": 1.0, "teinte": "chaude"}
+    ]
+  },
+  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_354e8a71_BattleMap_24x12.jpg": {
+    "nom": "03-Grenier",
+    "grille": {"cols": 24, "rows": 12, "x": 106.5, "y": 79.1, "l": 1444.7, "h": 748.9},
+    "lumiere": "penombre",
+    "penombre": 0.95,
+    "joueurs": [
+      [15, 0],
+      [16, 0],
+      [13, 1],
+      [12, 1],
+      [14, 0]
+    ],
+    "portes": [
+      {"id": "pa1-1795217235040", "type": "porte", "x": 724, "y": 108, "w": 44, "h": 56},
+      {"id": "pa2-1795217235040", "type": "porte", "x": 988, "y": 360, "w": 44, "h": 60},
+      {"id": "pa3-1795217235040", "type": "porte", "x": 468, "y": 360, "w": 40, "h": 56},
+      {"id": "pa4-1795217235040", "type": "porte", "x": 468, "y": 624, "w": 40, "h": 60},
+      {"id": "pa5-1795217235040", "type": "porte", "x": 604, "y": 624, "w": 44, "h": 60}
+    ],
+    "portesStyle": {"mode": "originaux", "sol": "#2a2018", "porte": "#7a4b25"},
+    "grilleStyle": {"visible": false, "nettete": 60, "couleur": "#ffffff", "epaisseur": 5.0},
+    "murs": {"format": "deflate", "empreinte": "350c07c2", "e": {"auto": true, "tolerance": 20, "taille": 18, "boites": [], "exclus": []}, "detecte": "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", "ajouts": "7dTBCcJAEEbhf10w3mIBgpZgAYKWYiVJSkspKSFHD2JkIXowC+Ms6Ol9BwmEB5sZXAkAAAAAAAAAAHyhHl8/s5PdhGk2qJ2fbma0nxYe9umW0WRGVSa6W1Gc+kXTmp/1fv86VrxLK/OEH0I6Xeet0vQu3ugs6eCOOmnrjfadtPFGdS+tvVE1SNE7vjhKoXdGIe17cEZK2716o0bS0Rul7f5vUW6Ve3TzotyCfR9l2PdRRlsSnd3/9rSokpnXJTOvSmYeS2YezIs5pyhqSqJdSQQAAAAAAIBfegI=", "retraits": "7VpBzuUmDAYhNUuOQC9ScaXZjjQqmVWP1dygV8gRssziTaggEGyHPAytWo30vPp/JR/g7zO2IU+ILpuOvveD/T755fzLe++ZIP+X3+IfOoDiAN9aGOm9f10Txbmknxmg6JRKoF3INPV7UBx5SiC/yTT1O5+SIxfIf2/zEV5bEeiHbzp1+gFBaZR35hJ9CoJaTNhEn4SgvQEyKRAQqEWfzpxDUIu+KXPuIKhBn8psWQha3oNkZsv0cJ4d1z2cu8Q5EqrFuR3h3GS2IH2tFKAzW4i+BmjKbCEmnoVSPhOwU6eehTJhBnk5jtb3SIWNM1yOoy316JWNL7v8CgY9LdBEh62nuQVFEgmpLyaOZ/K4KCauSHI4pNz5SOdXMChHkt1roKnK+QUyrxvIpwniEwTKkaRxSNnTGXm9gkA5KCZMvknOXLKgHZ85VziksjMuj4tCIlMtsWIqrcvmcdGOvzgnQiWQ8bU4fxIqJcoHofK7RCh1gh6EuobGQkkqlKtMRIXKtfMSytZARKjcBeQshph4zGLuFOjaUYWJVTyCzClQTn1h6j+8b+Q97cuOisGit3O2d1VDnSDdeq9mk+e3RZdJRiK+29dmGavZr/2Qj33sYx9j2MCJUkwDaWxidNZVUPcChxJ6s8TUTPr2weRunnEwuZkdoU+PzCR08zDzb4GmEZAaKLxBqV5xY9fTz54w/TqF9Q0wwbjzuJsaA905v93tkOY5bKn7SHS7kOY5CHXfUI7IYKgLtTC3ZDmauuAqQhmyHNo8p+MoGZksR1FmapuDXuXJm9/6DlJ0OZwAbQpVtZZQVWsKVbOmUDVrClWzplAcuwv1sY/9FKb6w12+VD6vK36JOlRuwQx/i3mZWzDLr7tuiS3Yb2tP3bWLCxXD7sLwq6FZXWjB7CE0vwPRmw23KtaHrpQN2k3g3PhZ8duW6aVDr6z9Ui2hdVNHaJbF5NdqCa2b9EHdWfmtWkIfLHxsCWvbqyX0waK6q4hksIWyp1De9whltvgpxfmew0MUityLNi0KRe5Fm3YKhe9FmyY9uHvkCzUz7gOpuaVcWHYIZftBZgOcc0F6B5xzhVIvcN/LFUoe4MaXncU8uGVnC+Xmck3MFsou5Zq4I/WVW3b2jpo2cLfMBakNfHhhV44v4EK6pznrF0qMCCXEgFAC3Od3HXjtM32hPa+25GVL1c9R1Za8gKJTGqoc2vNqS15A+YtFmTG059WWHGzeBCrcT8dDSw4SZvpKVDyP56ia6iBhrifoAM/m+tlJY5BG8R6/gFRUB6AtrbY8fBKKFAGFQE9CKQwSniUUXl6I3yLMo1D3kCgvPQpVmHil5ZaXGEIdabkLePYgFPisFv+zvBRjEUhzIMCrnp67P/WJ/zL1/bN82QXKQnUlWTsCyjHblZmzul13aVndt+mcXOqVbQhD4pf7cuC/pReDIaGXGwiOWXqxNc28Vy5jNNaxgPa83Ogo5mXCkpQs8crLnWMYowhRWBJSA0Q8wYWIRAuU2GeQL9PBMi6EbjCHpqL50pxPHdlgFqlPO+3pfGpIMOKMDdR9JdBRJkQgsN6i7gGGdCQYJ8wE+GnAnJY7x/nfgUCnvYiLNxrBCu9tUtjCzMu5aAiSGASEypVjuX51gPgCICDUkUZJ3S0SyiEN4M8x0vP59BRFn8XCARCoaDTVaPw/+A0HrGgEJDExQKgVDYWTmkUSAKH4uQ8Ixc99QCh+7rsJxbG7UByrCtWyqlAtsyMgIBS/HNIdxbJpBASE4oeEHAGJIZAbAdEaxbL0U6LbvntruYnvasXknyNfGVkfSW5TDXz6+9j/bn8D"},
+    "notes": [
+      {"id": "n1795217326279", "x": 1313, "y": 301, "texte": "Chambre inoccupée"},
+      {"id": "n1795217334637", "x": 277, "y": 355, "texte": "Chambre des enfants"},
+      {"id": "n1795217356987", "x": 801, "y": 616, "texte": "Débarras"},
+      {"id": "n1795217390019", "x": 866, "y": 251, "texte": "Couloir du grenier"},
+      {"id": "n1795217453369", "x": 316, "y": 712, "texte": "Chambre d’amis"}
+    ]
+  },
+  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_4ec07af7_BattleMap_22x12.webp": {
+    "nom": "02-Second-Etage",
+    "grille": {"cols": 22, "rows": 12, "x": 94.6, "y": 87.1, "l": 1428.7, "h": 746.9},
+    "lumiere": "penombre",
+    "penombre": 0.8,
+    "joueurs": [
+      [8, 2],
+      [9, 1],
+      [10, 0],
+      [11, 0],
+      [12, 1]
+    ],
+    "pions": [
+      {"camp": "ennemi", "nom": "Armure", "col": 10, "row": 7, "pv": 33, "cache": true, "ca": 18, "init": 0, "vitesse": 7.0},
+      {"camp": "ennemi", "nom": "Balais", "col": 12, "row": 8, "pv": 14, "cache": true, "ca": 15, "init": 3, "vitesse": 2.0}
+    ],
+    "portes": [
+      {"id": "pa0-1795214256681", "type": "porte", "x": 336, "y": 116, "w": 44, "h": 60},
+      {"id": "pa1-1795214256681", "type": "porte", "x": 464, "y": 372, "w": 44, "h": 60},
+      {"id": "pa2-1795214256681", "type": "porte", "x": 988, "y": 492, "w": 44, "h": 60},
+      {"id": "pa3-1795214256681", "type": "porte", "x": 464, "y": 528, "w": 44, "h": 120},
+      {"id": "pa4-1795214256681", "type": "porte", "x": 1168, "y": 560, "w": 68, "h": 44},
+      {"id": "pa6-1795214256681", "type": "porte", "x": 908, "y": 564, "w": 64, "h": 44},
+      {"id": "pa7-1795214256681", "type": "porte", "x": 1344, "y": 564, "w": 124, "h": 44},
+      {"id": "pa8-1795214256681", "type": "porte", "x": 596, "y": 616, "w": 44, "h": 64},
+      {"id": "p1795214336590", "type": "porte", "x": 600, "y": 108, "w": 32, "h": 32},
+      {"id": "s1795214445303", "type": "secret", "x": 992, "y": 388, "w": 36, "h": 56},
+      {"id": "s1795214449120", "type": "secret", "x": 1112, "y": 356, "w": 36, "h": 60}
+    ],
+    "portesStyle": {"mode": "originaux", "sol": "#2a2018", "porte": "#7a4b25"},
+    "grilleStyle": {"visible": false, "nettete": 60, "couleur": "#ffffff", "epaisseur": 6.0},
+    "murs": {"format": "deflate", "empreinte": "b42b66f9", "e": {"auto": true, "tolerance": 20, "taille": 11, "boites": [], "exclus": []}, "detecte": "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", "ajouts": "7dWxDYNADIVhoyvowggsEsFiSGG0jJIRKFOgODJSBnivQAr6v/7prLN9FwEAAAAAAOCYnFD/clK7ExqdkF7fmJlyfRXKVQy1Cm3qUY/M/KihoY56iqEu92hv9ajJaVVbI5rcqrq7uxq61XWorSqd3Kqwt0pt1UFuVbhbpbeqLE5ocK6is65idkJnPoDO1DZrauVWzc5WHbXJ9S3OVlVt8lbVGOmjNK+RqYb6eqDlUcpL/lXWxvM4/5z5OF/yHwUAAAAAAACAP/AF", "retraits": "7VlBjhwhDKSFFI48gY9Ey8eiEGkP+das8pHJD+Y4h9E6ArpnwJQZ6CiJknQdImW6G5ddxhivUgcOHDhw4C/B8g5+NF+efOVP4KOb8LJbH5grME9gpQhNKwdC5sFKCeGymjy3zyxaKT1YQ6CBA0REMBh34qF9HIgIM9yI20vzyImmjEQ8RomI2rUScxCC7RERIdkfUgHY+BUUS2PaKkVJ5Bfwz2oNBSZiMe0MLzgl5phK5IUlxRzLpvDvHamiqc7DA78WQdiRXThhR3ZhpIzvQtqRXThhR3ahpeLURdjDz+7hp6TN38VvDIWnHRtZ7wqF38NPqY97Pjrwv0LuFDp4mf3AEd3M7B6IrdRpcg+kpuPqdlgiPRmK1BSdJ8vVym/yZEktrZ48WbI/n+c+Up/iP3ZSquTPMilV9sfPfaTelaabmZTKvQGpwhMnl1sgujGpLHDSl6/4mBbfaqkWcGZULebyPbbKTCrfOmmrlsQRnV+YVOAipquWJDbs5o15ATqdUB35sWG/Mqlcm4+2MhUbdsek0m0nsVRHamzYdSlVNAOk8pWpGM1PhVTRDJDKVKZiw25fi2XCCUoVKlN0VsulKIDRDJCqbhTi3eqlKIDRDJDKUnlzS1KVBTCaaaVa6p4pSVWEIpoBUoWqvU1SlQUG9762am+zVEXWAjOq6emSVEXWgoxQObkrw0qF1yIUePMulVP65IkuoVhlpELd4ga2Dxl4RsBm3b8S0VvhJssIT+BKbi6B6OrFs8BAU+/xZzRO2eiiZtOeAuFxyp1fu2Iu6GiccueHCpsSxikrIL9cJcA4ZYWF96pkxIr8FniZyGeVzM+je5++eHFEo3KHD/h9zi1CxxTQ18azqnMLgpeJ5drnpxTi5w3j13AFlwlzZvw6c6MHbu4rnT88/t+ZGxUrvzLSnbnRY2V+jnbnRhve2TnanRvd+fFztDs32la+sHO0Ozfa8JF3z520Kl5ifIakcixeQ1I1L41I1bw0JBV/aUiq5qURqcZe4hjSswHW88kMqtbTrz66uNcXsYjUUpk1R/Is1ItFpJZqK/whmjTinLeWyq0+2mRSnEPXUunVi9wlOmkOzaQKqxc+mtTiSL6WauteTTIZ4OmmuFTL5kUKnBXr/R+Xal1iTKpBDG29BlGqoUpUIko1VImq1jWKgSpR4y0/0FA4Gm9DoXXkBsPBa4gr0z5yQ0WG1xBTpn3kBosMT70yrRI3lJtciWaYiqTiSmiewVAqrkTgpkak8tzUiFSGb5YRqZZms4xI5XldG5FKN3VtRKowMsLmSuBbBUerhH3+0a4acuDAPwA31JAzSH+17sL2rpQSmgI9hLVq2qk/arrEDw8HnvDTYnuCkYdYYieJYVPV9GIniZHcMWIniZFDQXOhyGML150cQFM5flMyJxt+jt86UJ5LirvBHVnIxt7Dpvb8aUserB04cODAgZ/FDw=="},
+    "notes": [
+      {"id": "n1795216350488", "x": 819, "y": 485, "texte": "Balcon"},
+      {"id": "n1795216362863", "x": 284, "y": 524, "texte": "Suite des maîtres"},
+      {"id": "n1795216380696", "x": 748, "y": 717, "texte": "Salle de bains"},
+      {"id": "n1795216390296", "x": 943, "y": 802, "texte": "Débarras"},
+      {"id": "n1795216399096", "x": 1337, "y": 202, "texte": "Suite de la nourrice"},
+      {"id": "n1795216414404", "x": 1144, "y": 677, "texte": "Chambre du bébé"}
+    ]
+  },
+  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp": {
+    "nom": "00-RDC",
+    "grille": {"cols": 25, "rows": 14, "x": 8.8, "y": 26.1, "l": 1634.9, "h": 877.4},
+    "lumiere": "penombre",
+    "penombre": 0.6,
+    "joueurs": [
+      [22, 10],
       [23, 10],
-      [25, 10],
-      [25, 11],
-      [25, 12]
+      [23, 11],
+      [24, 10],
+      [24, 11]
+    ],
+    "pions": [
+      {"camp": "ennemi", "nom": "Elisabeth Corrompue ", "col": 11, "row": 13, "pv": 93, "cache": true, "ca": 15, "init": 1, "vitesse": 6.0},
+      {"camp": "ennemi", "nom": "Elisabeth Nothic", "col": 12, "row": 13, "pv": 93, "cache": true, "ca": 15, "init": 1, "vitesse": 9.0}
     ],
     "portes": [
       {"id": "p0", "type": "porte", "x": 188, "y": 248, "w": 40, "h": 52, "cote": "a"},
@@ -20,8 +131,17 @@
       {"id": "p1795172470622", "type": "porte", "x": 580, "y": 108, "w": 24, "h": 28}
     ],
     "portesStyle": {"mode": "originaux", "sol": "#c9bbb0", "porte": "#404d55"},
-    "grilleStyle": {"visible": true, "nettete": 50, "couleur": "#3c3022", "epaisseur": 2.5},
-    "murs": {"format": "deflate", "empreinte": "7526616b", "e": {"auto": true, "tolerance": 20, "taille": 16, "boites": [], "exclus": []}, "detecte": "7ZrNjtxEEICrMcQcIL6CNKxzgxM/J/awiveAxDGPsHvkESIRxhZcckDiAXgHLjzATATKBYk8QbSWciASkXYQh4xYr4tte9yuKrt7ypPdVQTbWq3K457+pqrrp9tugJt20173ZhCxmvytFBGXk781GXWnCKLeaP9/ALf27YVpP/1yZo4jRKw/+wvgaV1sOtuPciSNXPyJsnXEfHAn0CqC0rcOlV09qngVVDwJ1Wu1eI4Qwbv4s70sDqwXrDeDNZ1SJyVOqwogLvuJNkVsv9Rqu+58aSPlDlUA3CXucQB58+PjHoDVk9YI8bpD2WEJKi5jxLZvp3q+tn+NVHhQc8hbQtZZ2SDENTBUPIIqO2VaVLKCjeW8Ws0hq9zUt50Q4mobKsJWSjrUrTtwdyuqu5UPYtBrwGjZ3TLDcGeoPXJjBjm4HyhRzgMFypRJd5X7UbnQKv2RBI8a1QdPqkdluOpEvwElKsLa9RmiCiJw1HJE3KJVhN2PADMF5cR0glb9xQSUMwXEEhX5tep75v65AoFypmADtASKMgxVODkNugV19sx5BRg1yvRW7xPlVlRKRvCiZAibeqTTACVDOFuOdBpDMa3I8JFEfeONq+W43KC+7wQ5V2siS9R9L6qfYEgl6iEZmhmQoIxEfdUJA7cIoN50TKsVuWlWRJaojyhqRm6kRE60IUxREAzhnNxQo2Kqyf8Ylb2mWtHEdE2oKIR6sAsqVufAIMqXA1WoQWa/OtQg3apQgyIyHZXWSq2WF5p1n0ZYZqSTH4Unm13GKWKdY6ZDyS2KBjXY9ExH/YF/q1AR/tBvSiuy8gmjyOxmxXM+tFcrEqZsnoKonNSnPdEp6OwOVfJOARQZTo2KXuyCojcy0cmvFblB1xUTUAXv5EcRrfQoakA9ii7G9CgyvN6AFKX3wGvUaifUTnP14HAXFOmoD2F6Y1tcOQXYYnlrXLkqTIZLtqBeNTGR4VLRSYfayS3SX35TFhGGypRFhKEeKesVnStTf/5yB1QJRlWFpQGVawsxV+oVk0OtLgUl48zrgdTh7wtURpecXbNx9U5IK7dmFwszVrN4+feEcCoyRiKis9fqV45iycmLmgsDXhNqT40Sc6VDSbe4ShQZ7qpRIt3qUHTFpEbRepWoQ1jWq1BcuXA6IB/uiUISaUNYvxOhKN2m5/JRYq6SUVQpVk35KZ43+6ETxJ9q+vqFOnv+Dy8ivjc9DCU3PYM3YnSD6lByf6VCLdQoMR+sXjUG3G/ltceAMLoXNv1oo3EFAbew0zHqgeMo8sMzn1a3NajBk0zqPxLl1YrGlR8lXJOtmryoA/4l5iYS1T/Sf8y/FIVQzm5z8QN1KJHnwij3vul4F5T4fQwlU51r+SGwRlE0B7LlQ1CrfSLTZ92sXkkU1Yo+kxs4u7eI0GdyAw/01SuGGoSwF0VrQyZTKpHp+xG6yhwYEOhjSD8qEFdelNwpsmzhRYUSU+JFhRKTWqvpqMX5yRlF0drgRckiokIN6hUNYeaBQZQIYR1KZcAUi4ShyAjcAxmqhGy6ASveUYkSQedFiV0jD2GK8mULG0fM+XWo5YUH+lC+EB5sUHUGLC5CWIWSe+HpWoVyoFerFRx7q7A3s6cwY1qxIkJDXSykS7ZOp0WE1yumVVIyFH1zWdLSyFGfMK3mRGYFX+yvPqUoWmxHC75pUQZUqGZtMW+nIgV4r0GdQjQLod563IaGnXWr0aN160TNqF7U221otKgCksbZ63ZUL8oUBFUBfL1unSiMsm/Yo6q1frpszxgYhKgOGtAKWII9PGJDOLGo7pCUF2WFBPHInphIVxdRUdhtwbNmUR+LbNEvOetNmq3asxZpBbebbUEN6beIi8WRfQVk2+L86chJuie2Z7x5U4SIZ+dyS+E5Sbc2g47jO5HmqkjCvUdRK+XhQo5SHsO7FJT3cGHtpJfkjNf735XpwrpBffRhcX4Gs98ffmwL67PORctumZuxsmmrGzvRcqg6KJriGdJsmmjOpBp3bHDTlCgcoOSD8BHUacXUvIfVF1tRN+0/2/4F", "ajouts": "7dixDcJQEETBk35A6BJoBInS7NJciksgJECcJXdwBzIEM/nT5hsBAAAAAAB8x8jMRyfKpVrdM/PVmlr/fOrZmqpGcSsXAAAAAPCRa/1mO96vrV7NjccsLo138+Spdz0ajZ8yYirflPA7Ow==", "retraits": "7ZlNchwhDIVFsWDjCjlBuIJPEG4W5mbJPbLJEbz0whUlU5XUCJof8WxPzSR6u3aZ+ZAangRNZDKZTKb7UfiBjPpiqNehTKZrKPH3b9uDAjOftkcx8/P2oMTM2xN0zPxyPdR+VPF3ArcHEZR1j8yPMoh62kcl/rk/iPjr/vzeQgFIJjlGakAGlggF5G1TAd72dVH72/mMAtLuoeWYkZXvEBOghETloKio/H1X6SMw2u/b6TmVyEw9kn9sh4EoLCrINwx1N6iIWCgpLfShegq6Zevrf/usm5F09aT1aunqTu0VLBKtRmXhf2pUgFCMRBVl66lFOdlFqlFJdmk7qNPlQY+6rO/3jSpCvWfGyuKOuLOD0mpQ6QTjV1aRe+1EXuQv9PLmV6+qexJZoWLvJHJLqNI7/5V1Ao+/G1aoiKAoI1FRN4GrCtIrZw5pfOgDMuigMGrVQrt+ZWLLYMa+TX8UWRyiSusWGtTBmDQod7gf0KByu+o1KH+49VCi6nX3T6ASkkCC7nIoImcjk8l0M3JjZx8rTIxpqJkHDlW4KeIaVOSmymlQ53q1j0pIVP7QEGpQeVaFZ6j6L8qodEXEizjcNCpZr7L4cXVvIVHnZTGe/QhFs28jQ9RUQ9RMhjKUoYg+yYdHJarIp1Dt5yHK1cZU14YRytXOniqXmhmTmFNz9TPxQBlVVF3otHar+5KVarttC/kQVZWarGoSGpTuA2J7aoyqc0l7V6JbnU0CnWojtN+itQ1THcfymuQPq0rZ8kamq+U1SU/YNYnJZDL9R/oF"},
+    "grilleStyle": {"visible": false, "nettete": 60, "couleur": "#ffffff", "epaisseur": 5.0},
+    "murs": {"format": "deflate", "empreinte": "6a644616", "e": {"auto": true, "tolerance": 20, "taille": 16, "boites": [], "exclus": []}, "detecte": "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", "ajouts": "7dixDcJQEETBk35A6BJoBInS7NJciksgJECcJXdwBzIEM/nT5hsBAAAAAAB8x8jMRyfKpVrdM/PVmlr/fOrZmqpGcSsXAAAAAPCRa/1mO96vrV7NjccsLo138+Spdz0ajZ8yYirflPA7Ow==", "retraits": "7ZlPTh4xDMUdZZFNRTgBuUJP0Nys4WZwDzZwgy67qGoYqRVOJn+c1/YTUL9dEPl+sSfznHiITCaTyfR+FB6RWV8N9Wcok+kSSvxwvz0pMPPt9ixm/r49KTHz9gIdM/+4HGo/qviSwO1JBGXdI+ujDKK+7aMS/9yfRHy3v76/oQAkkxwjNSADW4QC8rSpAE/7sqj91/lAAWn30HbMyM53iAlQQqJyUFRUfj+rdA3M9vt2eqQSWalH8o+9YSAKiwryDUO9G1RELJSUFvqpGgXdtvX1v33RrUi6etJ6tXR1p/YKFolWo7LwPzUqQChGoory6KlFOXmKVKOSPKXtoG5fB3rU6/7+t1FF6OyZsbK4oW7hTatZpROMX1lF7h0n8iJ/oZc3v3pU3ZvIChV7N5G3hCq9+19ZJ/D8u2GFigiKMhIVdRO4qiC9cuaQgw9dIZNOCqOjWmj3r0xsGazYt+mPIotDVGnfZQ3qZEwalDv1BzSo3O56Dcqfuh5KVL3vPgQqIQkkqJdDEbkbmUymt6L4NHb2odzMmIaaeeBQhZsirkFFbqqcBnXUq31UQqLypwOhBpVnVXiGqv+ijEpXRLyIw02jkvUqix9Xny0k6tgW49WPUDT7NjJETTVEzWQoQxmK6EYOPitRRY5C9T4PUa42pro2jFCudvZUudTMmMSamtbPxANlVFHV0GntVvclK9V2G1SVu0kFZVUbrEHpPiC2t8aoupe0vRLd7mwS6FQvQvstWnWKOTos1XjZJvnFqlK27Mh0tWyT9IS1SUwmk+k/0jM="},
+    "notes": [
+      {"id": "n1795215901627", "x": 795, "y": 679, "texte": "Grand Hall"},
+      {"id": "n1795215968984", "x": 1178, "y": 648, "texte": "Vestibule & Tableau"},
+      {"id": "n1795215979230", "x": 918, "y": 168, "texte": "Poeme"},
+      {"id": "n1795216030484", "x": 535, "y": 534, "texte": "Vestiaire"},
+      {"id": "n1795216040018", "x": 1250, "y": 370, "texte": "Repaire des loups"},
+      {"id": "n1795216059684", "x": 202, "y": 409, "texte": "Salle à manger"},
+      {"id": "n1795216069833", "x": 389, "y": 120, "texte": "Cuisine et garde-manger"}
+    ],
     "lumieres": [
       {"id": "l1795172141291", "x": 1241, "y": 126, "vive": 4.0, "faible": 1.0, "teinte": "chaude"},
       {"id": "l1795172240872", "x": 796, "y": 805, "vive": 4.0, "faible": 1.0, "teinte": "chaude"},

@@ -36,7 +36,7 @@ Ces transcriptions permettent de remettre les documents aux joueurs en français
 <a id="support-durst"></a>
 ## Invitation des Durst
 
-[Illustration d’origine](../images/Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House/Durst%20Invitation.webp).
+[Illustration d’origine](../images/Act%20I%20-%20Into%20the%20Mists/Arc%20A%20-%20Escape%20From%20Death%20House/Durst%20Invitation.jpg).
 
 > Vous êtes cordialement invités à vous joindre à
 >

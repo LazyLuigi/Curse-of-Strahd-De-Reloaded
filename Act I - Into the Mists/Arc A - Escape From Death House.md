@@ -80,6 +80,8 @@ Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques 
 
 Le grand hall correspond dans l’ensemble à la description de <span class="citation">Grand hall (p. 212)</span>, mais contient désormais une horloge de parquet, placée dans l’espace circulaire au pied de l’escalier.
 
+![[Arc_A-Escape_From_Death_House_ca9d5024.webp]]
+
 À la place d’une épée longue, le portrait de la famille Durst décrit dans <span class="citation">Palier supérieur (p. 213)</span> est maintenant accroché au-dessus de la cheminée. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.webp]]
@@ -160,9 +162,8 @@ pour célébrer le premier anniversaire du moulin Durst.
 <em>Un dîner et des rafraîchissements seront servis.</em>
 </div>
 
-![[Durst Invitation.webp]]
+![[Durst Invitation.jpg]]
 [Transcription française](../Appendices/Supports%20visuels.md#support-durst)
-<span class="credit">« Invitation des Durst », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 <a id="en-den-of-wolves" data-traduction="ancre"></a>
 ### Repaire des loups
@@ -212,6 +213,8 @@ Un joueur qui mange ne subit aucun effet néfaste.
 ### Cuisine et garde-manger
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 4.</em></span>
 
+![[Arc_A-Escape_From_Death_House_e2eed88a.webp]]
+
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Cuisine et garde-manger (p. 213)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
@@ -235,9 +238,14 @@ Un joueur qui ouvre la marmite y découvre une <a href="https://www.aidedd.org/r
 Si les joueurs lisent le billet, un couteau de la cuisine s’envole de son étagère et se plante dans le mur opposé.
 <a id="en-a2c-the-second-floor" data-traduction="ancre"></a>
 ## A2c. Le deuxième niveau
+
+![[Arc_A-Escape_From_Death_House_1d24b933_BattleMap_22x12.jpg]]
+
 <a id="en-upper-hall" data-traduction="ancre"></a>
 ### Palier supérieur
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 6.</em></span>
+
+![[Arc_A-Escape_From_Death_House_ca142576.webp]]
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Palier supérieur (p. 213)</span>. Lorsque les joueurs y entrent, lisez :
 
@@ -251,6 +259,8 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 ### Chambre des domestiques
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 7.</em></span>
 
+![[Arc_A-Escape_From_Death_House_83a402d5.webp]]
+
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Chambre des domestiques (p. 213)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
@@ -262,6 +272,8 @@ Le panier contient du linge d’homme : costumes raffinés, tuniques, cravates, 
 <a id="en-conservatory" data-traduction="ancre"></a>
 ### Salon de musique
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 10.</em></span>
+
+![[Arc_A-Escape_From_Death_House_36ca386b.webp]]
 
 En approchant des portes, les joueurs entendent faiblement un clavecin de l’autre côté. Mais s’ils ouvrent ou frappent, la musique cesse.
 
@@ -275,6 +287,10 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 ***Le clavecin.*** Un joueur qui examine le clavecin constate qu’une touche semble rester enfoncée. En examinant l’intérieur, il en découvre la cause : un morceau de parchemin roulé, glissé sous une corde.
 
 Le parchemin est une partition manuscrite pour clavecin, intitulée *Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>*. Si quelqu’un l’interprète au clavecin, lisez :
+
+<p><audio src="../audio/Valse_pour_Klara_2.mp3" title="Valse pour Klara 2"></audio></p>
+
+![[Arc_A-Escape_From_Death_House_4f2778a3_2.webp]]
 
 <div class="description">
 <p>Vos doigts se posent sur les touches et les notes résonnent, emplissant la pièce silencieuse et poussiéreuse d’une mélodie lancinante. À mesure que vous jouez, la musique semble prendre vie ; vos mains se déplacent d’elles-mêmes sur le clavier, comme guidées par une force invisible.</p>
@@ -291,6 +307,8 @@ Jouer la *Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%
 ### Bibliothèque
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 8.</em></span>
 
+![[Arc_A-Escape_From_Death_House_6108c2f3.webp]]
+
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Bibliothèque (p. 213-14)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
@@ -299,6 +317,8 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 </div>
 
 ***Le bureau.*** Un billet manuscrit repose sur le bureau. Il dit :
+
+![[Arc_A-Escape_From_Death_House_26362d55.webp]]
 
 <div class="description">
 <p>Chers monsieur et madame Durst,</p>
@@ -329,10 +349,14 @@ La porte ne peut s’ouvrir que si l’<a href="../Appendices/Index%20des%20pers
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Pièce secrète (p. 214)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
-<p>Cette petite pièce dissimulée est encombrée d’étagères ployant sous de vieux grimoires reliés de cuir à l’aspect sinistre. Un lourd coffre de bois aux pieds de fer griffus est adossé au mur sud, son couvercle à demi fermé. Un squelette en armure de <a href="https://www.aidedd.org/regles/equipement/armures/">cuir</a> en dépasse, la tête et les côtes coincées sous le couvercle.</p>
+<p>Cette petite pièce dissimulée est encombrée d’étagères ployant sous de vieux grimoires reliés de cuir à l’aspect sinistre. Plusieurs symboles occultes sont gravés à même le bois et le sol. Un lourd coffre de bois aux pieds de fer griffus est adossé au mur sud, son couvercle à demi fermé. Les restes d’un squelette richement vêtu en dépassent. Une abominable expérience semble avoir été pratiquée sur celui-ci.</p>
 </div>
 
+![[Arc_A-Escape_From_Death_House_9deb5353.webp]]
+
 Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modifiez également la lettre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> comme suit :
+
+![[Arc_A-Escape_From_Death_House_7bd30810.webp]]
 
 <div class="description">
 <p>Ma plus pitoyable servante,</p>
@@ -350,11 +374,16 @@ Les joueurs connaissent ce nom s’ils l’ont demandé à <a href="../Appendice
 <a id="en-a2d-the-third-floor" data-traduction="ancre"></a>
 ## A2d. Le troisième niveau
 Lorsque les joueurs montent l’escalier en colimaçon vers le troisième niveau, rappelez-leur qu’ils peuvent regarder au centre de la cage d’escalier jusqu’au niveau le plus bas.
+
+![[Arc_A-Escape_From_Death_House_4ec07af7_BattleMap_22x12.webp]]
+
 <a id="en-balcony" data-traduction="ancre"></a>
 ### Balcon
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 11.</em></span>
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Balcon (p. 214)</span>. Lorsque les joueurs y entrent, lisez :
+
+![[Arc_A-Escape_From_Death_House_44de1c90.webp]]
 
 <div class="description">
 <p>Vous gravissez l’escalier de marbre rouge jusqu’à son sommet et arrivez sur un balcon poussiéreux. L’air y est sec et renfermé, mais teinté d’une étrange odeur cuivrée.</p>
@@ -393,6 +422,8 @@ Une créature poussée par-dessus le bord du balcon tombe de deux niveaux, soit 
 
 Lorsqu’un joueur approche de cette porte pour la première fois, lisez :
 
+![[Arc_A-Escape_From_Death_House_d926e94f.webp]]
+
 <div class="description">
 <p>Ces grandes portes se dressent devant vous, leurs cadres de bois sombre enserrant deux vitraux poussiéreux. Chaque panneau est gravé de motifs complexes évoquant des moulins à vent ; leurs couleurs autrefois vives sont maintenant ternies et cachées sous un épais voile de crasse.</p>
 <p>À travers la poussière qui vous pique les yeux, vous distinguez quelque chose derrière les vitres : une silhouette, à quelques centimètres du verre, éclairée par-derrière d’une faible lueur ambrée. Elle ne bouge pas, mais sa simple vue serre vos muscles dans un étau ; vos membres refusent d’obéir à votre volonté.</p>
@@ -404,6 +435,8 @@ Lorsqu’un joueur approche de cette porte pour la première fois, lisez :
 Cette silhouette est <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, dont la volonté imprègne la maison jusqu’à son réveil, à minuit.
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Suite des maîtres (p. 214)</span>. Lorsque les joueurs y entrent, lisez :
+
+![[Arc_A-Escape_From_Death_House_06411aab.webp]]
 
 <div class="description">
 <p>Vous entrez dans une chambre de maître poussiéreuse, envahie de toiles d’araignée, dont les fenêtres sont couvertes de rideaux bordeaux. Un lit à baldaquin aux tentures brodées et aux voilages vaporeux déchirés se dresse contre le mur central.</p>
@@ -441,6 +474,8 @@ Lorsqu’un joueur approche pour la première fois à 1,50 m ou moins du **<a hr
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Suite de la nourrice (p. 217)</span>. Lorsque les joueurs y entrent, lisez :
 
+![[Arc_A-Escape_From_Death_House_894d9ce3.webp]]
+
 <div class="description">
 <p>La poussière et les toiles d’araignée drapent cette chambre élégamment meublée. Un grand lit est adossé au mur du fond ; ses couvertures autrefois somptueuses sont aujourd’hui ternies et élimées.</p>
 <p>Près du lit, une serviette moisie recouvre en grande partie un <a href="https://www.aidedd.org/regles/equipement/materiel/">livre</a> poussiéreux et jauni sur l’une des deux tables de chevet. De l’autre côté de la pièce, vous distinguez deux autres portes à vitraux piquetés de saleté et de crasse.</p>
@@ -458,6 +493,8 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 
 Si un joueur entre, le fredonnement cesse brusquement. Lisez :
 
+![[Arc_A-Escape_From_Death_House_9349cd13.webp]]
+
 <div class="description">
 <p>L’air de cette petite chambre est étrangement chaud, teinté d’une odeur cuivrée. Un berceau occupe le centre de la pièce ; un nom est gravé à sa tête.</p>
 <p>En baissant les yeux, vous remarquez qu’un petit objet semble être tombé sous le berceau. Au loin, vous percevez faiblement les doux gémissements d’un nourrisson.</p>
@@ -471,6 +508,8 @@ Le nom « <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures
 
 L’esprit ressemble à une jeune femme pâle d’une maigreur squelettique, dont les doigts et les orteils ont tous été tranchés, les yeux cousus et les lèvres et les dents arrachées. D’innombrables cicatrices fines comme des lames strient tout son corps, y compris autour des poignets et des chevilles, et ses cheveux ont été grossièrement coupés à ras.
 
+![[Arc_A-Escape_From_Death_House_d0044a15.webp]]
+
 Malgré cette apparence troublante, les joueurs qui observent l’esprit sentent qu’il les regarde simplement avec une timide curiosité.
 
 L’esprit ne peut ni parler à voix haute ni quitter le miroir. Il ne montre toutefois aucune hostilité et peut répondre à des questions simples en hochant ou en secouant la tête. Il sait tout ce que la nourrice savait de son vivant. La mention de Mme Durst lui inspire de la peur, celle de M. Durst du chagrin, celle de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> ou de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> une affection mélancolique, et celle de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> du désespoir.
@@ -478,6 +517,9 @@ L’esprit ne peut ni parler à voix haute ni quitter le miroir. Il ne montre to
 Si les joueurs lui demandent de les aider à trouver les enfants ou à échapper à <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Mme Durst</a>, l’esprit s’écarte, disparaissant de leur vue, et la porte secrète derrière le miroir s’ouvre lentement, révélant l’escalier du grenier. L’esprit ne revient pas.
 <a id="en-a2e-the-attic" data-traduction="ancre"></a>
 ## A2e. Le grenier
+
+![[Arc_A-Escape_From_Death_House_354e8a71_BattleMap_24x12.jpg]]
+
 <a id="en-attic-hall" data-traduction="ancre"></a>
 ### Couloir du grenier
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 16.</em></span>
@@ -496,6 +538,8 @@ Cette porte mène à la [chambre inoccupée](#en-spare-bedroom).
 
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Chambre inoccupée (p. 215)</span>. La poupée de la chambre des enfants (p. 215-16) se trouve ici. Lorsque les joueurs y entrent pour la première fois, lisez :
 
+![[Arc_A-Escape_From_Death_House_da41c15d.webp]]
+
 <div class="description">
 <p>Cette pièce froide et saturée de poussière contient un lit étroit, une table de chevet, un petit poêle en fer, un bureau et son tabouret, une armoire vide et un fauteuil à bascule. Une poupée à l’air renfrogné, vêtue d’une robe de dentelle jaune, est assise dans l’embrasure de la fenêtre nord, près d’une vieille boîte à musique ternie ; les toiles d’araignée la drapent comme un voile de mariée.</p>
 </div>
@@ -511,7 +555,18 @@ Lorsque les joueurs quittent la pièce, le fauteuil commence à se balancer douc
 ### Chambre des enfants
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 20.</em></span>
 
-Cette pièce correspond dans l’ensemble à la description de **Chambre des enfants** (p. 215-16).
+![[Arc_A-Escape_From_Death_House_5e3563f6.webp]]
+
+Lorsque les joueurs y entrent pour la première fois, lisez :
+
+<div class="description">
+<p>Cette ancienne chambre d’enfants est plongée dans une pénombre oppressante. Au fond, une fenêtre condamnée par un mur de briques sépare deux petits lits aux cadres de bois sculpté. Leurs draps défraîchis disparaissent sous une épaisse couche de poussière.</p>
+<p>Près de la porte repose un coffre à jouets décoré de moulins à vent peints sur ses flancs. Quelques jouets oubliés traînent encore sur son couvercle. De l’autre côté de la pièce, une maison de poupée reproduit avec une précision inquiétante l’effroyable demeure dans laquelle vous vous trouvez.</p>
+<p>D’innombrables toiles d’araignée pendent du plafond et enveloppent le mobilier. Rien ne semble avoir été dérangé depuis des décennies.</p>
+<p>Mais c’est au milieu de la pièce que votre regard s’arrête.</p>
+<p>Sur un vieux tapis gisent les squelettes de deux jeunes enfants, encore vêtus de leurs habits en lambeaux. Leurs petits corps sont étroitement enlacés, comme s’ils avaient cherché refuge l’un contre l’autre dans leurs derniers instants.</p>
+<p>Et ces vêtements, malgré les ravages du temps, vous les reconnaissez.</p>
+</div>
 
 ![[Rose and Thorn.webp]]
 <span class="credit">« <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> », par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
@@ -589,6 +644,8 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 ## A2f. Les coups de minuit
 Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit, elle prend forme dans sa chambre, et cherchera les joueurs salle par salle. Si les joueurs atteignent la porte d’entrée avec les ossements des enfants, elle apparaît aussitôt au pied de l’escalier, derrière eux.
 
+![[Arc_A-Escape_From_Death_House_2374d05b.webp]]
+
 Si elle trouve les joueurs après minuit, lisez :
 
 <div class="description">
@@ -659,6 +716,8 @@ Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20c
 
 Lorsque la première forme tombe à 0 point de vie, lisez :
 
+![[Arc_A-Escape_From_Death_House_33247cc8_3.webp]]
+
 <div class="description">
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> ouvre la bouche, mais c’est sa poitrine qui se fend. Une déchirure remonte à travers la robe et la peau, comme si une couture trop tendue venait de céder. Un grand œil humide s’ouvre au milieu de ce qui était son visage.</p>
 <p>Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous accueille : « Je vois vos petits secrets, mes enfants. »</p>
@@ -693,6 +752,7 @@ Lorsque la première forme tombe à 0 point de vie, lisez :
 </div>
 
 <a id="de-melodie"></a>
+
 ***La Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>.*** Une fois pendant le combat, un joueur qui connaît la *Valse pour <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>* (voir le [salon de musique](#en-conservatory) et la [suite de la nourrice](#en-nursemaids-suite)) peut consacrer son action à la fredonner ou à la jouer en évoquant <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> ou <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> s’arrête, les mains plaquées sur les oreilles, et siffle : « Pas cette chanson. Pas dans ma maison. » Elle perd sa réaction jusqu’au début de son prochain tour et a le désavantage à ses jets d’attaque jusqu’à la fin de son prochain tour. Sous sa forme de nothic, elle expose aussi son œil, comme le décrit son trait *Œil béant*.
 
 <a id="en-a2h-escape-from-death-house" data-traduction="ancre"></a>
@@ -702,6 +762,8 @@ Lorsqu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.
 <div class="description">
 <p>Le corps s’affaisse et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit s’engouffre dans la maison.</p>
 </div>
+
+![[Arc_A-Escape_From_Death_House_b8982705.webp]]
 
 Lorsque les joueurs arrivent à la porte d’entrée, lisez :
 
@@ -728,6 +790,8 @@ En examinant les alentours, les joueurs aperçoivent rapidement le sommet d’un
 Les joueurs peuvent facilement conclure que la ruine semble offrir un endroit sûr pour passer la nuit. <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> proposent de monter la garde pendant leur repos, surveillant les bois et les réveillant si une menace apparaît.
 
 La nuit se passe sans incident. Les joueurs enterrent les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> quand ils le souhaitent. S’ils le font au pied du grand cerisier, comme les enfants l’ont demandé, <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> serre sa sœur contre lui et <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> murmure : « Merci. Ne restez pas dans les bois quand il fait nuit. » Les deux enfants pâlissent comme la brume au soleil, puis disparaissent. S’ils les enterrent ailleurs, les enfants ne se manifestent pas. Si les joueurs n’ont pas les os, les enfants restent à la lisière de la clairière et ne les suivent pas sur la route.
+
+![[Arc_A-Escape_From_Death_House_f330974c.webp]]
 
 Au matin, les joueurs regagnent la vieille route de Svalich, à quelques minutes de marche de la tour. [L’arc B : Bienvenue en Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md) commence alors.
 
