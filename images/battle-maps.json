@@ -1,4 +1,33 @@
 {
+  "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp": {
+    "grille": {"cols": 25, "rows": 14, "x": 18.9, "y": 21.5, "l": 1613.4, "h": 887.0},
+    "lumiere": "penombre",
+    "joueurs": [
+      [23, 10],
+      [25, 10],
+      [25, 11],
+      [25, 12]
+    ],
+    "portes": [
+      {"id": "p0", "type": "porte", "x": 188, "y": 248, "w": 40, "h": 52, "cote": "a"},
+      {"id": "p1", "type": "porte", "x": 504, "y": 320, "w": 52, "h": 44},
+      {"id": "p2", "type": "porte", "x": 444, "y": 380, "w": 44, "h": 48},
+      {"id": "p3", "type": "porte", "x": 964, "y": 500, "w": 44, "h": 52},
+      {"id": "p4", "type": "porte", "x": 576, "y": 504, "w": 40, "h": 48},
+      {"id": "p5", "type": "porte", "x": 576, "y": 628, "w": 40, "h": 52},
+      {"id": "p6", "type": "porte", "x": 1352, "y": 668, "w": 44, "h": 104},
+      {"id": "p7", "type": "porte", "x": 964, "y": 668, "w": 44, "h": 104},
+      {"id": "p1795172470622", "type": "porte", "x": 580, "y": 108, "w": 24, "h": 28}
+    ],
+    "portesStyle": {"mode": "originaux", "sol": "#c9bbb0", "porte": "#404d55"},
+    "grilleStyle": {"visible": true, "nettete": 50, "couleur": "#3c3022", "epaisseur": 2.5},
+    "murs": {"format": "deflate", "empreinte": "7526616b", "e": {"auto": true, "tolerance": 20, "taille": 16, "boites": [], "exclus": []}, "detecte": "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", "ajouts": "7dixDcJQEETBk35A6BJoBInS7NJciksgJECcJXdwBzIEM/nT5hsBAAAAAAB8x8jMRyfKpVrdM/PVmlr/fOrZmqpGcSsXAAAAAPCRa/1mO96vrV7NjccsLo138+Spdz0ajZ8yYirflPA7Ow==", "retraits": "7ZlNchwhDIVFsWDjCjlBuIJPEG4W5mbJPbLJEbz0whUlU5XUCJof8WxPzSR6u3aZ+ZAangRNZDKZTKb7UfiBjPpiqNehTKZrKPH3b9uDAjOftkcx8/P2oMTM2xN0zPxyPdR+VPF3ArcHEZR1j8yPMoh62kcl/rk/iPjr/vzeQgFIJjlGakAGlggF5G1TAd72dVH72/mMAtLuoeWYkZXvEBOghETloKio/H1X6SMw2u/b6TmVyEw9kn9sh4EoLCrINwx1N6iIWCgpLfShegq6Zevrf/usm5F09aT1aunqTu0VLBKtRmXhf2pUgFCMRBVl66lFOdlFqlFJdmk7qNPlQY+6rO/3jSpCvWfGyuKOuLOD0mpQ6QTjV1aRe+1EXuQv9PLmV6+qexJZoWLvJHJLqNI7/5V1Ao+/G1aoiKAoI1FRN4GrCtIrZw5pfOgDMuigMGrVQrt+ZWLLYMa+TX8UWRyiSusWGtTBmDQod7gf0KByu+o1KH+49VCi6nX3T6ASkkCC7nIoImcjk8l0M3JjZx8rTIxpqJkHDlW4KeIaVOSmymlQ53q1j0pIVP7QEGpQeVaFZ6j6L8qodEXEizjcNCpZr7L4cXVvIVHnZTGe/QhFs28jQ9RUQ9RMhjKUoYg+yYdHJarIp1Dt5yHK1cZU14YRytXOniqXmhmTmFNz9TPxQBlVVF3otHar+5KVarttC/kQVZWarGoSGpTuA2J7aoyqc0l7V6JbnU0CnWojtN+itQ1THcfymuQPq0rZ8kamq+U1SU/YNYnJZDL9R/oF"},
+    "lumieres": [
+      {"id": "l1795172141291", "x": 1241, "y": 126, "vive": 4.0, "faible": 1.0, "teinte": "chaude"},
+      {"id": "l1795172240872", "x": 796, "y": 805, "vive": 4.0, "faible": 1.0, "teinte": "chaude"},
+      {"id": "l1795172249706", "x": 278, "y": 804, "vive": 4.0, "faible": 1.0, "teinte": "chaude"}
+    ]
+  },
   "images/Act I - Into the Mists/Prologue - Le Feu et les Brumes/Prologue-Le_Feu_et_les_Brumes_57504a1f_BattleMap_16x12.jpg": {
     "grille": {"cols": 16, "rows": 12, "x": 0.0, "y": 0.0, "l": 1448.0, "h": 1086.0},
     "lumiere": "penombre",

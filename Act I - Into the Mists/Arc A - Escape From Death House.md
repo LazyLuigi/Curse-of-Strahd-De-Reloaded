@@ -76,6 +76,8 @@ L’entrée au-delà du portique correspond pour le reste à la description de <
 
 Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques baroviennes qu’ils portent cessent de manifester leurs pouvoirs. (Par exemple, le *médaillon du soleil levant* cesse de briller.)
 
+![[Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp]]
+
 Le grand hall correspond dans l’ensemble à la description de <span class="citation">Grand hall (p. 212)</span>, mais contient désormais une horloge de parquet, placée dans l’espace circulaire au pied de l’escalier.
 
 À la place d’une épée longue, le portrait de la famille Durst décrit dans <span class="citation">Palier supérieur (p. 213)</span> est maintenant accroché au-dessus de la cheminée. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
