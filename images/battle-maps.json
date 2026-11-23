@@ -66,7 +66,7 @@
     "nom": "02-Second-Etage",
     "grille": {"cols": 22, "rows": 12, "x": 94.6, "y": 87.1, "l": 1428.7, "h": 746.9},
     "lumiere": "penombre",
-    "penombre": 0.8,
+    "penombre": 0.85,
     "joueurs": [
       [8, 2],
       [9, 1],
