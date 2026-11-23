@@ -25,9 +25,9 @@ Après quelques minutes de marche, lisez :
 
 <div class="description">
 <p>La lune décroissante baigne les bois d’une lumière laiteuse et triste. Un vieux chemin de terre, creusé d’ornières que personne n’a suivies depuis longtemps, file entre les troncs nus et noirs. La brume s’accroche aux branches basses et étouffe vos pas. L’air sent la feuille pourrie et la terre froide.</p>
-<p>Au bout du chemin, un grand manoir domine les arbres. Quelques fenêtres sont éclairées : dans ces bois sans autre lumière, il brille comme un phare.</p>
+<p>Au bout du chemin, un grand manoir domine les arbres. Seules quelques fenêtres sont légèrement éclairées.</p>
 <p>Un hurlement s’élève sur votre gauche. Un autre lui répond derrière vous, puis un troisième, tout proche. Entre les arbres, des silhouettes grises glissent sans bruit et vous dépassent de chaque côté.</p>
-<p>Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le cercle se resserre, mais du côté du manoir une lumière semble s’être allumée.</p>
+<p>Elles se rapprochent. Des yeux jaunes luisent dans la brume, en cercle autour de vous. Le cercle se resserre, mais du côté du manoir une lumière s’est allumée, et dans ces bois sans autre lumière, il semble briller comme un phare.</p>
 </div>
 
 Les **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup">loups</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-wolf-monstre"><sup>fiche</sup></a>** encerclent le groupe à 9 m. Tant que les joueurs avancent vers le manoir, la meute les escorte sans attaquer. Si un joueur s’écarte du chemin, s’arrête plus d’un instant ou attaque un loup, la meute attaque : lancez l’initiative. À la fin de chaque round, un loup supplémentaire sort de la brume. La meute ne peut pas être vaincue : chaque fois qu’un loup meurt, un **<a href="https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire">loup sanguinaire</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-dire-wolf-monstre"><sup>fiche</sup></a>** sort de la brume à sa place. Les loups rompent le combat dès que tous les joueurs ont repris le chemin du manoir, et aucun ne franchit la grille du portique.
@@ -60,9 +60,9 @@ Lisez le texte suivant à tous les joueurs :
 
 <div class=description>
 <p>Un vaste manoir se dresse devant vous : quatre niveaux de pierre froide noircie de suie, de hautes fenêtres étroites et des toits fortement pentus composent un tableau d’une grandeur austère et glaçante. À mi-hauteur, un étroit balcon fait saillie au troisième niveau, offrant un sinistre perchoir d’où contempler les alentours.</p>
-<p>La pièce maîtresse de cette imposante façade est son portique, une arche de pierre montant la garde devant les portes en chêne. Une grille de fer forgé en ferme le passage ; ses gonds rouillés grincent tandis qu’elle oscille au vent.</p>
+<p>La pièce maîtresse de cette imposante façade est son portique, une arche de pierre montant la garde devant la demeure. Une grille de fer forgé en ferme le passage ; ses gonds rouillés grincent tandis qu’elle oscille au vent.</p>
 <p>De chaque côté de la grille, des lampes à huile pendent à des chaînes. Leur lueur faible et vacillante jette un éclat maladif qui perce à peine le brouillard environnant.</p>
-<p>Au-delà, de solides portes en chêne restent closes, encadrées par la grille et les lampes. Vieillies et usées par les intempéries, le bois assombri par le temps, elles se dressent pourtant, robustes et fières : une entrée peu accueillante vers la demeure.</p>
+<p>Au-delà, les solides portes en chêne de la demeure, vieillies et usées par les intempéries et par le temps, se dressent robustes et fières.</p>
 <p>Derrière vous, les loups se sont arrêtés à la lisière de la clairière. Ils s’assoient dans l’herbe et vous regardent. Une rafale de vent glacé balaie les lieux et fait grincer la grille sur ses gonds d’une plainte funeste.</p>
 </div>
 
@@ -70,23 +70,30 @@ Aucun loup ne franchit la grille.
 
 L’entrée au-delà du portique correspond pour le reste à la description de <span class="citation">Entrée (p. 212)</span>.
 
+<a id="en-a2b-the-first-floor" data-traduction="ancre"></a>
+## A2b. Le premier niveau
+
+![[Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp]]
+
+### Palier supérieur
+
+Le portrait de la famille Durst est pendu dans <span class="citation">Palier supérieur (p. 213)</span>. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+
+![[The Durst Family.webp]]
+
 <a id="en-main-hall" data-traduction="ancre"></a>
 ### Grand hall
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 2.</em></span>
 
 Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques baroviennes qu’ils portent cessent de manifester leurs pouvoirs. (Par exemple, le *médaillon du soleil levant* cesse de briller.)
 
-![[Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp]]
-
 Le grand hall correspond dans l’ensemble à la description de <span class="citation">Grand hall (p. 212)</span>, mais contient désormais une horloge de parquet, placée dans l’espace circulaire au pied de l’escalier.
 
 ![[Arc_A-Escape_From_Death_House_ca9d5024.webp]]
 
-À la place d’une épée longue, le portrait de la famille Durst décrit dans <span class="citation">Palier supérieur (p. 213)</span> est maintenant accroché au-dessus de la cheminée. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+À la place d’une épée longue, un satyre jouant de la flûte est gravé au-dessus de la cheminée.
 
-![[The Durst Family.webp]]
-
-Peu après que tous les personnages sont entrés dans le grand hall, la porte d’entrée claque, éteignant toutes les lumières de la maison. Les bruits du dehors disparaissent entièrement, laissant la demeure dans un silence inquiétant.
+Dès que tous les personnages sont entrés dans le grand hall, la porte d’entrée claque, éteignant toutes les lumières de la maison. Les bruits du dehors disparaissent entièrement, laissant la demeure dans un silence inquiétant.
 
 Des lettres de sang commencent alors à apparaître sur le mur sud, juste au-dessus de l’escalier de marbre. Elles forment le message suivant :
 
@@ -138,8 +145,6 @@ L’horloge de parquet sonne alors dix heures.
 > - Un joueur entend dans son oreille droite une voix féminine suppliante jurant que « ce n’est pas le sien ». Dans son oreille gauche, une autre voix féminine, plus froide, ricane : « Évidemment que tu dis ça, petite *catin*. »
 
 Un joueur qui ouvre une porte ou un rideau donnant sur l’extérieur, ou qui sort sur un balcon, découvre qu’une brume blanche, épaisse et froide, enveloppe la maison. Quiconque s’y engage se retrouve aussitôt sur le seuil qu’il vient de quitter, sans comprendre comment. Par instants, des yeux jaunes luisent dans cette brume, et la meute hurle tout près.
-<a id="en-a2b-the-first-floor" data-traduction="ancre"></a>
-## A2b. Le premier niveau
 <a id="en-cloakroom" data-traduction="ancre"></a>
 ### Vestiaire
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 2.</em></span>
@@ -250,7 +255,7 @@ Si les joueurs lisent le billet, un couteau de la cuisine s’envole de son éta
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Palier supérieur (p. 213)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
-<p>Des lampes à huile éteintes sont fixées aux murs de cet élégant palier. Au-dessus du manteau de la cheminée est suspendue une épée longue dont la poignée est ornée d’un camée représentant un moulin à vent.</p>
+<p>Des lampes à huile éteintes sont fixées aux murs de cet élégant palier. Une épée longue, dont la poignée est ornée d’un camée représentant un moulin à vent, est posée à côté de la cheminée.</p>
 <p>Des armures sur pied encadrent les portes en bois des murs est et ouest. Chacune tient une lance et porte un casque à visière en forme de tête de loup. Les portes entre elles sont sculptées de jeunes gens qui dansent.</p>
 <p>L’escalier de marbre rouge poursuit sa spirale jusqu’au troisième niveau ; un courant d’air froid murmure depuis les hauteurs.</p>
 </div>
@@ -392,6 +397,8 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 
 Lorsqu’elle s’anime, **l’<a href="https://www.aidedd.org/dnd/monstres.php?vf=armure-animee">armure animée</a> <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-dnd-animated-armor-monstre"><sup>fiche</sup></a>** utilise une ou deux des attaques de ses **_Attaques multiples_** pour tenter de faire passer un joueur par-dessus la balustrade en le ***bousculant***, ou cherche à agripper la cible la plus proche avant de la bousculer pour la jeter à terre.
 
+![[Arc_A-Escape_From_Death_House_322c2e90.webp]]
+
 Si l’armure est précipitée au premier niveau et que les joueurs ne révèlent pas leur présence sur le balcon, elle ne peut pas les percevoir avec sa vision aveugle de 18 m et n’est pas assez intelligente pour penser à remonter.
 
 Une créature poussée par-dessus le bord du balcon tombe de deux niveaux, soit 6 m, et subit 2d6 dégâts contondants. Elle doit réussir un test de Dextérité (Acrobaties) DD 15 sous peine d’atterrir à terre.
@@ -441,7 +448,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 <div class="description">
 <p>Vous entrez dans une chambre de maître poussiéreuse, envahie de toiles d’araignée, dont les fenêtres sont couvertes de rideaux bordeaux. Un lit à baldaquin aux tentures brodées et aux voilages vaporeux déchirés se dresse contre le mur central.</p>
 <p>Un miroir en pied terni est fixé à une porte, face au lit. Dans le coin droit se trouve une petite porte de bois à demi pourrie par les ans. Un bouton métallique terni est encastré dans le mur à côté.</p>
-<p>Une peau de tigre en décomposition couvre le sol devant la cheminée. Au-dessus est accroché un portrait poussiéreux de l’homme et de la femme du tableau du premier niveau. Un petit salon envahi de toiles d’araignée, dans le coin sud-ouest, contient deux fauteuils et une table chargée de divers objets, ainsi qu’une porte à la vitre sombre piquetée de saleté.</p>
+<p>Une peau de tigre en décomposition couvre le sol devant la cheminée. Au-dessus est accroché un portrait poussiéreux de l’homme et de la femme du tableau du deuxième niveau. Un petit salon envahi de toiles d’araignée, dans le coin sud-ouest, contient deux fauteuils et une table chargée de divers objets, ainsi qu’une porte à la vitre sombre piquetée de saleté.</p>
 <p>La pièce contient également deux armoires assorties, un fauteuil rembourré et une coiffeuse avec un miroir encadré de bois et un coffret à bijoux en argent. Une douce lueur ambrée filtre sous son couvercle.</p>
 </div>
 
@@ -468,6 +475,9 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 </div>
 
 Lorsqu’un joueur approche pour la première fois à 1,50 m ou moins du **<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-broom-of-animated-attack">balai animé d’attaque</a>**, celui-ci attaque par surprise dès qu’il détourne les yeux ou se retourne, lui assénant un coup sur la tête. Il reprend immédiatement sa position initiale, désormais débarrassé de ses toiles d’araignée. Aux tours suivants, il utilise ses **_Attaques multiples_** pour continuer de frapper tout joueur qui ne le regarde pas et reste à 1,50 m ou moins, renonçant aux attaques d’opportunité contre ceux qui s’éloignent.
+
+![[Arc_A-Escape_From_Death_House_7563c51d.webp]]
+
 <a id="en-nursemaids-suite" data-traduction="ancre"></a>
 ### Suite de la nourrice
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 15.</em></span>
@@ -544,7 +554,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 <p>Cette pièce froide et saturée de poussière contient un lit étroit, une table de chevet, un petit poêle en fer, un bureau et son tabouret, une armoire vide et un fauteuil à bascule. Une poupée à l’air renfrogné, vêtue d’une robe de dentelle jaune, est assise dans l’embrasure de la fenêtre nord, près d’une vieille boîte à musique ternie ; les toiles d’araignée la drapent comme un voile de mariée.</p>
 </div>
 
-Les joueurs peuvent reconnaître la poupée que <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> tenait sur le portrait de famille du grand hall.
+Les joueurs peuvent reconnaître la poupée que <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> tenait sur le portrait de famille du palier supérieur.
 
 La boîte à musique contient un couteau à dépecer rouillé et ensanglanté ainsi que la clé du cadenas de la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>.
 
@@ -618,7 +628,7 @@ La maison de poupée contient de petites figurines représentant, en miniatures 
 
 Avant que les joueurs ne quittent la chambre, <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demande timidement si <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et lui peuvent accompagner les joueurs pour les aider.
 
-**_Jalon_**. Rencontrer les fantômes de Rose et de Thorn constitue un jalon de l’histoire. Lorsque les joueurs quittent la chambre des enfants, accordez 200 PX à chaque joueur.
+**_Jalon_**. Rencontrer les fantômes de Rose et de Thorn constitue un jalon de l’histoire. Lorsque les joueurs quittent la chambre des enfants, **accordez 200 PX à chaque joueur**.
 <a id="en-storage-room-2" data-traduction="ancre"></a>
 ### Débarras
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 18.</em></span>
@@ -794,7 +804,7 @@ La nuit se passe sans incident. Les joueurs enterrent les os de <a href="../Appe
 
 Au matin, les joueurs regagnent la vieille route de Svalich, à quelques minutes de marche de la tour. [L’arc B : Bienvenue en Barovie](Arc%20B%20-%20Welcome%20to%20Barovia.md) commence alors.
 
-**_Jalon_**. S’échapper de la Maison de la Mort constitue un jalon de l’histoire. Lorsque le groupe commence son premier repos long après sa fuite, accordez 400 PX à chaque joueur. (Cela devrait lui permettre d’atteindre le niveau 3.)
+**_Jalon_**. S’échapper de la Maison de la Mort constitue un jalon de l’histoire. Lorsque le groupe commence son premier repos long après sa fuite, accordez **400 PX à chaque joueur**. (Cela devrait lui permettre d’atteindre le niveau 3.)
 <a id="en-design-notes-death-house" data-traduction="ancre"></a>
 # Notes de conception : la Maison de la Mort
 ***L’arrivée.*** Les illusions de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> ont été délibérément retirées de cette version afin que les joueurs entrent dans la maison pour y chercher refuge et fassent confiance aux véritables enfants Durst lorsqu’ils les rencontrent.
