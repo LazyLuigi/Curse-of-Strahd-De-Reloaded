@@ -354,10 +354,14 @@ La porte ne peut s’ouvrir que si l’<a href="../Appendices/Index%20des%20pers
 Cette pièce correspond dans l’ensemble à la description de <span class="citation">Pièce secrète (p. 214)</span>. Lorsque les joueurs y entrent, lisez :
 
 <div class="description">
-<p>Cette petite pièce dissimulée est encombrée d’étagères ployant sous de vieux grimoires reliés de cuir à l’aspect sinistre. Plusieurs symboles occultes sont gravés à même le bois et le sol. Un lourd coffre de bois aux pieds de fer griffus est adossé au mur sud, son couvercle à demi fermé. Les restes d’un squelette richement vêtu en dépassent. Une abominable expérience semble avoir été pratiquée sur celui-ci.</p>
+<p>Cette petite pièce dissimulée est encombrée d’étagères ployant sous de vieux grimoires reliés de cuir à l’aspect sinistre. Plusieurs symboles sont gravés à même le bois et le sol. Une table de travail sur laquelle sont disposés des schémas anatomiques, des rouleaux et des instruments de chirurgie semble avoir été utilisée il y a peu. Un lourd coffre de bois aux pieds de fer griffus est adossé au mur sud, son couvercle ouvert. Les restes d’un squelette richement vêtu en dépassent. Une abominable expérience semble avoir été pratiquée sur celui-ci.</p>
 </div>
 
 ![[Arc_A-Escape_From_Death_House_9deb5353.webp]]
+
+***La table.*** Parmi les papiers les joueurs peuvent trouver la lettre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a>, reproduite ci-dessous. Elle a été écrasée en boule, puis dépliée et lissée à plat. Le papier est usé à force d’avoir été relu, et des traces de larmes séchées marquent encore l’encre. (<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> l’a froissée de rage, puis l’a relue jusqu’à en pleurer.)
+
+Une clé est posée à côté de celle-ci. Il s’agit de la clé du cadenas de la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>.
 
 Le coffre ne contient plus le titre de propriété du Vieux Broyeur d’os. Modifiez également la lettre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> comme suit :
 
@@ -556,7 +560,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 
 Les joueurs peuvent reconnaître la poupée que <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> tenait sur le portrait de famille du palier supérieur.
 
-La boîte à musique contient un couteau à dépecer rouillé et ensanglanté ainsi que la clé du cadenas de la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>.
+La boîte à musique contient un couteau à dépecer rouillé et ensanglanté.
 
 Elle contient aussi un parchemin roulé qui porte, sous le mot RECRUTEMENT, une douzaine de noms baroviens. (Ce sont les fidèles que réunissait Elisabeth sous son toit ; voir la lettre de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-strahd-von-zarovich">Strahd</a> dans la [pièce secrète](#en-secret-room).)
 
