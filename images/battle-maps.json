@@ -3,7 +3,7 @@
     "nom": "01-Premier-Etage",
     "grille": {"cols": 22, "rows": 12, "x": 81.8, "y": 79.4, "l": 1436.5, "h": 767.5},
     "lumiere": "penombre",
-    "penombre": 0.7,
+    "penombre": 0.85,
     "joueurs": [
       [9, 2],
       [10, 0],
@@ -25,8 +25,12 @@
     "notes": [
       {"id": "n1795216189141", "x": 801, "y": 746, "texte": "Palier supérieur"},
       {"id": "n1795216208019", "x": 421, "y": 205, "texte": "Chambre des domestiques"},
-      {"id": "n1795216217656", "x": 1342, "y": 345, "texte": "Salon de musique"},
-      {"id": "n1795216228556", "x": 393, "y": 563, "texte": "Bibliothèque"}
+      {"id": "n1795216217656", "x": 1271, "y": 329, "texte": "Salon de musique"},
+      {"id": "n1795216228556", "x": 393, "y": 563, "texte": "Bibliothèque"},
+      {"id": "n1795508782184", "x": 122, "y": 79, "texte": "Lettre et clés"},
+      {"id": "n1795508803967", "x": 49, "y": 354, "texte": "Eclat + valse"},
+      {"id": "n1795508864467", "x": 1370, "y": 621, "texte": "Valse + ouverture"},
+      {"id": "n1795508894734", "x": 603, "y": 68, "texte": "Linge"}
     ],
     "lumieres": [
       {"id": "l1795213604267", "x": 285, "y": 803, "vive": 2.0, "faible": 1.0, "teinte": "chaude"}
@@ -35,8 +39,8 @@
   "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_354e8a71_BattleMap_24x12.jpg": {
     "nom": "03-Grenier",
     "grille": {"cols": 24, "rows": 12, "x": 106.5, "y": 79.1, "l": 1444.7, "h": 748.9},
-    "lumiere": "penombre",
-    "penombre": 0.95,
+    "lumiere": "noir",
+    "penombre": 1.0,
     "joueurs": [
       [15, 0],
       [16, 0],
@@ -59,14 +63,17 @@
       {"id": "n1795217334637", "x": 277, "y": 355, "texte": "Chambre des enfants"},
       {"id": "n1795217356987", "x": 801, "y": 616, "texte": "Débarras"},
       {"id": "n1795217390019", "x": 866, "y": 251, "texte": "Couloir du grenier"},
-      {"id": "n1795217453369", "x": 316, "y": 712, "texte": "Chambre d’amis"}
+      {"id": "n1795217453369", "x": 316, "y": 712, "texte": "Chambre d’amis"},
+      {"id": "n1795514995968", "x": 496, "y": 338, "texte": "Locked"},
+      {"id": "n1795515014700", "x": 922, "y": 794, "texte": "Cadavre"},
+      {"id": "n1795515020574", "x": 1043, "y": 570, "texte": "Mirroir"}
     ]
   },
   "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_4ec07af7_BattleMap_22x12.webp": {
     "nom": "02-Second-Etage",
     "grille": {"cols": 22, "rows": 12, "x": 94.6, "y": 87.1, "l": 1428.7, "h": 746.9},
     "lumiere": "penombre",
-    "penombre": 0.85,
+    "penombre": 0.9,
     "joueurs": [
       [8, 2],
       [9, 1],
@@ -100,14 +107,16 @@
       {"id": "n1795216380696", "x": 748, "y": 717, "texte": "Salle de bains"},
       {"id": "n1795216390296", "x": 943, "y": 802, "texte": "Débarras"},
       {"id": "n1795216399096", "x": 1337, "y": 202, "texte": "Suite de la nourrice"},
-      {"id": "n1795216414404", "x": 1144, "y": 677, "texte": "Chambre du bébé"}
+      {"id": "n1795216414404", "x": 1144, "y": 677, "texte": "Chambre du bébé"},
+      {"id": "n1795508979134", "x": 405, "y": 787, "texte": "Eclat d'ambre"},
+      {"id": "n1795515045850", "x": 1486, "y": 100, "texte": "Mirroir"}
     ]
   },
   "images/Act I - Into the Mists/Arc A - Escape From Death House/Arc_A-Escape_From_Death_House_rdc_BattleMap_25x14.webp": {
     "nom": "00-RDC",
     "grille": {"cols": 25, "rows": 14, "x": 8.8, "y": 26.1, "l": 1634.9, "h": 877.4},
     "lumiere": "penombre",
-    "penombre": 0.6,
+    "penombre": 0.8,
     "joueurs": [
       [22, 10],
       [23, 10],
@@ -140,7 +149,8 @@
       {"id": "n1795216030484", "x": 535, "y": 534, "texte": "Vestiaire"},
       {"id": "n1795216040018", "x": 1250, "y": 370, "texte": "Repaire des loups"},
       {"id": "n1795216059684", "x": 202, "y": 409, "texte": "Salle à manger"},
-      {"id": "n1795216069833", "x": 389, "y": 120, "texte": "Cuisine et garde-manger"}
+      {"id": "n1795216069833", "x": 389, "y": 120, "texte": "Cuisine et garde-manger"},
+      {"id": "n1795508677934", "x": 114, "y": 124, "texte": "Abortif ->"}
     ],
     "lumieres": [
       {"id": "l1795172141291", "x": 1241, "y": 129, "vive": 4.0, "faible": 1.0, "teinte": "chaude"},
