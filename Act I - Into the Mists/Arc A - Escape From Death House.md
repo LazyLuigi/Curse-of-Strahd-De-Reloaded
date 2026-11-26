@@ -70,6 +70,8 @@ Aucun loup ne franchit la grille.
 
 L’entrée au-delà du portique correspond pour le reste à la description de <span class="citation">Entrée (p. 212)</span>.
 
+Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques baroviennes qu’ils portent cessent de manifester leurs pouvoirs. (Par exemple, le *médaillon du soleil levant* cesse de briller.)
+
 <a id="en-a2b-the-first-floor" data-traduction="ancre"></a>
 ## A2b. Le premier niveau
 
@@ -77,15 +79,13 @@ L’entrée au-delà du portique correspond pour le reste à la description de <
 
 ### Palier supérieur
 
-Le portrait de la famille Durst est pendu dans <span class="citation">Palier supérieur (p. 213)</span>. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée souriante vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+Le portrait de la famille Durst est pendu dans le <span class="citation">Palier supérieur (p. 213)</span>. <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> y tient une poupée lugubre vêtue d’une robe de dentelle jaune. Une plaque sous le portrait porte l’inscription : *M. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et Mme <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>, avec leurs deux enfants, <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rosavalda</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thornboldt</a>.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.webp]]
 
 <a id="en-main-hall" data-traduction="ancre"></a>
 ### Grand hall
 <span class="citation"><em>Cette scène se déroule dans l’annexe B : zone 2.</em></span>
-
-Lorsque les joueurs franchissent le seuil de la Maison de la Mort, les reliques baroviennes qu’ils portent cessent de manifester leurs pouvoirs. (Par exemple, le *médaillon du soleil levant* cesse de briller.)
 
 Le grand hall correspond dans l’ensemble à la description de <span class="citation">Grand hall (p. 212)</span>, mais contient désormais une horloge de parquet, placée dans l’espace circulaire au pied de l’escalier.
 
@@ -185,12 +185,12 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 Si les joueurs poursuivent, lisez :
 
 <div class="description">
-<p>La porte s’entrouvre, révélant un loup gris figé sur place. Il vous faut un instant pour comprendre qu’il ne bouge pas, puis un autre pour voir qu’il n’est pas seul.</p>
+<p>La porte ouverte révèle un loup gris figé sur place. Il vous faut un instant pour comprendre qu’il ne bouge pas, puis un autre pour voir qu’il n’est pas seul.</p>
 <p>Cette pièce lambrissée de chêne ressemble à un repaire de chasseur. Une tête de cerf est accrochée au-dessus de la cheminée, et deux autres loups empaillés sont disposés sur le pourtour de la pièce : un grand loup gris et un loup brun plus petit.</p>
 <p>Deux fauteuils rembourrés, drapés de fourrures animales, font face à l’âtre. Entre eux, une table en chêne porte divers objets. Un lustre est suspendu au-dessus d’une table couverte d’une nappe et entourée de quatre chaises ; deux armoires sont adossées aux murs. Deux petits jouets semblent avoir été oubliés sous l’une des chaises.</p>
 </div>
 
-Les jouets abandonnés sont de petits loups gris en peluche, dont le tissu élimé témoigne de nombreux raccommodages et rapiéçages. Des lettres maladroitement brodées sur leur ventre indiquent respectivement <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">ROSE</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">THORN</a>.
+Les jouets abandonnés sont anciens et témoignent de nombreux raccommodages et rapiéçages. Des lettres maladroitement brodées sur leur ventre indiquent respectivement <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">ROSE</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">THORN</a>.
 
 Outre son contenu habituel, l’armoire de l’est renferme cinq carreaux d’arbalète argentés mêlés aux soixante autres carreaux. L’armoire nord contient également une broderie enfantine encadrée, représentant un garçon et une fille tenant les mains d’une jeune femme, accompagnés des mots maladroitement cousus POUR MADEMOISELLE <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">KLARA</a>. Le visage de la jeune femme a été lacéré et découpé.
 
@@ -229,9 +229,9 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 
 Si les joueurs examinent les ustensiles de cuisine, ils constatent que le plus grand couteau manque.
 
-Un joueur qui entre dans le garde-manger découvre sur une étagère un service de belles assiettes décoratives peintes de moulins à vent. L’une d’elles semble être tombée et gît en morceaux sur le sol, laissant un vide dans la rangée.
+Contre un mur se dresse une étagère portant un service de belles assiettes décoratives peintes de moulins à vent. L’une d’elles semble être tombée et gît en morceaux sur le sol, laissant un vide dans la rangée.
 
-Quelques centimètres derrière cet emplacement vide se trouve une vieille marmite en cuivre au couvercle légèrement entrouvert. Sous ce dernier dépasse le bouchon de ce qui semble être une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin.
+Un joueur qui entre dans le garde-manger découvre une vieille marmite en cuivre au couvercle légèrement entrouvert. Sous ce dernier dépasse le bouchon de ce qui semble être une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin.
 
 Un joueur qui ouvre la marmite y découvre une <a href="https://www.aidedd.org/regles/equipement/materiel/">bouteille</a> de vin, un morceau de dentelle fine plié, une <a href="https://www.aidedd.org/regles/equipement/materiel/">fiole</a> contenant une poudre brunâtre séchée et un bouquet de tournesols fanés attaché à un petit rouleau de parchemin.
 
@@ -433,7 +433,9 @@ Une créature poussée par-dessus le bord du balcon tombe de deux niveaux, soit 
 
 Lorsqu’un joueur approche de cette porte pour la première fois, lisez :
 
-![[Arc_A-Escape_From_Death_House_d926e94f.webp]]
+![[Arc_A-Escape_From_Death_House_d926e94f_2.webp]]
+
+<p><audio src="../audio/freesound_community-horror-voice-flashbacks-14469.mp3" title="freesound community-horror-voice-flashbacks-14469"></audio></p>
 
 <div class="description">
 <p>Ces grandes portes se dressent devant vous, leurs cadres de bois sombre enserrant deux vitraux poussiéreux. Chaque panneau est gravé de motifs complexes évoquant des moulins à vent ; leurs couleurs autrefois vives sont maintenant ternies et cachées sous un épais voile de crasse.</p>
@@ -452,7 +454,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 <div class="description">
 <p>Vous entrez dans une chambre de maître poussiéreuse, envahie de toiles d’araignée, dont les fenêtres sont couvertes de rideaux bordeaux. Un lit à baldaquin aux tentures brodées et aux voilages vaporeux déchirés se dresse contre le mur central.</p>
 <p>Un miroir en pied terni est fixé à une porte, face au lit. Dans le coin droit se trouve une petite porte de bois à demi pourrie par les ans. Un bouton métallique terni est encastré dans le mur à côté.</p>
-<p>Une peau de tigre en décomposition couvre le sol devant la cheminée. Au-dessus est accroché un portrait poussiéreux de l’homme et de la femme du tableau du deuxième niveau. Un petit salon envahi de toiles d’araignée, dans le coin sud-ouest, contient deux fauteuils et une table chargée de divers objets, ainsi qu’une porte à la vitre sombre piquetée de saleté.</p>
+<p>Une peau de tigre en décomposition couvre le sol devant la cheminée. Au-dessus est accroché un portrait poussiéreux de l’homme et de la femme du tableau du rez-de-chaussée. Un petit salon envahi de toiles d’araignée, dans le coin sud-ouest, contient deux fauteuils et une table chargée de divers objets, ainsi qu’une porte à la vitre sombre piquetée de saleté.</p>
 <p>La pièce contient également deux armoires assorties, un fauteuil rembourré et une coiffeuse avec un miroir encadré de bois et un coffret à bijoux en argent. Une douce lueur ambrée filtre sous son couvercle.</p>
 </div>
 
@@ -491,7 +493,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 ![[Arc_A-Escape_From_Death_House_894d9ce3.webp]]
 
 <div class="description">
-<p>La poussière et les toiles d’araignée drapent cette chambre élégamment meublée. Un grand lit est adossé au mur du fond ; ses couvertures autrefois somptueuses sont aujourd’hui ternies et élimées.</p>
+<p>La vermine et les toiles d’araignée drapent cette chambre qui fut jadis élégamment meublée. Un grand lit est adossé au mur du fond ; ses couvertures autrefois somptueuses sont aujourd’hui dans un état avancé de décomposition.</p>
 <p>Près du lit, une serviette moisie recouvre en grande partie un <a href="https://www.aidedd.org/regles/equipement/materiel/">livre</a> poussiéreux et jauni sur l’une des deux tables de chevet. De l’autre côté de la pièce, vous distinguez deux autres portes à vitraux piquetés de saleté et de crasse.</p>
 <p>À gauche se dresse une armoire vide, les portes entrouvertes. Un miroir en pied est fixé à côté, son cadre de bois sculpté de lierre et de baies. À droite se trouve une porte fermée.</p>
 <p>En observant la pièce, vous remarquez que les couvertures du lit se soulèvent légèrement du matelas, comme si quelque chose était allongé en dessous. Sous vos yeux, elles montent et descendent lentement, presque imperceptiblement, avec un bruissement sourd et régulier.</p>
@@ -555,7 +557,7 @@ Cette pièce correspond dans l’ensemble à la description de <span class="cita
 ![[Arc_A-Escape_From_Death_House_da41c15d.webp]]
 
 <div class="description">
-<p>Cette pièce froide et saturée de poussière contient un lit étroit, une table de chevet, un petit poêle en fer, un bureau et son tabouret, une armoire vide et un fauteuil à bascule. Une poupée à l’air renfrogné, vêtue d’une robe de dentelle jaune, est assise dans l’embrasure de la fenêtre nord, près d’une vieille boîte à musique ternie ; les toiles d’araignée la drapent comme un voile de mariée.</p>
+<p>Cette pièce froide et saturée de poussière contient un lit étroit, une table de chevet, un petit poêle en fer, un bureau et son tabouret, une armoire vide et un fauteuil à bascule. Une poupée étrange, vêtue d’une robe de dentelle jaune, est assise dans l’embrasure de la fenêtre nord, près d’une vieille boîte à musique ternie ; les toiles d’araignée la drapent comme un voile de mariée.</p>
 </div>
 
 Les joueurs peuvent reconnaître la poupée que <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> tenait sur le portrait de famille du palier supérieur.
@@ -578,9 +580,11 @@ Lorsque les joueurs y entrent pour la première fois, lisez :
 <p>Près de la porte repose un coffre à jouets décoré de moulins à vent peints sur ses flancs. Quelques jouets oubliés traînent encore sur son couvercle. De l’autre côté de la pièce, une maison de poupée reproduit avec une précision inquiétante l’effroyable demeure dans laquelle vous vous trouvez.</p>
 <p>D’innombrables toiles d’araignée pendent du plafond et enveloppent le mobilier. Rien ne semble avoir été dérangé depuis des décennies.</p>
 <p>Mais c’est au milieu de la pièce que votre regard s’arrête.</p>
-<p>Sur un vieux tapis gisent les squelettes de deux jeunes enfants, encore vêtus de leurs habits en lambeaux. Leurs petits corps sont étroitement enlacés, comme s’ils avaient cherché refuge l’un contre l’autre dans leurs derniers instants.</p>
+<p>Sur un vieux tapis gisent les squelettes de deux jeunes enfants, encore vêtus de leurs habits en lambeaux. Leurs petits corps sont étroitement enlacés, comme s’ils avaient cherché refuge l’un contre l’autre dans leurs derniers instants. Entre eux reposent, enroulés dans un lange, les restes de ce qui fut jadis un très jeune nourrisson.</p>
 <p>Et ces vêtements, malgré les ravages du temps, vous les reconnaissez.</p>
 </div>
+
+Les restes du nourrisson sont ceux de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>, le fils de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-gustav-durst">Gustav</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a>. Son esprit n’apparaît jamais.
 
 ![[Rose and Thorn.webp]]
 
@@ -626,7 +630,7 @@ Tandis que les enfants <a href="https://www.aidedd.org/dnd/monstres.php?vf=fanto
 
 Outre ses sorts mineurs, le journal vieilli et délavé de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> contient des notes sur ses études, ses amis, son petit frère, sa nourrice (« Mademoiselle <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-klara">Klara</a> ») et les disputes entre ses parents. (<a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> ne sait rien du contenu de ces querelles.)
 
-<a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demandent aux joueurs d’emporter leurs os s’ils s’échappent, pour les enterrer dehors, dans la clairière, au pied du grand cerisier.
+<a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> demandent aux joueurs d’emporter leurs os s’ils s’échappent, ainsi que ceux de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>, pour les enterrer dehors, dans la clairière, au pied du grand cerisier.
 
 La maison de poupée contient de petites figurines représentant, en miniatures déformées, tous les personnages et créatures actuellement visibles dans la maison. Elles sont faites de résine peinte. Quiconque regarde à l’intérieur depuis la chambre de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> peut voir les figurines de toutes les créatures vivantes du manoir, placées aux bons endroits. La maison de poupée ne contient que les pièces de la maison elle-même.
 
@@ -657,6 +661,8 @@ Cette pièce correspond à la description de <span class="citation">Chambre inoc
 ## A2f. Les coups de minuit
 Avant minuit, <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> n’a pas de corps : sa volonté imprègne la maison, comme le montrent la silhouette derrière la porte de la [suite des maîtres](#en-master-suite) et les apparitions des miroirs. Lorsque l’horloge sonne minuit, elle prend forme dans sa chambre, et cherchera les joueurs salle par salle. Si les joueurs atteignent la porte d’entrée avec les ossements des enfants, elle apparaît aussitôt au pied de l’escalier, derrière eux.
 
+<p><audio src="../audio/on-ne-quitte-pas.wav" title="on-ne-quitte-pas"></audio></p>
+
 ![[Arc_A-Escape_From_Death_House_2374d05b.webp]]
 
 Si elle trouve les joueurs après minuit, lisez :
@@ -664,7 +670,7 @@ Si elle trouve les joueurs après minuit, lisez :
 <div class="description">
 <p>Dans le couloir, des pas mesurés approchent sans hâte, puis la porte s’ouvre. Une femme se tient sur le seuil, une main posée sur le chambranle. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</p>
 <p>« On ne quitte pas ma maison. »</p>
-<p>La porte claque derrière elle alors que la femme fonce vers vous avec une dextérité inattendue.</p>
+<p>La porte claque derrière elle alors que la femme fonce vers vous avec une dextérité inattendue et une forme qui n’a d’humain que le nom.</p>
 </div>
 
 Si les joueurs atteignent la porte d’entrée avec les ossements des enfants, lisez :
@@ -672,10 +678,14 @@ Si les joueurs atteignent la porte d’entrée avec les ossements des enfants, l
 <div class="description">
 <p>Derrière vous, une marche gémit. Une femme se tient au pied du grand escalier, une main posée sur la rampe. Sa robe sombre est impeccable. Vous reconnaissez le visage du portrait ; de près, sa peau semble trop tendue, comme une étoffe qu’on aurait tirée sur un cadre.</p>
 <p>« On ne quitte pas ma maison. »</p>
-<p>La porte d’entrée claque et se verrouille brutalement alors que la femme fonce vers vous avec une dextérité inattendue.</p>
+<p>La porte d’entrée claque et se verrouille brutalement alors que la femme fonce vers vous avec une dextérité inattendue et une forme qui n’a d’humain que le nom.</p>
 </div>
 
 Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> combat jusqu’à la mort. Sous sa forme de noble, elle donne des ordres brefs (« Tenez-vous droits », « Vous n’avez rien à faire ici ») et cherche à agripper celui qui la menace le plus.
+
+<p><audio src="../audio/vous-n-avez.wav" title="vous-n-avez"></audio></p>
+
+<p><audio src="../audio/tenez-vous.wav" title="tenez-vous"></audio></p>
 
 <a id="de-combat-elisabeth"></a>
 > [!combat]- **Combat : <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a>**
@@ -729,11 +739,13 @@ Lancez l’initiative. <a href="../Appendices/Index%20des%20personnages%20et%20c
 
 Lorsque la première forme tombe à 0 point de vie, lisez :
 
+<p><audio src="../audio/je-vois.wav" title="je-vois"></audio></p>
+
 ![[Arc_A-Escape_From_Death_House_33247cc8_3.webp]]
 
 <div class="description">
 <p><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> ouvre la bouche, mais c’est sa poitrine qui se fend. Une déchirure remonte à travers la robe et la peau, comme si une couture trop tendue venait de céder. Un grand œil humide s’ouvre au milieu de ce qui était son visage.</p>
-<p>Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous accueille : « Je vois vos petits secrets, mes enfants. »</p>
+<p>Ses membres se replient avec des craquements secs. Quand la créature relève la tête, c’est toujours sa voix qui vous parle : « Je vois vos petits secrets, mes enfants. »</p>
 </div>
 
 <div class="statblock">
@@ -773,7 +785,7 @@ Lorsque la première forme tombe à 0 point de vie, lisez :
 Lorsqu’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth</a> meurt, lisez :
 
 <div class="description">
-<p>Le corps s’affaisse et ne bouge plus. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit s’engouffre dans la maison.</p>
+<p>Le corps monstrueux s’affaisse sur le sol dans un gargouillis infâme. Après quelques convulsions, la créature exhale une ultime expiration humide puis se fige. Dans le silence, la porte d’entrée s’ouvre dans un fracas et l’air froid de la nuit s’engouffre dans la maison, révélant le paysage qui était autrefois masqué par l’épaisse brume.</p>
 </div>
 
 ![[Arc_A-Escape_From_Death_House_b8982705.webp]]
@@ -784,25 +796,27 @@ Lorsque les joueurs arrivent à la porte d’entrée, lisez :
 <p>Par la porte ouverte, vous voyez la clairière sous la lune : la brume a reculé jusqu’à la lisière des bois.</p>
 </div>
 
-Les joueurs peuvent dorénavant aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a>, ils peuvent remonter au grenier les chercher. Ils peuvent emporter ces ossements pour les enterrer comme les enfants l’ont demandé (voir [A3](#en-a3-outside-death-house)).
+Les joueurs peuvent dorénavant aller et venir à leur guise. S’ils n’ont pas encore les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a>, de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a>, ils peuvent remonter au grenier les chercher. Ils peuvent emporter ces ossements pour les enterrer comme les enfants l’ont demandé (voir [A3](#en-a3-outside-death-house)).
 
 La maison ne s’effondre qu’une fois que tous les joueurs en sont sortis.
 
 <a id="en-a3-outside-death-house" data-traduction="ancre"></a>
 # A3. À l’extérieur de la Maison de la Mort
-Lorsque les joueurs quittent la Maison de la Mort, la meute est partie, et les brumes qui entouraient la maison ont disparu. La nuit est tombée depuis longtemps, et la lune décroissante est haute dans le ciel. (Dans la maison, le temps ne s’écoule pas comme au-dehors : les joueurs en ressortent toujours dans la nuit du 27 au 28 Octyavr.)
+Lorsque les joueurs quittent la Maison de la Mort, la meute est partie, et les brumes qui entouraient la maison ont disparu. La lune décroissante est haute dans le ciel.
 
 La maison se dresse dans une sombre clairière au commencement de la <span class="citation">vieille route de Svalich (p. 33)</span>. Un grand cerisier aux branches nues se dresse au bord de la clairière. La route part vers l’ouest. À l’est s’étendent des bois obscurs et sans fin, emplis des <span class="citation"><a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-mists-of-ravenloft">brumes de Ravenloft</a> (p. 23)</span>.
 
-La maison s’effondre alors sur elle-même. Il n’en reste qu’un amas de pierres noircies. Si les joueurs l’ont encore, l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> tombe en poussière.
+Comme si le temps reprenait tout à coup ses droits, la maison s’effondre alors sur elle-même. Il n’en reste qu’un amas de pierres noircies. Si les joueurs l’ont encore, l’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-campagne-amber-shard">éclat d’ambre</a> d’<a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-elisabeth-durst">Elisabeth Durst</a> tombe en poussière.
 
 Les enfants reconnaissent les bois de Svalich, qui entouraient leur maison. Ils savent que la route mène au village de Barovie, mais ne l’ont jamais suivie seuls.
 
 En examinant les alentours, les joueurs aperçoivent rapidement le sommet d’une vieille tour de pierre en ruine dépassant des arbres. Son architecture correspond à la description de <span class="citation">Feu follet (p. 33)</span>, mais l’intérieur n’est pas une terre profanée, il n’y a aucun coffre de bois au sol et aucun **<a href="https://www.aidedd.org/dnd/monstres.php?vf=zombi">zombi</a> <a href="../Appendices/Bestiary.md#en-zombie"><sup>fiche</sup></a>** ni **<a href="https://www.aidedd.org/dnd/monstres.php?vf=feu-follet">feu follet</a>** à l’intérieur ou autour de la tour.
 
+![[Arc_A-Escape_From_Death_House_51a42c8f.webp]]
+
 Les joueurs peuvent facilement conclure que la ruine semble offrir un endroit sûr pour passer la nuit. <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> proposent de monter la garde pendant leur repos, surveillant les bois et les réveillant si une menace apparaît.
 
-La nuit se passe sans incident. Les joueurs enterrent les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> et de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> quand ils le souhaitent. S’ils le font au pied du grand cerisier, comme les enfants l’ont demandé, <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> serre sa sœur contre lui et <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> murmure : « Merci. Ne restez pas dans les bois quand il fait nuit. » Les deux enfants pâlissent comme la brume au soleil, puis disparaissent. S’ils les enterrent ailleurs, les enfants ne se manifestent pas. Si les joueurs n’ont pas les os, les enfants restent à la lisière de la clairière et ne les suivent pas sur la route.
+La nuit se passe sans incident. Les joueurs enterrent les os de <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a>, de <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> et de <a href="../Appendices/Index%20des%20personnages%20et%20cr%C3%A9atures.md#ref-nom-walter-durst">Walter</a> quand ils le souhaitent. S’ils le font au pied du grand cerisier, comme les enfants l’ont demandé, <a href="../Appendices/Non-Player%20Characters.md#en-thornboldt-thorn-durst">Thorn</a> serre sa sœur contre lui et <a href="../Appendices/Non-Player%20Characters.md#en-rosavalda-rose-durst">Rose</a> murmure : « Merci. Ne restez pas dans les bois quand il fait nuit. » Les deux enfants pâlissent comme la brume au soleil, puis disparaissent. S’ils les enterrent ailleurs, les enfants ne se manifestent pas. Si les joueurs n’ont pas les os, les enfants restent à la lisière de la clairière et ne les suivent pas sur la route.
 
 ![[Arc_A-Escape_From_Death_House_f330974c.webp]]
 
